@@ -1,3 +1,5 @@
 # DRG-Mods
 
-Mod respository for the DRG Modding discord server.
+Mod repository for the DRG Modding discord server.
+
+# Categories
