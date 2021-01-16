@@ -1,3 +1,3 @@
 # Music Mods
 
-Audio mods that change the soundtrack or jukebox tracks
+Audio changes for the soundtrack or jukebox tracks
