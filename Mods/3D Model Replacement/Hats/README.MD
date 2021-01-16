@@ -1,0 +1,1 @@
+Hat model replacements
