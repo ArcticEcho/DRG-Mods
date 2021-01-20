@@ -1,0 +1,13 @@
+{
+  "CustomWavesLite": {
+    "Name": "CustomWavesLite",
+    "Version": "1.2",
+    "DrgVersion": "U32",
+    "Category": "Gameplay/Customizable tweaks",
+    "Authors": [
+      158916111390343168
+    ],
+    "Description": "adds a separate wave system to the game",
+    "LatestUpdateChangelog": null
+  }
+}
