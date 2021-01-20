@@ -9,5 +9,16 @@
     ],
     "Description": "adds a separate wave system to the game",
     "LatestUpdateChangelog": null
+  },
+  "test_mod": {
+    "Name": "test_mod",
+    "Version": "1.0.0.0.0",
+    "DrgVersion": "U32",
+    "Category": "Gameplay/Misc",
+    "Authors": [
+      158916111390343168
+    ],
+    "Description": "blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah",
+    "LatestUpdateChangelog": null
   }
 }
