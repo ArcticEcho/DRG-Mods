@@ -1,1 +1,12 @@
-{}
+{
+  "DontPetSteeve": {
+    "DisplayName": "Don't Pet Steeve",
+    "Version": "1.1",
+    "DrgVersion": "Update 32, Hotfix 12",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Removes the ability to pet Steeve",
+    "LatestUpdateChangelog": null
+  }
+}
