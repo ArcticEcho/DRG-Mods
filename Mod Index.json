@@ -1,4 +1,14 @@
 {
+  "SnowMelter": {
+    "DisplayName": "Snow Melter",
+    "Version": "1",
+    "DrgVersion": "33",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Makes CRSPR have an insane carve for snow, ice, engie plat, and organic matter. Causes considerable lad and client de-sync, use with caution. Works on both U32 and U33",
+    "LatestUpdateChangelog": null
+  },
   "DontPetSteeve": {
     "DisplayName": "Don't Pet Steeve",
     "Version": "1.1",
@@ -9,14 +19,14 @@
     "Description": "Steeve is unable to be pet and won't get in the way of revives. Works for both U32 and 33",
     "LatestUpdateChangelog": null
   },
-  "NoReviving": {
-    "DisplayName": "No Reviving",
-    "Version": "2",
-    "DrgVersion": "33",
+  "PepegaGunner": {
+    "DisplayName": "PepegaGunner",
+    "Version": "2.0",
+    "DrgVersion": "Update 33 Experimental 1",
     "AuthorIds": [
       350019378189828097
     ],
-    "Description": "Makes it literally impossible to revive, excluding FM and IW. (Works on both U32 & 33)",
+    "Description": "Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.",
     "LatestUpdateChangelog": null
   },
   "QuarterDeathDuration": {
@@ -29,14 +39,14 @@
     "Description": "Sets the death duration for MOST glyphids to 5 seconds, praetorians, exploders, and oppressors have 7 seconds, bulks and dreadnoughts are untouched.",
     "LatestUpdateChangelog": null
   },
-  "PepegaGunner": {
-    "DisplayName": "PepegaGunner",
-    "Version": "2.0",
-    "DrgVersion": "Update 33 Experimental 1",
+  "NoReviving": {
+    "DisplayName": "No Reviving",
+    "Version": "2",
+    "DrgVersion": "33",
     "AuthorIds": [
       350019378189828097
     ],
-    "Description": "Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.",
+    "Description": "Makes it literally impossible to revive, excluding FM and IW. (Works on both U32 & 33)",
     "LatestUpdateChangelog": null
   }
 }
