@@ -8,5 +8,15 @@
     ],
     "Description": "Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.",
     "LatestUpdateChangelog": null
+  },
+  "DontPetSteeve": {
+    "DisplayName": "Don't Pet Steeve",
+    "Version": "1.1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Steeve is unable to be pet and won't get in the way of revives.",
+    "LatestUpdateChangelog": null
   }
 }
