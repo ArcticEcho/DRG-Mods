@@ -1,4 +1,14 @@
 {
+  "DontPetSteeve": {
+    "DisplayName": "Don't Pet Steeve",
+    "Version": "1.1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Steeve is unable to be pet and won't get in the way of revives. Works for both U32 and 33",
+    "LatestUpdateChangelog": null
+  },
   "PepegaGunner": {
     "DisplayName": "PepegaGunner",
     "Version": "2.0",
