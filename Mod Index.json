@@ -1,12 +1,22 @@
 {
-  "PointlessShieldDisruption": {
-    "DisplayName": "Pointless Shield Disruption",
+  "SnowMelter": {
+    "DisplayName": "Snow Melter",
     "Version": "1",
     "DrgVersion": "33",
     "AuthorIds": [
       350019378189828097
     ],
-    "Description": "Shield Disruption will no longer affect gameplay, Red Sugar Occurrence 2x > 1x, Shield 0x > 1x, Damage Reduction 0.7x > 1x, and Hazard Bonus 30% > 0%. Works on both U32 and U33",
+    "Description": "Makes CRSPR have an insane carve for snow, ice, engie plat, and organic matter. Causes considerable lad and client de-sync, use with caution. Works on both U32 and U33",
+    "LatestUpdateChangelog": null
+  },
+  "PepegaGunner": {
+    "DisplayName": "PepegaGunner",
+    "Version": "2.0",
+    "DrgVersion": "Update 33 Experimental 1",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.",
     "LatestUpdateChangelog": null
   },
   "DontPetSteeve": {
@@ -17,6 +27,26 @@
       350019378189828097
     ],
     "Description": "Steeve is unable to be pet and won't get in the way of revives. Works for both U32 and 33",
+    "LatestUpdateChangelog": null
+  },
+  "BeastMasterBuff": {
+    "DisplayName": "Beast Master Buff",
+    "Version": "1",
+    "DrgVersion": "33",
+    "AuthorIds": [
+      252291709927555072
+    ],
+    "Description": "Steeve seems too fragile these days. Tame time .75s > .1s, Cooldown 5 mins > 90s, movement speed 1.15 > 1.3",
+    "LatestUpdateChangelog": null
+  },
+  "PointlessShieldDisruption": {
+    "DisplayName": "Pointless Shield Disruption",
+    "Version": "1",
+    "DrgVersion": "33",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Shield Disruption will no longer affect gameplay, Red Sugar Occurrence 2x > 1x, Shield 0x > 1x, Damage Reduction 0.7x > 1x, and Hazard Bonus 30% > 0%. Works on both U32 and U33",
     "LatestUpdateChangelog": null
   },
   "QuarterDeathDuration": {
@@ -37,26 +67,6 @@
       350019378189828097
     ],
     "Description": "Makes it literally impossible to revive, excluding FM and IW. (Works on both U32 & 33)",
-    "LatestUpdateChangelog": null
-  },
-  "PepegaGunner": {
-    "DisplayName": "PepegaGunner",
-    "Version": "2.0",
-    "DrgVersion": "Update 33 Experimental 1",
-    "AuthorIds": [
-      350019378189828097
-    ],
-    "Description": "Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.",
-    "LatestUpdateChangelog": null
-  },
-  "SnowMelter": {
-    "DisplayName": "Snow Melter",
-    "Version": "1",
-    "DrgVersion": "33",
-    "AuthorIds": [
-      350019378189828097
-    ],
-    "Description": "Makes CRSPR have an insane carve for snow, ice, engie plat, and organic matter. Causes considerable lad and client de-sync, use with caution. Works on both U32 and U33",
     "LatestUpdateChangelog": null
   }
 }
