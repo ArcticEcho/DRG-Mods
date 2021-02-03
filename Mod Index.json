@@ -1,5 +1,5 @@
 {
-  "OPOilExtractor": {
+  "OP Oil Extractor": {
     "DisplayName": "OP Oil Extractor",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -9,7 +9,7 @@
     "Description": "Escort mission extractor now has 10 meter range, 0.25 melt time (down .2 seconds), and 0.15 chunk pickup (down .3 seconds), you can also run with it.",
     "LatestUpdateChangelog": null
   },
-  "SnowMelter": {
+  "Snow Melter": {
     "DisplayName": "Snow Melter",
     "Version": "1",
     "DrgVersion": "33",
@@ -19,7 +19,7 @@
     "Description": "Makes CRSPR have an insane carve for snow, ice, engie plat, and organic matter. Causes considerable lad and client de-sync, use with caution. Works on both U32 and U33",
     "LatestUpdateChangelog": null
   },
-  "PeculiarShades": {
+  "Peculiar Shades": {
     "DisplayName": "Peculiar Shades",
     "Version": "1",
     "DrgVersion": "32",
@@ -29,7 +29,7 @@
     "Description": "Replaces both Industrial Goggles and Mighty Muttonchops with sunglasses",
     "LatestUpdateChangelog": null
   },
-  "BeastMasterBuff": {
+  "Beast Master Buff": {
     "DisplayName": "Beast Master Buff",
     "Version": "1",
     "DrgVersion": "33",
@@ -39,7 +39,7 @@
     "Description": "Steeve seems too fragile these days. Tame time .75s > .1s, Cooldown 5 mins > 90s, movement speed 1.15 > 1.3",
     "LatestUpdateChangelog": null
   },
-  "PointlessShieldDisruption": {
+  "Pointless Shield Disruption": {
     "DisplayName": "Pointless Shield Disruption",
     "Version": "1",
     "DrgVersion": "33",
@@ -49,7 +49,7 @@
     "Description": "Shield Disruption will no longer affect gameplay, Red Sugar Occurrence 2x > 1x, Shield 0x > 1x, Damage Reduction 0.7x > 1x, and Hazard Bonus 30% > 0%. Works on both U32 and U33",
     "LatestUpdateChangelog": null
   },
-  "DontPetSteeve": {
+  "Don't Pet Steeve": {
     "DisplayName": "Don't Pet Steeve",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -59,8 +59,8 @@
     "Description": "Steeve is unable to be pet and won't get in the way of revives. Works for both U32 and 33",
     "LatestUpdateChangelog": null
   },
-  "PepegaGunner": {
-    "DisplayName": "PepegaGunner",
+  "Pepega Gunner": {
+    "DisplayName": "Pepega Gunner",
     "Version": "2.0",
     "DrgVersion": "Update 33 Experimental 1",
     "AuthorIds": [
@@ -69,7 +69,7 @@
     "Description": "Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.",
     "LatestUpdateChangelog": null
   },
-  "NoReviving": {
+  "No Reviving": {
     "DisplayName": "No Reviving",
     "Version": "2",
     "DrgVersion": "33",
