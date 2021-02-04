@@ -68,15 +68,5 @@
     ],
     "Description": "Makes it literally impossible to revive, excluding FM and IW. (Works on both U32 & 33)",
     "LatestUpdateChangelog": null
-  },
-  "TEST": {
-    "DisplayName": "TEST",
-    "Version": "1",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      158916111390343168
-    ],
-    "Description": "adadsadsadasdadsda",
-    "LatestUpdateChangelog": null
   }
 }
