@@ -1,14 +1,4 @@
 {
-  "OP Oil Extractor": {
-    "DisplayName": "OP Oil Extractor",
-    "Version": "1",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      350019378189828097
-    ],
-    "Description": "Escort mission extractor now has 10 meter range, 0.25 melt time (down .2 seconds), and 0.15 chunk pickup (down .3 seconds), you can also run with it.",
-    "LatestUpdateChangelog": null
-  },
   "Peculiar Shades": {
     "DisplayName": "Peculiar Shades",
     "Version": "1",
