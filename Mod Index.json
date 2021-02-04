@@ -68,5 +68,15 @@
     ],
     "Description": "Makes it literally impossible to revive, excluding FM and IW. (Works on both U32 & 33)",
     "LatestUpdateChangelog": null
+  },
+  "Quarter Death Duration": {
+    "DisplayName": "Quarter Death Duration",
+    "Version": "1.2",
+    "DrgVersion": "Update 33, Hotfix 1",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Sets the ragdoll duration for the majority of Glyphids to ≤5 seconds, except for enemies who have death effects. [Warden, Menace, Acid, and Web have 5 seconds] [Grunts (all types) have 3 seconds] [Exploders and Praets have 7 seconds] [Dets and Dreads are unchanged]",
+    "LatestUpdateChangelog": null
   }
 }
