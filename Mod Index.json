@@ -98,5 +98,15 @@
     ],
     "Description": "Removes the high-pitched ringing sound effect that plays: after an explosion, at mission start, when switching classes, and when toggling your flashlight.",
     "LatestUpdateChangelog": null
+  },
+  "Support Pods": {
+    "DisplayName": "Support Pods",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "REQUIRES MOD LOADER. Adds 3 new call ins to the game. The beginning of the game provides you with 3 charges shared between all pods, these charges refresh every 5 minutes and it costs 1 charge per pod.  Only the host with the mod can call these in to prevent de-sync issues as a client trying to call them in.\n-Spotpipe: when you press 6 a beacon is placed to call in a modified resupply pod with a rotating spotlight that provides bright light around it and directional light on the ceiling, it also comes with 4 pipeline starts to start grinding on any mission you want (except refinery to prevent breaking the mission).  This pod is also worth kicking.\n-Time Capsule: when you press 7 a beacon is placed to call in a modified supply pod that has 4 deposit slots for collecting your precious minerals regardless of MULE accessibility.  This works on every mission type, yes, even Point Extraction and Refinery.  Comes with spinning MULE beacon to light the way and tell your ears to find it later.  Despite my on-the-spot name for this, it does not actually hold stuff for later, just an alternative deposit area.\n-Angelic Intervention: when you press 0 a late joining player beacon is placed and an egg falls from the sky, opening shortly after with your favorite pet.  That's right, Steeve!  Nah, who wants that when you can get your very own personal flying taxi to explore any cave you want . .\nNote -> Angelic Intervention only works in the upcoming experimental and full release build of U33.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/802830115573989388",
+    "LatestUpdateChangelog": null
   }
 }
