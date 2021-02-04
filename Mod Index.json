@@ -148,5 +148,15 @@
     ],
     "Description": "Adds ability to change FOV up to 260.",
     "LatestUpdateChangelog": null
+  },
+  "Music Control": {
+    "DisplayName": "Music Control",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "A re-created base class tree of sound classes and submixes used by music mods.",
+    "LatestUpdateChangelog": null
   }
 }
