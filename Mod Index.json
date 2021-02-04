@@ -1,4 +1,14 @@
 {
+  "Mod Loader": {
+    "DisplayName": "Mod Loader",
+    "Version": "4.2",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "Provides a platform for mod developers to get their BluePrints mods loaded into the game. You can view and interact with the mods using the manager menu (keybinding N).",
+    "LatestUpdateChangelog": null
+  },
   "Peculiar Shades": {
     "DisplayName": "Peculiar Shades",
     "Version": "1",
