@@ -1,22 +1,12 @@
 {
-  "OP Oil Extractor": {
-    "DisplayName": "OP Oil Extractor",
-    "Version": "1",
+  "Mod Loader": {
+    "DisplayName": "Mod Loader",
+    "Version": "4.2",
     "DrgVersion": "Update 33",
     "AuthorIds": [
-      350019378189828097
+      158916111390343168
     ],
-    "Description": "Escort mission extractor now has 10 meter range, 0.25 melt time (down .2 seconds), and 0.15 chunk pickup (down .3 seconds), you can also run with it.",
-    "LatestUpdateChangelog": null
-  },
-  "Peculiar Shades": {
-    "DisplayName": "Peculiar Shades",
-    "Version": "1",
-    "DrgVersion": "32",
-    "AuthorIds": [
-      149217063154614272
-    ],
-    "Description": "Replaces both Industrial Goggles and Mighty Muttonchops with sunglasses",
+    "Description": "Provides a platform for mod developers to get their BluePrints mods loaded into the game. You can view and interact with the mods using the manager menu (keybinding N).",
     "LatestUpdateChangelog": null
   },
   "Beast Master Buff": {
@@ -67,6 +57,156 @@
       350019378189828097
     ],
     "Description": "Makes it literally impossible to revive, excluding FM and IW. (Works on both U32 & 33)",
+    "LatestUpdateChangelog": null
+  },
+  "Quarter Death Duration": {
+    "DisplayName": "Quarter Death Duration",
+    "Version": "1.2",
+    "DrgVersion": "Update 33, Hotfix 1",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Sets the ragdoll duration for the majority of Glyphids to ≤5 seconds, except for enemies who have death effects. [Warden, Menace, Acid, and Web have 5 seconds] [Grunts (all types) have 3 seconds] [Exploders and Praets have 7 seconds] [Dets and Dreads are unchanged]",
+    "LatestUpdateChangelog": null
+  },
+  "Beatboxing Cave Angels": {
+    "DisplayName": "Beatboxing Cave Angels",
+    "Version": "1",
+    "DrgVersion": "Update 33, Hotfix 1",
+    "AuthorIds": [
+      169492441982959616
+    ],
+    "Description": "Replaces cave angel's idle sounds with verbalase's beatboxing",
+    "LatestUpdateChangelog": null
+  },
+  "Anime Doretta": {
+    "DisplayName": "Anime Doretta",
+    "Version": "1.1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      169492441982959616
+    ],
+    "Description": "Replaces Doretta's normal sounds with totally not unpleasant Anime sound effects, also Lone's favorite mod ever",
+    "LatestUpdateChangelog": null
+  },
+  "No Tinnitus": {
+    "DisplayName": "No Tinnitus",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "Removes the high-pitched ringing sound effect that plays: after an explosion, at mission start, when switching classes, and when toggling your flashlight.",
+    "LatestUpdateChangelog": null
+  },
+  "Support Pods": {
+    "DisplayName": "Support Pods",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "REQUIRES MOD LOADER\nAdds 3 new call ins to the game. The beginning of the game provides you with 3 charges shared between all pods, these charges refresh every 5 minutes and it costs 1 charge per pod.  Only the host with the mod can call these in to prevent de-sync issues as a client trying to call them in.\n\n-Spotpipe: when you press 6 a beacon is placed to call in a modified resupply pod with a rotating spotlight that provides bright light around it and directional light on the ceiling, it also comes with 4 pipeline starts to start grinding on any mission you want (except refinery to prevent breaking the mission).  This pod is also worth kicking.\n\n-Time Capsule: when you press 7 a beacon is placed to call in a modified supply pod that has 4 deposit slots for collecting your precious minerals regardless of MULE accessibility.  This works on every mission type, yes, even Point Extraction and Refinery.  Comes with spinning MULE beacon to light the way and tell your ears to find it later.  Despite my on-the-spot name for this, it does not actually hold stuff for later, just an alternative deposit area.\n\n-Angelic Intervention: when you press 0 a late joining player beacon is placed and an egg falls from the sky, opening shortly after with your favorite pet.  That's right, Steeve!  Nah, who wants that when you can get your very own personal flying taxi to explore any cave you want . .\n\nNote -> Angelic Intervention only works in the upcoming experimental and full release build of U33.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/802830115573989388",
+    "LatestUpdateChangelog": null
+  },
+  "Upgraded Doretta": {
+    "DisplayName": "Upgraded Doretta",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "REQUIRES MOD LOADER\nManagement finally decided it was worth upgrading the drilldozer armor to prevent future losses!  Oh, who am I kidding, of course they didn't.\n\n-We welded 4 heavy LMG turrets to Doretta with as much ammo as a standard turret magazine and provided no reserves, so stick your engineer with reloading them since his personal turret doesn't stay aboard anyways, unlike these ones.\n\n-Cut some holes for 2 deposits near the gears that make the drilldozer do what it is known for, drilling, thus helping you to crush those minerals and hopefully not break the damn thing.\n\n-Got rid of some suspension to add 2 pipeline starts to the bottom, outer sides of the fuel canister region.  Who would have thought that a giant artificial tunnel system would be good for roller-coasters AND extraction with a valuable head and the glowing duct tape equivalent for Hoxxes?\n\nNote-> does not pimp your ride (adds stuff, nothing was actually removed for the enhancements).",
+    "LatestUpdateChangelog": null
+  },
+  "Leech Moment": {
+    "DisplayName": "Leech Moment",
+    "Version": "1.1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "Adds \"It was at this moment he knew\" line to a leech grabbing sound.",
+    "LatestUpdateChangelog": null
+  },
+  "KEKW Detonator": {
+    "DisplayName": "KEKW Detonator",
+    "Version": "1.1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "Replaces Bulk Detonator growl with random KEKW laugh.",
+    "LatestUpdateChangelog": null
+  },
+  "More FOV": {
+    "DisplayName": "More FOV",
+    "Version": "1.1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "Adds ability to change FOV up to 260.",
+    "LatestUpdateChangelog": null
+  },
+  "Music Control": {
+    "DisplayName": "Music Control",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "A re-created base class tree of sound classes and submixes used by music mods.",
+    "LatestUpdateChangelog": null
+  },
+  "Kraeus's Crazy Jukebox": {
+    "DisplayName": "Kraeus's Crazy Jukebox",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaces every song in the Jukebox with real songs. \nIt covers all the genres of the OG jukebox just with more Shanties.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806953907217629244",
+    "LatestUpdateChangelog": null
+  },
+  "Quiet Space Rig": {
+    "DisplayName": "Quiet Space Rig",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaces the Ambient Song in the Space Rig with Space Noise and Star Trek sounds to make it quieter.",
+    "LatestUpdateChangelog": null
+  },
+  "Shining Lloyd": {
+    "DisplayName": "Shining Lloyd",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaces Lloyd's vocalizations with Lloyd the Bartender from The Shining run through a robot vocal changer.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806979173154947082",
+    "LatestUpdateChangelog": null
+  },
+  "Molly R2D2": {
+    "DisplayName": "Molly R2D2",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaces Molly's beeps with R2D2's beeps.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806990176135806976",
+    "LatestUpdateChangelog": null
+  },
+  "Kids Crate": {
+    "DisplayName": "Kids Crate",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaces Discovery Music (opening a crate or finding a pack) – with the Jimco Drums and Kids saying “Holy Shit” from the credits of WKUK.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/807003140620156978",
     "LatestUpdateChangelog": null
   }
 }
