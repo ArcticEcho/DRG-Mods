@@ -188,5 +188,15 @@
     ],
     "Description": "Replaces Lloyd's vocalizations with Lloyd the Bartender from The Shining run through a robot vocal changer.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806979173154947082",
     "LatestUpdateChangelog": null
+  },
+  "Molly R2D2": {
+    "DisplayName": "Molly R2D2",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaces Molly's beeps with R2D2's beeps.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806990176135806976",
+    "LatestUpdateChangelog": null
   }
 }
