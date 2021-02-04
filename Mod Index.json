@@ -78,15 +78,5 @@
     ],
     "Description": "Makes it literally impossible to revive, excluding FM and IW. (Works on both U32 & 33)",
     "LatestUpdateChangelog": null
-  },
-  "TESTING Mod Loader": {
-    "DisplayName": "TESTING mod loader",
-    "Version": "1.0",
-    "DrgVersion": "Update 32, Hotfix 28",
-    "AuthorIds": [
-      158916111390343168
-    ],
-    "Description": "test test test test test test test test test test test test test",
-    "LatestUpdateChangelog": null
   }
 }
