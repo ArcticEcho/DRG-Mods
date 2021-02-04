@@ -68,15 +68,5 @@
     ],
     "Description": "Makes it literally impossible to revive, excluding FM and IW. (Works on both U32 & 33)",
     "LatestUpdateChangelog": null
-  },
-  "Beatboxing Cave Angels": {
-    "DisplayName": "Beatboxing Cave Angels",
-    "Version": "1",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      169492441982959616
-    ],
-    "Description": "Replaces cave angel's idle sounds with verbalase's beatboxing",
-    "LatestUpdateChangelog": null
   }
 }
