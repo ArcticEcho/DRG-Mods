@@ -88,5 +88,15 @@
     ],
     "Description": "Replaces cave angel's idle sounds with verbalase's beatboxing",
     "LatestUpdateChangelog": null
+  },
+  "Anime Doretta": {
+    "DisplayName": "Anime Doretta",
+    "Version": "1.1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      169492441982959616
+    ],
+    "Description": "Replaces Doretta's normal sounds with totally not unpleasant Anime sound effects, also Lone's favorite mod ever",
+    "LatestUpdateChangelog": null
   }
 }
