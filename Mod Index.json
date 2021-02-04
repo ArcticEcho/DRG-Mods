@@ -98,5 +98,15 @@
     ],
     "Description": "Replaces Doretta's normal sounds with totally not unpleasant Anime sound effects, also Lone's favorite mod ever",
     "LatestUpdateChangelog": null
+  },
+  "No Tinnitus": {
+    "DisplayName": "No Tinnitus",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "Removes the high-pitched ringing sound effect that plays: after an explosion, at mission start, when switching classes, and when toggling your flashlight.",
+    "LatestUpdateChangelog": null
   }
 }
