@@ -9,16 +9,6 @@
     "Description": "Provides a platform for mod developers to get their BluePrints mods loaded into the game. You can view and interact with the mods using the manager menu (keybinding N).",
     "LatestUpdateChangelog": null
   },
-  "Peculiar Shades": {
-    "DisplayName": "Peculiar Shades",
-    "Version": "1",
-    "DrgVersion": "32",
-    "AuthorIds": [
-      149217063154614272
-    ],
-    "Description": "Replaces both Industrial Goggles and Mighty Muttonchops with sunglasses",
-    "LatestUpdateChangelog": null
-  },
   "Beast Master Buff": {
     "DisplayName": "Beast Master Buff",
     "Version": "1",
