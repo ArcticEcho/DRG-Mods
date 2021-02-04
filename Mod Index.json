@@ -118,15 +118,5 @@
     ],
     "Description": "REQUIRES MOD LOADER\nManagement finally decided it was worth upgrading the drilldozer armor to prevent future losses!  Oh, who am I kidding, of course they didn't.\n\n-We welded 4 heavy LMG turrets to Doretta with as much ammo as a standard turret magazine and provided no reserves, so stick your engineer with reloading them since his personal turret doesn't stay aboard anyways, unlike these ones.\n\n-Cut some holes for 2 deposits near the gears that make the drilldozer do what it is known for, drilling, thus helping you to crush those minerals and hopefully not break the damn thing.\n\n-Got rid of some suspension to add 2 pipeline starts to the bottom, outer sides of the fuel canister region.  Who would have thought that a giant artificial tunnel system would be good for roller-coasters AND extraction with a valuable head and the glowing duct tape equivalent for Hoxxes?\n\nNote-> does not pimp your ride (adds stuff, nothing was actually removed for the enhancements).",
     "LatestUpdateChangelog": null
-  },
-  "Leech Moment": {
-    "DisplayName": "Leech Moment",
-    "Version": "1.1",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      199938370338553856
-    ],
-    "Description": "Replaces Bulk Detonator growl with random KEKW laugh.",
-    "LatestUpdateChangelog": null
   }
 }
