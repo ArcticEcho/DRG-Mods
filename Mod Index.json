@@ -78,5 +78,15 @@
     ],
     "Description": "Sets the ragdoll duration for the majority of Glyphids to ≤5 seconds, except for enemies who have death effects. [Warden, Menace, Acid, and Web have 5 seconds] [Grunts (all types) have 3 seconds] [Exploders and Praets have 7 seconds] [Dets and Dreads are unchanged]",
     "LatestUpdateChangelog": null
+  },
+  "Beatboxing Cave Angels": {
+    "DisplayName": "Beatboxing Cave Angels",
+    "Version": "1",
+    "DrgVersion": "Update 33, Hotfix 1",
+    "AuthorIds": [
+      169492441982959616
+    ],
+    "Description": "Replaces cave angel's idle sounds with verbalase's beatboxing",
+    "LatestUpdateChangelog": null
   }
 }
