@@ -128,5 +128,15 @@
     ],
     "Description": "Adds \"It was at this moment he knew\" line to a leech grabbing sound.",
     "LatestUpdateChangelog": null
+  },
+  "KEKW Detonator": {
+    "DisplayName": "KEKW Detonator",
+    "Version": "1.1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "Replaces Bulk Detonator growl with random KEKW laugh.",
+    "LatestUpdateChangelog": null
   }
 }
