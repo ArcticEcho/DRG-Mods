@@ -178,5 +178,15 @@
     ],
     "Description": "Replaces the Ambient Song in the Space Rig with Space Noise and Star Trek sounds to make it quieter.",
     "LatestUpdateChangelog": null
+  },
+  "Shining Lloyd": {
+    "DisplayName": "Shining Lloyd",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaces Lloyd's vocalizations with Lloyd the Bartender from The Shining run through a robot vocal changer.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806979173154947082",
+    "LatestUpdateChangelog": null
   }
 }
