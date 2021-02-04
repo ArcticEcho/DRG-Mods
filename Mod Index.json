@@ -138,5 +138,15 @@
     ],
     "Description": "Replaces Bulk Detonator growl with random KEKW laugh.",
     "LatestUpdateChangelog": null
+  },
+  "More FOV": {
+    "DisplayName": "More FOV",
+    "Version": "1.1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "Adds ability to change FOV up to 260.",
+    "LatestUpdateChangelog": null
   }
 }
