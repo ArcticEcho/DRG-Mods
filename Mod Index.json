@@ -9,16 +9,6 @@
     "Description": "Escort mission extractor now has 10 meter range, 0.25 melt time (down .2 seconds), and 0.15 chunk pickup (down .3 seconds), you can also run with it.",
     "LatestUpdateChangelog": null
   },
-  "Snow Melter": {
-    "DisplayName": "Snow Melter",
-    "Version": "1",
-    "DrgVersion": "33",
-    "AuthorIds": [
-      350019378189828097
-    ],
-    "Description": "Makes CRSPR have an insane carve for snow, ice, engie plat, and organic matter. Causes considerable lad and client de-sync, use with caution. Works on both U32 and U33",
-    "LatestUpdateChangelog": null
-  },
   "Peculiar Shades": {
     "DisplayName": "Peculiar Shades",
     "Version": "1",
