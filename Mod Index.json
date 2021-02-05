@@ -548,5 +548,15 @@
     ],
     "Description": "--Flare Gun max ammo increased from 12 to 24\n--Flare Gun Clip Size increased from 3 to 5\n--Flare Gun Duration upgrades increased from 15 seconds (15.0) to 5 minutes (300.0)",
     "LatestUpdateChangelog": null
+  },
+  "Upgraded Drills": {
+    "DisplayName": "Upgraded Drills",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "--Drills max fuel changed from 38.0 to 60.0\n--Drills mining rate changed from 1.5 to 2.7\n--Tier 1 movement speed upgrade (Hardened Tips) & tier 3 movement speed upgrade (Supercharged Motor) Increased to match mining rate - 0.1 > 0.5",
+    "LatestUpdateChangelog": null
   }
 }
