@@ -238,5 +238,15 @@
     ],
     "Description": "-Increases Doretta's mining speed by 66% (From 0.6 to 1.0)\n-Host mod.",
     "LatestUpdateChangelog": null
+  },
+  "FastMachineStart": {
+    "DisplayName": "FastMachineStart",
+    "Version": "1.01",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "-Reduces use time on machine event buttons from 5 seconds to 2 seconds.",
+    "LatestUpdateChangelog": null
   }
 }
