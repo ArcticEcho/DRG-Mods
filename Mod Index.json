@@ -528,5 +528,15 @@
     ],
     "Description": "Bug Hill is a Hazard 2 mod that swarms you with grunts.\n--Hazard 2 changed\n--Low enemy diversity\n--Compared to the original Hazard 2, this one has faster, stronger, better grunts\n--Map seed can roll huge waves of macteras or spitters, be prepared\n--Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks\n--Higher enemy cap and lower nitra cost recommended",
     "LatestUpdateChangelog": null
+  },
+  "Disco Fever!": {
+    "DisplayName": "Disco Fever!",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "Drinking a Blackreach Blonde will make you dance for 5 hours, or until you drink a Leaf Lover or DIE",
+    "LatestUpdateChangelog": null
   }
 }
