@@ -558,5 +558,15 @@
     ],
     "Description": "--Drills max fuel changed from 38.0 to 60.0\n--Drills mining rate changed from 1.5 to 2.7\n--Tier 1 movement speed upgrade (Hardened Tips) & tier 3 movement speed upgrade (Supercharged Motor) Increased to match mining rate - 0.1 > 0.5",
     "LatestUpdateChangelog": null
+  },
+  "Upgraded Zipline": {
+    "DisplayName": "Upgraded Zipline",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "--Zipline Gun max distance increased from 30 Meters (3000.0) to 450 Meters (45000.0)\n--Zipline Gun max ammo increased from 3 to 5\n--Zipline Gun max angle increase from 30° (30.0) to 85° (85.0)\n--Zipline Gun max speed doubled (1.0 to 2.0)",
+    "LatestUpdateChangelog": null
   }
 }
