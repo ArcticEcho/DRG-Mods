@@ -408,5 +408,15 @@
     ],
     "Description": "- Changes the Bigger Mineral Bag upgrade on all armors to +20 instead of +5.\n- As a host, will affect anyone using this armor upgrade in your game.\n- As a client, this mod has no effect.",
     "LatestUpdateChangelog": null
+  },
+  "Extended Armor Mineral Capacity (300)": {
+    "DisplayName": "Extended Armor Mineral Capacity (300)",
+    "Version": "1.0",
+    "DrgVersion": "Update 32/33",
+    "AuthorIds": [
+      185833916203139082
+    ],
+    "Description": "- Changes the Bigger Mineral Bag upgrade on all armors to +300 instead of +5. You are the mule now!\n- As a host, will affect anyone using this armor upgrade in your game.\n- As a client, this mod has no effect.",
+    "LatestUpdateChangelog": null
   }
 }
