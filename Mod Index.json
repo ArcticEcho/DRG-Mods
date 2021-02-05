@@ -248,5 +248,15 @@
     ],
     "Description": "-Reduces use time on machine event buttons from 5 seconds to 2 seconds.",
     "LatestUpdateChangelog": null
+  },
+  "LaserLonger": {
+    "DisplayName": "LaserLonger",
+    "Version": "1.01",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "-Increases duration of laser pointer waypoint from 20s to 5 mins. Client side mod.",
+    "LatestUpdateChangelog": null
   }
 }
