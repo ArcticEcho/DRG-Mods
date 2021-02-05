@@ -198,15 +198,5 @@
     ],
     "Description": "Replaces Discovery Music (opening a crate or finding a pack) – with the Jimco Drums and Kids saying “Holy Shit” from the credits of WKUK.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/807003140620156978",
     "LatestUpdateChangelog": null
-  },
-  "Metal Gear Alert Heightened Senses": {
-    "DisplayName": "Metal Gear Alert Heightened Senses",
-    "Version": "1",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      169492441982959616
-    ],
-    "Description": "Replaces Heighten Senses sound with Metal Gear Alert Sound",
-    "LatestUpdateChangelog": null
   }
 }
