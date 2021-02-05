@@ -368,5 +368,15 @@
     ],
     "Description": "Set up channel rewards so your twitch viewers can spawn a variety of enemies, power ups... inside a mission.\nFind the set up guide in <#799404622682390599> and an icon pack in <#799404647340048392>.",
     "LatestUpdateChangelog": null
+  },
+  "Fabulously Fast Lootbugs": {
+    "DisplayName": "Fabulously Fast Lootbugs",
+    "Version": "1",
+    "DrgVersion": "Update 32/33",
+    "AuthorIds": [
+      229330150142115842
+    ],
+    "Description": "Increases the Lootbug Speed tremendously  (25.0 to 1000.0) but they still rest normally. Also looks really funny",
+    "LatestUpdateChangelog": null
   }
 }
