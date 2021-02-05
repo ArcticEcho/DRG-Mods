@@ -228,5 +228,15 @@
     ],
     "Description": "-Increases escort fuel canister laser range from 4m to 25m.\n-Reduces melting time from 0.45s to 0.1s.\n-All but removes vacuum delay on picking up loose chunks of oil shale.\n-Increases amount of oil shale mined by 140%.\n-Removes 15% fuel canister carrying movement penalty.\n-Client side mod.",
     "LatestUpdateChangelog": null
+  },
+  "DorettaDontCare": {
+    "DisplayName": "DorettaDontCare",
+    "Version": "1.01",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "-Increases Doretta's mining speed by 66% (From 0.6 to 1.0)\n-Host mod.",
+    "LatestUpdateChangelog": null
   }
 }
