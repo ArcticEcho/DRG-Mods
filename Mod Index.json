@@ -598,5 +598,15 @@
     ],
     "Description": "--Tripled Bosco's upgradeable mining speed 1.0 > 3.0\n--Tripled Bosco's max acceleration 900.0 > 2700.0\n--Tripled Bosco's max pawnSpeed 450.0 > 1350.0\n--Increased Bosco's carrying speed 275.0 > 825.0\n--Increased Bosco's carrying acceleration 400.0 > 1200.0\n--Increased Bosco's mining radius 105.0 > 155.0\n--Doubled Bosco's fire rate 10.0 > 20.0\n--Doubled Bosco's minimum shot burst 5 > 10\n--Doubled Bosco's maximum shot burst 12 > 24\n--Doubled Bosco's rotation speed 5.0 > 10.0\n--Doubled Bosco's max revives 2 > 4\n--Doubled Bosco's light intensity 3000.0 > 6000.0 / 10.0 > 30.0",
     "LatestUpdateChangelog": null
+  },
+  "Minigun Bullet": {
+    "DisplayName": "Minigun Bullet",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "--Changed the shot cost of the Minigun from 2 bullets when fired to 1",
+    "LatestUpdateChangelog": null
   }
 }
