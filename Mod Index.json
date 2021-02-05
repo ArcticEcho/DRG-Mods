@@ -328,5 +328,15 @@
     ],
     "Description": "Inspired by toothpaste gun from <@!146392394328178690> , Makes platforms less wide and slightly taller (but less small than toothpaste so it's not horrible for unmodded randos), increases firerate to like, 50, for fast bridges, and increases ammo, 100 max ammo, 50 clip size. Oh and double speed reload.. for faster bridges.",
     "LatestUpdateChangelog": null
+  },
+  "Subata Glock 17": {
+    "DisplayName": "Subata Glock 17",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "Replaces Subata sounds with Glock 17 sounds\nDownload Link None",
+    "LatestUpdateChangelog": null
   }
 }
