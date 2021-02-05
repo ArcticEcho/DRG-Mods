@@ -618,5 +618,15 @@
     ],
     "Description": "--Deposit speed increased from 1.0 > 5.0",
     "LatestUpdateChangelog": null
+  },
+  "Escort Rock Nerf": {
+    "DisplayName": "Escort Rock Nerf",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "For the hyperspawn mods\n--Ommeran Rock Attack Rocks have half health",
+    "LatestUpdateChangelog": null
   }
 }
