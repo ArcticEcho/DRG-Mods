@@ -268,5 +268,15 @@
     ],
     "Description": "-Reduces repair time of broken resupplies found in Salvage missions from 20s to 3s.\n-Increases chance of repaired supply pod working from 50% to 67%.",
     "LatestUpdateChangelog": null
+  },
+  "SpeedyEscort": {
+    "DisplayName": "SpeedyEscort",
+    "Version": "1.01",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "-Increases Doretta's mining speed by 66% (From 0.6 to 1.0)\n-Increases Doretta's top movement speed when encouraged by dwarven hugs by 20%. (From 1.0 to 1.2)\n-Increases Doretta's movement speed while being attacked by 20%. (From 1.0 to 1.2)\n-Host mod.",
+    "LatestUpdateChangelog": null
   }
 }
