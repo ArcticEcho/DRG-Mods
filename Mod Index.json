@@ -348,5 +348,15 @@
     ],
     "Description": "Replaces M1K sounds to to M1 Garand sounds \nDownload Link None",
     "LatestUpdateChangelog": null
+  },
+  "BRT7 Glock 18c": {
+    "DisplayName": "BRT7 Glock 18c",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "Replaces BRT7 sounds with Glock 18c sounds\nDownload Link None",
+    "LatestUpdateChangelog": null
   }
 }
