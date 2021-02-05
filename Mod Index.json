@@ -358,5 +358,15 @@
     ],
     "Description": "Replaces BRT7 sounds with Glock 18c sounds\nDownload Link None",
     "LatestUpdateChangelog": null
+  },
+  "Twitch Integration": {
+    "DisplayName": "Twitch Integration",
+    "Version": "2.0.3",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      506899406776303616
+    ],
+    "Description": "Set up channel rewards so your twitch viewers can spawn a variety of enemies, power ups... inside a mission.\nFind the set up guide in <#799404622682390599> and an icon pack in <#799404647340048392>.",
+    "LatestUpdateChangelog": null
   }
 }
