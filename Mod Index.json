@@ -438,5 +438,15 @@
     ],
     "Description": "- Changes hits needed to mine of nearly every material from (between 3 and 5) to 1. \n- Does not change the hits to mine of many materials that take 2 hits. These materials don't have the \"HitsNeededToMine\" property and I cannot change them.\n- Inspired by the \"Safe Rocky Mountain\" mod. This mod should not be used at the same time as that one.\n- As a host, the reduced number of hits needed will only affect you.\n- As a client, the reduced number of hits needed will only affect you.\n- Created at the request of <@!426057750611755030>",
     "LatestUpdateChangelog": null
+  },
+  "Slightly Better Scout": {
+    "DisplayName": "Slightly Better Scout",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      185833916203139082
+    ],
+    "Description": "- Fall damage reduction armor mod increased from 33% to 50%\n- Deepcore GK2 damage increased from 15 to 17\n- M1000 Classic clip size increased from 8 to 10, damage increased from 50 to 55\n- Zhukov Nuk17 damage increased from 12 to 14\n- Jury-Rigged Boomstick pellet count increased from 8 to 9\n- As a host, will affect anyone playing scout in your game.\n- As a client, this mod has no effect.\n- Updated for U33.\n- Thanks to <@!220325734374309889> for helping me make this mod",
+    "LatestUpdateChangelog": null
   }
 }
