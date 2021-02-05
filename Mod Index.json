@@ -638,5 +638,15 @@
     ],
     "Description": "100% chance to encounter Korlok, BETC and Crassus Detonator in a mission preset.",
     "LatestUpdateChangelog": null
+  },
+  "Custom Enemy Cap": {
+    "DisplayName": "Custom Enemy Cap",
+    "Version": "2.1",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nLets you control the global enemy cap, and can optionally lower the cap depending on your FPS. Only works as the host.",
+    "LatestUpdateChangelog": null
   }
 }
