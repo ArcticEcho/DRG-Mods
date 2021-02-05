@@ -508,5 +508,15 @@
     ],
     "Description": "Makes your character kick barrels at 10x the force, conflicts with BarrelYeet5",
     "LatestUpdateChangelog": null
+  },
+  "Barrel Yeet 5x": {
+    "DisplayName": "Barrel Yeet 5x",
+    "Version": "1",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Makes your character kick barrels at 5x the force, conflicts with BarrelYeet10",
+    "LatestUpdateChangelog": null
   }
 }
