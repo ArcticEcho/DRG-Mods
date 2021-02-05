@@ -538,5 +538,15 @@
     ],
     "Description": "Drinking a Blackreach Blonde will make you dance for 5 hours, or until you drink a Leaf Lover or DIE",
     "LatestUpdateChangelog": null
+  },
+  "Upgraded Flare Gun": {
+    "DisplayName": "Upgraded Flare Gun",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "--Flare Gun max ammo increased from 12 to 24\n--Flare Gun Clip Size increased from 3 to 5\n--Flare Gun Duration upgrades increased from 15 seconds (15.0) to 5 minutes (300.0)",
+    "LatestUpdateChangelog": null
   }
 }
