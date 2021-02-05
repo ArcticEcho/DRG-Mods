@@ -208,5 +208,15 @@
     ],
     "Description": "Replaces Heighten Senses sound with Metal Gear Alert Sound",
     "LatestUpdateChangelog": null
+  },
+  "Molly Respects Boundaries": {
+    "DisplayName": "Molly Respects Boundaries",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "Thanks to <@!189954203664252928> for the original, this is an update of his mod.\n--In the base game when all players move more than 20 meters away from Molly, she moves to the location of the last player that left that radius. \n--This mod changes that distance to 75 meters to prevent Molly from getting in your way when you may be backing up from a fight, but if you forget to call her she won’t stay in a completely different room. \n--This mod will only apply to the lobby if the host has it.",
+    "LatestUpdateChangelog": null
   }
 }
