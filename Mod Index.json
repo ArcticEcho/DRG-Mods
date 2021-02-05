@@ -498,5 +498,15 @@
     ],
     "Description": "--All those changes:\n    Berzerker: \n         -Recharge from 4 min to 10 seconds\n    BornReady: \n         -Unequipped auto reload changed from 5 sec to 0,5 seconds\n    Bug Thing: \n         -Exploding distance from 5 to 10 m\n    Dash: \n         -Cooldown decreased from 25 to 1,5 sec\n    Deep Pockets: \n         -Changed from +15 to +500\n    Beast Master: -Sadly no changes\n    Downed Bomb: \n         -Cooldown changed from 60 sec to 1 second\n         -Charges increased from 3 to 20 \n    Veteran Depositor: \n         -Depositing speed changed from 50 to 200%\n    Field Medic: \n         -Changed reviving speed from 30% to 200%\n         -Charges increased from 1 to 30 (pls test this)\n    Strong Arm: \n        -Increased Flare throw bonus from 50% to 100%\n        -Increased Heavy Object throw bonus from 20% to 80%\n    Friendly Fire: \n        -No changes (would affect FF even without perk)\n    Heightened Senses: \n        -Charges increased from 2 to 50\n    Hover Boots: \n        -Cooldown changed from 75 to 0.1 seconds\n    Iron Will: \n       -Charges increased from 1 to 30\n       -Duration increased from 12 to 40 seconds\n    Sweet Tooth: \n       -Increased healing from sugar from 30% to 200%\n    Resupplier: \n        -Increased Resupply Speed from 50% to 200%\n        -Increased extra health from 25% to 200%\n    ShieldLink: \n         -Increased duration from 30 to 200 seconds\n        -Changed the cooldown from 120 seconds to 1 second\n    Unstoppable: \n         -Increased reduction of slow from 50% to 100%\n         -Incresed speed while carrying heavy objects from 25% to 100%\n    Elemental Resistance: \n         -Changed from 30% to 100% (Took me 2h to figure that out)\n    Thorns: \n         -Increased Damage from 24 to 100\n    Vampire: \n         -Increased Health gain from 5 to 50",
     "LatestUpdateChangelog": null
+  },
+  "Barrel Yeet 10x": {
+    "DisplayName": "Barrel Yeet 10x",
+    "Version": "1",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Makes your character kick barrels at 10x the force, conflicts with BarrelYeet5",
+    "LatestUpdateChangelog": null
   }
 }
