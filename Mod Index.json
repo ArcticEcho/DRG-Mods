@@ -518,5 +518,15 @@
     ],
     "Description": "Makes your character kick barrels at 5x the force, conflicts with BarrelYeet10",
     "LatestUpdateChangelog": null
+  },
+  "Bug Hill": {
+    "DisplayName": "Bug Hill",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "Bug Hill is a Hazard 2 mod that swarms you with grunts.\n--Hazard 2 changed\n--Low enemy diversity\n--Compared to the original Hazard 2, this one has faster, stronger, better grunts\n--Map seed can roll huge waves of macteras or spitters, be prepared\n--Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks\n--Higher enemy cap and lower nitra cost recommended",
+    "LatestUpdateChangelog": null
   }
 }
