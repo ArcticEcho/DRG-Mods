@@ -448,5 +448,15 @@
     ],
     "Description": "- Fall damage reduction armor mod increased from 33% to 50%\n- Deepcore GK2 damage increased from 15 to 17\n- M1000 Classic clip size increased from 8 to 10, damage increased from 50 to 55\n- Zhukov Nuk17 damage increased from 12 to 14\n- Jury-Rigged Boomstick pellet count increased from 8 to 9\n- As a host, will affect anyone playing scout in your game.\n- As a client, this mod has no effect.\n- Updated for U33.\n- Thanks to <@!220325734374309889> for helping me make this mod",
     "LatestUpdateChangelog": null
+  },
+  "Slightly Wider Platforms": {
+    "DisplayName": "Slightly Wider Platforms",
+    "Version": "1.0",
+    "DrgVersion": "Update 32/33",
+    "AuthorIds": [
+      185833916203139082
+    ],
+    "Description": "- Platform diameter increased from 4 to 5 (that’s an area increase from 12.5 to 19.6 on top of the platform, about 1.57 times more).\n- As a result of the diameter increase, they are about 50% thicker.\n- Platform creation delay reduced from 0.25 to 0.10.\n- As a host, will affect anyone playing engineer in your game.\n- As a client, this mod has no effect.",
+    "LatestUpdateChangelog": null
   }
 }
