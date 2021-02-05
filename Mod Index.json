@@ -258,5 +258,15 @@
     ],
     "Description": "-Increases duration of laser pointer waypoint from 20s to 5 mins. Client side mod.",
     "LatestUpdateChangelog": null
+  },
+  "NotSoBrokenSupplyPod": {
+    "DisplayName": "NotSoBrokenSupplyPod",
+    "Version": "1.01",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "-Reduces repair time of broken resupplies found in Salvage missions from 20s to 3s.\n-Increases chance of repaired supply pod working from 50% to 67%.",
+    "LatestUpdateChangelog": null
   }
 }
