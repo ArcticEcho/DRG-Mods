@@ -628,5 +628,15 @@
     ],
     "Description": "For the hyperspawn mods\n--Ommeran Rock Attack Rocks have half health",
     "LatestUpdateChangelog": null
+  },
+  "Best Friends Forever": {
+    "DisplayName": "Best Friends Forever",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "100% chance to encounter Korlok, BETC and Crassus Detonator in a mission preset.",
+    "LatestUpdateChangelog": null
   }
 }
