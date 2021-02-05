@@ -608,5 +608,15 @@
     ],
     "Description": "--Changed the shot cost of the Minigun from 2 bullets when fired to 1",
     "LatestUpdateChangelog": null
+  },
+  "Faster Deposit": {
+    "DisplayName": "Faster Deposit",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "--Deposit speed increased from 1.0 > 5.0",
+    "LatestUpdateChangelog": null
   }
 }
