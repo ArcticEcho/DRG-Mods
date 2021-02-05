@@ -478,5 +478,15 @@
     ],
     "Description": "Doubles the Chance for Cargo Crates and Lost packs to generate",
     "LatestUpdateChangelog": null
+  },
+  "Disabled Treasures": {
+    "DisplayName": "Disabled Treasures",
+    "Version": "1",
+    "DrgVersion": "Update 32/33",
+    "AuthorIds": [
+      229330150142115842
+    ],
+    "Description": "Sets the Chance for Cargo Crates and Lost packs to generate to 0\n--Ah those pesky Treasures blocking my cave and disrupting my Mining Mission, if only there was a way to get rid of them -Probably Nobody--",
+    "LatestUpdateChangelog": null
   }
 }
