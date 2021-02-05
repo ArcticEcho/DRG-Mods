@@ -648,5 +648,15 @@
     ],
     "Description": "**Requires the mod loader.**\nLets you control the global enemy cap, and can optionally lower the cap depending on your FPS. Only works as the host.",
     "LatestUpdateChangelog": null
+  },
+  "Dies Irea Dreadnough Boss Music": {
+    "DisplayName": "Dies Irea Dreadnough Boss Music",
+    "Version": "2",
+    "DrgVersion": "Update 32/33",
+    "AuthorIds": [
+      229330150142115842
+    ],
+    "Description": "------------------------------------\nChanges the Dreadnought Boss Music to Dies Irea by Guiseppe Verdi\nPlayed by the Atlanta Symphony Orchestra and Chorus directed by Robert Shaw\n------------------------------------\nListen to this Dies Irea,\nA Dreadnought's coming for you,\nGonna annihilate your whole crew,\nGonna be squashed by a large crustacea\n------------------------------------",
+    "LatestUpdateChangelog": null
   }
 }
