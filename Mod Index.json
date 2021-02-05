@@ -318,5 +318,15 @@
     ],
     "Description": "Replaces every song in the Jukebox with real songs. \nIt covers all the genres of the OG jukebox just with more Shanties.\nSong List: https://docs.google.com/uc?export=download&id=1NGX83YBCCC_yy2Zj7i5Y2jMzXbL9oYRz\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806953907217629244",
     "LatestUpdateChangelog": null
+  },
+  "SmolChubPlatsv2": {
+    "DisplayName": "SmolChubPlatsv2",
+    "Version": "1.0",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      180149276934930432
+    ],
+    "Description": "Inspired by toothpaste gun from <@!146392394328178690> , Makes platforms less wide and slightly taller (but less small than toothpaste so it's not horrible for unmodded randos), increases firerate to like, 50, for fast bridges, and increases ammo, 100 max ammo, 50 clip size. Oh and double speed reload.. for faster bridges.",
+    "LatestUpdateChangelog": null
   }
 }
