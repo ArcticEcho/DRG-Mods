@@ -568,5 +568,15 @@
     ],
     "Description": "--Zipline Gun max distance increased from 30 Meters (3000.0) to 450 Meters (45000.0)\n--Zipline Gun max ammo increased from 3 to 5\n--Zipline Gun max angle increase from 30° (30.0) to 85° (85.0)\n--Zipline Gun max speed doubled (1.0 to 2.0)",
     "LatestUpdateChangelog": null
+  },
+  "Upgraded Grapple Gun": {
+    "DisplayName": "Upgraded Grapple Gun",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "--Grapple Gun range upgrades increased from 5 Meters (500.0) to 20 Meters (2000.0)",
+    "LatestUpdateChangelog": null
   }
 }
