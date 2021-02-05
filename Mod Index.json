@@ -418,5 +418,15 @@
     ],
     "Description": "- Changes the Bigger Mineral Bag upgrade on all armors to +300 instead of +5. You are the mule now!\n- As a host, will affect anyone using this armor upgrade in your game.\n- As a client, this mod has no effect.",
     "LatestUpdateChangelog": null
+  },
+  "Dwarf-Sized Carve And Faster Mining": {
+    "DisplayName": "Dwarf-Sized Carve and Faster Mining",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      185833916203139082
+    ],
+    "Description": "- Changes carve size of nearly every material from (between 75 and 150) to 155. This gives the perfect size for making dwarf-sized tunnels to walk through.\n- Changes hits needed to mine of nearly every material from (between 3 and 5) to 1. \n- Changes carve size of gold left by a Crassus Detonator to 240, greatly speeding up crassus cleanup.\n- Does not change the carve size of bismor, umanite, red sugar, hollowmite, magnite, oil shale, engineer platforms, or \"worthless\" crystals. These materials don't have the \"PickAxeDigSize\" property and I cannot change them.\n- Does not change the hits to mine of many materials that take 2 hits. These materials don't have the \"HitsNeededToMine\" property and I cannot change them.\n- Inspired by the \"Dirt Devil,\" \"Safe Rocky Mountain,\" and \"Convenient Digging\" mods. This mod should not be used at the same time as those.\n- As a host, the carve size increase will affect everyone who joins your game. The reduced number of hits needed will only affect you.\n- As a client, it will try to carve a larger spot, but revert back to the normal carve size. The reduced number of hits needed will only affect you.",
+    "LatestUpdateChangelog": null
   }
 }
