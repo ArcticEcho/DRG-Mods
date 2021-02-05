@@ -218,5 +218,15 @@
     ],
     "Description": "Thanks to <@!189954203664252928> for the original, this is an update of his mod.\n--In the base game when all players move more than 20 meters away from Molly, she moves to the location of the last player that left that radius. \n--This mod changes that distance to 75 meters to prevent Molly from getting in your way when you may be backing up from a fight, but if you forget to call her she won’t stay in a completely different room. \n--This mod will only apply to the lobby if the host has it.",
     "LatestUpdateChangelog": null
+  },
+  "BetterMiningLaser": {
+    "DisplayName": "BetterMiningLaser",
+    "Version": "1.01",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "-Increases escort fuel canister laser range from 4m to 25m.\n-Reduces melting time from 0.45s to 0.1s.\n-All but removes vacuum delay on picking up loose chunks of oil shale.\n-Increases amount of oil shale mined by 140%.\n-Removes 15% fuel canister carrying movement penalty.\n-Client side mod.",
+    "LatestUpdateChangelog": null
   }
 }
