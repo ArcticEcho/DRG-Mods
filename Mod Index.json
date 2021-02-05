@@ -288,5 +288,15 @@
     ],
     "Description": "-Increases sentry turret return flight speed from 20m/s to 60m/s.\n-Reduces sentry deconstruction time from 1s to 0.33s.\n-Host mod.",
     "LatestUpdateChangelog": null
+  },
+  "UnnerfedElephantRounds": {
+    "DisplayName": "UnnerfedElephantRounds",
+    "Version": "1.01",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "-Removes increased recoil recovery malus.\n-Restores max ammo penalty to -12 instead of -13.\n-Restores number of chambers to 4 from 3.\n-Removes reload speed increase penalty. (This also affects Six Shooter.)\n-Client side mod.",
+    "LatestUpdateChangelog": null
   }
 }
