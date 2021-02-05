@@ -578,5 +578,15 @@
     ],
     "Description": "--Grapple Gun range upgrades increased from 5 Meters (500.0) to 20 Meters (2000.0)",
     "LatestUpdateChangelog": null
+  },
+  "Upgraded Platform Gun": {
+    "DisplayName": "Upgraded Platform Gun",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "--Platform Gun clip-size increased from 4 to 6\n--Platform Gun ammo increased from 16 to 32",
+    "LatestUpdateChangelog": null
   }
 }
