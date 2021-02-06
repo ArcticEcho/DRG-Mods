@@ -698,5 +698,15 @@
     ],
     "Description": "--Lootbugs and Huuli Hoarders now drop minerals as fast and as much as you can damage them before killing them (high RoF low damage is best).\n--Lootbugs now multiply resources that they eat by 3x and get new eating targets much faster.\n--Seems to prevent them from dropping loot on death since you ring them dry through torture.",
     "LatestUpdateChangelog": null
+  },
+  "Legendary Hoarder (former X2 Ammo)": {
+    "DisplayName": "Legendary Hoarder (former x2 ammo)",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      360816319722946560
+    ],
+    "Description": "--Removes all these useless sandwich storage slots, allowing you to double up on all your weapon ammo!",
+    "LatestUpdateChangelog": null
   }
 }
