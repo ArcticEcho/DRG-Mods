@@ -928,5 +928,15 @@
     ],
     "Description": "--Has built in 9001 revives for testing or whatever.\n--Gave him a good spotlight for looking around and lighting up areas passively.\n--Larger dig radius like driller dual drills.\n--Has aim bot when switching between nearby targets, shoots much faster for longer and has higher armor break.\n--Less delay for helping you when grabbed and whatnot, faster move speed, more combat range.\n--Cryo rockets now carve out a 4.5m area on impact because why not.\n--All upgrades have been upgraded to make them better and incentivize build specialty.",
     "LatestUpdateChangelog": null
+  },
+  "White Throwing Flares": {
+    "DisplayName": "White Throwing Flares",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "--Makes the light of throwing flares white without any other changes.\n--Seems to be brighter due to the color change not blending or being \"dark\".",
+    "LatestUpdateChangelog": null
   }
 }
