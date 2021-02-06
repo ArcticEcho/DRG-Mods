@@ -788,5 +788,15 @@
     ],
     "Description": "**Requires the mod loader.**\nAdds options for controlling: super-sampling, ambient occlusion, bloom, lens flare, lens dirt, vignette, and film grain.\n_Your in-game graphics settings for post-processing must be set to high/ultra._",
     "LatestUpdateChangelog": null
+  },
+  "Mission Timer": {
+    "DisplayName": "Mission Timer",
+    "Version": "1.1",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nAdds a small mission timer to the top of the screen. Also acts as a deep dive stage timer.",
+    "LatestUpdateChangelog": null
   }
 }
