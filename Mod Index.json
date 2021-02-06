@@ -938,5 +938,15 @@
     ],
     "Description": "--Makes the light of throwing flares white without any other changes.\n--Seems to be brighter due to the color change not blending or being \"dark\".",
     "LatestUpdateChangelog": null
+  },
+  "Deep Dives Have Double Resources": {
+    "DisplayName": "Deep Dives Have Double Resources",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "Deep Dives will now spawn an abundant amount of resources.  The resource veins only work for the host but the deposited ones do work for clients.",
+    "LatestUpdateChangelog": null
   }
 }
