@@ -778,5 +778,15 @@
     ],
     "Description": "**Requires the mod loader.**\nReplaces the game's spectator camera when you get downed (removes the fuzzy overlay and skips the faceplant animation). It allows you to freely orbit and zoom in/out when spectating players. You can also optionally spectate Bosco, Molly, Doretta, and BET-C.",
     "LatestUpdateChangelog": null
+  },
+  "Better Post Processing": {
+    "DisplayName": "Better Post Processing",
+    "Version": "1.3",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nAdds options for controlling: super-sampling, ambient occlusion, bloom, lens flare, lens dirt, vignette, and film grain.\n_Your in-game graphics settings for post-processing must be set to high/ultra._",
+    "LatestUpdateChangelog": null
   }
 }
