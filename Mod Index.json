@@ -998,5 +998,15 @@
     ],
     "Description": "Makes you carry 8 grenades for all types to match up with axes.",
     "LatestUpdateChangelog": null
+  },
+  "Sniper Turret": {
+    "DisplayName": "Sniper Turret",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "--Buffs and nerfs various aspects of the base engineer turret to suit a sniper theme.\n--Changes all engineer turret upgrades to fit with the changes.\n--Adds a buffed and recolored blue light to the turret targeting circle as well as the point light around it.\nFull changelog for showing undisplayed changes can be seen in this message in mod preview:\nhttps://discordapp.com/channels/676880716142739467/732650220214681600/762558222732230686",
+    "LatestUpdateChangelog": null
   }
 }
