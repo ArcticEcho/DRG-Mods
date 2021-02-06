@@ -878,5 +878,15 @@
     ],
     "Description": "Changes the base Ammo capacity of the sentrygun\n--Increased Ammo 425 > 600\n--As Host: Affects all Engineer turrets if host has the mod\n--As Client: Doesn't work as Client",
     "LatestUpdateChangelog": null
+  },
+  "ZiplineGun Speed, Ammo And Angle Buffed": {
+    "DisplayName": "ZiplineGun Speed, Ammo and Angle Buffed",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      426057750611755030
+    ],
+    "Description": "Changes ZiplineGun Base Stats\n--Increased Speed 1.0 > 2.0\n--Increased MaxDistance 3000.0 (30m) > 4000.0 (40m)\n--Increased MaxAngle 30.0 > 40.0\n--Increased MinAngle 30.0 > 40.0\n--Increased Ammo 3 > 5\n--As Host: Affects only your own ZiplineGun\n--As Client: Affects only your own ZiplineGun",
+    "LatestUpdateChangelog": null
   }
 }
