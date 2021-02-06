@@ -818,5 +818,15 @@
     ],
     "Description": "[HOST ONLY EFFECT - Need at least 0.00(repeating of course) 1 Nitra to call in]\n--Changed supply drop cost to 0 Nitra",
     "LatestUpdateChangelog": null
+  },
+  "50 Nitra Supply Drops": {
+    "DisplayName": "50 Nitra Supply Drops",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "For the hyperspawn mods\n--Ommeran Rock Attack Rocks have half health",
+    "LatestUpdateChangelog": null
   }
 }
