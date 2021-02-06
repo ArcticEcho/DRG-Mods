@@ -888,5 +888,15 @@
     ],
     "Description": "Changes ZiplineGun Base Stats\n--Increased Speed 1.0 > 2.0\n--Increased MaxDistance 3000.0 (30m) > 4000.0 (40m)\n--Increased MaxAngle 30.0 > 40.0\n--Increased MinAngle 30.0 > 40.0\n--Increased Ammo 3 > 5\n--As Host: Affects only your own ZiplineGun\n--As Client: Affects only your own ZiplineGun",
     "LatestUpdateChangelog": null
+  },
+  "Guaranteed Machine Events": {
+    "DisplayName": "Guaranteed Machine Events",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "Makes machine events always spawn in missions so that you can farm less to use your cores.",
+    "LatestUpdateChangelog": null
   }
 }
