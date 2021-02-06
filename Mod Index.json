@@ -968,5 +968,15 @@
     ],
     "Description": "--Makes the platforms into small dots with 50 base mag size.\n--Removes recoil from firing, increases RoF massively, buffs upgrades (except for falling and repellent).\n--Max ammo set to 0, can increase ammo up to 200 with upgrades.\n--Build pillars and bridges easily, especially with no delay on platform building so you can truly do parkour!\nPreview: https://discordapp.com/channels/676880716142739467/732650220214681600/762946862755217419",
     "LatestUpdateChangelog": null
+  },
+  "Thick Platforms": {
+    "DisplayName": "Thick Platforms",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "--Makes the platforms \"乇乂ㄒ尺卂 ㄒ卄丨匚匚\".\n--Good for making cocoons and castles.\n--Fill driller holes easier or bury your useless allies.\nPreview: https://discordapp.com/channels/676880716142739467/732650220214681600/762558614958637076",
+    "LatestUpdateChangelog": null
   }
 }
