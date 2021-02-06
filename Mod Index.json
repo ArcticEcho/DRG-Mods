@@ -668,5 +668,15 @@
     ],
     "Description": "Removes the radiation cloud from fatboy explosions",
     "LatestUpdateChangelog": null
+  },
+  "Fullmetal Scout": {
+    "DisplayName": "Fullmetal Scout",
+    "Version": "1.0",
+    "DrgVersion": "U 33, HF 2",
+    "AuthorIds": [
+      156386896866574336
+    ],
+    "Description": "A heavily armed Scout, no balance changes, only the Scout Loadout now includes the primaries Minigun, Cryo and secondaries PGL, Autocannon also IFG -> Axe, Pheremones -> Lure",
+    "LatestUpdateChangelog": null
   }
 }
