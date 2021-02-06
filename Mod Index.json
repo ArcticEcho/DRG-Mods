@@ -678,5 +678,15 @@
     ],
     "Description": "A heavily armed Scout, no balance changes, only the Scout Loadout now includes the primaries Minigun, Cryo and secondaries PGL, Autocannon also IFG -> Axe, Pheremones -> Lure",
     "LatestUpdateChangelog": null
+  },
+  "Laser Sight": {
+    "DisplayName": "Laser Sight",
+    "Version": "1.1",
+    "DrgVersion": "U33, H2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "Replaces your flashlight with a laser pointer and gives your nearby surroundings a soft red glow.",
+    "LatestUpdateChangelog": null
   }
 }
