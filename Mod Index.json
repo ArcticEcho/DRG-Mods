@@ -808,5 +808,15 @@
     ],
     "Description": "**Requires the mod loader.**\nRemoves the mission control speech text popup.",
     "LatestUpdateChangelog": null
+  },
+  "0 Nitra Supply Drops": {
+    "DisplayName": "0 Nitra Supply Drops",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "[HOST ONLY EFFECT - Need at least 0.00(repeating of course) 1 Nitra to call in]\n--Changed supply drop cost to 0 Nitra",
+    "LatestUpdateChangelog": null
   }
 }
