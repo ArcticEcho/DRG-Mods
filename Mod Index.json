@@ -898,5 +898,15 @@
     ],
     "Description": "Makes machine events always spawn in missions so that you can farm less to use your cores.",
     "LatestUpdateChangelog": null
+  },
+  "10 Waypoints": {
+    "DisplayName": "10 Waypoints",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "Lets you place up to 10 different waypoints to track routes and points of interest.  The 11th waypoint will replace the 1st one and so on.",
+    "LatestUpdateChangelog": null
   }
 }
