@@ -848,5 +848,15 @@
     ],
     "Description": "Changes Bullet Hell Overclock for the Gunner Minigun\n-Decreased damage penalty -3.0 > -1.0\n-Increased Ricochet Chance 0.5 > 0.9 (50% to 90%)\n-Decreased Spread penalty 6.0 > 2.0\n-As Host: Affects only your own Minigun\n-As Client: Affects only your own Minigun",
     "LatestUpdateChangelog": null
+  },
+  "Minigun Base Ammo Buffed": {
+    "DisplayName": "Minigun Base Ammo Buffed",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      426057750611755030
+    ],
+    "Description": "Changes Minigun Base Ammo Stats\n-Increased Ammo 2400 > 3000\n-As Host: Affects only your own Minigun\n-As Client: Affects only your own Minigun",
+    "LatestUpdateChangelog": null
   }
 }
