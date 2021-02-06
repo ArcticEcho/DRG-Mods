@@ -728,5 +728,15 @@
     ],
     "Description": "Created this mod for me as I was tired of accidentally activating Dash next to\na pit, hurling me to my death, or just not having it recharged when actually\nneeded as it was previously triggered by accident.\n----------------------------------------------------------------\n--Makes the Dash activation window 0.2 seconds \"shift\" key double taps instead 0.4 seconds\n----------------------------------------------------------------\nNote: Incompatible with the \"No more Dollar Store flashlights\" mod as they both change the same file, message me if you want both",
     "LatestUpdateChangelog": null
+  },
+  "Good Old Bet-C.exe": {
+    "DisplayName": "Good Old Bet-C.exe",
+    "Version": "33.2.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      306800962432008193
+    ],
+    "Description": "Prevents friendly BET-C from hurling bombs in your face and taking out your shield.\nBasically uses Left 4 Dead AI principles; if not smart enough to avoid hitting you,\nthen at least it won't damage you. Just like good old times before update 20-something.\nNo more needing to re-consider repairing BET-C or not on shield disruption missions. \n----------------------------------------------------------------\n--Friendly BET-C bombs do 0 damage on dwarves\n----------------------------------------------------------------",
+    "LatestUpdateChangelog": null
   }
 }
