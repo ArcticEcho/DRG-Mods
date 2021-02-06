@@ -768,5 +768,15 @@
     ],
     "Description": "- I wanted to use the 2x ammo mod at the same time as Slightly Better Scout, but since the two mods modify the same files, I combined them into one mod.\n- All primary and secondary weapons of all classes have their ammo doubled (doesn’t affect equipment such as C4)\n- Fall damage reduction armor mod increased from 33% to 50%\n- Deepcore GK2 damage increased from 15 to 17\n- M1000 Classic clip size increased from 8 to 10, damage increased from 50 to 55\n- Zhukov Nuk17 damage increased from 12 to 14\n- Jury-Rigged Boomstick pellet count increased from 8 to 9\n- As a host, the damage & armor changes will affect anyone playing scout in your game. The ammo changes will only affect you.\n- As a client, this mod will still affect your ammo, but not damage or armor.\n*Thanks to* <@!220325734374309889> *for helping me make the Slightly Better Scout portion of this mod and* <@!360816319722946560> *for their work on the 2x ammo (now known as legendary hoarder) mod*",
     "LatestUpdateChangelog": null
+  },
+  "Better Spectator": {
+    "DisplayName": "Better Spectator",
+    "Version": "1.7",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nReplaces the game's spectator camera when you get downed (removes the fuzzy overlay and skips the faceplant animation). It allows you to freely orbit and zoom in/out when spectating players. You can also optionally spectate Bosco, Molly, Doretta, and BET-C.",
+    "LatestUpdateChangelog": null
   }
 }
