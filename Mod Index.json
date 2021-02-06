@@ -978,5 +978,15 @@
     ],
     "Description": "--Makes the platforms \"乇乂ㄒ尺卂 ㄒ卄丨匚匚\".\n--Good for making cocoons and castles.\n--Fill driller holes easier or bury your useless allies.\nPreview: https://discordapp.com/channels/676880716142739467/732650220214681600/762558614958637076",
     "LatestUpdateChangelog": null
+  },
+  "HE Grenade Carve": {
+    "DisplayName": "HE Grenade Carve",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "--Adds a 4x4x4 (8m diameter) meter carve to HE Grenades.\n--Reduces time to detonate to 0.5 seconds after throwing.\n--Increased throw velocity to give it some range before detonating.",
+    "LatestUpdateChangelog": null
   }
 }
