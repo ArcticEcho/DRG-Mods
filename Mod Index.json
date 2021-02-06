@@ -718,5 +718,15 @@
     ],
     "Description": "Increases flashlight range so you don't need to have your nose against the wall to see the minerals there\n----------------------------------------------------------------\n--Variation 2x has twice the range\n--Variation 3x has thrice the range\n--See Preview: https://discord.com/channels/676880716142739467/732650220214681600/784327494596689920\n----------------------------------------------------------------\nNote: Incompatible with the \"Dash Perk Suicide Preventer\" mod as they both change the same file, message me if you want both",
     "LatestUpdateChangelog": null
+  },
+  "Dash Perk Suicide Preventer": {
+    "DisplayName": "Dash Perk Suicide Preventer",
+    "Version": "33.2.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      306800962432008193
+    ],
+    "Description": "Created this mod for me as I was tired of accidentally activating Dash next to\na pit, hurling me to my death, or just not having it recharged when actually\nneeded as it was previously triggered by accident.\n----------------------------------------------------------------\n--Makes the Dash activation window 0.2 seconds \"shift\" key double taps instead 0.4 seconds\n----------------------------------------------------------------\nNote: Incompatible with the \"No more Dollar Store flashlights\" mod as they both change the same file, message me if you want both",
+    "LatestUpdateChangelog": null
   }
 }
