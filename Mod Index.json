@@ -858,5 +858,15 @@
     ],
     "Description": "Changes Minigun Base Ammo Stats\n-Increased Ammo 2400 > 3000\n-As Host: Affects only your own Minigun\n-As Client: Affects only your own Minigun",
     "LatestUpdateChangelog": null
+  },
+  "SentryyGun Returningspeed Buffed": {
+    "DisplayName": "SentryyGun Returningspeed Buffed",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      426057750611755030
+    ],
+    "Description": "Changes the returningspeed and dismanlte of the sentrygun\n--Increased MaxPawnSpeed 2000 > 6000\n--Increased MaxAcceleration 2000 > 6000\n--Increased MaxBrakingDeceleration 4000 > 12000\n--Decreased DismantleDuration 1 > 0.5",
+    "LatestUpdateChangelog": null
   }
 }
