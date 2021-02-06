@@ -868,5 +868,15 @@
     ],
     "Description": "Changes the returningspeed and dismanlte of the sentrygun\n--Increased MaxPawnSpeed 2000 > 6000\n--Increased MaxAcceleration 2000 > 6000\n--Increased MaxBrakingDeceleration 4000 > 12000\n--Decreased DismantleDuration 1 > 0.5",
     "LatestUpdateChangelog": null
+  },
+  "Sentrygun Base Ammo Buffed": {
+    "DisplayName": "Sentrygun Base Ammo Buffed",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      426057750611755030
+    ],
+    "Description": "Changes the base Ammo capacity of the sentrygun\n--Increased Ammo 425 > 600\n--As Host: Affects all Engineer turrets if host has the mod\n--As Client: Doesn't work as Client",
+    "LatestUpdateChangelog": null
   }
 }
