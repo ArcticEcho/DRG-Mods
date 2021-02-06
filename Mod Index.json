@@ -688,5 +688,15 @@
     ],
     "Description": "Replaces your flashlight with a laser pointer and gives your nearby surroundings a soft red glow.",
     "LatestUpdateChangelog": null
+  },
+  "Lootsplosion": {
+    "DisplayName": "Lootsplosion",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "--Lootbugs and Huuli Hoarders now drop minerals as fast and as much as you can damage them before killing them (high RoF low damage is best).\n--Lootbugs now multiply resources that they eat by 3x and get new eating targets much faster.\n--Seems to prevent them from dropping loot on death since you ring them dry through torture.",
+    "LatestUpdateChangelog": null
   }
 }
