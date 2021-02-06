@@ -828,5 +828,15 @@
     ],
     "Description": "For the hyperspawn mods\n--Ommeran Rock Attack Rocks have half health",
     "LatestUpdateChangelog": null
+  },
+  "160 Nitra Supply Drops": {
+    "DisplayName": "160 Nitra Supply Drops",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "[HOST ONLY EFFECT]\n--Changed supply drop cost to 160 Nitra",
+    "LatestUpdateChangelog": null
   }
 }
