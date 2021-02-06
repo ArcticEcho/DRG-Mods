@@ -988,5 +988,15 @@
     ],
     "Description": "--Adds a 4x4x4 (8m diameter) meter carve to HE Grenades.\n--Reduces time to detonate to 0.5 seconds after throwing.\n--Increased throw velocity to give it some range before detonating.",
     "LatestUpdateChangelog": null
+  },
+  "8 Grenades": {
+    "DisplayName": "8 Grenades",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "Makes you carry 8 grenades for all types to match up with axes.",
+    "LatestUpdateChangelog": null
   }
 }
