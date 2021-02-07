@@ -1131,16 +1131,5 @@
     "Description": "Targeted buffs for weapons, mods, and overclocks to create more build variety. Made using karl.gg data and my personal experience. All feedback is appreciated in the <#772083212691963904> channel. Change list: https://onlyo.co/36GBkpC",
     "LastUpdateChangelog": null,
     "LargeFileDownloadUrl": null
-  },
-  "test": {
-    "DisplayName": "TEST",
-    "Version": "1",
-    "DrgVersion": "Update 32, Hotfix 28",
-    "AuthorIds": [
-      158916111390343168
-    ],
-    "Description": "asdasdadsasdasdasd",
-    "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
   }
 }
