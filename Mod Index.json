@@ -659,16 +659,6 @@
     "Description": "------------------------------------\nChanges the Dreadnought Boss Music to Dies Irea by Guiseppe Verdi\nPlayed by the Atlanta Symphony Orchestra and Chorus directed by Robert Shaw\n------------------------------------\nListen to this Dies Irea,\nA Dreadnought's coming for you,\nGonna annihilate your whole crew,\nGonna be squashed by a large crustacea\n------------------------------------",
     "LatestUpdateChangelog": null
   },
-  "Radiation-less Fatboy": {
-    "DisplayName": "Radiation-less Fatboy",
-    "Version": "1",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      350019378189828097
-    ],
-    "Description": "Removes the radiation cloud from fatboy explosions",
-    "LatestUpdateChangelog": null
-  },
   "Fullmetal Scout": {
     "DisplayName": "Fullmetal Scout",
     "Version": "1.0",
