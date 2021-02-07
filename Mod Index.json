@@ -1,5 +1,5 @@
 {
-  "Mod Loader": {
+  "mod loader": {
     "DisplayName": "Mod Loader",
     "Version": "4.2",
     "DrgVersion": "Update 33",
@@ -7,9 +7,10 @@
       158916111390343168
     ],
     "Description": "Provides a platform for mod developers to get their BluePrints mods loaded into the game. You can view and interact with the mods using the manager menu (keybinding N).",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Beast Master Buff": {
+  "beast master buff": {
     "DisplayName": "Beast Master Buff",
     "Version": "1",
     "DrgVersion": "33",
@@ -17,9 +18,10 @@
       252291709927555072
     ],
     "Description": "Steeve seems too fragile these days. Tame time .75s > .1s, Cooldown 5 mins > 90s, movement speed 1.15 > 1.3",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Pointless Shield Disruption": {
+  "pointless shield disruption": {
     "DisplayName": "Pointless Shield Disruption",
     "Version": "1",
     "DrgVersion": "33",
@@ -27,9 +29,10 @@
       350019378189828097
     ],
     "Description": "Shield Disruption will no longer affect gameplay, Red Sugar Occurrence 2x > 1x, Shield 0x > 1x, Damage Reduction 0.7x > 1x, and Hazard Bonus 30% > 0%. Works on both U32 and U33",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Don't Pet Steeve": {
+  "don't pet steeve": {
     "DisplayName": "Don't Pet Steeve",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -37,9 +40,10 @@
       350019378189828097
     ],
     "Description": "Steeve is unable to be pet and won't get in the way of revives. Works for both U32 and 33",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Pepega Gunner": {
+  "pepega gunner": {
     "DisplayName": "Pepega Gunner",
     "Version": "2.0",
     "DrgVersion": "Update 33 Experimental 1",
@@ -47,9 +51,10 @@
       350019378189828097
     ],
     "Description": "Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "No Reviving": {
+  "no reviving": {
     "DisplayName": "No Reviving",
     "Version": "2",
     "DrgVersion": "33",
@@ -57,9 +62,10 @@
       350019378189828097
     ],
     "Description": "Makes it literally impossible to revive, excluding FM and IW. (Works on both U32 & 33)",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Quarter Death Duration": {
+  "quarter death duration": {
     "DisplayName": "Quarter Death Duration",
     "Version": "1.2",
     "DrgVersion": "Update 33, Hotfix 1",
@@ -67,9 +73,10 @@
       350019378189828097
     ],
     "Description": "Sets the ragdoll duration for the majority of Glyphids to ≤5 seconds, except for enemies who have death effects. [Warden, Menace, Acid, and Web have 5 seconds] [Grunts (all types) have 3 seconds] [Exploders and Praets have 7 seconds] [Dets and Dreads are unchanged]",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Beatboxing Cave Angels": {
+  "beatboxing cave angels": {
     "DisplayName": "Beatboxing Cave Angels",
     "Version": "1",
     "DrgVersion": "Update 33, Hotfix 1",
@@ -77,9 +84,10 @@
       169492441982959616
     ],
     "Description": "Replaces cave angel's idle sounds with verbalase's beatboxing",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Anime Doretta": {
+  "anime doretta": {
     "DisplayName": "Anime Doretta",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -87,9 +95,10 @@
       169492441982959616
     ],
     "Description": "Replaces Doretta's normal sounds with totally not unpleasant Anime sound effects, also Lone's favorite mod ever",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "No Tinnitus": {
+  "no tinnitus": {
     "DisplayName": "No Tinnitus",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -97,9 +106,10 @@
       158916111390343168
     ],
     "Description": "Removes the high-pitched ringing sound effect that plays: after an explosion, at mission start, when switching classes, and when toggling your flashlight.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Support Pods": {
+  "support pods": {
     "DisplayName": "Support Pods",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -107,9 +117,10 @@
       146392394328178690
     ],
     "Description": "REQUIRES MOD LOADER\nAdds 3 new call ins to the game. The beginning of the game provides you with 3 charges shared between all pods, these charges refresh every 5 minutes and it costs 1 charge per pod.  Only the host with the mod can call these in to prevent de-sync issues as a client trying to call them in.\n\n-Spotpipe: when you press 6 a beacon is placed to call in a modified resupply pod with a rotating spotlight that provides bright light around it and directional light on the ceiling, it also comes with 4 pipeline starts to start grinding on any mission you want (except refinery to prevent breaking the mission).  This pod is also worth kicking.\n\n-Time Capsule: when you press 7 a beacon is placed to call in a modified supply pod that has 4 deposit slots for collecting your precious minerals regardless of MULE accessibility.  This works on every mission type, yes, even Point Extraction and Refinery.  Comes with spinning MULE beacon to light the way and tell your ears to find it later.  Despite my on-the-spot name for this, it does not actually hold stuff for later, just an alternative deposit area.\n\n-Angelic Intervention: when you press 0 a late joining player beacon is placed and an egg falls from the sky, opening shortly after with your favorite pet.  That's right, Steeve!  Nah, who wants that when you can get your very own personal flying taxi to explore any cave you want . .\n\nNote -> Angelic Intervention only works in the upcoming experimental and full release build of U33.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/802830115573989388",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Upgraded Doretta": {
+  "upgraded doretta": {
     "DisplayName": "Upgraded Doretta",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -117,9 +128,10 @@
       146392394328178690
     ],
     "Description": "REQUIRES MOD LOADER\nManagement finally decided it was worth upgrading the drilldozer armor to prevent future losses!  Oh, who am I kidding, of course they didn't.\n\n-We welded 4 heavy LMG turrets to Doretta with as much ammo as a standard turret magazine and provided no reserves, so stick your engineer with reloading them since his personal turret doesn't stay aboard anyways, unlike these ones.\n\n-Cut some holes for 2 deposits near the gears that make the drilldozer do what it is known for, drilling, thus helping you to crush those minerals and hopefully not break the damn thing.\n\n-Got rid of some suspension to add 2 pipeline starts to the bottom, outer sides of the fuel canister region.  Who would have thought that a giant artificial tunnel system would be good for roller-coasters AND extraction with a valuable head and the glowing duct tape equivalent for Hoxxes?\n\nNote-> does not pimp your ride (adds stuff, nothing was actually removed for the enhancements).",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Leech Moment": {
+  "leech moment": {
     "DisplayName": "Leech Moment",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -127,9 +139,10 @@
       199938370338553856
     ],
     "Description": "Adds \"It was at this moment he knew\" line to a leech grabbing sound.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "KEKW Detonator": {
+  "kekw detonator": {
     "DisplayName": "KEKW Detonator",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -137,9 +150,10 @@
       199938370338553856
     ],
     "Description": "Replaces Bulk Detonator growl with random KEKW laugh.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "More FOV": {
+  "more fov": {
     "DisplayName": "More FOV",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -147,9 +161,10 @@
       199938370338553856
     ],
     "Description": "Adds ability to change FOV up to 260.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Music Control": {
+  "music control": {
     "DisplayName": "Music Control",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -157,9 +172,10 @@
       199938370338553856
     ],
     "Description": "A re-created base class tree of sound classes and submixes used by music mods.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Quiet Space Rig": {
+  "quiet space rig": {
     "DisplayName": "Quiet Space Rig",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -167,9 +183,10 @@
       418874899868942336
     ],
     "Description": "Replaces the Ambient Song in the Space Rig with Space Noise and Star Trek sounds to make it quieter.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Shining Lloyd": {
+  "shining lloyd": {
     "DisplayName": "Shining Lloyd",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -177,9 +194,10 @@
       418874899868942336
     ],
     "Description": "Replaces Lloyd's vocalizations with Lloyd the Bartender from The Shining run through a robot vocal changer.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806979173154947082",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Molly R2D2": {
+  "molly r2d2": {
     "DisplayName": "Molly R2D2",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -187,9 +205,10 @@
       418874899868942336
     ],
     "Description": "Replaces Molly's beeps with R2D2's beeps.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806990176135806976",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Kids Crate": {
+  "kids crate": {
     "DisplayName": "Kids Crate",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -197,9 +216,10 @@
       418874899868942336
     ],
     "Description": "Replaces Discovery Music (opening a crate or finding a pack) – with the Jimco Drums and Kids saying “Holy Shit” from the credits of WKUK.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/807003140620156978",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Metal Gear Alert Heightened Senses": {
+  "metal gear alert heightened senses": {
     "DisplayName": "Metal Gear Alert Heightened Senses",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -207,9 +227,10 @@
       169492441982959616
     ],
     "Description": "Replaces Heighten Senses sound with Metal Gear Alert Sound",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Molly Respects Boundaries": {
+  "molly respects boundaries": {
     "DisplayName": "Molly Respects Boundaries",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -217,9 +238,10 @@
       712926827911446548
     ],
     "Description": "Thanks to <@!189954203664252928> for the original, this is an update of his mod.\n--In the base game when all players move more than 20 meters away from Molly, she moves to the location of the last player that left that radius. \n--This mod changes that distance to 75 meters to prevent Molly from getting in your way when you may be backing up from a fight, but if you forget to call her she won’t stay in a completely different room. \n--This mod will only apply to the lobby if the host has it.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "BetterMiningLaser": {
+  "bettermininglaser": {
     "DisplayName": "BetterMiningLaser",
     "Version": "1.01",
     "DrgVersion": "U33",
@@ -227,9 +249,10 @@
       243195324594782210
     ],
     "Description": "-Increases escort fuel canister laser range from 4m to 25m.\n-Reduces melting time from 0.45s to 0.1s.\n-All but removes vacuum delay on picking up loose chunks of oil shale.\n-Increases amount of oil shale mined by 140%.\n-Removes 15% fuel canister carrying movement penalty.\n-Client side mod.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "DorettaDontCare": {
+  "dorettadontcare": {
     "DisplayName": "DorettaDontCare",
     "Version": "1.01",
     "DrgVersion": "U33",
@@ -237,9 +260,10 @@
       243195324594782210
     ],
     "Description": "-Increases Doretta's mining speed by 66% (From 0.6 to 1.0)\n-Host mod.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "FastMachineStart": {
+  "fastmachinestart": {
     "DisplayName": "FastMachineStart",
     "Version": "1.01",
     "DrgVersion": "U33",
@@ -247,9 +271,10 @@
       243195324594782210
     ],
     "Description": "-Reduces use time on machine event buttons from 5 seconds to 2 seconds.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "LaserLonger": {
+  "laserlonger": {
     "DisplayName": "LaserLonger",
     "Version": "1.01",
     "DrgVersion": "U33",
@@ -257,9 +282,10 @@
       243195324594782210
     ],
     "Description": "-Increases duration of laser pointer waypoint from 20s to 5 mins. Client side mod.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "NotSoBrokenSupplyPod": {
+  "notsobrokensupplypod": {
     "DisplayName": "NotSoBrokenSupplyPod",
     "Version": "1.01",
     "DrgVersion": "U33",
@@ -267,9 +293,10 @@
       243195324594782210
     ],
     "Description": "-Reduces repair time of broken resupplies found in Salvage missions from 20s to 3s.\n-Increases chance of repaired supply pod working from 50% to 67%.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "SpeedyEscort": {
+  "speedyescort": {
     "DisplayName": "SpeedyEscort",
     "Version": "1.01",
     "DrgVersion": "U33",
@@ -277,9 +304,10 @@
       243195324594782210
     ],
     "Description": "-Increases Doretta's mining speed by 66% (From 0.6 to 1.0)\n-Increases Doretta's top movement speed when encouraged by dwarven hugs by 20%. (From 1.0 to 1.2)\n-Increases Doretta's movement speed while being attacked by 20%. (From 1.0 to 1.2)\n-Host mod.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "SupersonicSentry": {
+  "supersonicsentry": {
     "DisplayName": "SupersonicSentry",
     "Version": "1.01",
     "DrgVersion": "U33",
@@ -287,9 +315,10 @@
       243195324594782210
     ],
     "Description": "-Increases sentry turret return flight speed from 20m/s to 60m/s.\n-Reduces sentry deconstruction time from 1s to 0.33s.\n-Host mod.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "UnnerfedElephantRounds": {
+  "unnerfedelephantrounds": {
     "DisplayName": "UnnerfedElephantRounds",
     "Version": "1.01",
     "DrgVersion": "U33",
@@ -297,9 +326,10 @@
       243195324594782210
     ],
     "Description": "-Removes increased recoil recovery malus.\n-Restores max ammo penalty to -12 instead of -13.\n-Restores number of chambers to 4 from 3.\n-Removes reload speed increase penalty. (This also affects Six Shooter.)\n-Client side mod.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "UnnerfedThorns": {
+  "unnerfedthorns": {
     "DisplayName": "UnnerfedThorns",
     "Version": "1.01",
     "DrgVersion": "U33",
@@ -307,9 +337,10 @@
       243195324594782210
     ],
     "Description": "-Removes 0.7s reactivation delay.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Kraeus's Crazy Jukebox": {
+  "kraeus's crazy jukebox": {
     "DisplayName": "Kraeus's Crazy Jukebox",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -317,9 +348,10 @@
       418874899868942336
     ],
     "Description": "Replaces every song in the Jukebox with real songs. \nIt covers all the genres of the OG jukebox just with more Shanties.\nSong List: https://docs.google.com/uc?export=download&id=1NGX83YBCCC_yy2Zj7i5Y2jMzXbL9oYRz\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806953907217629244",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "SmolChubPlatsv2": {
+  "smolchubplatsv2": {
     "DisplayName": "SmolChubPlatsv2",
     "Version": "1.0",
     "DrgVersion": "U33",
@@ -327,9 +359,10 @@
       180149276934930432
     ],
     "Description": "Inspired by toothpaste gun from <@!146392394328178690> , Makes platforms less wide and slightly taller (but less small than toothpaste so it's not horrible for unmodded randos), increases firerate to like, 50, for fast bridges, and increases ammo, 100 max ammo, 50 clip size. Oh and double speed reload.. for faster bridges.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Subata Glock 17": {
+  "subata glock 17": {
     "DisplayName": "Subata Glock 17",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -337,9 +370,10 @@
       199938370338553856
     ],
     "Description": "Replaces Subata sounds with Glock 17 sounds\nDownload Link None",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "M1K Garand": {
+  "m1k garand": {
     "DisplayName": "M1K Garand",
     "Version": "2.0",
     "DrgVersion": "Update 33",
@@ -347,9 +381,10 @@
       199938370338553856
     ],
     "Description": "Replaces M1K sounds to to M1 Garand sounds \nDownload Link None",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "BRT7 Glock 18c": {
+  "brt7 glock 18c": {
     "DisplayName": "BRT7 Glock 18c",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -357,9 +392,10 @@
       199938370338553856
     ],
     "Description": "Replaces BRT7 sounds with Glock 18c sounds\nDownload Link None",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Twitch Integration": {
+  "twitch integration": {
     "DisplayName": "Twitch Integration",
     "Version": "2.0.3",
     "DrgVersion": "Update 33",
@@ -367,9 +403,10 @@
       506899406776303616
     ],
     "Description": "Set up channel rewards so your twitch viewers can spawn a variety of enemies, power ups... inside a mission.\nFind the set up guide in <#799404622682390599> and an icon pack in <#799404647340048392>.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Fabulously Fast Lootbugs": {
+  "fabulously fast lootbugs": {
     "DisplayName": "Fabulously Fast Lootbugs",
     "Version": "1",
     "DrgVersion": "Update 32/33",
@@ -377,9 +414,10 @@
       229330150142115842
     ],
     "Description": "Increases the Lootbug Speed tremendously  (25.0 to 1000.0) but they still rest normally. Also looks really funny",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "EPC Carve 7m": {
+  "epc carve 7m": {
     "DisplayName": "EPC Carve 7m",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -387,9 +425,10 @@
       185833916203139082
     ],
     "Description": "- Changes the carve radius of the thin containment field explosion from 6 meters to 7 meters. Useful for making EPC mining easier while keeping it usable in combat.\n- As a host, will affect anyone using this weapon in your game.\n- As a client, this mod has no effect.\n- Inspired by a similar mod made by GoldBl4d3",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "BBP (Big Balance Patch)": {
+  "bbp (big balance patch)": {
     "DisplayName": "BBP (Big Balance Patch)",
     "Version": "1.5",
     "DrgVersion": "Update 33",
@@ -397,9 +436,10 @@
       360816319722946560
     ],
     "Description": "Pretty much overhauls your entire DRG gameplay experience. The changelog is too long to post here, so it has been included in the zip file. Also features a PDF changelog option.\n\nNotes: \n1. Changes will fully work only if the lobby host has the mod installed, otherwise any damage changes will be ignored and set to vanilla. \n2. Do not use it with any mods that alter the weapons' base values (ammo, damage etc.); perks and grenades have been altered as well, so are utility tools and armor mods. I'm not responsible for your crashes should you choose to ignore this;) \n\nThis mod includes a rework of the PGL, extensive changes to Zhukovs/Subata/Warthog/Autocannon/Breach Cutter and buffs to underperforming OCs/weapons/perks/grenades along with nerfs to overperforming ones.\n\nNote on shield generator changes: there is currently a bug where the duration upgrades apply twice. In order to \"fix\" this, I halved them so the values actually match what's written in the files. This is a temporary solution and will be reverted once GSG fixes the issue.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Extended Armor Mineral Capacity (20)": {
+  "extended armor mineral capacity (20)": {
     "DisplayName": "Extended Armor Mineral Capacity (20)",
     "Version": "1.0",
     "DrgVersion": "Update 32/33",
@@ -407,9 +447,10 @@
       185833916203139082
     ],
     "Description": "- Changes the Bigger Mineral Bag upgrade on all armors to +20 instead of +5.\n- As a host, will affect anyone using this armor upgrade in your game.\n- As a client, this mod has no effect.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Extended Armor Mineral Capacity (300)": {
+  "extended armor mineral capacity (300)": {
     "DisplayName": "Extended Armor Mineral Capacity (300)",
     "Version": "1.0",
     "DrgVersion": "Update 32/33",
@@ -417,9 +458,10 @@
       185833916203139082
     ],
     "Description": "- Changes the Bigger Mineral Bag upgrade on all armors to +300 instead of +5. You are the mule now!\n- As a host, will affect anyone using this armor upgrade in your game.\n- As a client, this mod has no effect.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Dwarf-Sized Carve And Faster Mining": {
+  "dwarf-sized carve and faster mining": {
     "DisplayName": "Dwarf-Sized Carve and Faster Mining",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -427,9 +469,10 @@
       185833916203139082
     ],
     "Description": "- Changes carve size of nearly every material from (between 75 and 150) to 155. This gives the perfect size for making dwarf-sized tunnels to walk through.\n- Changes hits needed to mine of nearly every material from (between 3 and 5) to 1. \n- Changes carve size of gold left by a Crassus Detonator to 240, greatly speeding up crassus cleanup.\n- Does not change the carve size of bismor, umanite, red sugar, hollowmite, magnite, oil shale, engineer platforms, or \"worthless\" crystals. These materials don't have the \"PickAxeDigSize\" property and I cannot change them.\n- Does not change the hits to mine of many materials that take 2 hits. These materials don't have the \"HitsNeededToMine\" property and I cannot change them.\n- Inspired by the \"Dirt Devil,\" \"Safe Rocky Mountain,\" and \"Convenient Digging\" mods. This mod should not be used at the same time as those.\n- As a host, the carve size increase will affect everyone who joins your game. The reduced number of hits needed will only affect you.\n- As a client, it will try to carve a larger spot, but revert back to the normal carve size. The reduced number of hits needed will only affect you.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Faster Mining": {
+  "faster mining": {
     "DisplayName": "Faster Mining",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -437,9 +480,10 @@
       185833916203139082
     ],
     "Description": "- Changes hits needed to mine of nearly every material from (between 3 and 5) to 1. \n- Does not change the hits to mine of many materials that take 2 hits. These materials don't have the \"HitsNeededToMine\" property and I cannot change them.\n- Inspired by the \"Safe Rocky Mountain\" mod. This mod should not be used at the same time as that one.\n- As a host, the reduced number of hits needed will only affect you.\n- As a client, the reduced number of hits needed will only affect you.\n- Created at the request of <@!426057750611755030>",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Slightly Better Scout": {
+  "slightly better scout": {
     "DisplayName": "Slightly Better Scout",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -447,9 +491,10 @@
       185833916203139082
     ],
     "Description": "- Fall damage reduction armor mod increased from 33% to 50%\n- Deepcore GK2 damage increased from 15 to 17\n- M1000 Classic clip size increased from 8 to 10, damage increased from 50 to 55\n- Zhukov Nuk17 damage increased from 12 to 14\n- Jury-Rigged Boomstick pellet count increased from 8 to 9\n- As a host, will affect anyone playing scout in your game.\n- As a client, this mod has no effect.\n- Updated for U33.\n- Thanks to <@!220325734374309889> for helping me make this mod",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Slightly Wider Platforms": {
+  "slightly wider platforms": {
     "DisplayName": "Slightly Wider Platforms",
     "Version": "1.0",
     "DrgVersion": "Update 32/33",
@@ -457,9 +502,10 @@
       185833916203139082
     ],
     "Description": "- Platform diameter increased from 4 to 5 (that’s an area increase from 12.5 to 19.6 on top of the platform, about 1.57 times more).\n- As a result of the diameter increase, they are about 50% thicker.\n- Platform creation delay reduced from 0.25 to 0.10.\n- As a host, will affect anyone playing engineer in your game.\n- As a client, this mod has no effect.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Fat Man OC": {
+  "fat man oc": {
     "DisplayName": "Fat Man OC",
     "Version": "3",
     "DrgVersion": "Update 33",
@@ -467,9 +513,10 @@
       229330150142115842
     ],
     "Description": "A mod that changes the Fat Boy OC to a \"real-er\" nuke\n[Changed Fat Boy OC for Deepcore 40MM PGL]\n--Changed ammo penalty to 0.2 (Default 3 shots, 4 with both ammo Modifikations)\n--Increased Damage modifier from 4x to 1000x\n--Increased AoE damage from +1 to +10 (be glad it is only +10)\n--Changed Projectile Velocity from 0.7 to 1.5\n--Increased Carve Size from 700 to 3000\n--Changed Carve Squeeze changed from 2.0 to 1.0 (big sphere)\n--Radiation damage increased for all bugs from 25 to 300\n--Radiation tick speed for bugs changed from  0.75-1.25 to 0.1-0.2\n--Radiation radius increased from ~300 to 1100\n--Radiation duration increased from 15 to 99,9\n--Radiation Particles now glow slightly brighter and have a bigger circle\n--! Now with better Carve Radius in Ver3 !",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Double Treasures": {
+  "double treasures": {
     "DisplayName": "Double Treasures",
     "Version": "1",
     "DrgVersion": "Update 32/33",
@@ -477,9 +524,10 @@
       229330150142115842
     ],
     "Description": "Doubles the Chance for Cargo Crates and Lost packs to generate",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Disabled Treasures": {
+  "disabled treasures": {
     "DisplayName": "Disabled Treasures",
     "Version": "1",
     "DrgVersion": "Update 32/33",
@@ -487,9 +535,10 @@
       229330150142115842
     ],
     "Description": "Sets the Chance for Cargo Crates and Lost packs to generate to 0\n--Ah those pesky Treasures blocking my cave and disrupting my Mining Mission, if only there was a way to get rid of them -Probably Nobody--",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Incredibly Overpowered Perks": {
+  "incredibly overpowered perks": {
     "DisplayName": "Incredibly Overpowered Perks",
     "Version": "1",
     "DrgVersion": "Update 32/33",
@@ -497,9 +546,10 @@
       229330150142115842
     ],
     "Description": "--All those changes:\n    Berzerker: \n         -Recharge from 4 min to 10 seconds\n    BornReady: \n         -Unequipped auto reload changed from 5 sec to 0,5 seconds\n    Bug Thing: \n         -Exploding distance from 5 to 10 m\n    Dash: \n         -Cooldown decreased from 25 to 1,5 sec\n    Deep Pockets: \n         -Changed from +15 to +500\n    Beast Master: -Sadly no changes\n    Downed Bomb: \n         -Cooldown changed from 60 sec to 1 second\n         -Charges increased from 3 to 20 \n    Veteran Depositor: \n         -Depositing speed changed from 50 to 200%\n    Field Medic: \n         -Changed reviving speed from 30% to 200%\n         -Charges increased from 1 to 30 (pls test this)\n    Strong Arm: \n        -Increased Flare throw bonus from 50% to 100%\n        -Increased Heavy Object throw bonus from 20% to 80%\n    Friendly Fire: \n        -No changes (would affect FF even without perk)\n    Heightened Senses: \n        -Charges increased from 2 to 50\n    Hover Boots: \n        -Cooldown changed from 75 to 0.1 seconds\n    Iron Will: \n       -Charges increased from 1 to 30\n       -Duration increased from 12 to 40 seconds\n    Sweet Tooth: \n       -Increased healing from sugar from 30% to 200%\n    Resupplier: \n        -Increased Resupply Speed from 50% to 200%\n        -Increased extra health from 25% to 200%\n    ShieldLink: \n         -Increased duration from 30 to 200 seconds\n        -Changed the cooldown from 120 seconds to 1 second\n    Unstoppable: \n         -Increased reduction of slow from 50% to 100%\n         -Incresed speed while carrying heavy objects from 25% to 100%\n    Elemental Resistance: \n         -Changed from 30% to 100% (Took me 2h to figure that out)\n    Thorns: \n         -Increased Damage from 24 to 100\n    Vampire: \n         -Increased Health gain from 5 to 50",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Barrel Yeet 10x": {
+  "barrel yeet 10x": {
     "DisplayName": "Barrel Yeet 10x",
     "Version": "1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -507,9 +557,10 @@
       350019378189828097
     ],
     "Description": "Makes your character kick barrels at 10x the force, conflicts with BarrelYeet5",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Barrel Yeet 5x": {
+  "barrel yeet 5x": {
     "DisplayName": "Barrel Yeet 5x",
     "Version": "1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -517,9 +568,10 @@
       350019378189828097
     ],
     "Description": "Makes your character kick barrels at 5x the force, conflicts with BarrelYeet10",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Bug Hill": {
+  "bug hill": {
     "DisplayName": "Bug Hill",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -527,9 +579,10 @@
       712926827911446548
     ],
     "Description": "Bug Hill is a Hazard 2 mod that swarms you with grunts.\n--Hazard 2 changed\n--Low enemy diversity\n--Compared to the original Hazard 2, this one has faster, stronger, better grunts\n--Map seed can roll huge waves of macteras or spitters, be prepared\n--Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks\n--Higher enemy cap and lower nitra cost recommended",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Disco Fever!": {
+  "disco fever!": {
     "DisplayName": "Disco Fever!",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -537,9 +590,10 @@
       712926827911446548
     ],
     "Description": "Drinking a Blackreach Blonde will make you dance for 5 hours, or until you drink a Leaf Lover or DIE",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Upgraded Flare Gun": {
+  "upgraded flare gun": {
     "DisplayName": "Upgraded Flare Gun",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -547,9 +601,10 @@
       712926827911446548
     ],
     "Description": "--Flare Gun max ammo increased from 12 to 24\n--Flare Gun Clip Size increased from 3 to 5\n--Flare Gun Duration upgrades increased from 15 seconds (15.0) to 5 minutes (300.0)",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Upgraded Drills": {
+  "upgraded drills": {
     "DisplayName": "Upgraded Drills",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -557,9 +612,10 @@
       712926827911446548
     ],
     "Description": "--Drills max fuel changed from 38.0 to 60.0\n--Drills mining rate changed from 1.5 to 2.7\n--Tier 1 movement speed upgrade (Hardened Tips) & tier 3 movement speed upgrade (Supercharged Motor) Increased to match mining rate - 0.1 > 0.5",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Upgraded Zipline": {
+  "upgraded zipline": {
     "DisplayName": "Upgraded Zipline",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -567,9 +623,10 @@
       712926827911446548
     ],
     "Description": "--Zipline Gun max distance increased from 30 Meters (3000.0) to 450 Meters (45000.0)\n--Zipline Gun max ammo increased from 3 to 5\n--Zipline Gun max angle increase from 30° (30.0) to 85° (85.0)\n--Zipline Gun max speed doubled (1.0 to 2.0)",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Upgraded Grapple Gun": {
+  "upgraded grapple gun": {
     "DisplayName": "Upgraded Grapple Gun",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -577,9 +634,10 @@
       712926827911446548
     ],
     "Description": "--Grapple Gun range upgrades increased from 5 Meters (500.0) to 20 Meters (2000.0)",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Upgraded Platform Gun": {
+  "upgraded platform gun": {
     "DisplayName": "Upgraded Platform Gun",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -587,9 +645,10 @@
       712926827911446548
     ],
     "Description": "--Platform Gun clip-size increased from 4 to 6\n--Platform Gun ammo increased from 16 to 32",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Bucky Boy Bosco": {
+  "bucky boy bosco": {
     "DisplayName": "Bucky Boy Bosco",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -597,9 +656,10 @@
       712926827911446548
     ],
     "Description": "--Tripled Bosco's upgradeable mining speed 1.0 > 3.0\n--Tripled Bosco's max acceleration 900.0 > 2700.0\n--Tripled Bosco's max pawnSpeed 450.0 > 1350.0\n--Increased Bosco's carrying speed 275.0 > 825.0\n--Increased Bosco's carrying acceleration 400.0 > 1200.0\n--Increased Bosco's mining radius 105.0 > 155.0\n--Doubled Bosco's fire rate 10.0 > 20.0\n--Doubled Bosco's minimum shot burst 5 > 10\n--Doubled Bosco's maximum shot burst 12 > 24\n--Doubled Bosco's rotation speed 5.0 > 10.0\n--Doubled Bosco's max revives 2 > 4\n--Doubled Bosco's light intensity 3000.0 > 6000.0 / 10.0 > 30.0",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Minigun Bullet": {
+  "minigun bullet": {
     "DisplayName": "Minigun Bullet",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -607,9 +667,10 @@
       712926827911446548
     ],
     "Description": "--Changed the shot cost of the Minigun from 2 bullets when fired to 1",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Faster Deposit": {
+  "faster deposit": {
     "DisplayName": "Faster Deposit",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -617,9 +678,10 @@
       712926827911446548
     ],
     "Description": "--Deposit speed increased from 1.0 > 5.0",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Escort Rock Nerf": {
+  "escort rock nerf": {
     "DisplayName": "Escort Rock Nerf",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -627,9 +689,10 @@
       712926827911446548
     ],
     "Description": "For the hyperspawn mods\n--Ommeran Rock Attack Rocks have half health",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Best Friends Forever": {
+  "best friends forever": {
     "DisplayName": "Best Friends Forever",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -637,9 +700,10 @@
       199938370338553856
     ],
     "Description": "100% chance to encounter Korlok, BETC and Crassus Detonator in a mission preset.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Custom Enemy Cap": {
+  "custom enemy cap": {
     "DisplayName": "Custom Enemy Cap",
     "Version": "2.1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -647,9 +711,10 @@
       158916111390343168
     ],
     "Description": "**Requires the mod loader.**\nLets you control the global enemy cap, and can optionally lower the cap depending on your FPS. Only works as the host.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Dies Irea Dreadnough Boss Music": {
+  "dies irea dreadnough boss music": {
     "DisplayName": "Dies Irea Dreadnough Boss Music",
     "Version": "2",
     "DrgVersion": "Update 32/33",
@@ -657,9 +722,10 @@
       229330150142115842
     ],
     "Description": "------------------------------------\nChanges the Dreadnought Boss Music to Dies Irea by Guiseppe Verdi\nPlayed by the Atlanta Symphony Orchestra and Chorus directed by Robert Shaw\n------------------------------------\nListen to this Dies Irea,\nA Dreadnought's coming for you,\nGonna annihilate your whole crew,\nGonna be squashed by a large crustacea\n------------------------------------",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Twice The Enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives)": {
+  "twice the enemies haz 3, 3.5, 4, 4.5, 5, 5.5 (missions + deep dives)": {
     "DisplayName": "Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives)",
     "Version": "33.2.1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -667,9 +733,10 @@
       306800962432008193
     ],
     "Description": "Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing 40+ simultaneous cries of pain?\nWant gigantic hordes of cannon fodder?\nI created this mod as a middle ground between haz 4 and haz 5 when playing with low level friends so they can have more\nfun while not getting insta-killed by tough enemies. Also makes normal Deep Dive fun again, less boring 😉\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Higher enemy count for an alternate higher difficulty, spawning tons of enemies instead of less but tougher enemies like haz6/7.\n--Variation 2x has 200% enemies (150% enemies single player)\n--Variation 1.5x has 150% enemies (125% enemies single player)\n--No XP boost or any other modification, this is just for fun\n--Use obviously the file you choose, not both\n----------------------------------------------------------------\nNote: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health\nNote: Replaces Haz 3, 4, 5 and DD/EDD. So it won't work with Haz 6/7. Only the host needs the mod\nNote: Recommended using \"Custom Cap\" mod to avoid enemy de-spawn",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Fullmetal Scout": {
+  "fullmetal scout": {
     "DisplayName": "Fullmetal Scout",
     "Version": "1.0",
     "DrgVersion": "U 33, HF 2",
@@ -677,9 +744,10 @@
       156386896866574336
     ],
     "Description": "A heavily armed Scout, no balance changes, only the Scout Loadout now includes the primaries Minigun, Cryo and secondaries PGL, Autocannon also IFG -> Axe, Pheremones -> Lure",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Laser Sight": {
+  "laser sight": {
     "DisplayName": "Laser Sight",
     "Version": "1.1",
     "DrgVersion": "U33, H2",
@@ -687,9 +755,10 @@
       146392394328178690
     ],
     "Description": "Replaces your flashlight with a laser pointer and gives your nearby surroundings a soft red glow.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Lootsplosion": {
+  "lootsplosion": {
     "DisplayName": "Lootsplosion",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -697,9 +766,10 @@
       146392394328178690
     ],
     "Description": "--Lootbugs and Huuli Hoarders now drop minerals as fast and as much as you can damage them before killing them (high RoF low damage is best).\n--Lootbugs now multiply resources that they eat by 3x and get new eating targets much faster.\n--Seems to prevent them from dropping loot on death since you ring them dry through torture.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Legendary Hoarder (former X2 Ammo)": {
+  "legendary hoarder (former x2 ammo)": {
     "DisplayName": "Legendary Hoarder (former x2 ammo)",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -707,9 +777,10 @@
       360816319722946560
     ],
     "Description": "--Removes all these useless sandwich storage slots, allowing you to double up on all your weapon ammo!",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Dash Perk Suicide Preventer": {
+  "dash perk suicide preventer": {
     "DisplayName": "Dash Perk Suicide Preventer",
     "Version": "33.2.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -717,9 +788,10 @@
       306800962432008193
     ],
     "Description": "Created this mod for me as I was tired of accidentally activating Dash next to\na pit, hurling me to my death, or just not having it recharged when actually\nneeded as it was previously triggered by accident.\n----------------------------------------------------------------\n--Makes the Dash activation window 0.2 seconds \"shift\" key double taps instead 0.4 seconds\n----------------------------------------------------------------\nNote: Incompatible with the \"No more Dollar Store flashlights\" mod as they both change the same file, message me if you want both",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Good Old Bet-C.exe": {
+  "good old bet-c.exe": {
     "DisplayName": "Good Old Bet-C.exe",
     "Version": "33.2.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -727,9 +799,10 @@
       306800962432008193
     ],
     "Description": "Prevents friendly BET-C from hurling bombs in your face and taking out your shield.\nBasically uses Left 4 Dead AI principles; if not smart enough to avoid hitting you,\nthen at least it won't damage you. Just like good old times before update 20-something.\nNo more needing to re-consider repairing BET-C or not on shield disruption missions. \n----------------------------------------------------------------\n--Friendly BET-C bombs do 0 damage on dwarves\n----------------------------------------------------------------",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Starship Troopers": {
+  "starship troopers": {
     "DisplayName": "Starship Troopers",
     "Version": "33.2.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -737,9 +810,10 @@
       306800962432008193
     ],
     "Description": "Similar to my \"Increased enemies\" mod, but a bit different as I wasn't satisfied. Alternative Haz5.\nThis mod makes Haz5 enemies same as Haz4 (speed, damage resistance, etc) with double the enemy count\nof HAZ5, to give you a Starship Troopers-like feeling with massive hordes of normal enemies (as\nthey have haz4 endurance) while still giving 133% XP since the difficulty feels pretty much the same.\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Haz4 150% of Haz5 enemies (125% single player)\n--Haz5 200% of Haz5 enemies (150% single player)\n----------------------------------------------------------------\nNote: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health\nNote: Replaces Haz 4, and 5. So it won't work with Haz 6/7. Only the host needs the mod\nNote: Recommended using \"Ludicrous Cap\" or \"Custom Cap\" mod to avoid enemy de-spawn",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "2x Ammo And Slightly Better Scout": {
+  "2x ammo and slightly better scout": {
     "DisplayName": "2x Ammo And Slightly Better Scout",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -747,9 +821,10 @@
       185833916203139082
     ],
     "Description": "- I wanted to use the 2x ammo mod at the same time as Slightly Better Scout, but since the two mods modify the same files, I combined them into one mod.\n- All primary and secondary weapons of all classes have their ammo doubled (doesn’t affect equipment such as C4)\n- Fall damage reduction armor mod increased from 33% to 50%\n- Deepcore GK2 damage increased from 15 to 17\n- M1000 Classic clip size increased from 8 to 10, damage increased from 50 to 55\n- Zhukov Nuk17 damage increased from 12 to 14\n- Jury-Rigged Boomstick pellet count increased from 8 to 9\n- As a host, the damage & armor changes will affect anyone playing scout in your game. The ammo changes will only affect you.\n- As a client, this mod will still affect your ammo, but not damage or armor.\n*Thanks to* <@!220325734374309889> *for helping me make the Slightly Better Scout portion of this mod and* <@!360816319722946560> *for their work on the 2x ammo (now known as legendary hoarder) mod*",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Better Spectator": {
+  "better spectator": {
     "DisplayName": "Better Spectator",
     "Version": "1.7",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -757,9 +832,10 @@
       158916111390343168
     ],
     "Description": "**Requires the mod loader.**\nReplaces the game's spectator camera when you get downed (removes the fuzzy overlay and skips the faceplant animation). It allows you to freely orbit and zoom in/out when spectating players. You can also optionally spectate Bosco, Molly, Doretta, and BET-C.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Better Post Processing": {
+  "better post processing": {
     "DisplayName": "Better Post Processing",
     "Version": "1.3",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -767,9 +843,10 @@
       158916111390343168
     ],
     "Description": "**Requires the mod loader.**\nAdds options for controlling: super-sampling, ambient occlusion, bloom, lens flare, lens dirt, vignette, and film grain.\n_Your in-game graphics settings for post-processing must be set to high/ultra._",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Mission Timer": {
+  "mission timer": {
     "DisplayName": "Mission Timer",
     "Version": "1.1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -777,9 +854,10 @@
       158916111390343168
     ],
     "Description": "**Requires the mod loader.**\nAdds a small mission timer to the top of the screen. Also acts as a deep dive stage timer.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Mission Control Text Remover": {
+  "mission control text remover": {
     "DisplayName": "Mission Control Text Remover",
     "Version": "1.2",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -787,9 +865,10 @@
       158916111390343168
     ],
     "Description": "**Requires the mod loader.**\nRemoves the mission control speech text popup.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "0 Nitra Supply Drops": {
+  "0 nitra supply drops": {
     "DisplayName": "0 Nitra Supply Drops",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -797,9 +876,10 @@
       712926827911446548
     ],
     "Description": "[HOST ONLY EFFECT - Need at least 0.00(repeating of course) 1 Nitra to call in]\n--Changed supply drop cost to 0 Nitra",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "50 Nitra Supply Drops": {
+  "50 nitra supply drops": {
     "DisplayName": "50 Nitra Supply Drops",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -807,9 +887,10 @@
       712926827911446548
     ],
     "Description": "[HOST ONLY EFFECT]\n--Changed supply drop cost to 50 Nitra",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "160 Nitra Supply Drops": {
+  "160 nitra supply drops": {
     "DisplayName": "160 Nitra Supply Drops",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -817,9 +898,10 @@
       712926827911446548
     ],
     "Description": "[HOST ONLY EFFECT]\n--Changed supply drop cost to 160 Nitra",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Minigun Ricochet Bullet Hell OC Buff V2": {
+  "minigun ricochet bullet hell oc buff v2": {
     "DisplayName": "Minigun Ricochet Bullet Hell OC Buff V2",
     "Version": "2.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -827,9 +909,10 @@
       426057750611755030
     ],
     "Description": "Changes Bullet Hell Overclock for the Gunner Minigun\n-Decreased damage penalty -3.0 > -1.0\n-Increased Ricochet Chance 0.5 > 0.9 (50% to 90%)\n-Decreased Spread penalty 6.0 > 2.0\n-As Host: Affects only your own Minigun\n-As Client: Affects only your own Minigun",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Minigun Base Ammo Buffed": {
+  "minigun base ammo buffed": {
     "DisplayName": "Minigun Base Ammo Buffed",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -837,9 +920,10 @@
       426057750611755030
     ],
     "Description": "Changes Minigun Base Ammo Stats\n-Increased Ammo 2400 > 3000\n-As Host: Affects only your own Minigun\n-As Client: Affects only your own Minigun",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "SentryyGun Returningspeed Buffed": {
+  "sentryygun returningspeed buffed": {
     "DisplayName": "SentryyGun Returningspeed Buffed",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -847,9 +931,10 @@
       426057750611755030
     ],
     "Description": "Changes the returningspeed and dismanlte of the sentrygun\n--Increased MaxPawnSpeed 2000 > 6000\n--Increased MaxAcceleration 2000 > 6000\n--Increased MaxBrakingDeceleration 4000 > 12000\n--Decreased DismantleDuration 1 > 0.5",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Sentrygun Base Ammo Buffed": {
+  "sentrygun base ammo buffed": {
     "DisplayName": "Sentrygun Base Ammo Buffed",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -857,9 +942,10 @@
       426057750611755030
     ],
     "Description": "Changes the base Ammo capacity of the sentrygun\n--Increased Ammo 425 > 600\n--As Host: Affects all Engineer turrets if host has the mod\n--As Client: Doesn't work as Client",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "ZiplineGun Speed, Ammo And Angle Buffed": {
+  "ziplinegun speed, ammo and angle buffed": {
     "DisplayName": "ZiplineGun Speed, Ammo and Angle Buffed",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -867,9 +953,10 @@
       426057750611755030
     ],
     "Description": "Changes ZiplineGun Base Stats\n--Increased Speed 1.0 > 2.0\n--Increased MaxDistance 3000.0 (30m) > 4000.0 (40m)\n--Increased MaxAngle 30.0 > 40.0\n--Increased MinAngle 30.0 > 40.0\n--Increased Ammo 3 > 5\n--As Host: Affects only your own ZiplineGun\n--As Client: Affects only your own ZiplineGun",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Guaranteed Machine Events": {
+  "guaranteed machine events": {
     "DisplayName": "Guaranteed Machine Events",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -877,9 +964,10 @@
       146392394328178690
     ],
     "Description": "Makes machine events always spawn in missions so that you can farm less to use your cores.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "10 Waypoints": {
+  "10 waypoints": {
     "DisplayName": "10 Waypoints",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -887,9 +975,10 @@
       146392394328178690
     ],
     "Description": "Lets you place up to 10 different waypoints to track routes and points of interest.  The 11th waypoint will replace the 1st one and so on.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Better Bosco": {
+  "better bosco": {
     "DisplayName": "Better Bosco",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -897,9 +986,10 @@
       146392394328178690
     ],
     "Description": "--Gave him a good spotlight for looking around and lighting up areas passively.\n--Larger dig radius like driller dual drills.\n--Has aim bot when switching between nearby targets, shoots much faster for longer and has higher armor break.\n--Less delay for helping you when grabbed and whatnot, faster move speed, more combat range.\n--Cryo rockets now carve out a 4.5m area on impact because why not.\n--All upgrades have been upgraded to make them better and incentivize build specialty.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Infinitely Better Bosco": {
+  "infinitely better bosco": {
     "DisplayName": "Infinitely Better Bosco",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -907,9 +997,10 @@
       146392394328178690
     ],
     "Description": "--Has built in 9001 revives for testing or whatever.\n--Gave him a good spotlight for looking around and lighting up areas passively.\n--Larger dig radius like driller dual drills.\n--Has aim bot when switching between nearby targets, shoots much faster for longer and has higher armor break.\n--Less delay for helping you when grabbed and whatnot, faster move speed, more combat range.\n--Cryo rockets now carve out a 4.5m area on impact because why not.\n--All upgrades have been upgraded to make them better and incentivize build specialty.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "White Throwing Flares": {
+  "white throwing flares": {
     "DisplayName": "White Throwing Flares",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -917,9 +1008,10 @@
       146392394328178690
     ],
     "Description": "--Makes the light of throwing flares white without any other changes.\n--Seems to be brighter due to the color change not blending or being \"dark\".",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Deep Dives Have Double Resources": {
+  "deep dives have double resources": {
     "DisplayName": "Deep Dives Have Double Resources",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -927,9 +1019,10 @@
       146392394328178690
     ],
     "Description": "Deep Dives will now spawn an abundant amount of resources.  The resource veins only work for the host but the deposited ones do work for clients.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Deep Dives Have Resources": {
+  "deep dives have resources": {
     "DisplayName": "Deep Dives Have Resources",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -937,9 +1030,10 @@
       146392394328178690
     ],
     "Description": "Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Toothpaste Platform Gun": {
+  "toothpaste platform gun": {
     "DisplayName": "Toothpaste Platform Gun",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -947,9 +1041,10 @@
       146392394328178690
     ],
     "Description": "--Makes the platforms into small dots with 50 base mag size.\n--Removes recoil from firing, increases RoF massively, buffs upgrades (except for falling and repellent).\n--Max ammo set to 0, can increase ammo up to 200 with upgrades.\n--Build pillars and bridges easily, especially with no delay on platform building so you can truly do parkour!\nPreview: https://discordapp.com/channels/676880716142739467/732650220214681600/762946862755217419",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Thick Platforms": {
+  "thick platforms": {
     "DisplayName": "Thick Platforms",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -957,9 +1052,10 @@
       146392394328178690
     ],
     "Description": "--Makes the platforms \"乇乂ㄒ尺卂 ㄒ卄丨匚匚\".\n--Good for making cocoons and castles.\n--Fill driller holes easier or bury your useless allies.\nPreview: https://discordapp.com/channels/676880716142739467/732650220214681600/762558614958637076",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "HE Grenade Carve": {
+  "he grenade carve": {
     "DisplayName": "HE Grenade Carve",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -967,9 +1063,10 @@
       146392394328178690
     ],
     "Description": "--Adds a 4x4x4 (8m diameter) meter carve to HE Grenades.\n--Reduces time to detonate to 0.5 seconds after throwing.\n--Increased throw velocity to give it some range before detonating.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "8 Grenades": {
+  "8 grenades": {
     "DisplayName": "8 Grenades",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -977,9 +1074,10 @@
       146392394328178690
     ],
     "Description": "Makes you carry 8 grenades for all types to match up with axes.",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Sniper Turret": {
+  "sniper turret": {
     "DisplayName": "Sniper Turret",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -987,9 +1085,10 @@
       146392394328178690
     ],
     "Description": "--Buffs and nerfs various aspects of the base engineer turret to suit a sniper theme.\n--Changes all engineer turret upgrades to fit with the changes.\n--Adds a buffed and recolored blue light to the turret targeting circle as well as the point light around it.\nFull changelog for showing undisplayed changes can be seen in this message in mod preview:\nhttps://discordapp.com/channels/676880716142739467/732650220214681600/762558222732230686",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "BeastMaster Buff": {
+  "beastmaster buff": {
     "DisplayName": "BeastMaster Buff",
     "Version": "1.1",
     "DrgVersion": "Update 33, hotfix 2",
@@ -997,9 +1096,10 @@
       252291709927555072
     ],
     "Description": "Buffs the beastmaster perk. Since Steeve is kinda fragile on haz 6+, and you can still accidentally tame while reviving. In haz 5-ish or above, slasher steeve will last around 1.5 minutes or less in constant combat.\nCooldown 5 > 3 minutes (must be host to take effect)\nTaming time 0.75 > 0.1 seconds (don't need to be host) \nSteeve Speed 1.15 > 1.28 (probably need to be host)",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Tactical Nukes": {
+  "tactical nukes": {
     "DisplayName": "Tactical Nukes",
     "Version": "1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1007,9 +1107,10 @@
       350019378189828097
     ],
     "Description": "The radiation field left by fatboy rounds no longer affects players OR Doretta",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "No More Dollar Store Flashlights": {
+  "no more dollar store flashlights": {
     "DisplayName": "No more Dollar Store flashlights",
     "Version": "33.2.1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1017,9 +1118,10 @@
       306800962432008193
     ],
     "Description": "Increases flashlight range so you don't need to have your nose against the wall to see the minerals there\n----------------------------------------------------------------\n--Variation 2x has twice the range\n--Variation 3x has thrice the range\n--See Preview: https://discord.com/channels/676880716142739467/732650220214681600/784327494596689920\n----------------------------------------------------------------\nNote: Incompatible with the \"Dash Perk Suicide Preventer\" mod as they both change the same file, message me if you want both",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   },
-  "Power Creep": {
+  "power creep": {
     "DisplayName": "Power Creep",
     "Version": "Feb-6-2021",
     "DrgVersion": "U33",
@@ -1027,6 +1129,18 @@
       385384075168448513
     ],
     "Description": "Targeted buffs for weapons, mods, and overclocks to create more build variety. Made using karl.gg data and my personal experience. All feedback is appreciated in the <#772083212691963904> channel. Change list: https://onlyo.co/36GBkpC",
-    "LatestUpdateChangelog": null
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
+  },
+  "test": {
+    "DisplayName": "TEST",
+    "Version": "1",
+    "DrgVersion": "Update 32, Hotfix 28",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "asdasdadsasdasdasd",
+    "LastUpdateChangelog": null,
+    "LargeFileDownloadUrl": null
   }
 }
