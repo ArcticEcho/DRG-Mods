@@ -1018,5 +1018,15 @@
     ],
     "Description": "Buffs the beastmaster perk. Since Steeve is kinda fragile on haz 6+, and you can still accidentally tame while reviving. In haz 5-ish or above, slasher steeve will last around 1.5 minutes or less in constant combat.\nCooldown 5 > 3 minutes (must be host to take effect)\nTaming time 0.75 > 0.1 seconds (don't need to be host) \nSteeve Speed 1.15 > 1.28 (probably need to be host)",
     "LatestUpdateChangelog": null
+  },
+  "Tactical Nukes": {
+    "DisplayName": "Tactical Nukes",
+    "Version": "1",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "The radiation field left by fatboy rounds no longer affects players OR Doretta",
+    "LatestUpdateChangelog": null
   }
 }
