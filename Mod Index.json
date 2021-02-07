@@ -1018,5 +1018,15 @@
     ],
     "Description": "Increases flashlight range so you don't need to have your nose against the wall to see the minerals there\n----------------------------------------------------------------\n--Variation 2x has twice the range\n--Variation 3x has thrice the range\n--See Preview: https://discord.com/channels/676880716142739467/732650220214681600/784327494596689920\n----------------------------------------------------------------\nNote: Incompatible with the \"Dash Perk Suicide Preventer\" mod as they both change the same file, message me if you want both",
     "LatestUpdateChangelog": null
+  },
+  "Power Creep": {
+    "DisplayName": "Power Creep",
+    "Version": "Feb-6-2021",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      385384075168448513
+    ],
+    "Description": "Targeted buffs for weapons, mods, and overclocks to create more build variety. Made using karl.gg data and my personal experience. All feedback is appreciated in the <#772083212691963904> channel. Change list: https://onlyo.co/36GBkpC",
+    "LatestUpdateChangelog": null
   }
 }
