@@ -729,16 +729,6 @@
     "Description": "Prevents friendly BET-C from hurling bombs in your face and taking out your shield.\nBasically uses Left 4 Dead AI principles; if not smart enough to avoid hitting you,\nthen at least it won't damage you. Just like good old times before update 20-something.\nNo more needing to re-consider repairing BET-C or not on shield disruption missions. \n----------------------------------------------------------------\n--Friendly BET-C bombs do 0 damage on dwarves\n----------------------------------------------------------------",
     "LatestUpdateChangelog": null
   },
-  "Twice The Enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives)": {
-    "DisplayName": "Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives)",
-    "Version": "33.2.0",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      306800962432008193
-    ],
-    "Description": "Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing 40+ simultaneous cries of pain?\nWant gigantic hordes of cannon fodder?\nI created this mod as a middle ground between haz 4 and haz 5 when playing with low level friends so they can have more\nfun while not getting insta-killed by tough enemies. Also makes normal Deep Dive fun again, less boring 😉\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\n----------------------------------------------------------------\n--Higher enemy count for an alternate higher difficulty, spawning tons of enemies instead of less but tougher enemies like haz6/7.\n--Variation 2x has 200% enemies (150% enemies single player)\n--Variation 1.5x has 150% enemies (125% enemies single player) (NOT INCLUDED IN THIS RELEASE)\n--No XP boost or any other modification, this is just for fun\n--Use obviously the file you choose, not both\n----------------------------------------------------------------\nNote: I didn't update the 1.5x enemies as I think nobody uses it, message me if you need it\nNote: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health\nNote: Replaces Haz 3, 4, 5 and DD/EDD. So it won't work with Haz 6/7. Only the host needs the mod\nNote: Recommended using \"Custom Cap\" mod to avoid enemy de-spawn",
-    "LatestUpdateChangelog": null
-  },
   "Starship Troopers": {
     "DisplayName": "Starship Troopers",
     "Version": "33.2.0",
