@@ -1110,17 +1110,6 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cc198f22edeaa5052be64429b4d58b23946020b6/Gameplay/Unbalanced/Weapons/Tactical%20Nukes%20-%20V1%20_P.pak"
   },
-  "no more dollar store flashlights": {
-    "DisplayName": "No more Dollar Store flashlights",
-    "Version": "33.2.1",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      306800962432008193
-    ],
-    "Description": "Increases flashlight range so you don't need to have your nose against the wall to see the minerals there\n----------------------------------------------------------------\n--Variation 2x has twice the range\n--Variation 3x has thrice the range\n--See Preview: https://discord.com/channels/676880716142739467/732650220214681600/784327494596689920\n----------------------------------------------------------------\nNote: Incompatible with the \"Dash Perk Suicide Preventer\" mod as they both change the same file, message me if you want both",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5cc6c519e4b8a5b6b05fac81b4d681e58097b8c5/Quality%20of%20Life/Improved%20mechanics/No%20More%20Dollar%20Store%20Flashlights%20-%20V33.2.1.zip"
-  },
   "power creep": {
     "DisplayName": "Power Creep",
     "Version": "Feb-6-2021",
