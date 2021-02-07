@@ -709,16 +709,6 @@
     "Description": "--Removes all these useless sandwich storage slots, allowing you to double up on all your weapon ammo!",
     "LatestUpdateChangelog": null
   },
-  "No More Dollar Store Flashlights": {
-    "DisplayName": "No more Dollar Store flashlights",
-    "Version": "33.2.0",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      306800962432008193
-    ],
-    "Description": "Increases flashlight range so you don't need to have your nose against the wall to see the minerals there\n----------------------------------------------------------------\n--Variation 2x has twice the range\n--Variation 3x has thrice the range\n--See Preview: https://discord.com/channels/676880716142739467/732650220214681600/784327494596689920\n----------------------------------------------------------------\nNote: Incompatible with the \"Dash Perk Suicide Preventer\" mod as they both change the same file, message me if you want both",
-    "LatestUpdateChangelog": null
-  },
   "Dash Perk Suicide Preventer": {
     "DisplayName": "Dash Perk Suicide Preventer",
     "Version": "33.2.0",
