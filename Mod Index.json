@@ -8,7 +8,7 @@
     ],
     "Description": "Provides a platform for mod developers to get their BluePrints mods loaded into the game. You can view and interact with the mods using the manager menu (keybinding N).",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/990c9ab8e3aca2189d2ef616893997f1e9cbceb8/Framework/Mod%20Loader%20-%20V4.2%20_P.pak"
   },
   "beast master buff": {
     "DisplayName": "Beast Master Buff",
@@ -19,7 +19,7 @@
     ],
     "Description": "Steeve seems too fragile these days. Tame time .75s > .1s, Cooldown 5 mins > 90s, movement speed 1.15 > 1.3",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Unbalanced/Perks/Beast%20Master%20Buff%20-%20V1%20_P.pak"
   },
   "pointless shield disruption": {
     "DisplayName": "Pointless Shield Disruption",
@@ -30,7 +30,7 @@
     ],
     "Description": "Shield Disruption will no longer affect gameplay, Red Sugar Occurrence 2x > 1x, Shield 0x > 1x, Damage Reduction 0.7x > 1x, and Hazard Bonus 30% > 0%. Works on both U32 and U33",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Misc/Pointless%20Shield%20Disruption%20-%20V1%20_P.pak"
   },
   "don't pet steeve": {
     "DisplayName": "Don't Pet Steeve",
@@ -41,7 +41,7 @@
     ],
     "Description": "Steeve is unable to be pet and won't get in the way of revives. Works for both U32 and 33",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Quality%20of%20Life/Other/Don%27t%20Pet%20Steeve%20-%20V1.1%20_P.pak"
   },
   "pepega gunner": {
     "DisplayName": "Pepega Gunner",
@@ -52,7 +52,7 @@
     ],
     "Description": "Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Unbalanced/Weapons/Pepega%20Gunner%20-%20V2.0%20_P.pak"
   },
   "no reviving": {
     "DisplayName": "No Reviving",
@@ -63,7 +63,7 @@
     ],
     "Description": "Makes it literally impossible to revive, excluding FM and IW. (Works on both U32 & 33)",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Gamemodes/Handicaps/No%20Reviving%20-%20V2%20_P.pak"
   },
   "quarter death duration": {
     "DisplayName": "Quarter Death Duration",
@@ -74,7 +74,7 @@
     ],
     "Description": "Sets the ragdoll duration for the majority of Glyphids to ≤5 seconds, except for enemies who have death effects. [Warden, Menace, Acid, and Web have 5 seconds] [Grunts (all types) have 3 seconds] [Exploders and Praets have 7 seconds] [Dets and Dreads are unchanged]",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/03b73c6c7088d9502b580f9038085219325e399f/Quality%20of%20Life/Graphics%20%26%20Performance/Quarter%20Death%20Duration%20-%20V1.2%20_P.pak"
   },
   "beatboxing cave angels": {
     "DisplayName": "Beatboxing Cave Angels",
@@ -85,7 +85,7 @@
     ],
     "Description": "Replaces cave angel's idle sounds with verbalase's beatboxing",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/dd795efc3ba0cf6d1de28dbf1280cb84204855dd/Audio/NPC/Beatboxing%20Cave%20Angels%20-%20V1%20_P.pak"
   },
   "anime doretta": {
     "DisplayName": "Anime Doretta",
@@ -96,7 +96,7 @@
     ],
     "Description": "Replaces Doretta's normal sounds with totally not unpleasant Anime sound effects, also Lone's favorite mod ever",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/bb940600b86e6419b90c93f994a655365f416b73/Audio/NPC/Anime%20Doretta%20-%20V1.1%20_P.pak"
   },
   "no tinnitus": {
     "DisplayName": "No Tinnitus",
@@ -107,7 +107,7 @@
     ],
     "Description": "Removes the high-pitched ringing sound effect that plays: after an explosion, at mission start, when switching classes, and when toggling your flashlight.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3ecc7d3a6bc660e29336bc32e68f3fc54f14a50d/Quality%20of%20Life/Sound%20muting/No%20Tinnitus%20-%20V1%20_P.pak"
   },
   "support pods": {
     "DisplayName": "Support Pods",
@@ -118,7 +118,7 @@
     ],
     "Description": "REQUIRES MOD LOADER\nAdds 3 new call ins to the game. The beginning of the game provides you with 3 charges shared between all pods, these charges refresh every 5 minutes and it costs 1 charge per pod.  Only the host with the mod can call these in to prevent de-sync issues as a client trying to call them in.\n\n-Spotpipe: when you press 6 a beacon is placed to call in a modified resupply pod with a rotating spotlight that provides bright light around it and directional light on the ceiling, it also comes with 4 pipeline starts to start grinding on any mission you want (except refinery to prevent breaking the mission).  This pod is also worth kicking.\n\n-Time Capsule: when you press 7 a beacon is placed to call in a modified supply pod that has 4 deposit slots for collecting your precious minerals regardless of MULE accessibility.  This works on every mission type, yes, even Point Extraction and Refinery.  Comes with spinning MULE beacon to light the way and tell your ears to find it later.  Despite my on-the-spot name for this, it does not actually hold stuff for later, just an alternative deposit area.\n\n-Angelic Intervention: when you press 0 a late joining player beacon is placed and an egg falls from the sky, opening shortly after with your favorite pet.  That's right, Steeve!  Nah, who wants that when you can get your very own personal flying taxi to explore any cave you want . .\n\nNote -> Angelic Intervention only works in the upcoming experimental and full release build of U33.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/802830115573989388",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d1298d6ac613f8dc9e9aa6589e6e31c6af437b57/Gameplay/Gamemodes/Alternative%20playstyles/Support%20Pods%20-%20V1%20_P.pak"
   },
   "upgraded doretta": {
     "DisplayName": "Upgraded Doretta",
@@ -129,7 +129,7 @@
     ],
     "Description": "REQUIRES MOD LOADER\nManagement finally decided it was worth upgrading the drilldozer armor to prevent future losses!  Oh, who am I kidding, of course they didn't.\n\n-We welded 4 heavy LMG turrets to Doretta with as much ammo as a standard turret magazine and provided no reserves, so stick your engineer with reloading them since his personal turret doesn't stay aboard anyways, unlike these ones.\n\n-Cut some holes for 2 deposits near the gears that make the drilldozer do what it is known for, drilling, thus helping you to crush those minerals and hopefully not break the damn thing.\n\n-Got rid of some suspension to add 2 pipeline starts to the bottom, outer sides of the fuel canister region.  Who would have thought that a giant artificial tunnel system would be good for roller-coasters AND extraction with a valuable head and the glowing duct tape equivalent for Hoxxes?\n\nNote-> does not pimp your ride (adds stuff, nothing was actually removed for the enhancements).",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ef646ed72ccfef8de9aa1d3e2c98f430c9a48cdb/Gameplay/Gamemodes/Alternative%20playstyles/Upgraded%20Doretta%20-%20V1%20_P.pak"
   },
   "leech moment": {
     "DisplayName": "Leech Moment",
@@ -140,7 +140,7 @@
     ],
     "Description": "Adds \"It was at this moment he knew\" line to a leech grabbing sound.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c717cb42d419d1dc27d9934c76e171743ab2d3b8/Audio/NPC/Leech%20Moment%20-%20V1.1%20_P.pak"
   },
   "kekw detonator": {
     "DisplayName": "KEKW Detonator",
@@ -151,7 +151,7 @@
     ],
     "Description": "Replaces Bulk Detonator growl with random KEKW laugh.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/51d6ee4e8093f000c9c0fb978a2baeb59a82cc7e/Audio/NPC/KEKW%20Detonator%20-%20V1.1%20_P.pak"
   },
   "more fov": {
     "DisplayName": "More FOV",
@@ -162,7 +162,7 @@
     ],
     "Description": "Adds ability to change FOV up to 260.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d31ccc4f575541b2e370c083f37a80a6289f145c/Quality%20of%20Life/Camera/More%20FOV%20-%20V1.1%20_P.pak"
   },
   "music control": {
     "DisplayName": "Music Control",
@@ -173,7 +173,7 @@
     ],
     "Description": "A re-created base class tree of sound classes and submixes used by music mods.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9ed28a5e7f8cfa6b0d58d2a24f1e611e6820ce9b/Framework/Music%20Control%20-%20V1.0.zip"
   },
   "quiet space rig": {
     "DisplayName": "Quiet Space Rig",
@@ -184,7 +184,7 @@
     ],
     "Description": "Replaces the Ambient Song in the Space Rig with Space Noise and Star Trek sounds to make it quieter.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ccfe539bc436d9a43aaed84fe50bfc3eda55955e/Audio/Music/Quiet%20Space%20Rig%20-%20V1%20_P.pak"
   },
   "shining lloyd": {
     "DisplayName": "Shining Lloyd",
@@ -195,7 +195,7 @@
     ],
     "Description": "Replaces Lloyd's vocalizations with Lloyd the Bartender from The Shining run through a robot vocal changer.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806979173154947082",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2e07ee80662a345bfdeb1bce8f683f61d82d84e3/Audio/NPC/Shining%20Lloyd%20-%20V1%20_P.pak"
   },
   "molly r2d2": {
     "DisplayName": "Molly R2D2",
@@ -206,7 +206,7 @@
     ],
     "Description": "Replaces Molly's beeps with R2D2's beeps.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806990176135806976",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/45d4540bc1ac065822487e58659f7dab7e715a7a/Audio/NPC/Molly%20R2D2%20-%20V1%20_P.pak"
   },
   "kids crate": {
     "DisplayName": "Kids Crate",
@@ -217,7 +217,7 @@
     ],
     "Description": "Replaces Discovery Music (opening a crate or finding a pack) – with the Jimco Drums and Kids saying “Holy Shit” from the credits of WKUK.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/807003140620156978",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1c4d4706984255b0d4ece682fbf3037a720aebd4/Audio/Music/Kids%20Crate%20-%20V1%20_P.pak"
   },
   "metal gear alert heightened senses": {
     "DisplayName": "Metal Gear Alert Heightened Senses",
@@ -228,7 +228,7 @@
     ],
     "Description": "Replaces Heighten Senses sound with Metal Gear Alert Sound",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7e2a85f66bef685ebeefda9314fc22724c064028/Audio/Other/Metal%20Gear%20Alert%20Heightened%20Senses%20-%20V1%20_P.pak"
   },
   "molly respects boundaries": {
     "DisplayName": "Molly Respects Boundaries",
@@ -239,7 +239,7 @@
     ],
     "Description": "Thanks to <@!189954203664252928> for the original, this is an update of his mod.\n--In the base game when all players move more than 20 meters away from Molly, she moves to the location of the last player that left that radius. \n--This mod changes that distance to 75 meters to prevent Molly from getting in your way when you may be backing up from a fight, but if you forget to call her she won’t stay in a completely different room. \n--This mod will only apply to the lobby if the host has it.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c3dbe59a2aa4588cc228e113b3212a8444f3bfd8/Gameplay/Misc/Molly%20Respects%20Boundaries%20-%20V1.0%20_P.pak"
   },
   "bettermininglaser": {
     "DisplayName": "BetterMiningLaser",
@@ -250,7 +250,7 @@
     ],
     "Description": "-Increases escort fuel canister laser range from 4m to 25m.\n-Reduces melting time from 0.45s to 0.1s.\n-All but removes vacuum delay on picking up loose chunks of oil shale.\n-Increases amount of oil shale mined by 140%.\n-Removes 15% fuel canister carrying movement penalty.\n-Client side mod.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/94dda9ee619022b3e269e3eeaa3ba0c6730586c8/Quality%20of%20Life/Improved%20mechanics/BetterMiningLaser%20-%20V1.01%20_P.pak"
   },
   "dorettadontcare": {
     "DisplayName": "DorettaDontCare",
@@ -261,7 +261,7 @@
     ],
     "Description": "-Increases Doretta's mining speed by 66% (From 0.6 to 1.0)\n-Host mod.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1461ba29ebdbb5edec8c4c8d32c1511fd33def40/Quality%20of%20Life/Time%20saving/DorettaDontCare%20-%20V1.01%20_P.pak"
   },
   "fastmachinestart": {
     "DisplayName": "FastMachineStart",
@@ -272,7 +272,7 @@
     ],
     "Description": "-Reduces use time on machine event buttons from 5 seconds to 2 seconds.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7be8c145295f1a3f29703d493837f74f80afd2c5/Quality%20of%20Life/Time%20saving/FastMachineStart%20-%20V1.01%20_P.pak"
   },
   "laserlonger": {
     "DisplayName": "LaserLonger",
@@ -283,7 +283,7 @@
     ],
     "Description": "-Increases duration of laser pointer waypoint from 20s to 5 mins. Client side mod.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/935aac2202602bb06a4f094773ba0ec455ecb81a/Quality%20of%20Life/Other/LaserLonger%20-%20V1.01%20_P.pak"
   },
   "notsobrokensupplypod": {
     "DisplayName": "NotSoBrokenSupplyPod",
@@ -294,7 +294,7 @@
     ],
     "Description": "-Reduces repair time of broken resupplies found in Salvage missions from 20s to 3s.\n-Increases chance of repaired supply pod working from 50% to 67%.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/75d092d595935af337e171386ab23bc375b5f9b8/Quality%20of%20Life/Time%20saving/NotSoBrokenSupplyPod%20-%20V1.01%20_P.pak"
   },
   "speedyescort": {
     "DisplayName": "SpeedyEscort",
@@ -305,7 +305,7 @@
     ],
     "Description": "-Increases Doretta's mining speed by 66% (From 0.6 to 1.0)\n-Increases Doretta's top movement speed when encouraged by dwarven hugs by 20%. (From 1.0 to 1.2)\n-Increases Doretta's movement speed while being attacked by 20%. (From 1.0 to 1.2)\n-Host mod.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/63d6bc762d7494393a190c26a36fffe2417a7101/Quality%20of%20Life/Time%20saving/SpeedyEscort%20-%20V1.01%20_P.pak"
   },
   "supersonicsentry": {
     "DisplayName": "SupersonicSentry",
@@ -316,7 +316,7 @@
     ],
     "Description": "-Increases sentry turret return flight speed from 20m/s to 60m/s.\n-Reduces sentry deconstruction time from 1s to 0.33s.\n-Host mod.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/34d993a84c72420c0c26a4def38ce96ff0e6d0b7/Gameplay/Balanced/SupersonicSentry%20-%20V1.01%20_P.pak"
   },
   "unnerfedelephantrounds": {
     "DisplayName": "UnnerfedElephantRounds",
@@ -327,7 +327,7 @@
     ],
     "Description": "-Removes increased recoil recovery malus.\n-Restores max ammo penalty to -12 instead of -13.\n-Restores number of chambers to 4 from 3.\n-Removes reload speed increase penalty. (This also affects Six Shooter.)\n-Client side mod.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/748de442e6048f7b4573c12a1fac4d254edf6e21/Gameplay/Unbalanced/Weapons/UnnerfedElephantRounds%20-%20V1.01%20_P.pak"
   },
   "unnerfedthorns": {
     "DisplayName": "UnnerfedThorns",
@@ -338,7 +338,7 @@
     ],
     "Description": "-Removes 0.7s reactivation delay.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6fce342ee5ec29378503c23331714643e71eeb01/Gameplay/Unbalanced/Perks/UnnerfedThorns%20-%20V1.01%20_P.pak"
   },
   "kraeus's crazy jukebox": {
     "DisplayName": "Kraeus's Crazy Jukebox",
@@ -349,7 +349,7 @@
     ],
     "Description": "Replaces every song in the Jukebox with real songs. \nIt covers all the genres of the OG jukebox just with more Shanties.\nSong List: https://docs.google.com/uc?export=download&id=1NGX83YBCCC_yy2Zj7i5Y2jMzXbL9oYRz\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/806953907217629244",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fa0a8b53454dfe375fe94a3320a9355a4fa94952/Audio/Music/Kraeus%27s%20Crazy%20Jukebox%20-%20V1%20_P.pak"
   },
   "smolchubplatsv2": {
     "DisplayName": "SmolChubPlatsv2",
@@ -360,7 +360,7 @@
     ],
     "Description": "Inspired by toothpaste gun from <@!146392394328178690> , Makes platforms less wide and slightly taller (but less small than toothpaste so it's not horrible for unmodded randos), increases firerate to like, 50, for fast bridges, and increases ammo, 100 max ammo, 50 clip size. Oh and double speed reload.. for faster bridges.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f940162b98668f3a0ee98fce92d5e220595956ae/Gameplay/Unbalanced/Tools%20%26%20Gear/SmolChubPlatsv2%20-%20V1.0%20_P.pak"
   },
   "subata glock 17": {
     "DisplayName": "Subata Glock 17",
@@ -371,7 +371,7 @@
     ],
     "Description": "Replaces Subata sounds with Glock 17 sounds\nDownload Link None",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0c036d6b1fd956ce9736de80b0a3d9b9a0764ace/Audio/Weapons/Subata%20Glock%2017%20-%20V1.0%20_P.pak"
   },
   "m1k garand": {
     "DisplayName": "M1K Garand",
@@ -382,7 +382,7 @@
     ],
     "Description": "Replaces M1K sounds to to M1 Garand sounds \nDownload Link None",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f32395bcb50662b2abece6fdd8bd9aed6809cef8/Audio/Weapons/M1K%20Garand%20-%20V2.0%20_P.pak"
   },
   "brt7 glock 18c": {
     "DisplayName": "BRT7 Glock 18c",
@@ -393,7 +393,7 @@
     ],
     "Description": "Replaces BRT7 sounds with Glock 18c sounds\nDownload Link None",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c6064933ecc2b7d2911d4d59dec79c6d2dd24738/Audio/Weapons/BRT7%20Glock%2018c%20-%20V1.0%20_P.pak"
   },
   "twitch integration": {
     "DisplayName": "Twitch Integration",
@@ -404,7 +404,7 @@
     ],
     "Description": "Set up channel rewards so your twitch viewers can spawn a variety of enemies, power ups... inside a mission.\nFind the set up guide in <#799404622682390599> and an icon pack in <#799404647340048392>.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/830dd532a073f14f66f5416f2a678e849e572faf/Framework/Twitch%20Integration%20-%20V2.0.3.zip"
   },
   "fabulously fast lootbugs": {
     "DisplayName": "Fabulously Fast Lootbugs",
@@ -415,7 +415,7 @@
     ],
     "Description": "Increases the Lootbug Speed tremendously  (25.0 to 1000.0) but they still rest normally. Also looks really funny",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9c77d3abd203ee52182ff8bfd295653824f7ad30/Gameplay/Misc/Fabulously%20Fast%20Lootbugs%20-%20V1%20_P.pak"
   },
   "epc carve 7m": {
     "DisplayName": "EPC Carve 7m",
@@ -426,7 +426,7 @@
     ],
     "Description": "- Changes the carve radius of the thin containment field explosion from 6 meters to 7 meters. Useful for making EPC mining easier while keeping it usable in combat.\n- As a host, will affect anyone using this weapon in your game.\n- As a client, this mod has no effect.\n- Inspired by a similar mod made by GoldBl4d3",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/70eed1328b963393688f09a1c724ba9387c810c4/Gameplay/Unbalanced/Weapons/EPC%20Carve%207m%20-%20V1.0%20_P.pak"
   },
   "bbp (big balance patch)": {
     "DisplayName": "BBP (Big Balance Patch)",
@@ -437,7 +437,7 @@
     ],
     "Description": "Pretty much overhauls your entire DRG gameplay experience. The changelog is too long to post here, so it has been included in the zip file. Also features a PDF changelog option.\n\nNotes: \n1. Changes will fully work only if the lobby host has the mod installed, otherwise any damage changes will be ignored and set to vanilla. \n2. Do not use it with any mods that alter the weapons' base values (ammo, damage etc.); perks and grenades have been altered as well, so are utility tools and armor mods. I'm not responsible for your crashes should you choose to ignore this;) \n\nThis mod includes a rework of the PGL, extensive changes to Zhukovs/Subata/Warthog/Autocannon/Breach Cutter and buffs to underperforming OCs/weapons/perks/grenades along with nerfs to overperforming ones.\n\nNote on shield generator changes: there is currently a bug where the duration upgrades apply twice. In order to \"fix\" this, I halved them so the values actually match what's written in the files. This is a temporary solution and will be reverted once GSG fixes the issue.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/61b008f56ec1747f24a6ae99194c76df8190efc5/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.5.zip"
   },
   "extended armor mineral capacity (20)": {
     "DisplayName": "Extended Armor Mineral Capacity (20)",
@@ -448,7 +448,7 @@
     ],
     "Description": "- Changes the Bigger Mineral Bag upgrade on all armors to +20 instead of +5.\n- As a host, will affect anyone using this armor upgrade in your game.\n- As a client, this mod has no effect.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/53c5546c1ce6fc83c3c40f1fc8df22e3a90efa7d/Gameplay/Unbalanced/Tools%20%26%20Gear/Extended%20Armor%20Mineral%20Capacity%20%2820%29%20-%20V1.0%20_P.pak"
   },
   "extended armor mineral capacity (300)": {
     "DisplayName": "Extended Armor Mineral Capacity (300)",
@@ -459,7 +459,7 @@
     ],
     "Description": "- Changes the Bigger Mineral Bag upgrade on all armors to +300 instead of +5. You are the mule now!\n- As a host, will affect anyone using this armor upgrade in your game.\n- As a client, this mod has no effect.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8b65497b3592d98e2f0b3cd2890e1eb34f6ac91b/Gameplay/Unbalanced/Tools%20%26%20Gear/Extended%20Armor%20Mineral%20Capacity%20%28300%29%20-%20V1.0%20_P.pak"
   },
   "dwarf-sized carve and faster mining": {
     "DisplayName": "Dwarf-Sized Carve and Faster Mining",
@@ -470,7 +470,7 @@
     ],
     "Description": "- Changes carve size of nearly every material from (between 75 and 150) to 155. This gives the perfect size for making dwarf-sized tunnels to walk through.\n- Changes hits needed to mine of nearly every material from (between 3 and 5) to 1. \n- Changes carve size of gold left by a Crassus Detonator to 240, greatly speeding up crassus cleanup.\n- Does not change the carve size of bismor, umanite, red sugar, hollowmite, magnite, oil shale, engineer platforms, or \"worthless\" crystals. These materials don't have the \"PickAxeDigSize\" property and I cannot change them.\n- Does not change the hits to mine of many materials that take 2 hits. These materials don't have the \"HitsNeededToMine\" property and I cannot change them.\n- Inspired by the \"Dirt Devil,\" \"Safe Rocky Mountain,\" and \"Convenient Digging\" mods. This mod should not be used at the same time as those.\n- As a host, the carve size increase will affect everyone who joins your game. The reduced number of hits needed will only affect you.\n- As a client, it will try to carve a larger spot, but revert back to the normal carve size. The reduced number of hits needed will only affect you.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5c23d01803fbe7af0465c15a6b5d9f578625a587/Gameplay/Unbalanced/Other/Dwarf-Sized%20Carve%20And%20Faster%20Mining%20-%20V1.0%20_P.pak"
   },
   "faster mining": {
     "DisplayName": "Faster Mining",
@@ -481,7 +481,7 @@
     ],
     "Description": "- Changes hits needed to mine of nearly every material from (between 3 and 5) to 1. \n- Does not change the hits to mine of many materials that take 2 hits. These materials don't have the \"HitsNeededToMine\" property and I cannot change them.\n- Inspired by the \"Safe Rocky Mountain\" mod. This mod should not be used at the same time as that one.\n- As a host, the reduced number of hits needed will only affect you.\n- As a client, the reduced number of hits needed will only affect you.\n- Created at the request of <@!426057750611755030>",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/95e680701dd4478597d957712b112d6a160fcffa/Gameplay/Unbalanced/Other/Faster%20Mining%20-%20V1.0%20_P.pak"
   },
   "slightly better scout": {
     "DisplayName": "Slightly Better Scout",
@@ -492,7 +492,7 @@
     ],
     "Description": "- Fall damage reduction armor mod increased from 33% to 50%\n- Deepcore GK2 damage increased from 15 to 17\n- M1000 Classic clip size increased from 8 to 10, damage increased from 50 to 55\n- Zhukov Nuk17 damage increased from 12 to 14\n- Jury-Rigged Boomstick pellet count increased from 8 to 9\n- As a host, will affect anyone playing scout in your game.\n- As a client, this mod has no effect.\n- Updated for U33.\n- Thanks to <@!220325734374309889> for helping me make this mod",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/88e1d862babbfd034da94f361659bb1c8f45296a/Gameplay/Unbalanced/Weapons/Slightly%20Better%20Scout%20-%20V1.0%20_P.pak"
   },
   "slightly wider platforms": {
     "DisplayName": "Slightly Wider Platforms",
@@ -503,7 +503,7 @@
     ],
     "Description": "- Platform diameter increased from 4 to 5 (that’s an area increase from 12.5 to 19.6 on top of the platform, about 1.57 times more).\n- As a result of the diameter increase, they are about 50% thicker.\n- Platform creation delay reduced from 0.25 to 0.10.\n- As a host, will affect anyone playing engineer in your game.\n- As a client, this mod has no effect.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e142ac040ce26723d8c5a1ac4960d8dd1ca8949e/Gameplay/Unbalanced/Tools%20%26%20Gear/Slightly%20Wider%20Platforms%20-%20V1.0%20_P.pak"
   },
   "fat man oc": {
     "DisplayName": "Fat Man OC",
@@ -514,7 +514,7 @@
     ],
     "Description": "A mod that changes the Fat Boy OC to a \"real-er\" nuke\n[Changed Fat Boy OC for Deepcore 40MM PGL]\n--Changed ammo penalty to 0.2 (Default 3 shots, 4 with both ammo Modifikations)\n--Increased Damage modifier from 4x to 1000x\n--Increased AoE damage from +1 to +10 (be glad it is only +10)\n--Changed Projectile Velocity from 0.7 to 1.5\n--Increased Carve Size from 700 to 3000\n--Changed Carve Squeeze changed from 2.0 to 1.0 (big sphere)\n--Radiation damage increased for all bugs from 25 to 300\n--Radiation tick speed for bugs changed from  0.75-1.25 to 0.1-0.2\n--Radiation radius increased from ~300 to 1100\n--Radiation duration increased from 15 to 99,9\n--Radiation Particles now glow slightly brighter and have a bigger circle\n--! Now with better Carve Radius in Ver3 !",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/439f1b314f02f61caee6cc2dcbf1341fb598516e/Gameplay/Unbalanced/Weapons/Fat%20Man%20OC%20-%20V3%20_P.pak"
   },
   "double treasures": {
     "DisplayName": "Double Treasures",
@@ -525,7 +525,7 @@
     ],
     "Description": "Doubles the Chance for Cargo Crates and Lost packs to generate",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b750e2b240a642c5448e78fc0f0d0d410b7526d0/Gameplay/Unbalanced/Resources%20%26%20Progression/Double%20Treasures%20-%20V1%20_P.pak"
   },
   "disabled treasures": {
     "DisplayName": "Disabled Treasures",
@@ -536,7 +536,7 @@
     ],
     "Description": "Sets the Chance for Cargo Crates and Lost packs to generate to 0\n--Ah those pesky Treasures blocking my cave and disrupting my Mining Mission, if only there was a way to get rid of them -Probably Nobody--",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/19c2edadd3b2efd4385659a24bdc785ce978e404/Quality%20of%20Life/Improved%20mechanics/Disabled%20Treasures%20-%20V1%20_P.pak"
   },
   "incredibly overpowered perks": {
     "DisplayName": "Incredibly Overpowered Perks",
@@ -547,7 +547,7 @@
     ],
     "Description": "--All those changes:\n    Berzerker: \n         -Recharge from 4 min to 10 seconds\n    BornReady: \n         -Unequipped auto reload changed from 5 sec to 0,5 seconds\n    Bug Thing: \n         -Exploding distance from 5 to 10 m\n    Dash: \n         -Cooldown decreased from 25 to 1,5 sec\n    Deep Pockets: \n         -Changed from +15 to +500\n    Beast Master: -Sadly no changes\n    Downed Bomb: \n         -Cooldown changed from 60 sec to 1 second\n         -Charges increased from 3 to 20 \n    Veteran Depositor: \n         -Depositing speed changed from 50 to 200%\n    Field Medic: \n         -Changed reviving speed from 30% to 200%\n         -Charges increased from 1 to 30 (pls test this)\n    Strong Arm: \n        -Increased Flare throw bonus from 50% to 100%\n        -Increased Heavy Object throw bonus from 20% to 80%\n    Friendly Fire: \n        -No changes (would affect FF even without perk)\n    Heightened Senses: \n        -Charges increased from 2 to 50\n    Hover Boots: \n        -Cooldown changed from 75 to 0.1 seconds\n    Iron Will: \n       -Charges increased from 1 to 30\n       -Duration increased from 12 to 40 seconds\n    Sweet Tooth: \n       -Increased healing from sugar from 30% to 200%\n    Resupplier: \n        -Increased Resupply Speed from 50% to 200%\n        -Increased extra health from 25% to 200%\n    ShieldLink: \n         -Increased duration from 30 to 200 seconds\n        -Changed the cooldown from 120 seconds to 1 second\n    Unstoppable: \n         -Increased reduction of slow from 50% to 100%\n         -Incresed speed while carrying heavy objects from 25% to 100%\n    Elemental Resistance: \n         -Changed from 30% to 100% (Took me 2h to figure that out)\n    Thorns: \n         -Increased Damage from 24 to 100\n    Vampire: \n         -Increased Health gain from 5 to 50",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/128ca25ae29e683bc88aa20ae66b137f8c84be19/Gameplay/Unbalanced/Perks/Incredibly%20Overpowered%20Perks%20-%20V1%20_P.pak"
   },
   "barrel yeet 10x": {
     "DisplayName": "Barrel Yeet 10x",
@@ -558,7 +558,7 @@
     ],
     "Description": "Makes your character kick barrels at 10x the force, conflicts with BarrelYeet5",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/bdbc2dc966cfbbf470687d544a66f412e8dbc5cb/Gameplay/Misc/Barrel%20Yeet%2010x%20-%20V1%20_P.pak"
   },
   "barrel yeet 5x": {
     "DisplayName": "Barrel Yeet 5x",
@@ -569,7 +569,7 @@
     ],
     "Description": "Makes your character kick barrels at 5x the force, conflicts with BarrelYeet10",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/08297e8e258b12395dea21ef97e379f46c7c6548/Gameplay/Misc/Barrel%20Yeet%205x%20-%20V1%20_P.pak"
   },
   "bug hill": {
     "DisplayName": "Bug Hill",
@@ -580,7 +580,7 @@
     ],
     "Description": "Bug Hill is a Hazard 2 mod that swarms you with grunts.\n--Hazard 2 changed\n--Low enemy diversity\n--Compared to the original Hazard 2, this one has faster, stronger, better grunts\n--Map seed can roll huge waves of macteras or spitters, be prepared\n--Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks\n--Higher enemy cap and lower nitra cost recommended",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/239a27472386c6658dcd17546c684cded36c626c/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Hill%20-%20V1.0%20_P.pak"
   },
   "disco fever!": {
     "DisplayName": "Disco Fever!",
@@ -591,7 +591,7 @@
     ],
     "Description": "Drinking a Blackreach Blonde will make you dance for 5 hours, or until you drink a Leaf Lover or DIE",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3c0e3669560418544dbb3d0f9db6bd0b94d40f0b/Gameplay/Misc/Disco%20Fever%21%20-%20V1.0%20_P.pak"
   },
   "upgraded flare gun": {
     "DisplayName": "Upgraded Flare Gun",
@@ -602,7 +602,7 @@
     ],
     "Description": "--Flare Gun max ammo increased from 12 to 24\n--Flare Gun Clip Size increased from 3 to 5\n--Flare Gun Duration upgrades increased from 15 seconds (15.0) to 5 minutes (300.0)",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9cc559e93a3982423835d6d43c45b17215f47c1a/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Flare%20Gun%20-%20V1.0%20_P.pak"
   },
   "upgraded drills": {
     "DisplayName": "Upgraded Drills",
@@ -613,7 +613,7 @@
     ],
     "Description": "--Drills max fuel changed from 38.0 to 60.0\n--Drills mining rate changed from 1.5 to 2.7\n--Tier 1 movement speed upgrade (Hardened Tips) & tier 3 movement speed upgrade (Supercharged Motor) Increased to match mining rate - 0.1 > 0.5",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b212bc7fcee87d3ef54e3b5f14a1c14cb2e9a52c/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Drills%20-%20V1.0%20_P.pak"
   },
   "upgraded zipline": {
     "DisplayName": "Upgraded Zipline",
@@ -624,7 +624,7 @@
     ],
     "Description": "--Zipline Gun max distance increased from 30 Meters (3000.0) to 450 Meters (45000.0)\n--Zipline Gun max ammo increased from 3 to 5\n--Zipline Gun max angle increase from 30° (30.0) to 85° (85.0)\n--Zipline Gun max speed doubled (1.0 to 2.0)",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f1b71de1f0cc428ed881dadeb670bd93ac347def/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Zipline%20-%20V1.0%20_P.pak"
   },
   "upgraded grapple gun": {
     "DisplayName": "Upgraded Grapple Gun",
@@ -635,7 +635,7 @@
     ],
     "Description": "--Grapple Gun range upgrades increased from 5 Meters (500.0) to 20 Meters (2000.0)",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/42a69fadaa1da85c4213393da57ba6767f4772e6/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Grapple%20Gun%20-%20V1.0%20_P.pak"
   },
   "upgraded platform gun": {
     "DisplayName": "Upgraded Platform Gun",
@@ -646,7 +646,7 @@
     ],
     "Description": "--Platform Gun clip-size increased from 4 to 6\n--Platform Gun ammo increased from 16 to 32",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7e3234d1a793de4fc2a779c2afbe5cff3054b626/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Platform%20Gun%20-%20V1.0%20_P.pak"
   },
   "bucky boy bosco": {
     "DisplayName": "Bucky Boy Bosco",
@@ -657,7 +657,7 @@
     ],
     "Description": "--Tripled Bosco's upgradeable mining speed 1.0 > 3.0\n--Tripled Bosco's max acceleration 900.0 > 2700.0\n--Tripled Bosco's max pawnSpeed 450.0 > 1350.0\n--Increased Bosco's carrying speed 275.0 > 825.0\n--Increased Bosco's carrying acceleration 400.0 > 1200.0\n--Increased Bosco's mining radius 105.0 > 155.0\n--Doubled Bosco's fire rate 10.0 > 20.0\n--Doubled Bosco's minimum shot burst 5 > 10\n--Doubled Bosco's maximum shot burst 12 > 24\n--Doubled Bosco's rotation speed 5.0 > 10.0\n--Doubled Bosco's max revives 2 > 4\n--Doubled Bosco's light intensity 3000.0 > 6000.0 / 10.0 > 30.0",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c8fa3cffdeebb8391ea097bb044ae9835b29842c/Gameplay/Unbalanced/Tools%20%26%20Gear/Bucky%20Boy%20Bosco%20-%20V1.0%20_P.pak"
   },
   "minigun bullet": {
     "DisplayName": "Minigun Bullet",
@@ -668,7 +668,7 @@
     ],
     "Description": "--Changed the shot cost of the Minigun from 2 bullets when fired to 1",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e418a9bfbfdeafefd2d85dc098aae80ff8b7e76f/Gameplay/Unbalanced/Weapons/Minigun%20Bullet%20-%20V1.0%20_P.pak"
   },
   "faster deposit": {
     "DisplayName": "Faster Deposit",
@@ -679,7 +679,7 @@
     ],
     "Description": "--Deposit speed increased from 1.0 > 5.0",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/06f685ebfec0294a8ca9aa1a9a8d349df26a30c7/Gameplay/Unbalanced/Other/Faster%20Deposit%20-%20V1.0%20_P.pak"
   },
   "escort rock nerf": {
     "DisplayName": "Escort Rock Nerf",
@@ -690,7 +690,7 @@
     ],
     "Description": "For the hyperspawn mods\n--Ommeran Rock Attack Rocks have half health",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/421474b2fa5859af8712e3b60ea2a3ddd6066610/Gameplay/Unbalanced/Other/Escort%20Rock%20Nerf%20-%20V1.0%20_P.pak"
   },
   "best friends forever": {
     "DisplayName": "Best Friends Forever",
@@ -701,7 +701,7 @@
     ],
     "Description": "100% chance to encounter Korlok, BETC and Crassus Detonator in a mission preset.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4a75f60a60ddaea7872ed65dfee56c32b0b948bf/Gameplay/Gamemodes/Hazard%20Levels/Best%20Friends%20Forever%20-%20V1.0%20_P.pak"
   },
   "custom enemy cap": {
     "DisplayName": "Custom Enemy Cap",
@@ -712,7 +712,7 @@
     ],
     "Description": "**Requires the mod loader.**\nLets you control the global enemy cap, and can optionally lower the cap depending on your FPS. Only works as the host.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/93fff1f53f950e2f1d7c21326653eef12018950a/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.1%20_P.pak"
   },
   "dies irea dreadnough boss music": {
     "DisplayName": "Dies Irea Dreadnough Boss Music",
@@ -723,7 +723,7 @@
     ],
     "Description": "------------------------------------\nChanges the Dreadnought Boss Music to Dies Irea by Guiseppe Verdi\nPlayed by the Atlanta Symphony Orchestra and Chorus directed by Robert Shaw\n------------------------------------\nListen to this Dies Irea,\nA Dreadnought's coming for you,\nGonna annihilate your whole crew,\nGonna be squashed by a large crustacea\n------------------------------------",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/20cadfe753b4cc4070716fc92dc1dbf17ac3d14a/Audio/Music/Dies%20Irea%20Dreadnough%20Boss%20Music%20-%20V2%20_P.pak"
   },
   "twice the enemies haz 3, 3.5, 4, 4.5, 5, 5.5 (missions + deep dives)": {
     "DisplayName": "Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives)",
@@ -734,7 +734,7 @@
     ],
     "Description": "Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing 40+ simultaneous cries of pain?\nWant gigantic hordes of cannon fodder?\nI created this mod as a middle ground between haz 4 and haz 5 when playing with low level friends so they can have more\nfun while not getting insta-killed by tough enemies. Also makes normal Deep Dive fun again, less boring 😉\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Higher enemy count for an alternate higher difficulty, spawning tons of enemies instead of less but tougher enemies like haz6/7.\n--Variation 2x has 200% enemies (150% enemies single player)\n--Variation 1.5x has 150% enemies (125% enemies single player)\n--No XP boost or any other modification, this is just for fun\n--Use obviously the file you choose, not both\n----------------------------------------------------------------\nNote: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health\nNote: Replaces Haz 3, 4, 5 and DD/EDD. So it won't work with Haz 6/7. Only the host needs the mod\nNote: Recommended using \"Custom Cap\" mod to avoid enemy de-spawn",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1befa52fb69d8a9085273df209c0afc5a6045cb2/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.2.1.zip"
   },
   "fullmetal scout": {
     "DisplayName": "Fullmetal Scout",
@@ -745,7 +745,7 @@
     ],
     "Description": "A heavily armed Scout, no balance changes, only the Scout Loadout now includes the primaries Minigun, Cryo and secondaries PGL, Autocannon also IFG -> Axe, Pheremones -> Lure",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/98d8dfc45083f818667e9981d4fb03834d786c70/Gameplay/Unbalanced/Weapons/Fullmetal%20Scout%20-%20V1.0%20_P.pak"
   },
   "laser sight": {
     "DisplayName": "Laser Sight",
@@ -756,7 +756,7 @@
     ],
     "Description": "Replaces your flashlight with a laser pointer and gives your nearby surroundings a soft red glow.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2edfe7e190d7dd38743031ab2c020fa67e8599a0/Visual/Lighting/Laser%20Sight%20-%20V1.1%20_P.pak"
   },
   "lootsplosion": {
     "DisplayName": "Lootsplosion",
@@ -767,7 +767,7 @@
     ],
     "Description": "--Lootbugs and Huuli Hoarders now drop minerals as fast and as much as you can damage them before killing them (high RoF low damage is best).\n--Lootbugs now multiply resources that they eat by 3x and get new eating targets much faster.\n--Seems to prevent them from dropping loot on death since you ring them dry through torture.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6d1a9441125a73217890b0e88e062afdd7c639aa/Gameplay/Balanced/Lootsplosion%20-%20V1.0%20_P.pak"
   },
   "legendary hoarder (former x2 ammo)": {
     "DisplayName": "Legendary Hoarder (former x2 ammo)",
@@ -778,7 +778,7 @@
     ],
     "Description": "--Removes all these useless sandwich storage slots, allowing you to double up on all your weapon ammo!",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e655f313b70af6f5ac2169a5918370983af7f4c5/Gameplay/Unbalanced/Weapons/Legendary%20Hoarder%20%28former%20X2%20Ammo%29%20-%20V1.0%20_P.pak"
   },
   "dash perk suicide preventer": {
     "DisplayName": "Dash Perk Suicide Preventer",
@@ -789,7 +789,7 @@
     ],
     "Description": "Created this mod for me as I was tired of accidentally activating Dash next to\na pit, hurling me to my death, or just not having it recharged when actually\nneeded as it was previously triggered by accident.\n----------------------------------------------------------------\n--Makes the Dash activation window 0.2 seconds \"shift\" key double taps instead 0.4 seconds\n----------------------------------------------------------------\nNote: Incompatible with the \"No more Dollar Store flashlights\" mod as they both change the same file, message me if you want both",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9d5c082acda1f7b274cb84ec6b249d9de1ad908f/Quality%20of%20Life/Improved%20mechanics/Dash%20Perk%20Suicide%20Preventer%20-%20V33.2.0%20_P.pak"
   },
   "good old bet-c.exe": {
     "DisplayName": "Good Old Bet-C.exe",
@@ -800,7 +800,7 @@
     ],
     "Description": "Prevents friendly BET-C from hurling bombs in your face and taking out your shield.\nBasically uses Left 4 Dead AI principles; if not smart enough to avoid hitting you,\nthen at least it won't damage you. Just like good old times before update 20-something.\nNo more needing to re-consider repairing BET-C or not on shield disruption missions. \n----------------------------------------------------------------\n--Friendly BET-C bombs do 0 damage on dwarves\n----------------------------------------------------------------",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b76ccc71de1d2cfc5ceaf69fa73bca1e70a287f6/Gameplay/Misc/Good%20Old%20Bet-C.exe%20-%20V33.2.0%20_P.pak"
   },
   "starship troopers": {
     "DisplayName": "Starship Troopers",
@@ -811,7 +811,7 @@
     ],
     "Description": "Similar to my \"Increased enemies\" mod, but a bit different as I wasn't satisfied. Alternative Haz5.\nThis mod makes Haz5 enemies same as Haz4 (speed, damage resistance, etc) with double the enemy count\nof HAZ5, to give you a Starship Troopers-like feeling with massive hordes of normal enemies (as\nthey have haz4 endurance) while still giving 133% XP since the difficulty feels pretty much the same.\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Haz4 150% of Haz5 enemies (125% single player)\n--Haz5 200% of Haz5 enemies (150% single player)\n----------------------------------------------------------------\nNote: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health\nNote: Replaces Haz 4, and 5. So it won't work with Haz 6/7. Only the host needs the mod\nNote: Recommended using \"Ludicrous Cap\" or \"Custom Cap\" mod to avoid enemy de-spawn",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9b037d4db3b91c296d00303a83354ea01883977d/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V33.2.0.zip"
   },
   "2x ammo and slightly better scout": {
     "DisplayName": "2x Ammo And Slightly Better Scout",
@@ -822,7 +822,7 @@
     ],
     "Description": "- I wanted to use the 2x ammo mod at the same time as Slightly Better Scout, but since the two mods modify the same files, I combined them into one mod.\n- All primary and secondary weapons of all classes have their ammo doubled (doesn’t affect equipment such as C4)\n- Fall damage reduction armor mod increased from 33% to 50%\n- Deepcore GK2 damage increased from 15 to 17\n- M1000 Classic clip size increased from 8 to 10, damage increased from 50 to 55\n- Zhukov Nuk17 damage increased from 12 to 14\n- Jury-Rigged Boomstick pellet count increased from 8 to 9\n- As a host, the damage & armor changes will affect anyone playing scout in your game. The ammo changes will only affect you.\n- As a client, this mod will still affect your ammo, but not damage or armor.\n*Thanks to* <@!220325734374309889> *for helping me make the Slightly Better Scout portion of this mod and* <@!360816319722946560> *for their work on the 2x ammo (now known as legendary hoarder) mod*",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/21c2a4cea0a35c3aeffb8ec06146c007e41dac0f/Gameplay/Unbalanced/Weapons/2x%20Ammo%20And%20Slightly%20Better%20Scout%20-%20V1.0%20_P.pak"
   },
   "better spectator": {
     "DisplayName": "Better Spectator",
@@ -833,7 +833,7 @@
     ],
     "Description": "**Requires the mod loader.**\nReplaces the game's spectator camera when you get downed (removes the fuzzy overlay and skips the faceplant animation). It allows you to freely orbit and zoom in/out when spectating players. You can also optionally spectate Bosco, Molly, Doretta, and BET-C.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f1143a182e80ffb6542bc63b38ef8dd762c2b263/Quality%20of%20Life/Camera/Better%20Spectator%20-%20V1.7%20_P.pak"
   },
   "better post processing": {
     "DisplayName": "Better Post Processing",
@@ -844,7 +844,7 @@
     ],
     "Description": "**Requires the mod loader.**\nAdds options for controlling: super-sampling, ambient occlusion, bloom, lens flare, lens dirt, vignette, and film grain.\n_Your in-game graphics settings for post-processing must be set to high/ultra._",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9af05f5ba5645ab336fa03dc6d5712d9fa1a7216/Visual/Misc/Better%20Post%20Processing%20-%20V1.3%20_P.pak"
   },
   "mission timer": {
     "DisplayName": "Mission Timer",
@@ -855,7 +855,7 @@
     ],
     "Description": "**Requires the mod loader.**\nAdds a small mission timer to the top of the screen. Also acts as a deep dive stage timer.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/76c3a37a7ff885bcfbd72e74ddef2e45d5f003a5/Quality%20of%20Life/HUD/Mission%20Timer%20-%20V1.1%20_P.pak"
   },
   "mission control text remover": {
     "DisplayName": "Mission Control Text Remover",
@@ -866,7 +866,7 @@
     ],
     "Description": "**Requires the mod loader.**\nRemoves the mission control speech text popup.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e303de4d3d5aab5825af8858ac95cdeb66d07e0f/Quality%20of%20Life/HUD/Mission%20Control%20Text%20Remover%20-%20V1.2%20_P.pak"
   },
   "0 nitra supply drops": {
     "DisplayName": "0 Nitra Supply Drops",
@@ -877,7 +877,7 @@
     ],
     "Description": "[HOST ONLY EFFECT - Need at least 0.00(repeating of course) 1 Nitra to call in]\n--Changed supply drop cost to 0 Nitra",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1c77ae5b4aa8cde12a2fb606cf3b6fea160fd274/Gameplay/Unbalanced/Other/0%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak"
   },
   "50 nitra supply drops": {
     "DisplayName": "50 Nitra Supply Drops",
@@ -888,7 +888,7 @@
     ],
     "Description": "[HOST ONLY EFFECT]\n--Changed supply drop cost to 50 Nitra",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/29bfb01ee91e658aa283d6051e93c99e8e63909b/Gameplay/Unbalanced/Other/50%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak"
   },
   "160 nitra supply drops": {
     "DisplayName": "160 Nitra Supply Drops",
@@ -899,7 +899,7 @@
     ],
     "Description": "[HOST ONLY EFFECT]\n--Changed supply drop cost to 160 Nitra",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f0a2c56c00a8ab5ead851b32a06b4d5541cc3d00/Gameplay/Unbalanced/Other/160%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak"
   },
   "minigun ricochet bullet hell oc buff v2": {
     "DisplayName": "Minigun Ricochet Bullet Hell OC Buff V2",
@@ -910,7 +910,7 @@
     ],
     "Description": "Changes Bullet Hell Overclock for the Gunner Minigun\n-Decreased damage penalty -3.0 > -1.0\n-Increased Ricochet Chance 0.5 > 0.9 (50% to 90%)\n-Decreased Spread penalty 6.0 > 2.0\n-As Host: Affects only your own Minigun\n-As Client: Affects only your own Minigun",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/88b130110c0bbbdf5a79a983d97615a8cf5a8e93/Gameplay/Unbalanced/Weapons/Minigun%20Ricochet%20Bullet%20Hell%20OC%20Buff%20V2%20-%20V2.0%20_P.pak"
   },
   "minigun base ammo buffed": {
     "DisplayName": "Minigun Base Ammo Buffed",
@@ -921,7 +921,7 @@
     ],
     "Description": "Changes Minigun Base Ammo Stats\n-Increased Ammo 2400 > 3000\n-As Host: Affects only your own Minigun\n-As Client: Affects only your own Minigun",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0a4714b09c149683866293d745a265e209381637/Gameplay/Unbalanced/Weapons/Minigun%20Base%20Ammo%20Buffed%20-%20V1.0%20_P.pak"
   },
   "sentryygun returningspeed buffed": {
     "DisplayName": "SentryyGun Returningspeed Buffed",
@@ -932,7 +932,7 @@
     ],
     "Description": "Changes the returningspeed and dismanlte of the sentrygun\n--Increased MaxPawnSpeed 2000 > 6000\n--Increased MaxAcceleration 2000 > 6000\n--Increased MaxBrakingDeceleration 4000 > 12000\n--Decreased DismantleDuration 1 > 0.5",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a388641b829054d60f6712a35dad014addeb9f45/Gameplay/Unbalanced/Weapons/SentryyGun%20Returningspeed%20Buffed%20-%20V1.0%20_P.pak"
   },
   "sentrygun base ammo buffed": {
     "DisplayName": "Sentrygun Base Ammo Buffed",
@@ -943,7 +943,7 @@
     ],
     "Description": "Changes the base Ammo capacity of the sentrygun\n--Increased Ammo 425 > 600\n--As Host: Affects all Engineer turrets if host has the mod\n--As Client: Doesn't work as Client",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b5d0a295f09c143109df84e8849e323e620d106c/Gameplay/Unbalanced/Weapons/Sentrygun%20Base%20Ammo%20Buffed%20-%20V1.0%20_P.pak"
   },
   "ziplinegun speed, ammo and angle buffed": {
     "DisplayName": "ZiplineGun Speed, Ammo and Angle Buffed",
@@ -954,7 +954,7 @@
     ],
     "Description": "Changes ZiplineGun Base Stats\n--Increased Speed 1.0 > 2.0\n--Increased MaxDistance 3000.0 (30m) > 4000.0 (40m)\n--Increased MaxAngle 30.0 > 40.0\n--Increased MinAngle 30.0 > 40.0\n--Increased Ammo 3 > 5\n--As Host: Affects only your own ZiplineGun\n--As Client: Affects only your own ZiplineGun",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ac3b9aea16496d6063d3580013d71c4d98098b95/Gameplay/Unbalanced/Weapons/ZiplineGun%20Speed%2C%20Ammo%20And%20Angle%20Buffed%20-%20V1.0%20_P.pak"
   },
   "guaranteed machine events": {
     "DisplayName": "Guaranteed Machine Events",
@@ -965,7 +965,7 @@
     ],
     "Description": "Makes machine events always spawn in missions so that you can farm less to use your cores.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5d5fd07ff425c81d9bc5de6f2a9472f72abda92b/Gameplay/Unbalanced/Resources%20%26%20Progression/Guaranteed%20Machine%20Events%20-%20V1.0%20_P.pak"
   },
   "10 waypoints": {
     "DisplayName": "10 Waypoints",
@@ -976,7 +976,7 @@
     ],
     "Description": "Lets you place up to 10 different waypoints to track routes and points of interest.  The 11th waypoint will replace the 1st one and so on.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d94fff8780e5372a761334e21b8023294c279a59/Quality%20of%20Life/Improved%20mechanics/10%20Waypoints%20-%20V1.0%20_P.pak"
   },
   "better bosco": {
     "DisplayName": "Better Bosco",
@@ -987,7 +987,7 @@
     ],
     "Description": "--Gave him a good spotlight for looking around and lighting up areas passively.\n--Larger dig radius like driller dual drills.\n--Has aim bot when switching between nearby targets, shoots much faster for longer and has higher armor break.\n--Less delay for helping you when grabbed and whatnot, faster move speed, more combat range.\n--Cryo rockets now carve out a 4.5m area on impact because why not.\n--All upgrades have been upgraded to make them better and incentivize build specialty.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/83fee1fa6a79dc75a0ef94df89e401a380732811/Gameplay/Unbalanced/Other/Better%20Bosco%20-%20V1.0%20_P.pak"
   },
   "infinitely better bosco": {
     "DisplayName": "Infinitely Better Bosco",
@@ -998,7 +998,7 @@
     ],
     "Description": "--Has built in 9001 revives for testing or whatever.\n--Gave him a good spotlight for looking around and lighting up areas passively.\n--Larger dig radius like driller dual drills.\n--Has aim bot when switching between nearby targets, shoots much faster for longer and has higher armor break.\n--Less delay for helping you when grabbed and whatnot, faster move speed, more combat range.\n--Cryo rockets now carve out a 4.5m area on impact because why not.\n--All upgrades have been upgraded to make them better and incentivize build specialty.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b9cf4e6f7ade458c79d9ead7b987973499e6687/Gameplay/Unbalanced/Other/Infinitely%20Better%20Bosco%20-%20V1.0%20_P.pak"
   },
   "white throwing flares": {
     "DisplayName": "White Throwing Flares",
@@ -1009,7 +1009,7 @@
     ],
     "Description": "--Makes the light of throwing flares white without any other changes.\n--Seems to be brighter due to the color change not blending or being \"dark\".",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ab33f77afd4a3ba9841353911b61ea7c0d10aad6/Quality%20of%20Life/Other/White%20Throwing%20Flares%20-%20V1.0%20_P.pak"
   },
   "deep dives have double resources": {
     "DisplayName": "Deep Dives Have Double Resources",
@@ -1020,7 +1020,7 @@
     ],
     "Description": "Deep Dives will now spawn an abundant amount of resources.  The resource veins only work for the host but the deposited ones do work for clients.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c230c21f490d649f7616bee6e6a4ac8b08895e04/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Dives%20Have%20Double%20Resources%20-%20V1.0%20_P.pak"
   },
   "deep dives have resources": {
     "DisplayName": "Deep Dives Have Resources",
@@ -1031,7 +1031,7 @@
     ],
     "Description": "Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/db3df3748dc39156b213cc248c41115d06de793b/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Dives%20Have%20Resources%20-%20V1.0%20_P.pak"
   },
   "toothpaste platform gun": {
     "DisplayName": "Toothpaste Platform Gun",
@@ -1042,7 +1042,7 @@
     ],
     "Description": "--Makes the platforms into small dots with 50 base mag size.\n--Removes recoil from firing, increases RoF massively, buffs upgrades (except for falling and repellent).\n--Max ammo set to 0, can increase ammo up to 200 with upgrades.\n--Build pillars and bridges easily, especially with no delay on platform building so you can truly do parkour!\nPreview: https://discordapp.com/channels/676880716142739467/732650220214681600/762946862755217419",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/19b5c8c624df7855accb2c0f357895b1608f6203/Gameplay/Unbalanced/Tools%20%26%20Gear/Toothpaste%20Platform%20Gun%20-%20V1.0%20_P.pak"
   },
   "thick platforms": {
     "DisplayName": "Thick Platforms",
@@ -1053,7 +1053,7 @@
     ],
     "Description": "--Makes the platforms \"乇乂ㄒ尺卂 ㄒ卄丨匚匚\".\n--Good for making cocoons and castles.\n--Fill driller holes easier or bury your useless allies.\nPreview: https://discordapp.com/channels/676880716142739467/732650220214681600/762558614958637076",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/56437c2eab212d3dd7c0ab0492ee7580c6b46b98/Gameplay/Unbalanced/Tools%20%26%20Gear/Thick%20Platforms%20-%20V1.0%20_P.pak"
   },
   "he grenade carve": {
     "DisplayName": "HE Grenade Carve",
@@ -1064,7 +1064,7 @@
     ],
     "Description": "--Adds a 4x4x4 (8m diameter) meter carve to HE Grenades.\n--Reduces time to detonate to 0.5 seconds after throwing.\n--Increased throw velocity to give it some range before detonating.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1c3c0057bdf31820ee3678b90a253184afcf3625/Gameplay/Balanced/HE%20Grenade%20Carve%20-%20V1.0%20_P.pak"
   },
   "8 grenades": {
     "DisplayName": "8 Grenades",
@@ -1075,7 +1075,7 @@
     ],
     "Description": "Makes you carry 8 grenades for all types to match up with axes.",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cf7ce0308931910d3419b47761fd74b8fce7e6ff/Gameplay/Unbalanced/Weapons/8%20Grenades%20-%20V1.0%20_P.pak"
   },
   "sniper turret": {
     "DisplayName": "Sniper Turret",
@@ -1086,7 +1086,7 @@
     ],
     "Description": "--Buffs and nerfs various aspects of the base engineer turret to suit a sniper theme.\n--Changes all engineer turret upgrades to fit with the changes.\n--Adds a buffed and recolored blue light to the turret targeting circle as well as the point light around it.\nFull changelog for showing undisplayed changes can be seen in this message in mod preview:\nhttps://discordapp.com/channels/676880716142739467/732650220214681600/762558222732230686",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/75795c1bccd670f5949580ab0d0780cb83a8f768/Gameplay/Unbalanced/Tools%20%26%20Gear/Sniper%20Turret%20-%20V1.0%20_P.pak"
   },
   "beastmaster buff": {
     "DisplayName": "BeastMaster Buff",
@@ -1097,7 +1097,7 @@
     ],
     "Description": "Buffs the beastmaster perk. Since Steeve is kinda fragile on haz 6+, and you can still accidentally tame while reviving. In haz 5-ish or above, slasher steeve will last around 1.5 minutes or less in constant combat.\nCooldown 5 > 3 minutes (must be host to take effect)\nTaming time 0.75 > 0.1 seconds (don't need to be host) \nSteeve Speed 1.15 > 1.28 (probably need to be host)",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/562737c5ae0d8a9e10e679d68e7818db048bc87d/Gameplay/Unbalanced/Perks/BeastMaster%20Buff%20-%20V1.1%20_P.pak"
   },
   "tactical nukes": {
     "DisplayName": "Tactical Nukes",
@@ -1108,7 +1108,7 @@
     ],
     "Description": "The radiation field left by fatboy rounds no longer affects players OR Doretta",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cc198f22edeaa5052be64429b4d58b23946020b6/Gameplay/Unbalanced/Weapons/Tactical%20Nukes%20-%20V1%20_P.pak"
   },
   "no more dollar store flashlights": {
     "DisplayName": "No more Dollar Store flashlights",
@@ -1119,7 +1119,7 @@
     ],
     "Description": "Increases flashlight range so you don't need to have your nose against the wall to see the minerals there\n----------------------------------------------------------------\n--Variation 2x has twice the range\n--Variation 3x has thrice the range\n--See Preview: https://discord.com/channels/676880716142739467/732650220214681600/784327494596689920\n----------------------------------------------------------------\nNote: Incompatible with the \"Dash Perk Suicide Preventer\" mod as they both change the same file, message me if you want both",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5cc6c519e4b8a5b6b05fac81b4d681e58097b8c5/Quality%20of%20Life/Improved%20mechanics/No%20More%20Dollar%20Store%20Flashlights%20-%20V33.2.1.zip"
   },
   "power creep": {
     "DisplayName": "Power Creep",
@@ -1130,6 +1130,6 @@
     ],
     "Description": "Targeted buffs for weapons, mods, and overclocks to create more build variety. Made using karl.gg data and my personal experience. All feedback is appreciated in the <#772083212691963904> channel. Change list: https://onlyo.co/36GBkpC",
     "LastUpdateChangelog": null,
-    "LargeFileDownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fe88bb9af2fa8ed32eb0e8b7b09effd11dc723c7/Gameplay/Balanced/Power%20Creep%20-%20VFeb-6-2021%20_P.pak"
   }
 }
