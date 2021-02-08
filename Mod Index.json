@@ -1131,5 +1131,16 @@
     "Description": "--All forms of resupply pods now keep the progress for grabbing the resupply, because how does all that stuff you unpacked go back in?\n--Allows you to leave a pod at half \"grab\" and continue it later.\nPreview: https://discordapp.com/channels/676880716142739467/732650220214681600/773047587976642560",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "power creep": {
+    "DisplayName": "Power Creep",
+    "Version": "Feb-7-2021",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      385384075168448513
+    ],
+    "Description": "Mostly buffs and a few nerfs to increase build variety. Made using feedback from <#772083212691963904> and karl.gg data. Change List: https://onlyo.co/36GBkpC",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
