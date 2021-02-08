@@ -1131,5 +1131,16 @@
     "Description": "Inspired by the movie Starship Troopers, Hoxxes IV is an ugly planet, a bug planet. Expect large waves of grunts when you walk into their tunnels.\n--Hazard 3, 3.5, 4, 4.5, 5 and 5.5 changed\n--The higher the hazard, the more health the grunts have and more damage they do\n--The higher the hazard, the more grunt veterans spawn\n--Low enemy diversity\n--Big enemies are slightly weaker, its mostly about surviving the grunt waves\n--Large enemy count\n--Map seed can roll huge waves of macteras or spitters, be prepared\n--Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks\nA Custom Enemy Cap mod is recommended, I use a cap of 150. Lower ammo cost also recommended.",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "supply pods keep grab progress": {
+    "DisplayName": "Supply Pods Keep Grab Progress",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "--All forms of resupply pods now keep the progress for grabbing the resupply, because how does all that stuff you unpacked go back in?\n--Allows you to leave a pod at half \"grab\" and continue it later.\nPreview: https://discordapp.com/channels/676880716142739467/732650220214681600/773047587976642560",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
