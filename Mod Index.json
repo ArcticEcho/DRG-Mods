@@ -1199,5 +1199,16 @@
     "Description": "[Changes the Neurotoxin Payload OC for the Autocannon]\n--Increased the chance to entox enemies from 30% to 100%",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "spinning doom": {
+    "DisplayName": "Spinning Doom",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "[Spinning Death OC for Breach Cutter Buff]\n--Increased clip-size value from 0.3 to 0.5 (Allows a default of 2 clip-size)\n--Changed ammo penalty from 0.5 (Half ammo gone) to 1.0 (No ammo gone)\n--Increased lifetime value from 2.5 (7.5 seconds) to 5.0 (15 seconds)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
