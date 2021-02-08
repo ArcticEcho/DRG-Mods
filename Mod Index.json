@@ -1175,5 +1175,18 @@
     "Description": "changes the damage type of the Satchel Charge to physical (melee) damage, therefore allowing it to proc Vampire and also (theoretically) deal massive damage to Glyphid Dreadnought since it ignores their 40% Explosive Resistance",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "sound qol pack": {
+    "DisplayName": "Sound QoL pack",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      360816319722946560,
+      350019378189828097,
+      156386896866574336
+    ],
+    "Description": "contains the following sound improvements:\n-- Silent Doretta (removes the noise when that useless hunk of metal takes damage);\n-- Silent Vampire (aka NO SUCC - removes the Vampire suction sound);\n-- Silent Jukebox (mutes the entire Jukebox song collection);\n-- Personal Born Ready (makes the voicelines have 0 distance, so they're no longer global. Requires testing);\n-- Silent Low Oxygen (removes the specific warning sounds and mutes the voicelines that play when you're low on Oxygen);\n-- No more BET-C repair sounds (screw that robot, she's the worst)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
