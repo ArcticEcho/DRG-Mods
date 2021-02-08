@@ -1221,5 +1221,16 @@
     "Description": "Set the three Drill parameter (x,y,z) to max",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "bug planet - constant conflict": {
+    "DisplayName": "Bug Planet - Constant Conflict",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "Inspired by the movie Starship Troopers, Hoxxes IV is an ugly planet, a bug planet. Expect large waves of grunts when you walk into their tunnels.\n--Hazard 3, 3.5, 4, 4.5, 5 and 5.5 changed\n--The higher the hazard, the more health the grunts have and more damage they do\n--The higher the hazard, the more grunt veterans spawn\n--Low enemy diversity\n--Insane Wave Intervals\n--Big enemies are slightly weaker, its mostly about surviving the grunt waves\n--Large enemy count\n--Map seed can roll huge waves of macteras or spitters, be prepared\n--Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks\nA Custom Enemy Cap mod is recommended, I use a cap of 150. Lower ammo cost also recommended.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
