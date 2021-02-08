@@ -1153,5 +1153,16 @@
     "Description": "Increases the pickup sphere radius for gunk seeds to make them more on par with other large objects.  Thank you to NaturalBornCamper for updating this for me while I worked on other stuff.",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "alwaysnuerotoxin": {
+    "DisplayName": "AlwaysNuerotoxin",
+    "Version": "1",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Bulldog Revolver's \"Nuerotoxin Coating\" chance is now **Guaranteed**",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
