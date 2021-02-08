@@ -1164,5 +1164,16 @@
     "Description": "Bulldog Revolver's \"Nuerotoxin Coating\" chance is now **Guaranteed**",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "vampire satchel charge": {
+    "DisplayName": "Vampire Satchel Charge",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      156386896866574336
+    ],
+    "Description": "changes the damage type of the Satchel Charge to physical (melee) damage, therefore allowing it to proc Vampire and also (theoretically) deal massive damage to Glyphid Dreadnought since it ignores their 40% Explosive Resistance",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
