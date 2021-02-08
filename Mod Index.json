@@ -1254,5 +1254,16 @@
     "Description": "This is a comprehensive Hazard 7 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 7. Rewards multiplier is set to 200%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--A description of variables and the philosophy of why some were scaled more and some less is here -> https://docs.google.com/document/d/1O2hmVsoaSy2qId4jCWOP_pHMXaoGMWqf_MY7RAs6cxI/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up. \n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate. \n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up. \n--Beating this is possible, and using other buffs is cheating, but I would recommend staying inside the drop pod at the start of refinery missions.\n--Works well with expanded enemy cap mods.\n--For changes from V2.0 see Haz6",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "hazard 5 carry": {
+    "DisplayName": "Hazard 5 Carry",
+    "Version": "V3.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      189954203664252928
+    ],
+    "Description": "This mod is for making things difficult while waiting for joiners, testing 4man breakpoints, or just adding difficulty without touching base game properties. \n--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player lobby regardless of player count\n--This includes enemy count, health, and damage. \n--Get the experience of playing in the main discord while freeing up your field medic perk slot!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
