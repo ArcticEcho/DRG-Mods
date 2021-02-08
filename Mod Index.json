@@ -1188,5 +1188,16 @@
     "Description": "contains the following sound improvements:\n-- Silent Doretta (removes the noise when that useless hunk of metal takes damage);\n-- Silent Vampire (aka NO SUCC - removes the Vampire suction sound);\n-- Silent Jukebox (mutes the entire Jukebox song collection);\n-- Personal Born Ready (makes the voicelines have 0 distance, so they're no longer global. Requires testing);\n-- Silent Low Oxygen (removes the specific warning sounds and mutes the voicelines that play when you're low on Oxygen);\n-- No more BET-C repair sounds (screw that robot, she's the worst)",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "neurotoxin payload buff": {
+    "DisplayName": "Neurotoxin Payload Buff",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "[Changes the Neurotoxin Payload OC for the Autocannon]\n--Increased the chance to entox enemies from 30% to 100%",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
