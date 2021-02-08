@@ -1265,5 +1265,16 @@
     "Description": "This mod is for making things difficult while waiting for joiners, testing 4man breakpoints, or just adding difficulty without touching base game properties. \n--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player lobby regardless of player count\n--This includes enemy count, health, and damage. \n--Get the experience of playing in the main discord while freeing up your field medic perk slot!",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "hazard 6 carry": {
+    "DisplayName": "Hazard 6 Carry",
+    "Version": "V3.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      189954203664252928
+    ],
+    "Description": "--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player Hazard 6 lobby regardless of player count\n--This includes enemy count, health, and damage. \n--Per request. Professional eat your heart out.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
