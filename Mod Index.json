@@ -1210,5 +1210,16 @@
     "Description": "[Spinning Death OC for Breach Cutter Buff]\n--Increased clip-size value from 0.3 to 0.5 (Allows a default of 2 clip-size)\n--Changed ammo penalty from 0.5 (Half ammo gone) to 1.0 (No ammo gone)\n--Increased lifetime value from 2.5 (7.5 seconds) to 5.0 (15 seconds)",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "hazard 6": {
+    "DisplayName": "Hazard 6",
+    "Version": "V3.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      189954203664252928
+    ],
+    "Description": "This comprehensive Hazard 6 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 6. Rewards multiplier is set to 166%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--A description of variables and the philosophy of why some were scaled more and some less is here -> https://docs.google.com/document/d/1O2hmVsoaSy2qId4jCWOP_pHMXaoGMWqf_MY7RAs6cxI/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up. \n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate. \n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up. \n--Changes since V2.0 include:\n-Special enemies like spitters and swarmers have an easier time spawning\n-Enemies do a little more damage to make scaling more consistent with base game hazards and counteract the difficulty reduction from special enemy spawn frequency\n-There is much more variance mission to mission in all difficulty elements",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
