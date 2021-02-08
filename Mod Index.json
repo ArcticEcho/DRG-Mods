@@ -1142,5 +1142,16 @@
     "Description": "Mostly buffs and a few nerfs to increase build variety. Made using feedback from <#772083212691963904> and karl.gg data. Change List: https://onlyo.co/36GBkpC",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "gunk seed pickup radius": {
+    "DisplayName": "Gunk Seed Pickup Radius",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "Increases the pickup sphere radius for gunk seeds to make them more on par with other large objects.  Thank you to NaturalBornCamper for updating this for me while I worked on other stuff.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": null
   }
 }
