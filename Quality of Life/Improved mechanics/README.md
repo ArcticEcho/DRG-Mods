@@ -1,4 +1,7 @@
-Changes to stuff that might be underwhelming or annoying in the base game
+# Improved Mechanic Mods
+
+Changes to stuff that might be underwhelming or annoying in the base game.
+
 <!-- mod list -->
 
 ## 10 Waypoints - v1.0

@@ -1,4 +1,7 @@
-QoL changes to HUD elements
+# HUD Mods
+
+QoL changes to HUD elements.
+
 <!-- mod list -->
 
 ## Mission Control Text Remover - v1.2

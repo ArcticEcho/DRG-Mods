@@ -1,4 +1,7 @@
-Changes to cave lighting colors, intensitiy, flashlights
+# Lighting Mods
+
+Changes to cave lighting colors, intensitiy, flashlights, etc.
+
 <!-- mod list -->
 
 ## Laser Sight - v1.1

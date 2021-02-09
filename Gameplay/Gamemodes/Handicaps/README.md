@@ -1,4 +1,7 @@
-Mods that increase the difficulty of many things
+# Handicap Mods
+
+Mods that increase the difficulty of things.
+
 <!-- mod list -->
 
 ## No Reviving - v2

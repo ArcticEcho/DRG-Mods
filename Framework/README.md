@@ -1,4 +1,6 @@
-# Frameworks & mod managers/loaders
+# Mod Frameworks/Managers
+Mods that act as an underlying base of some kind for other mods.
+
 <!-- mod list -->
 
 ## Mod Loader - v4.2

@@ -1,4 +1,7 @@
-QoL mods to speed up actions that take too long in-game
+# Time Saving Mods
+
+QoL mods to speed up actions that take too long in-game.
+
 <!-- mod list -->
 
 ## Closer Promotion Terminal - v1.1

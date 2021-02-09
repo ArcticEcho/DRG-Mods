@@ -1,4 +1,7 @@
-Mods that can be tweaked in-game
+# Customizable Gameplay Mods
+
+Mods that can be tweaked in-game.
+
 <!-- mod list -->
 
 ## Custom Enemy Cap - v2.1

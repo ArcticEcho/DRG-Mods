@@ -1,2 +1,5 @@
-Hat model replacements
+# Hat Model Mods
+
+Hat model replacements.
+
 <!-- mod list -->

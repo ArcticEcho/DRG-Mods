@@ -1,4 +1,7 @@
-Unbalanced changes to guns and grenades
+# Unbalanaced Weapon Mods
+
+Unbalanced changes to guns and grenades.
+
 <!-- mod list -->
 
 ## 2x Ammo And Slightly Better Scout - v1.0

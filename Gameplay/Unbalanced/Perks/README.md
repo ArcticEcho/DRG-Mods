@@ -1,4 +1,7 @@
-Unbalanced changes to active and passive perks
+# Unbalanaced Perk Mods
+
+Unbalanced changes to active and passive perks.
+
 <!-- mod list -->
 
 ## BeastMaster Buff - v1.1

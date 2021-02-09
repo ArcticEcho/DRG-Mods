@@ -1,4 +1,7 @@
-Mods attempting to balance stuff that performs worse than normal
+# Balanced Gameplay Mods
+
+Mods attempting to balance stuff that performs worse than normal.
+
 <!-- mod list -->
 
 ## BBP (Big Balance Patch) - v1.5

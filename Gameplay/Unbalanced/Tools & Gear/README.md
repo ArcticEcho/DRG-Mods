@@ -1,4 +1,7 @@
-Unbalanced changes to tools and gear
+# Unbalanced Tools/Gear Mods
+
+Unbalanced changes to tools and gear.
+
 <!-- mod list -->
 
 ## Bucky Boy Bosco - v1.0

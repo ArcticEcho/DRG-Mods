@@ -1,4 +1,7 @@
-Tweaks to graphics and stuff that can improved performance
+# Graphics & Performance Mods
+
+Tweaks to graphics and stuff that can improve performance.
+
 <!-- mod list -->
 
 ## Dynamic Resolution - v1.1

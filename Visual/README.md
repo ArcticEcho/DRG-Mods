@@ -1,1 +1,3 @@
-Visual changes to the game
+# Visual Mods
+
+Visual changes to the game.

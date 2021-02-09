@@ -1,4 +1,7 @@
-Mods that add new ways to experience the combat and other stuff
+# Alternative Playstyle Mods
+
+Mods that add new ways to experience combat, etc.
+
 <!-- mod list -->
 
 ## Deep Dives Have Double Resources - v1.0

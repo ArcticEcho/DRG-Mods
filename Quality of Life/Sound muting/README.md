@@ -1,4 +1,7 @@
-QoL mods to mute annoying sounds
+# Sound Muting Mods
+
+QoL mods to mute annoying sounds.
+
 <!-- mod list -->
 
 ## No Tinnitus - v1

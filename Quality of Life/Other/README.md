@@ -1,4 +1,7 @@
-QoL mods that don't go in the other categories
+# Other QoL Mods
+
+QoL mods that don't go in the other categories.
+
 <!-- mod list -->
 
 ## Don't Pet Steeve - v1.1

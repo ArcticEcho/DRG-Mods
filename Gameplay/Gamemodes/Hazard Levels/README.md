@@ -1,4 +1,7 @@
-Changes to the hazard files that can make them harder or more crazy but fun
+# Hazard Level Mods
+
+Changes to the hazard files that can make them harder or more crazy but fun.
+
 <!-- mod list -->
 
 ## Best Friends Forever - v1.0

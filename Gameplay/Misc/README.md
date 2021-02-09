@@ -1,4 +1,7 @@
-Random/fun mods that don't belong in the other categories
+# Misc Gameplay Mods
+
+Random/fun mods that don't belong in the other categories.
+
 <!-- mod list -->
 
 ## Barrel Yeet 10x - v1

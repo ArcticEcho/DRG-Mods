@@ -1,4 +1,7 @@
-Unbalanced mods that don't belong in the other categories
+# Other Unbalanced Mods
+
+Unbalanced mods that don't belong in the other categories.
+
 <!-- mod list -->
 
 ## 0 Nitra Supply Drops - v1.0

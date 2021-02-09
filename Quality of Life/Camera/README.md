@@ -1,4 +1,7 @@
-QoL changes to camera stuff
+# Camera Mods
+
+Changes to the game's camera.
+
 <!-- mod list -->
 
 ## Better Spectator - v1.7

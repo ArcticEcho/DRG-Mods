@@ -1,4 +1,7 @@
-Unbalanced changes to nitra, gold, xp, materials...
+# Unbalanaced Resources/Progression Mods
+
+Unbalanced changes to nitra, gold, xp, materials, etc.
+
 <!-- mod list -->
 
 ## Double Treasures - v1
