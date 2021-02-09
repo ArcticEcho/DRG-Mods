@@ -1290,13 +1290,13 @@
   },
   "moretesting": {
     "DisplayName": "more testing",
-    "Version": "2040-11-28",
+    "Version": "2",
     "DrgVersion": "Update 32, Hotfix 28",
     "AuthorIds": [
       158916111390343168
     ],
     "Description": "asdasdasd asd asd asd asd asd asd",
     "LastUpdateChangelog": "adasdasdasdasdasdasd",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2dc4775fe379d64fd4f98218de436d05d66a31a1/Visual/Lighting/More%20Testing%20-%20V2040-11-28.txt"
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d1d36cd5c9db336683146d942720d73ec4fdac67/Visual/Lighting/More%20Testing%20-%20V2.txt"
   }
 }
