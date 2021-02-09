@@ -1364,5 +1364,16 @@
     "Description": "**Requires the mod loader.**\nIt's time for some sloooooow mooootion. This mod lets you adjust the game's time scale to anything you want. Only works as the host.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ed94f652e2686192bf7fa02c235e3402e8d60b4a/Gameplay/Customizable%20tweaks/Time%20Control%20-%20V1.1%20_P.pak"
+  },
+  "closerpromotionterminal": {
+    "DisplayName": "Closer Promotion Terminal",
+    "Version": "1.1",
+    "DrgVersion": "Update 33, Hotfix 3",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nAdds a promotion terminal to your personal cabin. Host-only.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/beaa72905fe198dac55e22c0d7b4f34a70a868ce/Quality%20of%20Life/Time%20saving/Closer%20Promotion%20Terminal%20-%20V1.1%20_P.pak"
   }
 }
