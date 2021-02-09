@@ -1,4 +1,6 @@
-Audio changes for misc sounds not related to the other categories
+# Other Audio Mods
+Audio changes for misc sounds not related to the other categories.
+
 <!-- mod list -->
 
 ## Metal Gear Alert Heightened Senses - v1
