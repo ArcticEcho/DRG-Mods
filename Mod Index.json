@@ -1143,16 +1143,16 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/691a7e9a067cb364ce3e3f791f242b8fae086620/Quality%20of%20Life/Improved%20mechanics/Gunk%20Seed%20Pickup%20Radius%20-%20V1.0%20_P.pak"
   },
-  "alwaysnuerotoxin": {
-    "DisplayName": "AlwaysNuerotoxin",
+  "buffedbulldogneurotoxin": {
+    "DisplayName": "Buffed Bulldog Neurotoxin",
     "Version": "1",
     "DrgVersion": "Update 33, Hotfix 2",
     "AuthorIds": [
       350019378189828097
     ],
-    "Description": "Bulldog Revolver's \"Nuerotoxin Coating\" chance is now **Guaranteed**",
+    "Description": "Bulldog Revolver's \"Neurotoxin Coating\" chance is now Guaranteed",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cdce8acd86dc44d78101f96bc787bafa234712f4/Gameplay/Unbalanced/Weapons/AlwaysNuerotoxin%20-%20V1%20_P.pak"
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/49f7ae717faa821863b5c59a5527bd3ba67d1f91/Gameplay/Unbalanced/Weapons/Buffed%20Bulldog%20Neurotoxin%20-%20V1%20_P.pak"
   },
   "vampiresatchelcharge": {
     "DisplayName": "Vampire Satchel Charge",
