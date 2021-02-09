@@ -758,8 +758,8 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6d1a9441125a73217890b0e88e062afdd7c639aa/Gameplay/Balanced/Lootsplosion%20-%20V1.0%20_P.pak"
   },
-  "legendaryhoarderformerx2ammo": {
-    "DisplayName": "Legendary Hoarder (former x2 ammo)",
+  "legendaryhoarder": {
+    "DisplayName": "Legendary Hoarder",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
     "AuthorIds": [
@@ -767,7 +767,7 @@
     ],
     "Description": "--Removes all these useless sandwich storage slots, allowing you to double up on all your weapon ammo!",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e655f313b70af6f5ac2169a5918370983af7f4c5/Gameplay/Unbalanced/Weapons/Legendary%20Hoarder%20%28former%20X2%20Ammo%29%20-%20V1.0%20_P.pak"
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/27479dade0a9fb5547ff4fc80208c8675b266d56/Quality%20of%20Life/Other/Legendary%20Hoarder%20-%20V1.0%20_P.pak"
   },
   "dashperksuicidepreventer": {
     "DisplayName": "Dash Perk Suicide Preventer",
