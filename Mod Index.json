@@ -1290,13 +1290,13 @@
   },
   "thisisanewname": {
     "DisplayName": "this is a new name",
-    "Version": "121212121",
+    "Version": "2323",
     "DrgVersion": "Update 32, Hotfix 28",
     "AuthorIds": [
       158916111390343168
     ],
     "Description": "no",
     "LastUpdateChangelog": "dsffsdfsdfsfsdfsf",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/bf2731463a0553097c07fac7f0dce92583d6c793/Audio/NPC/This%20Is%20A%20New%20Name%20-%20V121212121%20_P.pak"
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4f5c04d47d45bf393249259b4842eb330d00e975/Audio/NPC/This%20Is%20A%20New%20Name%20-%20V2323%20_P.pak"
   }
 }
