@@ -1290,13 +1290,13 @@
   },
   "thisisanewname": {
     "DisplayName": "this is a new name",
-    "Version": "2",
-    "DrgVersion": "update 6900",
+    "Version": "233",
+    "DrgVersion": "Update 32, Hotfix 28",
     "AuthorIds": [
       158916111390343168
     ],
     "Description": "no",
-    "LastUpdateChangelog": "something",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/36c57456c92eb5930f679ff8f3116fea49797139/Audio/Music/TEST%20-%20V1%20_P.pak"
+    "LastUpdateChangelog": "dsffsdfsdfsfsdfsf",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5841c59b62f2fba1be479383a46e0a954d62a8fd/Audio/NPC/This%20Is%20A%20New%20Name%20-%20V233%20_P.pak"
   }
 }
