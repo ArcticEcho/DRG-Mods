@@ -1331,5 +1331,16 @@
     "Description": "**Requires the mod loader.**\nChanges the game's 3D perspective projection model to use Panini projection instead. This causes vertical lines to stay straight regardless of viewing angle, removing horizontal stretching. However, with this projection model high FOVs can cause the centre of your screen to become blurry, if your PC can handle it, I'd recommend installing Better Post Processing and enabling Super Sampling to correct this. Also recommend using Demellion's More FOV mod.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4df81a04d486861d77e047628983a70c269cccd6/Quality%20of%20Life/Camera/Panini%20FOV%20-%20V1.0%20_P.pak"
+  },
+  "lettherebelight": {
+    "DisplayName": "Let There Be Light",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "**Requires the Mod Loader**\n--Adds a toggle for lighting up the map in its entirety, which can be turned on and off through the mod loader.\n--Works as a client regardless of what the host has, does not work for clients even if you are the host.\n--I discovered it by accident and then made it into something useful for screenshots, testing, cheating and whatever else you can come up with.\nPreview: https://cdn.discordapp.com/attachments/732650220214681600/808597721241223168/LetThereBeLight2.mp4",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c71a2a22861330c4a218872afb0d4f0b7441294f/Visual/Lighting/Let%20There%20Be%20Light%20-%20V1.0%20_P.pak"
   }
 }
