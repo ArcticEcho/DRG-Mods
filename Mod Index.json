@@ -1108,7 +1108,7 @@
     ],
     "Description": "Increases flashlight range so you don't need to have your nose against the wall to see the minerals there\n----------------------------------------------------------------\n--Variation 2x has twice the range\n--Variation 3x has thrice the range\n--See Preview: https://discord.com/channels/676880716142739467/732650220214681600/784327494596689920\n----------------------------------------------------------------\nNote: Incompatible with the \"Dash Perk Suicide Preventer\" mod as they both change the same file, message me if you want both",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/83973b6b7fee95cc2c8cb577fe9bc64bac524626/Quality%20of%20Life/Improved%20mechanics/No%20More%20Dollar%20Store%20Flashlights%20-%20V33.2.2.zip"
   },
   "supplypodskeepgrabprogress": {
     "DisplayName": "Supply Pods Keep Grab Progress",
@@ -1119,7 +1119,7 @@
     ],
     "Description": "--All forms of resupply pods now keep the progress for grabbing the resupply, because how does all that stuff you unpacked go back in?\n--Allows you to leave a pod at half \"grab\" and continue it later.\nPreview: https://discordapp.com/channels/676880716142739467/732650220214681600/773047587976642560",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/77189a747030d42ed086405de631e01035827ce4/Gameplay/Unbalanced/Other/Supply%20Pods%20Keep%20Grab%20Progress%20-%20V1.0%20_P.pak"
   },
   "powercreep": {
     "DisplayName": "Power Creep",
@@ -1130,7 +1130,7 @@
     ],
     "Description": "Mostly buffs and a few nerfs to increase build variety. Made using feedback from <#772083212691963904> and karl.gg data. Change List: https://onlyo.co/36GBkpC",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e207d68932e1ee053fc7758140e7d40366a91648/Gameplay/Balanced/Power%20Creep%20-%20V2021-2-7%20_P.pak"
   },
   "gunkseedpickupradius": {
     "DisplayName": "Gunk Seed Pickup Radius",
@@ -1141,7 +1141,7 @@
     ],
     "Description": "Increases the pickup sphere radius for gunk seeds to make them more on par with other large objects.  Thank you to NaturalBornCamper for updating this for me while I worked on other stuff.",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/691a7e9a067cb364ce3e3f791f242b8fae086620/Quality%20of%20Life/Improved%20mechanics/Gunk%20Seed%20Pickup%20Radius%20-%20V1.0%20_P.pak"
   },
   "alwaysnuerotoxin": {
     "DisplayName": "AlwaysNuerotoxin",
@@ -1152,7 +1152,7 @@
     ],
     "Description": "Bulldog Revolver's \"Nuerotoxin Coating\" chance is now **Guaranteed**",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cdce8acd86dc44d78101f96bc787bafa234712f4/Gameplay/Unbalanced/Weapons/AlwaysNuerotoxin%20-%20V1%20_P.pak"
   },
   "vampiresatchelcharge": {
     "DisplayName": "Vampire Satchel Charge",
@@ -1163,7 +1163,7 @@
     ],
     "Description": "changes the damage type of the Satchel Charge to physical (melee) damage, therefore allowing it to proc Vampire and also (theoretically) deal massive damage to Glyphid Dreadnought since it ignores their 40% Explosive Resistance",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/53b2975b079255794de3b06c5ee6ec485aa8b247/Gameplay/Unbalanced/Tools%20%26%20Gear/Vampire%20Satchel%20Charge%20-%20V1.0%20_P.pak"
   },
   "soundqolpack": {
     "DisplayName": "Sound QoL pack",
@@ -1176,7 +1176,7 @@
     ],
     "Description": "contains the following sound improvements:\n-- Silent Doretta (removes the noise when that useless hunk of metal takes damage);\n-- Silent Vampire (aka NO SUCC - removes the Vampire suction sound);\n-- Silent Jukebox (mutes the entire Jukebox song collection);\n-- Personal Born Ready (makes the voicelines have 0 distance, so they're no longer global. Requires testing);\n-- Silent Low Oxygen (removes the specific warning sounds and mutes the voicelines that play when you're low on Oxygen);\n-- No more BET-C repair sounds (screw that robot, she's the worst)",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9ef243dc2e6d9563bbb5f5cf697be8ad77858aaf/Quality%20of%20Life/Sound%20muting/Sound%20QoL%20Pack%20-%20V1.0%20_P.pak"
   },
   "neurotoxinpayloadbuff": {
     "DisplayName": "Neurotoxin Payload Buff",
@@ -1187,7 +1187,7 @@
     ],
     "Description": "[Changes the Neurotoxin Payload OC for the Autocannon]\n--Increased the chance to entox enemies from 30% to 100%",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/71a7bac9d4e787a662677bd95a5cacd689d2fc3f/Gameplay/Unbalanced/Weapons/Neurotoxin%20Payload%20Buff%20-%20V1.0%20_P.pak"
   },
   "spinningdoom": {
     "DisplayName": "Spinning Doom",
@@ -1198,7 +1198,7 @@
     ],
     "Description": "[Spinning Death OC for Breach Cutter Buff]\n--Increased clip-size value from 0.3 to 0.5 (Allows a default of 2 clip-size)\n--Changed ammo penalty from 0.5 (Half ammo gone) to 1.0 (No ammo gone)\n--Increased lifetime value from 2.5 (7.5 seconds) to 5.0 (15 seconds)",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fd8b32709e0a76584e8c5d5d5a954788f6e24cac/Gameplay/Unbalanced/Weapons/Spinning%20Doom%20-%20V1.0%20_P.pak"
   },
   "hazard6": {
     "DisplayName": "Hazard 6",
@@ -1209,7 +1209,7 @@
     ],
     "Description": "This comprehensive Hazard 6 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 6. Rewards multiplier is set to 166%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--A description of variables and the philosophy of why some were scaled more and some less is here -> https://docs.google.com/document/d/1O2hmVsoaSy2qId4jCWOP_pHMXaoGMWqf_MY7RAs6cxI/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up. \n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate. \n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up. \n--Changes since V2.0 include:\n-Special enemies like spitters and swarmers have an easier time spawning\n-Enemies do a little more damage to make scaling more consistent with base game hazards and counteract the difficulty reduction from special enemy spawn frequency\n-There is much more variance mission to mission in all difficulty elements",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/681a20964db829bbcd44ab1adc840b8157570b53/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V3.0%20_P.pak"
   },
   "maxleveldrill": {
     "DisplayName": "Max Level Drill",
@@ -1220,7 +1220,7 @@
     ],
     "Description": "Set the three Drill parameter (x,y,z) to max",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2c1e5b182e28655549cfb959788beba4bbbd9c8c/Gameplay/Unbalanced/Tools%20%26%20Gear/Max%20Level%20Drill%20-%20V1.0%20_P.pak"
   },
   "bugplanetconstantconflict": {
     "DisplayName": "Bug Planet - Constant Conflict",
@@ -1231,7 +1231,7 @@
     ],
     "Description": "Inspired by the movie Starship Troopers, Hoxxes IV is an ugly planet, a bug planet. Expect large waves of grunts when you walk into their tunnels.\n--Hazard 3, 3.5, 4, 4.5, 5 and 5.5 changed\n--The higher the hazard, the more health the grunts have and more damage they do\n--The higher the hazard, the more grunt veterans spawn\n--Low enemy diversity\n--Insane Wave Intervals\n--Big enemies are slightly weaker, its mostly about surviving the grunt waves\n--Large enemy count\n--Map seed can roll huge waves of macteras or spitters, be prepared\n--Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks\nA Custom Enemy Cap mod is recommended, I use a cap of 150. Lower ammo cost also recommended.",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/48395fd3b94c6ca6919f8181ac46e5644f1b0438/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20Constant%20Conflict%20-%20V1.0%20_P.pak"
   },
   "bugplanet": {
     "DisplayName": "Bug Planet",
@@ -1242,7 +1242,7 @@
     ],
     "Description": "Inspired by the movie Starship Troopers, Hoxxes IV is an ugly planet, a bug planet. Expect large waves of grunts when you walk into their tunnels.\n--Hazard 3, 3.5, 4, 4.5, 5 and 5.5 changed\n--The higher the hazard, the more health the grunts have and more damage they do\n--The higher the hazard, the more grunt veterans spawn\n--Low enemy diversity\n--Wave intervals a little higher than normal\n--Big enemies are slightly weaker, its mostly about surviving the grunt waves\n--Large enemy count\n--Map seed can roll huge waves of macteras or spitters, be prepared\n--Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks\nA Custom Enemy Cap mod is recommended, I use a cap of 150. Lower ammo cost also recommended.",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1f326430dd91b74912ac0cdf58bc9af354e72d1e/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20V1.0%20_P.pak"
   },
   "hazard7": {
     "DisplayName": "Hazard 7",
@@ -1253,7 +1253,7 @@
     ],
     "Description": "This is a comprehensive Hazard 7 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 7. Rewards multiplier is set to 200%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--A description of variables and the philosophy of why some were scaled more and some less is here -> https://docs.google.com/document/d/1O2hmVsoaSy2qId4jCWOP_pHMXaoGMWqf_MY7RAs6cxI/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up. \n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate. \n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up. \n--Beating this is possible, and using other buffs is cheating, but I would recommend staying inside the drop pod at the start of refinery missions.\n--Works well with expanded enemy cap mods.\n--For changes from V2.0 see Haz6",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8918b44ed80e443322ffbb9ff3fd89a69b28c814/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V3.0%20_P.pak"
   },
   "hazard5carry": {
     "DisplayName": "Hazard 5 Carry",
@@ -1264,7 +1264,7 @@
     ],
     "Description": "This mod is for making things difficult while waiting for joiners, testing 4man breakpoints, or just adding difficulty without touching base game properties. \n--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player lobby regardless of player count\n--This includes enemy count, health, and damage. \n--Get the experience of playing in the main discord while freeing up your field medic perk slot!",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/806573623d5ab702f3fd4363188cb31ad5552c0f/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205%20Carry%20-%20V3.0%20_P.pak"
   },
   "hazard6carry": {
     "DisplayName": "Hazard 6 Carry",
@@ -1275,7 +1275,7 @@
     ],
     "Description": "--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player Hazard 6 lobby regardless of player count\n--This includes enemy count, health, and damage. \n--Per request. Professional eat your heart out.",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8470aafdb71d98ff6124273bc4cc0edea5f90104/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20Carry%20-%20V3.0%20_P.pak"
   },
   "hazard55": {
     "DisplayName": "Hazard 5.5",
@@ -1286,6 +1286,6 @@
     ],
     "Description": "--Replaces the hazard 5 file, and is not compatible with other mods that do the same.\n--Sets the values to what they are in Hazard 5.5 the last stage of the EDD\n--Compared to Haz5 this means slightly increased enemy speed and damage, as well as more fall damage.\n--Should show Haz5.5 in game.\n--Per request to add some challenge to viewer spawns since enemy amount isn't affected but enemy stats are.",
     "LastUpdateChangelog": null,
-    "DownloadUrl": null
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/44a4cc454f95bea8e70efcc505a6599e764b8c73/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205.5%20-%20V1.0%20_P.pak"
   }
 }
