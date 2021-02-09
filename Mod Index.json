@@ -228,7 +228,7 @@
     ],
     "Description": "Thanks to <@!189954203664252928> for the original, this is an update of his mod.\n--In the base game when all players move more than 20 meters away from Molly, she moves to the location of the last player that left that radius. \n--This mod changes that distance to 75 meters to prevent Molly from getting in your way when you may be backing up from a fight, but if you forget to call her she won’t stay in a completely different room. \n--This mod will only apply to the lobby if the host has it.",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c3dbe59a2aa4588cc228e113b3212a8444f3bfd8/Gameplay/Misc/Molly%20Respects%20Boundaries%20-%20V1.0%20_P.pak"
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6972480e7994cac14aa6582bacaee3f75cb272db/Quality%20of%20Life/Other/Molly%20Respects%20Boundaries%20-%20V1.0%20_P.pak"
   },
   "bettermininglaser": {
     "DisplayName": "BetterMiningLaser",
