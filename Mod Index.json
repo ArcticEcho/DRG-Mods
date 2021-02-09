@@ -1123,7 +1123,7 @@
   },
   "powercreep": {
     "DisplayName": "Power Creep",
-    "Version": "Feb-7-2021",
+    "Version": "2021-2-7",
     "DrgVersion": "U33",
     "AuthorIds": [
       385384075168448513
@@ -1202,7 +1202,7 @@
   },
   "hazard6": {
     "DisplayName": "Hazard 6",
-    "Version": "V3.0",
+    "Version": "3.0",
     "DrgVersion": "Update 33",
     "AuthorIds": [
       189954203664252928
@@ -1246,7 +1246,7 @@
   },
   "hazard7": {
     "DisplayName": "Hazard 7",
-    "Version": "V3.0",
+    "Version": "3.0",
     "DrgVersion": "Update 33",
     "AuthorIds": [
       189954203664252928
@@ -1257,7 +1257,7 @@
   },
   "hazard5carry": {
     "DisplayName": "Hazard 5 Carry",
-    "Version": "V3.0",
+    "Version": "3.0",
     "DrgVersion": "Update 33",
     "AuthorIds": [
       189954203664252928
@@ -1268,7 +1268,7 @@
   },
   "hazard6carry": {
     "DisplayName": "Hazard 6 Carry",
-    "Version": "V3.0",
+    "Version": "3.0",
     "DrgVersion": "Update 33",
     "AuthorIds": [
       189954203664252928
@@ -1279,7 +1279,7 @@
   },
   "hazard55": {
     "DisplayName": "Hazard 5.5",
-    "Version": "V1.0",
+    "Version": "1.0",
     "DrgVersion": "Update 33",
     "AuthorIds": [
       189954203664252928
