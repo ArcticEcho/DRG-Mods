@@ -1298,5 +1298,16 @@
     "Description": "**Requires the mod loader.**\nThis mod attempts to stabilise your FPS by dynamically adjusting the game's resolution. Works best with vsync disabled.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ff191348af82383cbbd363c55b6bea3402af5bb7/Quality%20of%20Life/Graphics%20%26%20Performance/Dynamic%20Resolution%20-%20V1.1%20_P.pak"
+  },
+  "environmentalist": {
+    "DisplayName": "Environmentalist",
+    "Version": "3.1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nMake Hoxxes even more unwelcoming with a selection of controls to spawn in earthquakes and storms. This is a host-side mod.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6450d4296b8ff471c1535a452545520018ad3a7a/Gameplay/Customizable%20tweaks/Environmentalist%20-%20V3.1%20_P.pak"
   }
 }
