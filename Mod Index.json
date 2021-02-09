@@ -1320,5 +1320,16 @@
     "Description": "**Requires the mod loader.**\nThe point extract minehead now has gravity, can spin round, and can have its location randomised. All the features can be individually turned on/off. Only works as the host.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fb1aa086207e90a535d3c9506ce64c18ae633dd6/Gameplay/Customizable%20tweaks/Minehead%20Is%20Now%20Epic%20-%20V2.5%20_P.pak"
+  },
+  "paninifov": {
+    "DisplayName": "Panini FOV",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nChanges the game's 3D perspective projection model to use Panini projection instead. This causes vertical lines to stay straight regardless of viewing angle, removing horizontal stretching. However, with this projection model high FOVs can cause the centre of your screen to become blurry, if your PC can handle it, I'd recommend installing Better Post Processing and enabling Super Sampling to correct this. Also recommend using Demellion's More FOV mod.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4df81a04d486861d77e047628983a70c269cccd6/Quality%20of%20Life/Camera/Panini%20FOV%20-%20V1.0%20_P.pak"
   }
 }
