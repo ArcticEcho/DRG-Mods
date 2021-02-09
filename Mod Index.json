@@ -1309,5 +1309,16 @@
     "Description": "**Requires the mod loader.**\nMake Hoxxes even more unwelcoming with a selection of controls to spawn in earthquakes and storms. This is a host-side mod.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6450d4296b8ff471c1535a452545520018ad3a7a/Gameplay/Customizable%20tweaks/Environmentalist%20-%20V3.1%20_P.pak"
+  },
+  "mineheadisnowepic": {
+    "DisplayName": "Minehead Is Now Epic",
+    "Version": "2.5",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nThe point extract minehead now has gravity, can spin round, and can have its location randomised. All the features can be individually turned on/off. Only works as the host.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fb1aa086207e90a535d3c9506ce64c18ae633dd6/Gameplay/Customizable%20tweaks/Minehead%20Is%20Now%20Epic%20-%20V2.5%20_P.pak"
   }
 }
