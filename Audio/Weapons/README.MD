@@ -1,4 +1,7 @@
-Audio changes for weapons and tools
+# Weapon Audio Mods
+
+Audio changes for weapons and tools.
+
 <!-- mod list -->
 
 ## BRT7 Glock 18c - v1.0
