@@ -1,5 +1,5 @@
 {
-  "mod loader": {
+  "modloader": {
     "DisplayName": "Mod Loader",
     "Version": "4.2",
     "DrgVersion": "Update 33",
@@ -10,7 +10,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/990c9ab8e3aca2189d2ef616893997f1e9cbceb8/Framework/Mod%20Loader%20-%20V4.2%20_P.pak"
   },
-  "pointless shield disruption": {
+  "pointlessshielddisruption": {
     "DisplayName": "Pointless Shield Disruption",
     "Version": "1",
     "DrgVersion": "33",
@@ -21,7 +21,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Misc/Pointless%20Shield%20Disruption%20-%20V1%20_P.pak"
   },
-  "don't pet steeve": {
+  "dontpetsteeve": {
     "DisplayName": "Don't Pet Steeve",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -32,7 +32,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Quality%20of%20Life/Other/Don%27t%20Pet%20Steeve%20-%20V1.1%20_P.pak"
   },
-  "pepega gunner": {
+  "pepegagunner": {
     "DisplayName": "Pepega Gunner",
     "Version": "2.0",
     "DrgVersion": "Update 33 Experimental 1",
@@ -43,7 +43,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Unbalanced/Weapons/Pepega%20Gunner%20-%20V2.0%20_P.pak"
   },
-  "no reviving": {
+  "noreviving": {
     "DisplayName": "No Reviving",
     "Version": "2",
     "DrgVersion": "33",
@@ -54,7 +54,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Gamemodes/Handicaps/No%20Reviving%20-%20V2%20_P.pak"
   },
-  "quarter death duration": {
+  "quarterdeathduration": {
     "DisplayName": "Quarter Death Duration",
     "Version": "1.2",
     "DrgVersion": "Update 33, Hotfix 1",
@@ -65,7 +65,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/03b73c6c7088d9502b580f9038085219325e399f/Quality%20of%20Life/Graphics%20%26%20Performance/Quarter%20Death%20Duration%20-%20V1.2%20_P.pak"
   },
-  "beatboxing cave angels": {
+  "beatboxingcaveangels": {
     "DisplayName": "Beatboxing Cave Angels",
     "Version": "1",
     "DrgVersion": "Update 33, Hotfix 1",
@@ -76,7 +76,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/dd795efc3ba0cf6d1de28dbf1280cb84204855dd/Audio/NPC/Beatboxing%20Cave%20Angels%20-%20V1%20_P.pak"
   },
-  "anime doretta": {
+  "animedoretta": {
     "DisplayName": "Anime Doretta",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -87,7 +87,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/bb940600b86e6419b90c93f994a655365f416b73/Audio/NPC/Anime%20Doretta%20-%20V1.1%20_P.pak"
   },
-  "no tinnitus": {
+  "notinnitus": {
     "DisplayName": "No Tinnitus",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -98,7 +98,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3ecc7d3a6bc660e29336bc32e68f3fc54f14a50d/Quality%20of%20Life/Sound%20muting/No%20Tinnitus%20-%20V1%20_P.pak"
   },
-  "support pods": {
+  "supportpods": {
     "DisplayName": "Support Pods",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -109,7 +109,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d1298d6ac613f8dc9e9aa6589e6e31c6af437b57/Gameplay/Gamemodes/Alternative%20playstyles/Support%20Pods%20-%20V1%20_P.pak"
   },
-  "upgraded doretta": {
+  "upgradeddoretta": {
     "DisplayName": "Upgraded Doretta",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -120,7 +120,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ef646ed72ccfef8de9aa1d3e2c98f430c9a48cdb/Gameplay/Gamemodes/Alternative%20playstyles/Upgraded%20Doretta%20-%20V1%20_P.pak"
   },
-  "leech moment": {
+  "leechmoment": {
     "DisplayName": "Leech Moment",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -131,7 +131,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c717cb42d419d1dc27d9934c76e171743ab2d3b8/Audio/NPC/Leech%20Moment%20-%20V1.1%20_P.pak"
   },
-  "kekw detonator": {
+  "kekwdetonator": {
     "DisplayName": "KEKW Detonator",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -142,7 +142,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/51d6ee4e8093f000c9c0fb978a2baeb59a82cc7e/Audio/NPC/KEKW%20Detonator%20-%20V1.1%20_P.pak"
   },
-  "more fov": {
+  "morefov": {
     "DisplayName": "More FOV",
     "Version": "1.1",
     "DrgVersion": "Update 33",
@@ -153,7 +153,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d31ccc4f575541b2e370c083f37a80a6289f145c/Quality%20of%20Life/Camera/More%20FOV%20-%20V1.1%20_P.pak"
   },
-  "music control": {
+  "musiccontrol": {
     "DisplayName": "Music Control",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -164,7 +164,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9ed28a5e7f8cfa6b0d58d2a24f1e611e6820ce9b/Framework/Music%20Control%20-%20V1.0.zip"
   },
-  "quiet space rig": {
+  "quietspacerig": {
     "DisplayName": "Quiet Space Rig",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -175,7 +175,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ccfe539bc436d9a43aaed84fe50bfc3eda55955e/Audio/Music/Quiet%20Space%20Rig%20-%20V1%20_P.pak"
   },
-  "shining lloyd": {
+  "shininglloyd": {
     "DisplayName": "Shining Lloyd",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -186,7 +186,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2e07ee80662a345bfdeb1bce8f683f61d82d84e3/Audio/NPC/Shining%20Lloyd%20-%20V1%20_P.pak"
   },
-  "molly r2d2": {
+  "mollyr2d2": {
     "DisplayName": "Molly R2D2",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -197,7 +197,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/45d4540bc1ac065822487e58659f7dab7e715a7a/Audio/NPC/Molly%20R2D2%20-%20V1%20_P.pak"
   },
-  "kids crate": {
+  "kidscrate": {
     "DisplayName": "Kids Crate",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -208,7 +208,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1c4d4706984255b0d4ece682fbf3037a720aebd4/Audio/Music/Kids%20Crate%20-%20V1%20_P.pak"
   },
-  "metal gear alert heightened senses": {
+  "metalgearalertheightenedsenses": {
     "DisplayName": "Metal Gear Alert Heightened Senses",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -219,7 +219,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7e2a85f66bef685ebeefda9314fc22724c064028/Audio/Other/Metal%20Gear%20Alert%20Heightened%20Senses%20-%20V1%20_P.pak"
   },
-  "molly respects boundaries": {
+  "mollyrespectsboundaries": {
     "DisplayName": "Molly Respects Boundaries",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -329,7 +329,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6fce342ee5ec29378503c23331714643e71eeb01/Gameplay/Unbalanced/Perks/UnnerfedThorns%20-%20V1.01%20_P.pak"
   },
-  "kraeus's crazy jukebox": {
+  "kraeusscrazyjukebox": {
     "DisplayName": "Kraeus's Crazy Jukebox",
     "Version": "1",
     "DrgVersion": "Update 33",
@@ -351,7 +351,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f940162b98668f3a0ee98fce92d5e220595956ae/Gameplay/Unbalanced/Tools%20%26%20Gear/SmolChubPlatsv2%20-%20V1.0%20_P.pak"
   },
-  "subata glock 17": {
+  "subataglock17": {
     "DisplayName": "Subata Glock 17",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -362,7 +362,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0c036d6b1fd956ce9736de80b0a3d9b9a0764ace/Audio/Weapons/Subata%20Glock%2017%20-%20V1.0%20_P.pak"
   },
-  "m1k garand": {
+  "m1kgarand": {
     "DisplayName": "M1K Garand",
     "Version": "2.0",
     "DrgVersion": "Update 33",
@@ -373,7 +373,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f32395bcb50662b2abece6fdd8bd9aed6809cef8/Audio/Weapons/M1K%20Garand%20-%20V2.0%20_P.pak"
   },
-  "brt7 glock 18c": {
+  "brt7glock18c": {
     "DisplayName": "BRT7 Glock 18c",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -384,7 +384,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c6064933ecc2b7d2911d4d59dec79c6d2dd24738/Audio/Weapons/BRT7%20Glock%2018c%20-%20V1.0%20_P.pak"
   },
-  "twitch integration": {
+  "twitchintegration": {
     "DisplayName": "Twitch Integration",
     "Version": "2.0.3",
     "DrgVersion": "Update 33",
@@ -395,7 +395,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/830dd532a073f14f66f5416f2a678e849e572faf/Framework/Twitch%20Integration%20-%20V2.0.3.zip"
   },
-  "fabulously fast lootbugs": {
+  "fabulouslyfastlootbugs": {
     "DisplayName": "Fabulously Fast Lootbugs",
     "Version": "1",
     "DrgVersion": "Update 32/33",
@@ -406,7 +406,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9c77d3abd203ee52182ff8bfd295653824f7ad30/Gameplay/Misc/Fabulously%20Fast%20Lootbugs%20-%20V1%20_P.pak"
   },
-  "epc carve 7m": {
+  "epccarve7m": {
     "DisplayName": "EPC Carve 7m",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -417,7 +417,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/70eed1328b963393688f09a1c724ba9387c810c4/Gameplay/Unbalanced/Weapons/EPC%20Carve%207m%20-%20V1.0%20_P.pak"
   },
-  "bbp (big balance patch)": {
+  "bbpbigbalancepatch": {
     "DisplayName": "BBP (Big Balance Patch)",
     "Version": "1.5",
     "DrgVersion": "Update 33",
@@ -428,7 +428,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/61b008f56ec1747f24a6ae99194c76df8190efc5/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.5.zip"
   },
-  "extended armor mineral capacity (20)": {
+  "extendedarmormineralcapacity20": {
     "DisplayName": "Extended Armor Mineral Capacity (20)",
     "Version": "1.0",
     "DrgVersion": "Update 32/33",
@@ -439,7 +439,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/53c5546c1ce6fc83c3c40f1fc8df22e3a90efa7d/Gameplay/Unbalanced/Tools%20%26%20Gear/Extended%20Armor%20Mineral%20Capacity%20%2820%29%20-%20V1.0%20_P.pak"
   },
-  "extended armor mineral capacity (300)": {
+  "extendedarmormineralcapacity300": {
     "DisplayName": "Extended Armor Mineral Capacity (300)",
     "Version": "1.0",
     "DrgVersion": "Update 32/33",
@@ -450,7 +450,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8b65497b3592d98e2f0b3cd2890e1eb34f6ac91b/Gameplay/Unbalanced/Tools%20%26%20Gear/Extended%20Armor%20Mineral%20Capacity%20%28300%29%20-%20V1.0%20_P.pak"
   },
-  "dwarf-sized carve and faster mining": {
+  "dwarfsizedcarveandfastermining": {
     "DisplayName": "Dwarf-Sized Carve and Faster Mining",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -461,7 +461,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5c23d01803fbe7af0465c15a6b5d9f578625a587/Gameplay/Unbalanced/Other/Dwarf-Sized%20Carve%20And%20Faster%20Mining%20-%20V1.0%20_P.pak"
   },
-  "faster mining": {
+  "fastermining": {
     "DisplayName": "Faster Mining",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -472,7 +472,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/95e680701dd4478597d957712b112d6a160fcffa/Gameplay/Unbalanced/Other/Faster%20Mining%20-%20V1.0%20_P.pak"
   },
-  "slightly better scout": {
+  "slightlybetterscout": {
     "DisplayName": "Slightly Better Scout",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -483,7 +483,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/88e1d862babbfd034da94f361659bb1c8f45296a/Gameplay/Unbalanced/Weapons/Slightly%20Better%20Scout%20-%20V1.0%20_P.pak"
   },
-  "slightly wider platforms": {
+  "slightlywiderplatforms": {
     "DisplayName": "Slightly Wider Platforms",
     "Version": "1.0",
     "DrgVersion": "Update 32/33",
@@ -494,7 +494,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e142ac040ce26723d8c5a1ac4960d8dd1ca8949e/Gameplay/Unbalanced/Tools%20%26%20Gear/Slightly%20Wider%20Platforms%20-%20V1.0%20_P.pak"
   },
-  "fat man oc": {
+  "fatmanoc": {
     "DisplayName": "Fat Man OC",
     "Version": "3",
     "DrgVersion": "Update 33",
@@ -505,7 +505,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/439f1b314f02f61caee6cc2dcbf1341fb598516e/Gameplay/Unbalanced/Weapons/Fat%20Man%20OC%20-%20V3%20_P.pak"
   },
-  "double treasures": {
+  "doubletreasures": {
     "DisplayName": "Double Treasures",
     "Version": "1",
     "DrgVersion": "Update 32/33",
@@ -516,7 +516,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b750e2b240a642c5448e78fc0f0d0d410b7526d0/Gameplay/Unbalanced/Resources%20%26%20Progression/Double%20Treasures%20-%20V1%20_P.pak"
   },
-  "disabled treasures": {
+  "disabledtreasures": {
     "DisplayName": "Disabled Treasures",
     "Version": "1",
     "DrgVersion": "Update 32/33",
@@ -527,7 +527,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/19c2edadd3b2efd4385659a24bdc785ce978e404/Quality%20of%20Life/Improved%20mechanics/Disabled%20Treasures%20-%20V1%20_P.pak"
   },
-  "incredibly overpowered perks": {
+  "incrediblyoverpoweredperks": {
     "DisplayName": "Incredibly Overpowered Perks",
     "Version": "1",
     "DrgVersion": "Update 32/33",
@@ -538,7 +538,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/128ca25ae29e683bc88aa20ae66b137f8c84be19/Gameplay/Unbalanced/Perks/Incredibly%20Overpowered%20Perks%20-%20V1%20_P.pak"
   },
-  "barrel yeet 10x": {
+  "barrelyeet10x": {
     "DisplayName": "Barrel Yeet 10x",
     "Version": "1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -549,7 +549,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/bdbc2dc966cfbbf470687d544a66f412e8dbc5cb/Gameplay/Misc/Barrel%20Yeet%2010x%20-%20V1%20_P.pak"
   },
-  "barrel yeet 5x": {
+  "barrelyeet5x": {
     "DisplayName": "Barrel Yeet 5x",
     "Version": "1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -560,7 +560,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/08297e8e258b12395dea21ef97e379f46c7c6548/Gameplay/Misc/Barrel%20Yeet%205x%20-%20V1%20_P.pak"
   },
-  "bug hill": {
+  "bughill": {
     "DisplayName": "Bug Hill",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -571,7 +571,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/239a27472386c6658dcd17546c684cded36c626c/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Hill%20-%20V1.0%20_P.pak"
   },
-  "disco fever!": {
+  "discofever": {
     "DisplayName": "Disco Fever!",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -582,7 +582,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3c0e3669560418544dbb3d0f9db6bd0b94d40f0b/Gameplay/Misc/Disco%20Fever%21%20-%20V1.0%20_P.pak"
   },
-  "upgraded flare gun": {
+  "upgradedflaregun": {
     "DisplayName": "Upgraded Flare Gun",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -593,7 +593,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9cc559e93a3982423835d6d43c45b17215f47c1a/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Flare%20Gun%20-%20V1.0%20_P.pak"
   },
-  "upgraded drills": {
+  "upgradeddrills": {
     "DisplayName": "Upgraded Drills",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -604,7 +604,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b212bc7fcee87d3ef54e3b5f14a1c14cb2e9a52c/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Drills%20-%20V1.0%20_P.pak"
   },
-  "upgraded zipline": {
+  "upgradedzipline": {
     "DisplayName": "Upgraded Zipline",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -615,7 +615,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f1b71de1f0cc428ed881dadeb670bd93ac347def/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Zipline%20-%20V1.0%20_P.pak"
   },
-  "upgraded grapple gun": {
+  "upgradedgrapplegun": {
     "DisplayName": "Upgraded Grapple Gun",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -626,7 +626,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/42a69fadaa1da85c4213393da57ba6767f4772e6/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Grapple%20Gun%20-%20V1.0%20_P.pak"
   },
-  "upgraded platform gun": {
+  "upgradedplatformgun": {
     "DisplayName": "Upgraded Platform Gun",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -637,7 +637,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7e3234d1a793de4fc2a779c2afbe5cff3054b626/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Platform%20Gun%20-%20V1.0%20_P.pak"
   },
-  "bucky boy bosco": {
+  "buckyboybosco": {
     "DisplayName": "Bucky Boy Bosco",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -648,7 +648,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c8fa3cffdeebb8391ea097bb044ae9835b29842c/Gameplay/Unbalanced/Tools%20%26%20Gear/Bucky%20Boy%20Bosco%20-%20V1.0%20_P.pak"
   },
-  "minigun bullet": {
+  "minigunbullet": {
     "DisplayName": "Minigun Bullet",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -659,7 +659,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e418a9bfbfdeafefd2d85dc098aae80ff8b7e76f/Gameplay/Unbalanced/Weapons/Minigun%20Bullet%20-%20V1.0%20_P.pak"
   },
-  "faster deposit": {
+  "fasterdeposit": {
     "DisplayName": "Faster Deposit",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -670,7 +670,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/06f685ebfec0294a8ca9aa1a9a8d349df26a30c7/Gameplay/Unbalanced/Other/Faster%20Deposit%20-%20V1.0%20_P.pak"
   },
-  "escort rock nerf": {
+  "escortrocknerf": {
     "DisplayName": "Escort Rock Nerf",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -681,7 +681,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/421474b2fa5859af8712e3b60ea2a3ddd6066610/Gameplay/Unbalanced/Other/Escort%20Rock%20Nerf%20-%20V1.0%20_P.pak"
   },
-  "best friends forever": {
+  "bestfriendsforever": {
     "DisplayName": "Best Friends Forever",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -692,7 +692,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4a75f60a60ddaea7872ed65dfee56c32b0b948bf/Gameplay/Gamemodes/Hazard%20Levels/Best%20Friends%20Forever%20-%20V1.0%20_P.pak"
   },
-  "custom enemy cap": {
+  "customenemycap": {
     "DisplayName": "Custom Enemy Cap",
     "Version": "2.1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -703,7 +703,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/93fff1f53f950e2f1d7c21326653eef12018950a/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.1%20_P.pak"
   },
-  "dies irea dreadnough boss music": {
+  "diesireadreadnoughbossmusic": {
     "DisplayName": "Dies Irea Dreadnough Boss Music",
     "Version": "2",
     "DrgVersion": "Update 32/33",
@@ -714,7 +714,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/20cadfe753b4cc4070716fc92dc1dbf17ac3d14a/Audio/Music/Dies%20Irea%20Dreadnough%20Boss%20Music%20-%20V2%20_P.pak"
   },
-  "twice the enemies haz 3, 3.5, 4, 4.5, 5, 5.5 (missions + deep dives)": {
+  "twicetheenemieshaz335445555missionsdeepdives": {
     "DisplayName": "Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives)",
     "Version": "33.2.1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -725,7 +725,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1befa52fb69d8a9085273df209c0afc5a6045cb2/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.2.1.zip"
   },
-  "fullmetal scout": {
+  "fullmetalscout": {
     "DisplayName": "Fullmetal Scout",
     "Version": "1.0",
     "DrgVersion": "U 33, HF 2",
@@ -736,7 +736,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/98d8dfc45083f818667e9981d4fb03834d786c70/Gameplay/Unbalanced/Weapons/Fullmetal%20Scout%20-%20V1.0%20_P.pak"
   },
-  "laser sight": {
+  "lasersight": {
     "DisplayName": "Laser Sight",
     "Version": "1.1",
     "DrgVersion": "U33, H2",
@@ -758,7 +758,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6d1a9441125a73217890b0e88e062afdd7c639aa/Gameplay/Balanced/Lootsplosion%20-%20V1.0%20_P.pak"
   },
-  "legendary hoarder (former x2 ammo)": {
+  "legendaryhoarderformerx2ammo": {
     "DisplayName": "Legendary Hoarder (former x2 ammo)",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -769,7 +769,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e655f313b70af6f5ac2169a5918370983af7f4c5/Gameplay/Unbalanced/Weapons/Legendary%20Hoarder%20%28former%20X2%20Ammo%29%20-%20V1.0%20_P.pak"
   },
-  "dash perk suicide preventer": {
+  "dashperksuicidepreventer": {
     "DisplayName": "Dash Perk Suicide Preventer",
     "Version": "33.2.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -780,7 +780,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9d5c082acda1f7b274cb84ec6b249d9de1ad908f/Quality%20of%20Life/Improved%20mechanics/Dash%20Perk%20Suicide%20Preventer%20-%20V33.2.0%20_P.pak"
   },
-  "good old bet-c.exe": {
+  "goodoldbetcexe": {
     "DisplayName": "Good Old Bet-C.exe",
     "Version": "33.2.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -791,7 +791,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b76ccc71de1d2cfc5ceaf69fa73bca1e70a287f6/Gameplay/Misc/Good%20Old%20Bet-C.exe%20-%20V33.2.0%20_P.pak"
   },
-  "starship troopers": {
+  "starshiptroopers": {
     "DisplayName": "Starship Troopers",
     "Version": "33.2.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -802,7 +802,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9b037d4db3b91c296d00303a83354ea01883977d/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V33.2.0.zip"
   },
-  "2x ammo and slightly better scout": {
+  "2xammoandslightlybetterscout": {
     "DisplayName": "2x Ammo And Slightly Better Scout",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -813,7 +813,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/21c2a4cea0a35c3aeffb8ec06146c007e41dac0f/Gameplay/Unbalanced/Weapons/2x%20Ammo%20And%20Slightly%20Better%20Scout%20-%20V1.0%20_P.pak"
   },
-  "better spectator": {
+  "betterspectator": {
     "DisplayName": "Better Spectator",
     "Version": "1.7",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -824,7 +824,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f1143a182e80ffb6542bc63b38ef8dd762c2b263/Quality%20of%20Life/Camera/Better%20Spectator%20-%20V1.7%20_P.pak"
   },
-  "better post processing": {
+  "betterpostprocessing": {
     "DisplayName": "Better Post Processing",
     "Version": "1.3",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -835,7 +835,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9af05f5ba5645ab336fa03dc6d5712d9fa1a7216/Visual/Misc/Better%20Post%20Processing%20-%20V1.3%20_P.pak"
   },
-  "mission timer": {
+  "missiontimer": {
     "DisplayName": "Mission Timer",
     "Version": "1.1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -846,7 +846,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/76c3a37a7ff885bcfbd72e74ddef2e45d5f003a5/Quality%20of%20Life/HUD/Mission%20Timer%20-%20V1.1%20_P.pak"
   },
-  "mission control text remover": {
+  "missioncontroltextremover": {
     "DisplayName": "Mission Control Text Remover",
     "Version": "1.2",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -857,7 +857,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e303de4d3d5aab5825af8858ac95cdeb66d07e0f/Quality%20of%20Life/HUD/Mission%20Control%20Text%20Remover%20-%20V1.2%20_P.pak"
   },
-  "0 nitra supply drops": {
+  "0nitrasupplydrops": {
     "DisplayName": "0 Nitra Supply Drops",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -868,7 +868,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1c77ae5b4aa8cde12a2fb606cf3b6fea160fd274/Gameplay/Unbalanced/Other/0%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak"
   },
-  "50 nitra supply drops": {
+  "50nitrasupplydrops": {
     "DisplayName": "50 Nitra Supply Drops",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -879,7 +879,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/29bfb01ee91e658aa283d6051e93c99e8e63909b/Gameplay/Unbalanced/Other/50%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak"
   },
-  "160 nitra supply drops": {
+  "160nitrasupplydrops": {
     "DisplayName": "160 Nitra Supply Drops",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -890,7 +890,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f0a2c56c00a8ab5ead851b32a06b4d5541cc3d00/Gameplay/Unbalanced/Other/160%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak"
   },
-  "minigun ricochet bullet hell oc buff v2": {
+  "minigunricochetbullethellocbuffv2": {
     "DisplayName": "Minigun Ricochet Bullet Hell OC Buff V2",
     "Version": "2.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -901,7 +901,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/88b130110c0bbbdf5a79a983d97615a8cf5a8e93/Gameplay/Unbalanced/Weapons/Minigun%20Ricochet%20Bullet%20Hell%20OC%20Buff%20V2%20-%20V2.0%20_P.pak"
   },
-  "minigun base ammo buffed": {
+  "minigunbaseammobuffed": {
     "DisplayName": "Minigun Base Ammo Buffed",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -912,7 +912,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0a4714b09c149683866293d745a265e209381637/Gameplay/Unbalanced/Weapons/Minigun%20Base%20Ammo%20Buffed%20-%20V1.0%20_P.pak"
   },
-  "sentryygun returningspeed buffed": {
+  "sentryygunreturningspeedbuffed": {
     "DisplayName": "SentryyGun Returningspeed Buffed",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -923,7 +923,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a388641b829054d60f6712a35dad014addeb9f45/Gameplay/Unbalanced/Weapons/SentryyGun%20Returningspeed%20Buffed%20-%20V1.0%20_P.pak"
   },
-  "sentrygun base ammo buffed": {
+  "sentrygunbaseammobuffed": {
     "DisplayName": "Sentrygun Base Ammo Buffed",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -934,7 +934,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b5d0a295f09c143109df84e8849e323e620d106c/Gameplay/Unbalanced/Weapons/Sentrygun%20Base%20Ammo%20Buffed%20-%20V1.0%20_P.pak"
   },
-  "ziplinegun speed, ammo and angle buffed": {
+  "ziplinegunspeedammoandanglebuffed": {
     "DisplayName": "ZiplineGun Speed, Ammo and Angle Buffed",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -945,7 +945,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ac3b9aea16496d6063d3580013d71c4d98098b95/Gameplay/Unbalanced/Weapons/ZiplineGun%20Speed%2C%20Ammo%20And%20Angle%20Buffed%20-%20V1.0%20_P.pak"
   },
-  "guaranteed machine events": {
+  "guaranteedmachineevents": {
     "DisplayName": "Guaranteed Machine Events",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -956,7 +956,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5d5fd07ff425c81d9bc5de6f2a9472f72abda92b/Gameplay/Unbalanced/Resources%20%26%20Progression/Guaranteed%20Machine%20Events%20-%20V1.0%20_P.pak"
   },
-  "10 waypoints": {
+  "10waypoints": {
     "DisplayName": "10 Waypoints",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -967,7 +967,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d94fff8780e5372a761334e21b8023294c279a59/Quality%20of%20Life/Improved%20mechanics/10%20Waypoints%20-%20V1.0%20_P.pak"
   },
-  "better bosco": {
+  "betterbosco": {
     "DisplayName": "Better Bosco",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -978,7 +978,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/83fee1fa6a79dc75a0ef94df89e401a380732811/Gameplay/Unbalanced/Other/Better%20Bosco%20-%20V1.0%20_P.pak"
   },
-  "infinitely better bosco": {
+  "infinitelybetterbosco": {
     "DisplayName": "Infinitely Better Bosco",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -989,7 +989,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b9cf4e6f7ade458c79d9ead7b987973499e6687/Gameplay/Unbalanced/Other/Infinitely%20Better%20Bosco%20-%20V1.0%20_P.pak"
   },
-  "white throwing flares": {
+  "whitethrowingflares": {
     "DisplayName": "White Throwing Flares",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1000,7 +1000,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ab33f77afd4a3ba9841353911b61ea7c0d10aad6/Quality%20of%20Life/Other/White%20Throwing%20Flares%20-%20V1.0%20_P.pak"
   },
-  "deep dives have double resources": {
+  "deepdiveshavedoubleresources": {
     "DisplayName": "Deep Dives Have Double Resources",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1011,7 +1011,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c230c21f490d649f7616bee6e6a4ac8b08895e04/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Dives%20Have%20Double%20Resources%20-%20V1.0%20_P.pak"
   },
-  "deep dives have resources": {
+  "deepdiveshaveresources": {
     "DisplayName": "Deep Dives Have Resources",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1022,7 +1022,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/db3df3748dc39156b213cc248c41115d06de793b/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Dives%20Have%20Resources%20-%20V1.0%20_P.pak"
   },
-  "toothpaste platform gun": {
+  "toothpasteplatformgun": {
     "DisplayName": "Toothpaste Platform Gun",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1033,7 +1033,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/19b5c8c624df7855accb2c0f357895b1608f6203/Gameplay/Unbalanced/Tools%20%26%20Gear/Toothpaste%20Platform%20Gun%20-%20V1.0%20_P.pak"
   },
-  "thick platforms": {
+  "thickplatforms": {
     "DisplayName": "Thick Platforms",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1044,7 +1044,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/56437c2eab212d3dd7c0ab0492ee7580c6b46b98/Gameplay/Unbalanced/Tools%20%26%20Gear/Thick%20Platforms%20-%20V1.0%20_P.pak"
   },
-  "he grenade carve": {
+  "hegrenadecarve": {
     "DisplayName": "HE Grenade Carve",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1055,7 +1055,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1c3c0057bdf31820ee3678b90a253184afcf3625/Gameplay/Balanced/HE%20Grenade%20Carve%20-%20V1.0%20_P.pak"
   },
-  "8 grenades": {
+  "8grenades": {
     "DisplayName": "8 Grenades",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1066,7 +1066,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cf7ce0308931910d3419b47761fd74b8fce7e6ff/Gameplay/Unbalanced/Weapons/8%20Grenades%20-%20V1.0%20_P.pak"
   },
-  "sniper turret": {
+  "sniperturret": {
     "DisplayName": "Sniper Turret",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1077,7 +1077,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/75795c1bccd670f5949580ab0d0780cb83a8f768/Gameplay/Unbalanced/Tools%20%26%20Gear/Sniper%20Turret%20-%20V1.0%20_P.pak"
   },
-  "beastmaster buff": {
+  "beastmasterbuff": {
     "DisplayName": "BeastMaster Buff",
     "Version": "1.1",
     "DrgVersion": "Update 33, hotfix 2",
@@ -1088,7 +1088,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/562737c5ae0d8a9e10e679d68e7818db048bc87d/Gameplay/Unbalanced/Perks/BeastMaster%20Buff%20-%20V1.1%20_P.pak"
   },
-  "tactical nukes": {
+  "tacticalnukes": {
     "DisplayName": "Tactical Nukes",
     "Version": "1",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1099,7 +1099,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cc198f22edeaa5052be64429b4d58b23946020b6/Gameplay/Unbalanced/Weapons/Tactical%20Nukes%20-%20V1%20_P.pak"
   },
-  "no more dollar store flashlights": {
+  "nomoredollarstoreflashlights": {
     "DisplayName": "No more Dollar Store flashlights",
     "Version": "33.2.2",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1110,7 +1110,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "supply pods keep grab progress": {
+  "supplypodskeepgrabprogress": {
     "DisplayName": "Supply Pods Keep Grab Progress",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1121,7 +1121,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "power creep": {
+  "powercreep": {
     "DisplayName": "Power Creep",
     "Version": "Feb-7-2021",
     "DrgVersion": "U33",
@@ -1132,7 +1132,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "gunk seed pickup radius": {
+  "gunkseedpickupradius": {
     "DisplayName": "Gunk Seed Pickup Radius",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1154,7 +1154,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "vampire satchel charge": {
+  "vampiresatchelcharge": {
     "DisplayName": "Vampire Satchel Charge",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1165,7 +1165,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "sound qol pack": {
+  "soundqolpack": {
     "DisplayName": "Sound QoL pack",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1178,7 +1178,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "neurotoxin payload buff": {
+  "neurotoxinpayloadbuff": {
     "DisplayName": "Neurotoxin Payload Buff",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -1189,7 +1189,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "spinning doom": {
+  "spinningdoom": {
     "DisplayName": "Spinning Doom",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -1200,7 +1200,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "hazard 6": {
+  "hazard6": {
     "DisplayName": "Hazard 6",
     "Version": "V3.0",
     "DrgVersion": "Update 33",
@@ -1211,7 +1211,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "max level drill": {
+  "maxleveldrill": {
     "DisplayName": "Max Level Drill",
     "Version": "1.0",
     "DrgVersion": "Update 33, Hotfix 2",
@@ -1222,7 +1222,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "bug planet - constant conflict": {
+  "bugplanetconstantconflict": {
     "DisplayName": "Bug Planet - Constant Conflict",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -1233,7 +1233,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "bug planet": {
+  "bugplanet": {
     "DisplayName": "Bug Planet",
     "Version": "1.0",
     "DrgVersion": "Update 33",
@@ -1244,7 +1244,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "hazard 7": {
+  "hazard7": {
     "DisplayName": "Hazard 7",
     "Version": "V3.0",
     "DrgVersion": "Update 33",
@@ -1255,7 +1255,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "hazard 5 carry": {
+  "hazard5carry": {
     "DisplayName": "Hazard 5 Carry",
     "Version": "V3.0",
     "DrgVersion": "Update 33",
@@ -1266,7 +1266,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "hazard 6 carry": {
+  "hazard6carry": {
     "DisplayName": "Hazard 6 Carry",
     "Version": "V3.0",
     "DrgVersion": "Update 33",
@@ -1277,7 +1277,7 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "hazard 5.5": {
+  "hazard55": {
     "DisplayName": "Hazard 5.5",
     "Version": "V1.0",
     "DrgVersion": "Update 33",
@@ -1287,5 +1287,16 @@
     "Description": "--Replaces the hazard 5 file, and is not compatible with other mods that do the same.\n--Sets the values to what they are in Hazard 5.5 the last stage of the EDD\n--Compared to Haz5 this means slightly increased enemy speed and damage, as well as more fall damage.\n--Should show Haz5.5 in game.\n--Per request to add some challenge to viewer spawns since enemy amount isn't affected but enemy stats are.",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
+  },
+  "test": {
+    "DisplayName": "TEST",
+    "Version": "1",
+    "DrgVersion": "Update 32, Hotfix 28",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "[testing](http://google.com) testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/36c57456c92eb5930f679ff8f3116fea49797139/Audio/Music/TEST%20-%20V1%20_P.pak"
   }
 }
