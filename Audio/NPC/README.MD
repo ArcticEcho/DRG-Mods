@@ -1,4 +1,7 @@
-Audio changes for enemy creatures or friendly robots
+# NPC Audio Mods
+
+Audio changes for enemy creatures or friendly robots.
+
 <!-- mod list -->
 
 ## Anime Doretta - v1.1
