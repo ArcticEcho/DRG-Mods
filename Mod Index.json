@@ -1288,8 +1288,8 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "shittyflute": {
-    "DisplayName": "Shitty Flute",
+  "theshittiestofflutes": {
+    "DisplayName": "The Shittiest Of Flutes",
     "Version": "1",
     "DrgVersion": "Update 31",
     "AuthorIds": [
@@ -1297,6 +1297,6 @@
     ],
     "Description": "Just an outdated mod that replaces all the mission music with shitty flute songs.",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://drive.google.com/uc?id=1fFUhuvMc_SQlSpmMY-kb69wlCC2qFydJ&export=download"
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d3b471fa3ffd4cec11092e82f6030cd0221b7a0c/Audio/Music/The%20Shittiest%20Of%20Flutes%20-%20V1.txt"
   }
 }
