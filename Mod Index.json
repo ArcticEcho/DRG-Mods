@@ -1288,8 +1288,8 @@
     "LastUpdateChangelog": null,
     "DownloadUrl": null
   },
-  "test": {
-    "DisplayName": "TEST",
+  "newname": {
+    "DisplayName": "new name",
     "Version": "1",
     "DrgVersion": "Update 32, Hotfix 28",
     "AuthorIds": [
@@ -1297,6 +1297,6 @@
     ],
     "Description": "testing",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9392c02c7868f7806c3d413986de960858cbb3b5/Audio/Music/TEST%20-%20V1%20_P.pak"
+    "DownloadUrl": "https://drive.google.com/file/d/1vvQgdz5qu-AOpf-cizxWXwmKe0lWUTHp/view"
   }
 }
