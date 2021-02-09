@@ -3,6 +3,8 @@
 Mod repository for the DRG Modding discord server.
 
 Managed by Karl Jr.
+
+## Mod List
 <!-- mod list -->
 
  - **[Audio/Music](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music)**
