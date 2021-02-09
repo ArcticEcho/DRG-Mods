@@ -1290,13 +1290,13 @@
   },
   "test": {
     "DisplayName": "test",
-    "Version": "1",
+    "Version": "2",
     "DrgVersion": "Update 32, Hotfix 28",
     "AuthorIds": [
       158916111390343168
     ],
     "Description": "jkzxcxhfkjsdfs",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://drive.google.com/file/d/1vvQgdz5qu-AOpf-cizxWXwmKe0lWUTHp/view"
+    "LastUpdateChangelog": "strange things are happening",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/04f67edd28be60524cd1b2d15a5fae1065854f3d/Audio/Music/Test%20-%20V2%20_P.pak"
   }
 }
