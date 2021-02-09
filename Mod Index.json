@@ -1290,13 +1290,13 @@
   },
   "moretesting": {
     "DisplayName": "more testing",
-    "Version": "1",
-    "DrgVersion": "1",
+    "Version": "2040-11-28",
+    "DrgVersion": "Update 32, Hotfix 28",
     "AuthorIds": [
       158916111390343168
     ],
-    "Description": "2",
-    "LastUpdateChangelog": "3",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/48a4b2a23b1cc939a5ace146d0ef55a497a99a19/Audio/Music/More%20Testing%20-%20V1%20_P.pak"
+    "Description": "asdasdasd asd asd asd asd asd asd",
+    "LastUpdateChangelog": "adasdasdasdasdasdasd",
+    "DownloadUrl": "https://drive.google.com/file/d/1vvQgdz5qu-AOpf-cizxWXwmKe0lWUTHp/view"
   }
 }
