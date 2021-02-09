@@ -1287,16 +1287,5 @@
     "Description": "--Replaces the hazard 5 file, and is not compatible with other mods that do the same.\n--Sets the values to what they are in Hazard 5.5 the last stage of the EDD\n--Compared to Haz5 this means slightly increased enemy speed and damage, as well as more fall damage.\n--Should show Haz5.5 in game.\n--Per request to add some challenge to viewer spawns since enemy amount isn't affected but enemy stats are.",
     "LastUpdateChangelog": null,
     "DownloadUrl": null
-  },
-  "shittyflute": {
-    "DisplayName": "Shitty Flute",
-    "Version": "1",
-    "DrgVersion": "Update 31",
-    "AuthorIds": [
-      158916111390343168
-    ],
-    "Description": "Just an outdated mod that replaces all the mission music with shitty flute songs.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://drive.google.com/uc?id=1fFUhuvMc_SQlSpmMY-kb69wlCC2qFydJ&export=download"
   }
 }
