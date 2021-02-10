@@ -166,6 +166,7 @@ Managed by Karl Jr.
    - **[White Throwing Flares](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Other/README.md#white-throwing-flares---v10)** by Our Lord And Savior Gabe Newell ([download](https://github.com/ArcticEcho/DRG-Mods/raw/ab33f77afd4a3ba9841353911b61ea7c0d10aad6/Quality%20of%20Life/Other/White%20Throwing%20Flares%20-%20V1.0%20_P.pak))
 
  - **[Quality of Life/Sound muting](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Sound%20muting)**
+   - **[No Doretta Whining](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Sound%20muting/README.md#no-doretta-whining---v10)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/0a82b0f0094bddfd79c66652258cb1fec044232c/Quality%20of%20Life/Sound%20muting/No%20Doretta%20Whining%20-%20V1.0%20_P.pak))
    - **[No Tinnitus](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Sound%20muting/README.md#no-tinnitus---v1)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/3ecc7d3a6bc660e29336bc32e68f3fc54f14a50d/Quality%20of%20Life/Sound%20muting/No%20Tinnitus%20-%20V1%20_P.pak))
    - **[Sound QoL pack](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Sound%20muting/README.md#sound-qol-pack---v10)** by GreyHound, Shrub_Daddy, Chibba ([download](https://github.com/ArcticEcho/DRG-Mods/raw/9ef243dc2e6d9563bbb5f5cf697be8ad77858aaf/Quality%20of%20Life/Sound%20muting/Sound%20QoL%20Pack%20-%20V1.0%20_P.pak))
 

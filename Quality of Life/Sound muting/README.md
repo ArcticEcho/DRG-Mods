@@ -4,6 +4,14 @@ QoL mods to mute annoying sounds.
 
 <!-- mod list -->
 
+## No Doretta Whining - v1.0
+**Authors:** Demellion Dismal  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0a82b0f0094bddfd79c66652258cb1fec044232c/Quality%20of%20Life/Sound%20muting/No%20Doretta%20Whining%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Mutes Doretta whine SFX on taking damage.
+
 ## No Tinnitus - v1
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33  

@@ -20,6 +20,14 @@ Gonna annihilate your whole crew,
 Gonna be squashed by a large crustacea  
 \------------------------------------
 
+## DOOM Music Overhaul - v1.4
+**Authors:** Demellion Dismal  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://mega.nz/file/frZXAAJJ#Qd9o6YG2Abv9kvAn6BY9pIU6qK-T7XhLiDx54DV6dfc) (third-party host)  
+
+**Description:**  
+Replaces in-game music with music from DOOM 2016/Eternal games.
+
 ## Kids Crate - v1
 **Authors:** Kraeus  
 **DRG Version:** Update 33  
