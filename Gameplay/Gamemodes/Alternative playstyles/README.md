@@ -20,10 +20,10 @@ Deep Dives will now spawn an abundant amount of resources.  The resource veins o
 **Description:**  
 Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.
 
-## Support Pods - v1
+## Support Pods - v1.1
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d1298d6ac613f8dc9e9aa6589e6e31c6af437b57/Gameplay/Gamemodes/Alternative%20playstyles/Support%20Pods%20-%20V1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4cc16cdb57ec25575f71f4c74b6e608e89ce69ab/Gameplay/Gamemodes/Alternative%20playstyles/Support%20Pods%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 REQUIRES MOD LOADER  
@@ -33,6 +33,11 @@ Adds 3 new call ins to the game. The beginning of the game provides you with 3 c
 -Angelic Intervention: when you press 0 a late joining player beacon is placed and an egg falls from the sky, opening shortly after with your favorite pet.  That's right, Steeve!  Nah, who wants that when you can get your very own personal flying taxi to explore any cave you want . .  
 Note -> Angelic Intervention only works in the upcoming experimental and full release build of U33.  
 Preview -> https://discord.com/channels/676880716142739467/732650220214681600/802830115573989388
+
+**Update v1.1 Changelog:**  
+Added movable magic hole and magic crystal buffs from Azure Weald to F1 and F3.  
+F1 is low gravity, 30% speed boost for 15s and it stacks with additional buff objects (crate batteries) to jump higher and fall slower, which also affects enemies.  
+F3 is 50% damage reduction for 15s and it affects enemies too.
 
 ## Upgraded Doretta - v1
 **Authors:** Our Lord And Savior Gabe Newell  
