@@ -49,3 +49,12 @@ Adds a promotion terminal to your personal cabin. Host-only.
 -Increases Doretta's top movement speed when encouraged by dwarven hugs by 20%. (From 1.0 to 1.2)  
 -Increases Doretta's movement speed while being attacked by 20%. (From 1.0 to 1.2)  
 -Host mod.
+
+## Take Me Home - v1.0
+**Authors:** ArcticEcho  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/07e37e6be175630c1a1115b03a0bc78d87d9b84d/Quality%20of%20Life/Time%20saving/Take%20Me%20Home%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+**Requires the mod loader.**  
+Adds a button in the mod manager menu that will instantly load you back into the spacerig.
