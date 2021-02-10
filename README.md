@@ -12,6 +12,7 @@ Managed by Karl Jr.
    - **[DOOM Music Overhaul](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#doom-music-overhaul---v14)** by Demellion Dismal ([download](https://mega.nz/file/frZXAAJJ#Qd9o6YG2Abv9kvAn6BY9pIU6qK-T7XhLiDx54DV6dfc) - third-party host)
    - **[Kids Crate](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#kids-crate---v1)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/1c4d4706984255b0d4ece682fbf3037a720aebd4/Audio/Music/Kids%20Crate%20-%20V1%20_P.pak))
    - **[Kraeus's Crazy Jukebox](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#kraeuss-crazy-jukebox---v1)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/fa0a8b53454dfe375fe94a3320a9355a4fa94952/Audio/Music/Kraeus%27s%20Crazy%20Jukebox%20-%20V1%20_P.pak))
+   - **[Kraeus's Crazy Tunes!](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#kraeuss-crazy-tunes---v20)** by Kraeus ([download](https://drive.google.com/file/d/10IP-zik_WQfzrjm5p5QZqjoi-oEhsXgm/view?usp=sharing) - third-party host)
    - **[Quiet Space Rig](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#quiet-space-rig---v1)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/ccfe539bc436d9a43aaed84fe50bfc3eda55955e/Audio/Music/Quiet%20Space%20Rig%20-%20V1%20_P.pak))
 
  - **[Audio/NPC](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC)**

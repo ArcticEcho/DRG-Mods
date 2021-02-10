@@ -1408,5 +1408,16 @@
     "Description": "Mutes Doretta whine SFX on taking damage.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0a82b0f0094bddfd79c66652258cb1fec044232c/Quality%20of%20Life/Sound%20muting/No%20Doretta%20Whining%20-%20V1.0%20_P.pak"
+  },
+  "kraeusscrazytunes": {
+    "DisplayName": "Kraeus's Crazy Tunes!",
+    "Version": "2.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaces all music in the game with new instrumental songs from movies or bands.\nFull song list: https://docs.google.com/uc?export=download&id=1-9RHJvp4q2qhAebDxGY32G8xnvgpnbKD\n1. Level music - mostly John Carpenter\n2. Wave music - mostly Jazz House featuring sax.\n3. Boss music - Boss fight songs like Godzilla.\n4. End music - Climactic or getaway\\running songs\n5. Event Music - Hell's Bells instrumental\n6. Deep Dive music - With your drill, pierce the heavens!\n7. Promotional Fanfare - The good, the bad, the ugly (not the whistle)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://drive.google.com/file/d/10IP-zik_WQfzrjm5p5QZqjoi-oEhsXgm/view?usp=sharing"
   }
 }

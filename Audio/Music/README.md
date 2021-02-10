@@ -48,6 +48,22 @@ It covers all the genres of the OG jukebox just with more Shanties.
 Song List: https://docs.google.com/uc?export=download&id=1NGX83YBCCC_yy2Zj7i5Y2jMzXbL9oYRz  
 Preview -> https://discord.com/channels/676880716142739467/732650220214681600/806953907217629244
 
+## Kraeus's Crazy Tunes! - v2.0
+**Authors:** Kraeus  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://drive.google.com/file/d/10IP-zik_WQfzrjm5p5QZqjoi-oEhsXgm/view?usp=sharing) (third-party host)  
+
+**Description:**  
+Replaces all music in the game with new instrumental songs from movies or bands.  
+Full song list: https://docs.google.com/uc?export=download&id=1-9RHJvp4q2qhAebDxGY32G8xnvgpnbKD  
+1. Level music - mostly John Carpenter  
+2. Wave music - mostly Jazz House featuring sax.  
+3. Boss music - Boss fight songs like Godzilla.  
+4. End music - Climactic or getaway\running songs  
+5. Event Music - Hell's Bells instrumental  
+6. Deep Dive music - With your drill, pierce the heavens!  
+7. Promotional Fanfare - The good, the bad, the ugly (not the whistle)
+
 ## Quiet Space Rig - v1
 **Authors:** Kraeus  
 **DRG Version:** Update 33  
