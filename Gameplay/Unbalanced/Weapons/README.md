@@ -29,6 +29,22 @@ Unbalanced changes to guns and grenades.
 **Description:**  
 Makes you carry 8 grenades for all types to match up with axes.
 
+## BRT7 Electro Poglets - v1.0
+**Authors:** ZeroSignal_  
+**DRG Version:** Update 33, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d09c484607491e8b6ccd618e2aaa5d97d3211984/Gameplay/Unbalanced/Weapons/BRT7%20Electro%20Poglets%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+This mod aims to repurpose the overclock to fill a similar combat role to that of magic bullets/explosive rounds/neurotoxin build for the Bulldog.  
+Changes:  
+Arming delay of the minelets: 0.8 -> 0.1s  
+Electrocution duration: 2 -> 5s   
+Radial damage: 1 -> 18 (It's an AoE explosion, damage for each bullet in the burst)  
+Damage radius: 1.5 -> 3.0m (no falloff)  
+Trigger radius: 1.5m  
+Damage penalty: -3 -> -12  
+Clip size penalty: -6 -> -9
+
 ## Buffed Bulldog Neurotoxin - v1
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 33, Hotfix 2  
