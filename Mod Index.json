@@ -793,14 +793,14 @@
   },
   "starshiptroopers": {
     "DisplayName": "Starship Troopers",
-    "Version": "33.2.0",
-    "DrgVersion": "Update 33, Hotfix 2",
+    "Version": "33.2.1",
+    "DrgVersion": "Update 33, Hotfix 2\nCategory: Gameplay/Gamemodes/Hazard Levels\nAuthors: <@!306800962432008193>",
     "AuthorIds": [
       306800962432008193
     ],
-    "Description": "Similar to my \"Increased enemies\" mod, but a bit different as I wasn't satisfied. Alternative Haz5.\nThis mod makes Haz5 enemies same as Haz4 (speed, damage resistance, etc) with double the enemy count\nof HAZ5, to give you a Starship Troopers-like feeling with massive hordes of normal enemies (as\nthey have haz4 endurance) while still giving 133% XP since the difficulty feels pretty much the same.\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Haz4 150% of Haz5 enemies (125% single player)\n--Haz5 200% of Haz5 enemies (150% single player)\n----------------------------------------------------------------\nNote: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health\nNote: Replaces Haz 4, and 5. So it won't work with Haz 6/7. Only the host needs the mod\nNote: Recommended using \"Ludicrous Cap\" or \"Custom Cap\" mod to avoid enemy de-spawn",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9b037d4db3b91c296d00303a83354ea01883977d/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V33.2.0.zip"
+    "Description": "For people who don't like haz5's bullet sponge enemies, but find haz4 too easy.\nSimilar to my \"Increased enemies\" mod, but a bit different as I wasn't satisfied, this\nmod makes Haz5 enemies same as Haz4 (speed, damage resistance, etc) with double the enemy\ncount of HAZ5, to give you a Starship Troopers-like feeling with massive hordes of Haz4\nenemies while still rewarding 133% XP since the difficulty feels pretty much the same.\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Haz4 150% of Haz5 enemies (125% on single player)\n--Haz5 200% of Haz5 enemies (150% on single player)\n----------------------------------------------------------------\nNote: Escort mission double flying rocks can be overwhelming, so I included optional mods to decrease their health\nNote: Replaces Haz 4, and 5. So it won't work with Haz 6/7. Only the host needs the mod\nNote: Use \"Ludicrous Cap\" or \"Custom Cap\" mod to avoid enemy de-spawn\nNote: Included optional 60 Nitra ressuply mod",
+    "LastUpdateChangelog": "Added Hazard name change in game and updated description",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e20cc3962fb2f7d5887314e30bec24a01ecd6ec1/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V33.2.1.zip"
   },
   "2xammoandslightlybetterscout": {
     "DisplayName": "2x Ammo And Slightly Better Scout",

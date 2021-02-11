@@ -132,26 +132,33 @@ This is a comprehensive Hazard 7 Mod
 --Works well with expanded enemy cap mods.  
 --For changes from V2.0 see Haz6
 
-## Starship Troopers - v33.2.0
+## Starship Troopers - v33.2.1
 **Authors:** NaturalBornCamper  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9b037d4db3b91c296d00303a83354ea01883977d/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V33.2.0.zip)  
+**DRG Version:** Update 33, Hotfix 2
+Category: Gameplay/Gamemodes/Hazard Levels
+Authors: <@!306800962432008193>  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e20cc3962fb2f7d5887314e30bec24a01ecd6ec1/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V33.2.1.zip)  
 
 **Description:**  
-Similar to my "Increased enemies" mod, but a bit different as I wasn't satisfied. Alternative Haz5.  
-This mod makes Haz5 enemies same as Haz4 (speed, damage resistance, etc) with double the enemy count  
-of HAZ5, to give you a Starship Troopers-like feeling with massive hordes of normal enemies (as  
-they have haz4 endurance) while still giving 133% XP since the difficulty feels pretty much the same.  
+For people who don't like haz5's bullet sponge enemies, but find haz4 too easy.  
+Similar to my "Increased enemies" mod, but a bit different as I wasn't satisfied, this  
+mod makes Haz5 enemies same as Haz4 (speed, damage resistance, etc) with double the enemy  
+count of HAZ5, to give you a Starship Troopers-like feeling with massive hordes of Haz4  
+enemies while still rewarding 133% XP since the difficulty feels pretty much the same.  
 Preview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992  
 Preview (Youtube): https://youtu.be/0k3bVdkpSOs  
 Preview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686  
 \----------------------------------------------------------------  
---Haz4 150% of Haz5 enemies (125% single player)  
---Haz5 200% of Haz5 enemies (150% single player)  
+--Haz4 150% of Haz5 enemies (125% on single player)  
+--Haz5 200% of Haz5 enemies (150% on single player)  
 \----------------------------------------------------------------  
-Note: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health  
+Note: Escort mission double flying rocks can be overwhelming, so I included optional mods to decrease their health  
 Note: Replaces Haz 4, and 5. So it won't work with Haz 6/7. Only the host needs the mod  
-Note: Recommended using "Ludicrous Cap" or "Custom Cap" mod to avoid enemy de-spawn
+Note: Use "Ludicrous Cap" or "Custom Cap" mod to avoid enemy de-spawn  
+Note: Included optional 60 Nitra ressuply mod
+
+**Update v33.2.1 Changelog:**  
+Added Hazard name change in game and updated description
 
 ## Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives) - v33.2.1
 **Authors:** NaturalBornCamper  
