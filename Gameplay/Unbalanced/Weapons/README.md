@@ -35,8 +35,9 @@ Makes you carry 8 grenades for all types to match up with axes.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d09c484607491e8b6ccd618e2aaa5d97d3211984/Gameplay/Unbalanced/Weapons/BRT7%20Electro%20Poglets%20-%20V1.0%20_P.pak)  
 
 **Description:**  
+__**Works only if you're the host**__  
 This mod aims to repurpose the overclock to fill a similar combat role to that of magic bullets/explosive rounds/neurotoxin build for the Bulldog.  
-Changes:  
+**Changes:**  
 Arming delay of the minelets: 0.8 -> 0.1s  
 Electrocution duration: 2 -> 5s   
 Radial damage: 1 -> 18 (It's an AoE explosion, damage for each bullet in the burst)  
