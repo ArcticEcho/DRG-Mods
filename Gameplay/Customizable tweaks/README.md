@@ -6,11 +6,12 @@ Mods that can be tweaked in-game.
 
 ## Custom Enemy Cap - v2.2
 **Authors:** ArcticEcho  
-**DRG Version:** Update 33, Hotfix 2  
+**DRG Version:** Update 33, Hotifx 4  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/887c00cd28f4313d9cb45f14a1d1b2522796526c/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.2%20_P.pak)  
 
 **Description:**  
-Update 33, Hotifx 4
+**Requires the mod loader.**  
+Lets you control the global enemy cap, and can optionally lower the cap depending on your FPS. Only works as the host.
 
 **Update v2.2 Changelog:**  
 Improved culling performance.
