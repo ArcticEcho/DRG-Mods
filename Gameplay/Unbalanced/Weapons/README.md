@@ -97,7 +97,7 @@ Changes grenade stats, carried amount and the way you use them.
 --**High Explosive Grenades** have reduced damage (68), carve out a 6.5m area, detonate within 0.5 seconds, throw farther, have higher armor break and hold 8.  
 --**Pheromones** can attract 1000 enemies, last for 15s, larger splash radius, hold 2.  
 --**Cryo Grenades** freeze anything in 1 hit, including yourself and your allies, hold 3.  
---**IFG**slow makes enemies move at 25% speed, take 70% more damage, last 20s, hold 3.
+--**IFG** slow makes enemies move at 25% speed, take 70% more damage, last 20s, hold 3.
 
 ## Legendary Hoarder - v1.0
 **Authors:** GreyHound  
