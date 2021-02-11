@@ -43,6 +43,14 @@ Unbalanced changes to tools and gear.
 - As a host, will affect anyone using this armor upgrade in your game.  
 - As a client, this mod has no effect.
 
+## Goo Plats - v1
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 33, Hotfix 3  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e1ab9b6e9fe8b66d483ab54dcb498273c4b56044/Gameplay/Unbalanced/Tools%20%26%20Gear/Goo%20Plats%20-%20V1%20_P.pak)  
+
+**Description:**  
+Makes "Fall Damage + Bug Repellent" platforms sticky goo from fungus bogs.
+
 ## Max Level Drill - v1.0
 **Authors:** Chibba  
 **DRG Version:** Update 33, Hotfix 2  
