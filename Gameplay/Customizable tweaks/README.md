@@ -25,6 +25,27 @@ Improved culling performance.
 **Requires the mod loader.**  
 Make Hoxxes even more unwelcoming with a selection of controls to spawn in earthquakes and storms. This is a host-side mod.
 
+## Generous Management - v2.0
+**Authors:** ArcticEcho  
+**DRG Version:** Update 33, Hotifx 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/98eebae77830a1d2edf4515d13eb6bc1b8a31b4a/Gameplay/Customizable%20tweaks/Generous%20Management%20-%20V2.0%20_P.pak)  
+
+**Description:**  
+**Requires the mod loader.**  
+This mod has two main features: it can drop in broken resupplies when enemies spawn, allowing you to stay in a mission indefinitely without running out of ammo; and it can replace normal resupply drops with several broken pods, because why not.  
+I've also modified the broken resupplies to deal the same drop damage as regular pods, and reduced their repair time and resupply time to help keep them from feeling too tedious:  
+ - Drop Damage: 50 -> 1000  
+ - Damage Radius: 150 -> 20cm  
+ - Repair Duration: 20 -> 1.75 secs  
+ - Resupply Duration: 4 -> 2 secs  
+ - Coop Build Bonus: 25 -> 100%  
+**Update 2.0**  
+ - Updated mod for U33.  
+ - Added an option to control the minimum pod spawn distance.  
+ - Pods no longer drop on/near downed teammates.  
+ - Pods no longer drop inside of eachother/increased space between them.  
+ - The mod no longer despawns pods spawned by other mods.
+
 ## Minehead Is Now Epic - v2.5
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33  
