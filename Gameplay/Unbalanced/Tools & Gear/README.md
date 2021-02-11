@@ -134,6 +134,17 @@ Preview: https://discordapp.com/channels/676880716142739467/732650220214681600/7
 **Description:**  
 --Grapple Gun range upgrades increased from 5 Meters (500.0) to 20 Meters (2000.0)
 
+## Upgraded Max Level Drills - v1.0
+**Authors:** Sesselpots, Chibba  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4303170c571335f6e8b833f14449528bacb1b685/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Max%20Level%20Drills%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Set two of the three Drill parameter (x,z) to max, left y out for better drill control, makes very wide tunnels  
+--Drills max fuel changed from 38.0 to 60.0  
+--Drills mining rate changed from 1.5 to 2.7  
+--Tier 1 movement speed upgrade (Hardened Tips) & tier 3 movement speed upgrade (Supercharged Motor) Increased to match mining rate - 0.1 > 0.7
+
 ## Upgraded Platform Gun - v1.0
 **Authors:** Sesselpots  
 **DRG Version:** Update 33  

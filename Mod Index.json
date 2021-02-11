@@ -1419,5 +1419,17 @@
     "Description": "Replaces all music in the game with new instrumental songs from movies or bands.\nFull song list: https://docs.google.com/uc?export=download&id=1-9RHJvp4q2qhAebDxGY32G8xnvgpnbKD\n1. Level music - mostly John Carpenter\n2. Wave music - mostly Jazz House featuring sax.\n3. Boss music - Boss fight songs like Godzilla.\n4. End music - Climactic or getaway\\running songs\n5. Event Music - Hell's Bells instrumental\n6. Deep Dive music - With your drill, pierce the heavens!\n7. Promotional Fanfare - The good, the bad, the ugly (not the whistle)",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://drive.google.com/file/d/10IP-zik_WQfzrjm5p5QZqjoi-oEhsXgm/view?usp=sharing"
+  },
+  "upgradedmaxleveldrills": {
+    "DisplayName": "Upgraded Max Level Drills",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548,
+      156386896866574336
+    ],
+    "Description": "Set two of the three Drill parameter (x,z) to max, left y out for better drill control, makes very wide tunnels\n--Drills max fuel changed from 38.0 to 60.0\n--Drills mining rate changed from 1.5 to 2.7\n--Tier 1 movement speed upgrade (Hardened Tips) & tier 3 movement speed upgrade (Supercharged Motor) Increased to match mining rate - 0.1 > 0.7",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4303170c571335f6e8b833f14449528bacb1b685/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Max%20Level%20Drills%20-%20V1.0%20_P.pak"
   }
 }
