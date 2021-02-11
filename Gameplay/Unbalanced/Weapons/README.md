@@ -86,10 +86,10 @@ A heavily armed Scout, no balance changes, only the Scout Loadout now includes t
 Changes grenade stats, carried amount and the way you use them.  
 --Most fear values on grenades were removed.  
 --Friendly fire values were reduced to prevent instant player death (maybe).  
---**Proximity Mines** more armor break, do 150 damage, have 1 more charge, take 5s to arm, pickup faster, detonate faster, do 25% FF, hold 2.  
+--**Proximity Mines** have more armor break, do 150 damage, 1 more charge, take 5s to arm, pickup faster, detonate faster, do 25% FF, hold 2.  
 --**Plasma Bursters** have slightly larger AoE, more damage, more armor break, can't be thrown as far, detonate up to 15 times once per second while gradually increasing in detonation speed, only deal 35% FF (used to be 100%), hold 2.  
---**LUREs**have way more health but can take friendly fire damage, last up to 20s, hold 3, decent damage to nearby enemies.  
---**Cluster Grenades** instantly deploys 32 bomblets, 50 damage each, increased AoE, bomblet spread is massive, bomblets no longer detonate on impact but after 5s, hold 2.  
+--**LUREs** have way more health but can take friendly fire damage, last up to 20s, hold 3, decent damage to nearby enemies.  
+--**Cluster Grenades** instantly deploy 32 bomblets, 50 damage each, increased AoE, bomblet spread is massive, bomblets no longer detonate on impact but after 5s, hold 2.  
 --**Incendiary Grenades** do massive damage to weak targets very quickly, last 20s, slightly larger area, hold 2.  
 --**Sticky Grenades** now do the bulk of their damage to the stuck target on impact, throw farther, smaller AoE and damage, hold 8.  
 --**Axes** no longer primarily do AoE damage, now they do entirely melee damage and get large bonus damage from hitting weakspots.  Still powerful.  
