@@ -77,6 +77,28 @@ A mod that changes the Fat Boy OC to a "real-er" nuke
 **Description:**  
 A heavily armed Scout, no balance changes, only the Scout Loadout now includes the primaries Minigun, Cryo and secondaries PGL, Autocannon also IFG -> Axe, Pheremones -> Lure
 
+## Grenade Rework - v1.0
+**Authors:** Our Lord And Savior Gabe Newell  
+**DRG Version:** Update 33, Hotfix 3  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/747db05f083c807b0327bf613ac86e884550f806/Gameplay/Unbalanced/Weapons/Grenade%20Rework%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Changes grenade stats, carried amount and the way you use them.  
+--Most fear values on grenades were removed.  
+--Friendly fire values were reduced to prevent instant player death (maybe).  
+--**Proximity Mines** more armor break, do 150 damage, have 1 more charge, take 5s to arm, pickup faster, detonate faster, do 25% FF, hold 2.  
+--**Plasma Bursters** have slightly larger AoE, more damage, more armor break, can't be thrown as far, detonate up to 15 times once per second while gradually increasing in detonation speed, only deal 35% FF (used to be 100%), hold 2.  
+--**LUREs**have way more health but can take friendly fire damage, last up to 20s, hold 3, decent damage to nearby enemies.  
+--**Cluster Grenades** instantly deploys 32 bomblets, 50 damage each, increased AoE, bomblet spread is massive, bomblets no longer detonate on impact but after 5s, hold 2.  
+--**Incendiary Grenades** do massive damage to weak targets very quickly, last 20s, slightly larger area, hold 2.  
+--**Sticky Grenades** now do the bulk of their damage to the stuck target on impact, throw farther, smaller AoE and damage, hold 8.  
+--**Axes** no longer primarily do AoE damage, now they do entirely melee damage and get large bonus damage from hitting weakspots.  Still powerful.  
+--**Neurotoxin Grenades** deal damage faster, more damage, slow enemies to 50% speed, debuff lasts 15s, cloud lasts 20s, hold 2.  
+--**High Explosive Grenades** have reduced damage (68), carve out a 6.5m area, detonate within 0.5 seconds, throw farther, have higher armor break and hold 8.  
+--**Pheromones** can attract 1000 enemies, last for 15s, larger splash radius, hold 2.  
+--**Cryo Grenades** freeze anything in 1 hit, including yourself and your allies, hold 3.  
+--**IFG**slow makes enemies move at 25% speed, take 70% more damage, last 20s, hold 3.
+
 ## Legendary Hoarder - v1.0
 **Authors:** GreyHound  
 **DRG Version:** Update 33, Hotfix 2  
