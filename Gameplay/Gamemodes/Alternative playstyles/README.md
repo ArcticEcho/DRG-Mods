@@ -20,17 +20,6 @@ Deep Dives will now spawn an abundant amount of resources.  The resource veins o
 **Description:**  
 Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.
 
-## Health For Shields Compilation - v1.0
-**Authors:** Our Lord And Savior Gabe Newell, NaturalBornCamper  
-**DRG Version:** Update 33, Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ea1bc609f2ca24c3d466abea2d5c5d5321068351/Gameplay/Gamemodes/Alternative%20playstyles/Health%20For%20Shields%20Compilation%20-%20V1.0.zip)  
-
-**Description:**  
---Changes all player base health from 110 to 25, all player shields from 25 to 250 to replicate max player health without affecting upgrades.  
---Shield recharge rate does not scale, so it takes a long time to recover your shields and there is no reliable way to get your shields back outside of Shield Link.  
---Includes all combos of laser sight, air control, 2x, 3x flashlights and this shield and health swapping.  
-Preview: https://discord.com/channels/676880716142739467/732650220214681600/809669971486703646
-
 ## Support Pods - v1.1
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33  
