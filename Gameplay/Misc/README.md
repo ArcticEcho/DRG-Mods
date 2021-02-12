@@ -58,10 +58,10 @@ No more needing to re-consider repairing BET-C or not on shield disruption missi
 **Description:**  
 Shield Disruption will no longer affect gameplay, Red Sugar Occurrence 2x > 1x, Shield 0x > 1x, Damage Reduction 0.7x > 1x, and Hazard Bonus 30% > 0%. Works on both U32 and U33
 
-## Seasonal Space Rig - v1.0
+## Seasonal Space Rig - v1.1
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e8ef188ea90cffbb9a15aa643bf8698c38a37a1a/Gameplay/Misc/Seasonal%20Space%20Rig%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d87043d07903268cd5f5e7594ebece60aefd7c56/Gameplay/Misc/Seasonal%20Space%20Rig%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 **Requires the Mod Loader**  
@@ -69,3 +69,6 @@ Shield Disruption will no longer affect gameplay, Red Sugar Occurrence 2x > 1x, 
 --Visually and audibly works as a client regardless of what the host has (I left this in on purpose, could disable it while not the host), all three options work well for clients while you are the host.  
 --Good for snowball fights if you turn on my custom map edits (extra snow).  Will add some more custom festive stuff and config saving in the future, just wanted to get this functional version out so it seems like I do stuff.  
 Preview: https://discord.com/channels/676880716142739467/732650220214681600/808605470519459851
+
+**Update v1.1 Changelog:**  
+Fixed the crash caused by hotfix 4.
