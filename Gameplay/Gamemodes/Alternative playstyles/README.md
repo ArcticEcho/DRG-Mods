@@ -4,6 +4,19 @@ Mods that add new ways to experience combat, etc.
 
 <!-- mod list -->
 
+## Bulk Detonator Infestation - v1.0
+**Authors:** Our Lord And Savior Gabe Newell, NaturalBornCamper  
+**DRG Version:** Update 33, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1419907276d205c78b48bc123874111edf812440/Gameplay/Gamemodes/Alternative%20playstyles/Bulk%20Detonator%20Infestation%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+--Has a chance to replace enemy spawns with Bulk Detonators.  
+--Includes the initial spawn enemies in general but it is especially noticeable in On Site Refining.  
+--Includes replacing enemies in announced and unannounced swarms.    
+--Works with difficulty mods (hazard 6 - 7, Bug Planet, Starship Troopers, etc) or enemy cap mods.  
+--Is not recommended to use with massive terrain carving mods like Fustercluck Bulks due to likelihood of crashing.  
+Preview: https://discord.com/channels/676880716142739467/732650220214681600/809682139460141090
+
 ## Deep Dives Have Double Resources - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  

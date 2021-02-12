@@ -1510,5 +1510,17 @@
     "Description": "--Changes all player base health from 110 to 25, all player shields from 25 to 250 to replicate max player health without affecting upgrades.\n--Shield recharge rate does not scale, so it takes a long time to recover your shields and there is no reliable way to get your shields back outside of Shield Link.\n--Includes all combos of laser sight, air control, 2x, 3x flashlights and this shield and health swapping.\nPreview: https://discord.com/channels/676880716142739467/732650220214681600/809671728606347274",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cb43fc479167ce410a2cec62d1e9444e9aba80a9/Gameplay/Gamemodes/Alternative%20playstyles/Health%20For%20Shields%20Compilation%20-%20V1.0.zip"
+  },
+  "bulkdetonatorinfestation": {
+    "DisplayName": "Bulk Detonator Infestation",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 4",
+    "AuthorIds": [
+      146392394328178690,
+      306800962432008193
+    ],
+    "Description": "--Has a chance to replace enemy spawns with Bulk Detonators.\n--Includes the initial spawn enemies in general but it is especially noticeable in On Site Refining.\n--Includes replacing enemies in announced and unannounced swarms.  \n--Works with difficulty mods (hazard 6 - 7, Bug Planet, Starship Troopers, etc) or enemy cap mods.\n--Is not recommended to use with massive terrain carving mods like Fustercluck Bulks due to likelihood of crashing.\nPreview: https://discord.com/channels/676880716142739467/732650220214681600/809682139460141090",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1419907276d205c78b48bc123874111edf812440/Gameplay/Gamemodes/Alternative%20playstyles/Bulk%20Detonator%20Infestation%20-%20V1.0%20_P.pak"
   }
 }
