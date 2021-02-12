@@ -13,13 +13,16 @@ Changes to the game's camera.
 **Requires the mod loader.**  
 Replaces the game's spectator camera when you get downed (removes the fuzzy overlay and skips the faceplant animation). It allows you to freely orbit and zoom in/out when spectating players. You can also optionally spectate Bosco, Molly, Doretta, and BET-C.
 
-## More FOV - v1.1
+## More FOV - v1.2
 **Authors:** Demellion Dismal  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d31ccc4f575541b2e370c083f37a80a6289f145c/Quality%20of%20Life/Camera/More%20FOV%20-%20V1.1%20_P.pak)  
+**DRG Version:** Update 33 Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9bd26041e9ed7d1a80406b1f88c8ab338f1dd5ea/Quality%20of%20Life/Camera/More%20FOV%20-%20V1.2%20_P.pak)  
 
 **Description:**  
-Adds ability to change FOV up to 260.
+Adds ability to change FOV up to 260
+
+**Update v1.2 Changelog:**  
+Fixed a Hotfix 4 incompatibility
 
 ## Panini FOV - v1.0
 **Authors:** ArcticEcho  

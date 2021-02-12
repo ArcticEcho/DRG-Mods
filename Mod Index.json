@@ -144,14 +144,14 @@
   },
   "morefov": {
     "DisplayName": "More FOV",
-    "Version": "1.1",
-    "DrgVersion": "Update 33",
+    "Version": "1.2",
+    "DrgVersion": "Update 33 Hotfix 4",
     "AuthorIds": [
       199938370338553856
     ],
-    "Description": "Adds ability to change FOV up to 260.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d31ccc4f575541b2e370c083f37a80a6289f145c/Quality%20of%20Life/Camera/More%20FOV%20-%20V1.1%20_P.pak"
+    "Description": "Adds ability to change FOV up to 260",
+    "LastUpdateChangelog": "Fixed a Hotfix 4 incompatibility",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9bd26041e9ed7d1a80406b1f88c8ab338f1dd5ea/Quality%20of%20Life/Camera/More%20FOV%20-%20V1.2%20_P.pak"
   },
   "musiccontrol": {
     "DisplayName": "Music Control",

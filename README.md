@@ -146,7 +146,7 @@ Managed by Karl Jr.
 
  - **[Quality of Life/Camera](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Camera)**
    - **[Better Spectator](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Camera/README.md#better-spectator---v17)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f1143a182e80ffb6542bc63b38ef8dd762c2b263/Quality%20of%20Life/Camera/Better%20Spectator%20-%20V1.7%20_P.pak))
-   - **[More FOV](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Camera/README.md#more-fov---v11)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/d31ccc4f575541b2e370c083f37a80a6289f145c/Quality%20of%20Life/Camera/More%20FOV%20-%20V1.1%20_P.pak))
+   - **[More FOV](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Camera/README.md#more-fov---v12)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/9bd26041e9ed7d1a80406b1f88c8ab338f1dd5ea/Quality%20of%20Life/Camera/More%20FOV%20-%20V1.2%20_P.pak))
    - **[Panini FOV](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Camera/README.md#panini-fov---v10)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/4df81a04d486861d77e047628983a70c269cccd6/Quality%20of%20Life/Camera/Panini%20FOV%20-%20V1.0%20_P.pak))
 
  - **[Quality of Life/Graphics & Performance](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Graphics%20%26%20Performance)**
