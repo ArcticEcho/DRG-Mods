@@ -21,6 +21,14 @@ Unbalanced changes to guns and grenades.
 - As a client, this mod will still affect your ammo, but not damage or armor.  
 *Thanks to* @imdead *for helping me make the Slightly Better Scout portion of this mod and* @GreyHound *for their work on the 2x ammo (now known as legendary hoarder) mod*
 
+## 8 Grenade Rework - v1.0
+**Authors:** Our Lord And Savior Gabe Newell  
+**DRG Version:** Update 33, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/286ccd626e1dea3e5eebbb1fbc6de154fc722e66/Gameplay/Unbalanced/Weapons/8%20Grenade%20Rework%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Exactly the same as my grenade rework file, but hold 8 of all of the grenades instead of much lower values.  Was made by request.
+
 ## 8 Grenades - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
