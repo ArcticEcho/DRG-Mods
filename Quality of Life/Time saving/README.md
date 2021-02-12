@@ -42,16 +42,19 @@ Fixed crash introduced in H4.
 -Reduces repair time of broken resupplies found in Salvage missions from 20s to 3s.  
 -Increases chance of repaired supply pod working from 50% to 67%.
 
-## SpeedyEscort - v1.01
+## SpeedyEscort - v1.02
 **Authors:** BongoSkaggs  
-**DRG Version:** U33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/63d6bc762d7494393a190c26a36fffe2417a7101/Quality%20of%20Life/Time%20saving/SpeedyEscort%20-%20V1.01%20_P.pak)  
+**DRG Version:** U33 H4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ae2f7aff760549b2e664033a2c55334539e2e206/Quality%20of%20Life/Time%20saving/SpeedyEscort%20-%20V1.02%20_P.pak)  
 
 **Description:**  
 -Increases Doretta's mining speed by 66% (From 0.6 to 1.0)  
 -Increases Doretta's top movement speed when encouraged by dwarven hugs by 20%. (From 1.0 to 1.2)  
 -Increases Doretta's movement speed while being attacked by 20%. (From 1.0 to 1.2)  
 -Host mod.
+
+**Update v1.02 Changelog:**  
+Fixed crash introduced in H4.
 
 ## Take Me Home - v1.0
 **Authors:** ArcticEcho  
