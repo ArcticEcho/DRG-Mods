@@ -25,6 +25,17 @@ Adds a promotion terminal to your personal cabin. Host-only.
 **Update v1.02 Changelog:**  
 Fixed crash introduced in H4.
 
+## DorettaSpeedBuffed - v1.4
+**Authors:** Tristus  
+**DRG Version:** Update 33, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c689a0ed6b97796ecb54eaeb387039452d9ef706/Quality%20of%20Life/Time%20saving/DorettaSpeedBuffed%20-%20V1.4%20_P.pak)  
+
+**Description:**  
+--Increased SpeedModWhileTunneling 0.6 > 1.0  
+--Increased SpeedModPlayers 1.0 > 1.5  
+--Increased SpeedModCheat 1.0 > 1.5  
+--As Host: Affects the Drolldozer Speed stats for all dwarfs
+
 ## FastMachineStart - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
