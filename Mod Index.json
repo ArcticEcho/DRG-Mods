@@ -1498,5 +1498,17 @@
     "Description": "Includes both versions of No More Dollar Store Flashlights and Laser Sight but with the addition of Air Control to move much better in the air (they edit the same file).",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f29c2013f366a10799c54628e09dbea94e0000d7/Quality%20of%20Life/Other/Flashlight%20Mods%20With%20Air%20Control%20-%20V1.0.zip"
+  },
+  "healthforshieldscompilation": {
+    "DisplayName": "Health For Shields Compilation",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 4",
+    "AuthorIds": [
+      146392394328178690,
+      306800962432008193
+    ],
+    "Description": "--Changes all player base health from 110 to 25, all player shields from 25 to 250 to replicate max player health without affecting upgrades.\n--Shield recharge rate does not scale, so it takes a long time to recover your shields and there is no reliable way to get your shields back outside of Shield Link.\n--Includes all combos of laser sight, air control, 2x, 3x flashlights and this shield and health swapping.\nPreview: https://discord.com/channels/676880716142739467/732650220214681600/809671728606347274",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cb43fc479167ce410a2cec62d1e9444e9aba80a9/Gameplay/Gamemodes/Alternative%20playstyles/Health%20For%20Shields%20Compilation%20-%20V1.0.zip"
   }
 }
