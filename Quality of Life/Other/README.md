@@ -12,6 +12,14 @@ QoL mods that don't go in the other categories.
 **Description:**  
 Steeve is unable to be pet and won't get in the way of revives. Works for both U32 and 33
 
+## Flashlight Mods With Air Control - v1.0
+**Authors:** Our Lord And Savior Gabe Newell, NaturalBornCamper  
+**DRG Version:** Update 33, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f29c2013f366a10799c54628e09dbea94e0000d7/Quality%20of%20Life/Other/Flashlight%20Mods%20With%20Air%20Control%20-%20V1.0.zip)  
+
+**Description:**  
+Includes both versions of No More Dollar Store Flashlights and Laser Sight but with the addition of Air Control to move much better in the air (they edit the same file).
+
 ## LaserLonger - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
