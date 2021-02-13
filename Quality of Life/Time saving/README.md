@@ -53,6 +53,14 @@ Fixed crash introduced in H4.
 --Basically removes the wait time for landing once a map loads, so you can just immediately leave the drop pod (10.5 seconds down to 1).   
 --Can result in players getting stuck in a hole above the pod if they have fairly high latency.
 
+## Instant Start - v1.0
+**Authors:** Our Lord And Savior Gabe Newell  
+**DRG Version:** Update 33, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3031365109cf9941327a6e7a3a90dfb81ea83b6b/Quality%20of%20Life/Time%20saving/Instant%20Start%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+--Makes the time to start a mission in multiplayer or solo 1 second, allowing you to just make it to your seat!
+
 ## NotSoBrokenSupplyPod - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
