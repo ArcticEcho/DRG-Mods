@@ -20,13 +20,46 @@ Gonna annihilate your whole crew,
 Gonna be squashed by a large crustacea  
 \------------------------------------
 
-## DOOM Music Overhaul - v1.4
+## DOOM Music Overhaul - v1.4.1
 **Authors:** Demellion Dismal  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://mega.nz/file/frZXAAJJ#Qd9o6YG2Abv9kvAn6BY9pIU6qK-T7XhLiDx54DV6dfc) (third-party host)  
+**DRG Version:** Update 33 Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3b5fbc6cbff52b926ad34a1eedc557ea7b0f2536/Audio/Music/DOOM%20Music%20Overhaul%20-%20V1.4.1.txt) (third-party host)  
 
 **Description:**  
-Replaces in-game music with music from DOOM 2016/Eternal games.
+Replaces in-game music with music from DOOM 2016/Eternal games:  
+Dreadnought Fight Music #1 - DOOM 2016: Blood & Gore  
+Dreadnought Fight Music #2 - DOOM 2016: Flesh & Metal  
+Dreadnought Fight Music #3 - DOOM 2016: Death & Destruction  
+Mission Music #1 - DOOM Eternal: A Cultist Prayer  
+Mission Music #2 - DOOM Eternal: Bio-Organic Continuum Gate  
+Mission Music #3 - DOOM Eternal: The Betrayer  
+Mission Music #4 - DOOM Eternal: Sinister  
+Mission Music #5 - DOOM Eternal: Welcome Home Great Slayer  
+Mission Music #6 - DOOM Eternal: Heart of The Beast  
+Mission Music #7 - DOOM 2016: Resource Operations  
+Mission Music #8 - DOOM 2016: Argent Facility  
+Mission Music #9 - DOOM 2016: Foundry  
+Mission Music #10 - DOOM 2016: Kadingir Sanctum  
+Mission Music #11 - DOOM 2016: Destroyed Argent Facility  
+Mission Music #12 - DOOM 2016: Big [REDACTED] Gun  
+Wave/Endwave Music #1 - DOOM Eternal: The Only Thing They Fear Is You  
+Wave/Endwave Music #2 - DOOM Eternal: Super Gore Nest  
+Wave/Endwave Music #3 - DOOM Eternal: Cultist Base  
+Wave/Endwave Music #4 - DOOM Eternal: Meathook  
+Wave/Endwave Music #5 - Mick Gordon - BFG Division  
+Wave/Endwave Music #6 - DOOM 2016: Ultraviolence  
+Wave/Endwave Music #7 - Mick Gordon - Rip & Tear  
+Space Rig Loading - DOOM Eternal: Urdak  
+Space Rig Music - DOOM Eternal: Main Menu  
+Mission Screen Music - DOOM 2016: Hellwalker (Main Menu)  
+Deep Dive Intermission - DOOM Eternal: The Final Sin (Extended Version)  
+Machine Event Music - Andrew Hulshult - Deep Into The Code  
+Machine Event Music - Andrew Hulshult - Untitled  
+Machine Event Music - Andrew Hulshult - On The Hunt  
+Mission Ending Music - Mick Gordon - At Dooms Gate
+
+**Update v1.4.1 Changelog:**  
+Added list of music
 
 ## Kids Crate - v1
 **Authors:** Kraeus  

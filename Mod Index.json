@@ -1389,14 +1389,14 @@
   },
   "doommusicoverhaul": {
     "DisplayName": "DOOM Music Overhaul",
-    "Version": "1.4",
-    "DrgVersion": "Update 33",
+    "Version": "1.4.1",
+    "DrgVersion": "Update 33 Hotfix 4",
     "AuthorIds": [
       199938370338553856
     ],
-    "Description": "Replaces in-game music with music from DOOM 2016/Eternal games.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://mega.nz/file/frZXAAJJ#Qd9o6YG2Abv9kvAn6BY9pIU6qK-T7XhLiDx54DV6dfc"
+    "Description": "Replaces in-game music with music from DOOM 2016/Eternal games:\n\nDreadnought Fight Music #1 - DOOM 2016: Blood & Gore\nDreadnought Fight Music #2 - DOOM 2016: Flesh & Metal\nDreadnought Fight Music #3 - DOOM 2016: Death & Destruction\nMission Music #1 - DOOM Eternal: A Cultist Prayer\nMission Music #2 - DOOM Eternal: Bio-Organic Continuum Gate\nMission Music #3 - DOOM Eternal: The Betrayer\nMission Music #4 - DOOM Eternal: Sinister\nMission Music #5 - DOOM Eternal: Welcome Home Great Slayer\nMission Music #6 - DOOM Eternal: Heart of The Beast\nMission Music #7 - DOOM 2016: Resource Operations\nMission Music #8 - DOOM 2016: Argent Facility\nMission Music #9 - DOOM 2016: Foundry\nMission Music #10 - DOOM 2016: Kadingir Sanctum\nMission Music #11 - DOOM 2016: Destroyed Argent Facility\nMission Music #12 - DOOM 2016: Big [REDACTED] Gun\nWave/Endwave Music #1 - DOOM Eternal: The Only Thing They Fear Is You\nWave/Endwave Music #2 - DOOM Eternal: Super Gore Nest\nWave/Endwave Music #3 - DOOM Eternal: Cultist Base\nWave/Endwave Music #4 - DOOM Eternal: Meathook\nWave/Endwave Music #5 - Mick Gordon - BFG Division\nWave/Endwave Music #6 - DOOM 2016: Ultraviolence\nWave/Endwave Music #7 - Mick Gordon - Rip & Tear\nSpace Rig Loading - DOOM Eternal: Urdak\nSpace Rig Music - DOOM Eternal: Main Menu\nMission Screen Music - DOOM 2016: Hellwalker (Main Menu)\nDeep Dive Intermission - DOOM Eternal: The Final Sin (Extended Version)\nMachine Event Music - Andrew Hulshult - Deep Into The Code\nMachine Event Music - Andrew Hulshult - Untitled\nMachine Event Music - Andrew Hulshult - On The Hunt\nMission Ending Music - Mick Gordon - At Dooms Gate",
+    "LastUpdateChangelog": "Added list of music",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3b5fbc6cbff52b926ad34a1eedc557ea7b0f2536/Audio/Music/DOOM%20Music%20Overhaul%20-%20V1.4.1.txt"
   },
   "nodorettawhining": {
     "DisplayName": "No Doretta Whining",
