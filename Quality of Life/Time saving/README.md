@@ -44,6 +44,15 @@ Fixed crash introduced in H4.
 **Description:**  
 -Reduces use time on machine event buttons from 5 seconds to 2 seconds.
 
+## Instant Land - v1.0
+**Authors:** Our Lord And Savior Gabe Newell  
+**DRG Version:** Update 33, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/19b8bfd9dd8ec1d41a016b722eca2c3acf4edb6b/Quality%20of%20Life/Time%20saving/Instant%20Land%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+--Basically removes the wait time for landing once a map loads, so you can just immediately leave the drop pod (10.5 seconds down to 1).   
+--Can result in players getting stuck in a hole above the pod if they have fairly high latency.
+
 ## NotSoBrokenSupplyPod - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  

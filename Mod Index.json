@@ -1533,5 +1533,16 @@
     "Description": "--Increased SpeedModWhileTunneling 0.6 > 1.0\n--Increased SpeedModPlayers 1.0 > 1.5\n--Increased SpeedModCheat 1.0 > 1.5\n--As Host: Affects the Drolldozer Speed stats for all dwarfs",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c689a0ed6b97796ecb54eaeb387039452d9ef706/Quality%20of%20Life/Time%20saving/DorettaSpeedBuffed%20-%20V1.4%20_P.pak"
+  },
+  "instantland": {
+    "DisplayName": "Instant Land",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 4",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "--Basically removes the wait time for landing once a map loads, so you can just immediately leave the drop pod (10.5 seconds down to 1). \n--Can result in players getting stuck in a hole above the pod if they have fairly high latency.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/19b8bfd9dd8ec1d41a016b722eca2c3acf4edb6b/Quality%20of%20Life/Time%20saving/Instant%20Land%20-%20V1.0%20_P.pak"
   }
 }
