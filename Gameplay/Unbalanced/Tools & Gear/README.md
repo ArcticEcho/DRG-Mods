@@ -59,6 +59,18 @@ Makes "Fall Damage + Bug Repellent" platforms sticky goo from fungus bogs.
 **Description:**  
 Set the three Drill parameter (x,y,z) to max
 
+## Minigun Turrets - v1.0
+**Authors:** Our Lord And Savior Gabe Newell  
+**DRG Version:** Update 33, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b188d3f8e634000b3c2b213bc728791bf31c68d1/Gameplay/Unbalanced/Tools%20%26%20Gear/Minigun%20Turrets%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+--Prevents recall of turrets, so you have to jump above them to grab them, but they now get outlined like players.  
+--Turrets now have yellow lighting that is quite bright.  
+--Gemini now gives you 4 turrets total.  
+--All upgrades and various base turret stats were tweaked to make minigun turrets with a lot of ammo and decent damage but still within sane total kills per mag at best circumstances.  
+--Primarily for lots of enemies from mods and stuff, unbalanced otherwise.
+
 ## Slightly Wider Platforms - v1.0
 **Authors:** BrewBreuw  
 **DRG Version:** Update 32/33  
