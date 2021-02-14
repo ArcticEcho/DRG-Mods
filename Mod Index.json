@@ -1577,5 +1577,16 @@
     "Description": "--Makes the barrel dispenser spawn a new barrel as soon as you kick the current one, good for trying to get that achievement.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ea505a6c9e79b2e71d82c0c247dddd309988c9b4/Quality%20of%20Life/Time%20saving/Fast%20Barrel%20Spawner%20-%20V1.0%20_P.pak"
+  },
+  "elimwavesv14": {
+    "DisplayName": "ElimWaves V1.4",
+    "Version": "1.4",
+    "DrgVersion": "Update 33, hotfix 4",
+    "AuthorIds": [
+      252291709927555072
+    ],
+    "Description": "This mod adds back \"random enemy spawns\" during dreadnought fights! GSG removed these in hotfix 4, but I personally disagree with that decision. Adds back that excitement so elimination missions don't get stale so quickly.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://drive.google.com/file/d/1Tn9kYC-e7QFKS4au8wtTlGJqBcan-sgi/view?usp=sharing"
   }
 }
