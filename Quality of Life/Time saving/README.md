@@ -36,6 +36,14 @@ Fixed crash introduced in H4.
 --Increased SpeedModCheat 1.0 > 1.5  
 --As Host: Affects the Drolldozer Speed stats for all dwarfs
 
+## Fast Barrel Spawner - v1.0
+**Authors:** Our Lord And Savior Gabe Newell  
+**DRG Version:** Update 33, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ea505a6c9e79b2e71d82c0c247dddd309988c9b4/Quality%20of%20Life/Time%20saving/Fast%20Barrel%20Spawner%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+--Makes the barrel dispenser spawn a new barrel as soon as you kick the current one, good for trying to get that achievement.
+
 ## FastMachineStart - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
