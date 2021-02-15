@@ -33,10 +33,10 @@ Deep Dives will now spawn an abundant amount of resources.  The resource veins o
 **Description:**  
 Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.
 
-## ElimWaves V1.4 - v1.4
+## ElimWaves - v1.4
 **Authors:** Potatolaser  
 **DRG Version:** Update 33, hotfix 4  
-**Download Link:** [Download](https://drive.google.com/file/d/1Tn9kYC-e7QFKS4au8wtTlGJqBcan-sgi/view?usp=sharing) (third-party host)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ed28ff444cc6b3b73847e7ca01a6bf1697db90af/Gameplay/Gamemodes/Alternative%20playstyles/ElimWaves%20-%20V1.4%20_P.pak)  
 
 **Description:**  
 This mod adds back "random enemy spawns" during dreadnought fights! GSG removed these in hotfix 4, but I personally disagree with that decision. Adds back that excitement so elimination missions don't get stale so quickly.
