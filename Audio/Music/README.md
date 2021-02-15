@@ -23,7 +23,7 @@ Gonna be squashed by a large crustacea
 ## DOOM Music Overhaul - v1.4.1
 **Authors:** Demellion Dismal  
 **DRG Version:** Update 33 Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3b5fbc6cbff52b926ad34a1eedc557ea7b0f2536/Audio/Music/DOOM%20Music%20Overhaul%20-%20V1.4.1.txt) (third-party host)  
+**Download Link:** [Download](https://mega.nz/file/frZXAAJJ#Qd9o6YG2Abv9kvAn6BY9pIU6qK-T7XhLiDx54DV6dfc) (third-party host)  
 
 **Description:**  
 Replaces in-game music with music from DOOM 2016/Eternal games:  

@@ -134,9 +134,7 @@ This is a comprehensive Hazard 7 Mod
 
 ## Starship Troopers - v33.2.1
 **Authors:** NaturalBornCamper  
-**DRG Version:** Update 33, Hotfix 2
-Category: Gameplay/Gamemodes/Hazard Levels
-Authors: <@!306800962432008193>  
+**DRG Version:** Update 33, Hotfix 2  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e20cc3962fb2f7d5887314e30bec24a01ecd6ec1/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V33.2.1.zip)  
 
 **Description:**  
