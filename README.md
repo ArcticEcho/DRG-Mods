@@ -159,7 +159,7 @@ Managed by Karl Jr.
 
  - **[Quality of Life/Graphics & Performance](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Graphics%20%26%20Performance)**
    - **[Dynamic Resolution](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Graphics%20%26%20Performance/README.md#dynamic-resolution---v11)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/ff191348af82383cbbd363c55b6bea3402af5bb7/Quality%20of%20Life/Graphics%20%26%20Performance/Dynamic%20Resolution%20-%20V1.1%20_P.pak))
-   - **[Quarter Death Duration](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Graphics%20%26%20Performance/README.md#quarter-death-duration---v12)** by Shrub_Daddy ([download](https://github.com/ArcticEcho/DRG-Mods/raw/03b73c6c7088d9502b580f9038085219325e399f/Quality%20of%20Life/Graphics%20%26%20Performance/Quarter%20Death%20Duration%20-%20V1.2%20_P.pak))
+   - **[Quarter Death Duration](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Graphics%20%26%20Performance/README.md#quarter-death-duration---v13)** by Shrub_Daddy ([download](https://github.com/ArcticEcho/DRG-Mods/raw/3127c44faad3511abdcd071399090eea949f155f/Quality%20of%20Life/Graphics%20%26%20Performance/Quarter%20Death%20Duration%20-%20V1.3%20_P.pak))
 
  - **[Quality of Life/HUD](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/HUD)**
    - **[Mission Control Text Remover](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/HUD/README.md#mission-control-text-remover---v12)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/e303de4d3d5aab5825af8858ac95cdeb66d07e0f/Quality%20of%20Life/HUD/Mission%20Control%20Text%20Remover%20-%20V1.2%20_P.pak))

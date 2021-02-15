@@ -13,10 +13,13 @@ Tweaks to graphics and stuff that can improve performance.
 **Requires the mod loader.**  
 This mod attempts to stabilise your FPS by dynamically adjusting the game's resolution. Works best with vsync disabled.
 
-## Quarter Death Duration - v1.2
+## Quarter Death Duration - v1.3
 **Authors:** Shrub_Daddy  
-**DRG Version:** Update 33, Hotfix 1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/03b73c6c7088d9502b580f9038085219325e399f/Quality%20of%20Life/Graphics%20%26%20Performance/Quarter%20Death%20Duration%20-%20V1.2%20_P.pak)  
+**DRG Version:** Update 33, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3127c44faad3511abdcd071399090eea949f155f/Quality%20of%20Life/Graphics%20%26%20Performance/Quarter%20Death%20Duration%20-%20V1.3%20_P.pak)  
 
 **Description:**  
 Sets the ragdoll duration for the majority of Glyphids to ≤5 seconds, except for enemies who have death effects. [Warden, Menace, Acid, and Web have 5 seconds] [Grunts (all types) have 3 seconds] [Exploders and Praets have 7 seconds] [Dets and Dreads are unchanged]
+
+**Update v1.3 Changelog:**  
+Updated for HF 5
