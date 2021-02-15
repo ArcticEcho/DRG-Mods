@@ -42,7 +42,8 @@ Deep Dives will now spawn resources.  The resource veins only work for the host 
 Buffs the dreadnoughts! There's a lot of changes, but the Big Ones are:  
 OG DREAD- Faster fireballs, larger aoe slam radius, optional variant w/ extra extra vertical knockback for less damage  
 HIVEGUARD- Slower sentinal goo, More fireball terrain carve, optional variant w/ a lot more speed  
-TWINS- Mines explode sooner, rockwave attack has more knockback
+TWINS- Mines explode sooner, rockwave attack has more knockback  
+(full changes in the zip file)
 
 ## ElimWaves - v1.4
 **Authors:** Potatolaser  

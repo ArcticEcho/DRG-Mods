@@ -3632,18 +3632,6 @@
       }
     ]
   },
-  "dreadnoughtbuffsv2": {
-    "DisplayName": "Dreadnought Buffs V2",
-    "Version": "2",
-    "DrgVersion": "Update 33 hotfix 4",
-    "AuthorIds": [
-      252291709927555072
-    ],
-    "Description": "Buffs the dreadnoughts! There's a lot of changes, but the Big Ones are:\nOG DREAD- Faster fireballs, larger aoe slam radius, optional variant w/ extra extra vertical knockback for less damage\nHIVEGUARD- Slower sentinal goo, More fireball terrain carve, optional variant w/ a lot more speed\nTWINS- Mines explode sooner, rockwave attack has more knockback",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://cdn.discordapp.com/attachments/799745843825606710/810724277548351519/DreadnoughtBuffsV2.zip",
-    "Paks": null
-  },
   "spinningdoom": {
     "DisplayName": "Spinning Doom",
     "Version": "1.0",
@@ -3668,6 +3656,18 @@
         }
       }
     ]
+  },
+  "dreadnoughtbuffsv2": {
+    "DisplayName": "Dreadnought Buffs V2",
+    "Version": "2",
+    "DrgVersion": "Update 33 hotfix 4",
+    "AuthorIds": [
+      252291709927555072
+    ],
+    "Description": "Buffs the dreadnoughts! There's a lot of changes, but the Big Ones are:\nOG DREAD- Faster fireballs, larger aoe slam radius, optional variant w/ extra extra vertical knockback for less damage\nHIVEGUARD- Slower sentinal goo, More fireball terrain carve, optional variant w/ a lot more speed\nTWINS- Mines explode sooner, rockwave attack has more knockback\n(full changes in the zip file)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://cdn.discordapp.com/attachments/799745843825606710/810724277548351519/DreadnoughtBuffsV2.zip",
+    "Paks": null
   },
   "healthforshieldscompilation": {
     "DisplayName": "Health For Shields Compilation",
@@ -4825,6 +4825,26 @@
       }
     ]
   },
+  "kidscrate": {
+    "DisplayName": "Kids Crate",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaces Discovery Music (opening a crate or finding a pack) – with the Jimco Drums and Kids saying “Holy Shit” from the credits of WKUK.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/807003140620156978",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1c4d4706984255b0d4ece682fbf3037a720aebd4/Audio/Music/Kids%20Crate%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Kids Crate - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/Music/Music_SpecialEvents/AudioFiles/DiscoverMusic_1.uasset": "C8-DE-17-53-73-35-5B-BA",
+          "../../../FSD/Content/Audio/Music/Music_SpecialEvents/AudioFiles/DiscoverMusic_1.uexp": "53-B8-6C-0B-CC-C1-25-24"
+        }
+      }
+    ]
+  },
   "betterbosco": {
     "DisplayName": "Better Bosco",
     "Version": "1.0",
@@ -4879,26 +4899,6 @@
           "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_SAArmorBreak.uexp": "B5-1A-C1-AE-F8-4C-EC-AC",
           "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_SAFear.uasset": "47-39-13-91-33-D4-69-2E",
           "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_SAFear.uexp": "AA-AF-BA-D1-97-8C-01-70"
-        }
-      }
-    ]
-  },
-  "kidscrate": {
-    "DisplayName": "Kids Crate",
-    "Version": "1",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      418874899868942336
-    ],
-    "Description": "Replaces Discovery Music (opening a crate or finding a pack) – with the Jimco Drums and Kids saying “Holy Shit” from the credits of WKUK.\nPreview -> https://discord.com/channels/676880716142739467/732650220214681600/807003140620156978",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1c4d4706984255b0d4ece682fbf3037a720aebd4/Audio/Music/Kids%20Crate%20-%20V1%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Kids Crate - V1",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Audio/Music/Music_SpecialEvents/AudioFiles/DiscoverMusic_1.uasset": "C8-DE-17-53-73-35-5B-BA",
-          "../../../FSD/Content/Audio/Music/Music_SpecialEvents/AudioFiles/DiscoverMusic_1.uexp": "53-B8-6C-0B-CC-C1-25-24"
         }
       }
     ]
