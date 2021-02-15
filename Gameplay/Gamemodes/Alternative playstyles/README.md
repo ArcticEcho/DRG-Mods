@@ -33,6 +33,17 @@ Deep Dives will now spawn an abundant amount of resources.  The resource veins o
 **Description:**  
 Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.
 
+## Dreadnought Buffs V2 - v2
+**Authors:** Potatolaser  
+**DRG Version:** Update 33 hotfix 4  
+**Download Link:** [Download](https://cdn.discordapp.com/attachments/799745843825606710/810724277548351519/DreadnoughtBuffsV2.zip) (third-party host)  
+
+**Description:**  
+Buffs the dreadnoughts! There's a lot of changes, but the Big Ones are:  
+OG DREAD- Faster fireballs, larger aoe slam radius, optional variant w/ extra extra vertical knockback for less damage  
+HIVEGUARD- Slower sentinal goo, More fireball terrain carve, optional variant w/ a lot more speed  
+TWINS- Mines explode sooner, rockwave attack has more knockback
+
 ## ElimWaves - v1.4
 **Authors:** Potatolaser  
 **DRG Version:** Update 33, hotfix 4  
