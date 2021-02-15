@@ -73,10 +73,10 @@ Bulldog Revolver's "Neurotoxin Coating" chance is now Guaranteed
 - As a client, this mod has no effect.  
 - Inspired by a similar mod made by GoldBl4d3
 
-## Experimental Fatboy Charger - v1.0
+## Experimental Fatboy Charger - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33 H4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5a61045534789315cdc77ffcf8a3d9eaf717a748/Gameplay/Unbalanced/Weapons/Experimental%20Fatboy%20Charger%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/51f733d5e3c28203bbe9b2274f45300232179e1a/Gameplay/Unbalanced/Weapons/Experimental%20Fatboy%20Charger%20-%20V1.01%20_P.pak)  
 
 **Description:**  
 Upgrades your EPC to mysertiously fire PGL rounds when charged.  
@@ -85,6 +85,9 @@ Additional changes:
 -Adjusts cost of charged shot from 8 to 40.  
 -Adjusts cost reduction on T31 'Improved Charge Efficiency' from -2 to -7.  
 These changes limit the possible spam to mimic the PGL's restrictions.
+
+**Update v1.01 Changelog:**  
+Fixed an issue that could cause your PGL to shoot axes.
 
 ## Fat Man OC - v3
 **Authors:** Sephiasus  
