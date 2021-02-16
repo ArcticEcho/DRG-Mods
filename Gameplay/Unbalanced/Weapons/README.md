@@ -148,6 +148,17 @@ Changes grenade stats, carried amount and the way you use them.
 **Description:**  
 --Removes all these useless sandwich storage slots, allowing you to double up on all your weapon ammo!
 
+## MagicGK2 - v1.0
+**Authors:** BongoSkaggs  
+**DRG Version:** U33 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/619c7cf8be28ed47202f8b0fb56a069723d3a0db/Gameplay/Unbalanced/Weapons/MagicGK2%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Upgrades the GK2 so it can be more like a better gun, the Bulldog.  
+-T3.1 upgrade 'Floating Barrel' changed to 'Glyphid Neurotoxin Coating.'  
+-T5.2 upgrade 'Battle Cool' changed to 'Explosive Rounds.'  
+-'Homebrew Powder' OC changed to 'Magic Bullets.'
+
 ## Minigun Base Ammo Buffed - v1.0
 **Authors:** Tristus  
 **DRG Version:** Update 33, Hotfix 2  
