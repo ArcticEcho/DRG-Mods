@@ -1390,26 +1390,6 @@
       }
     ]
   },
-  "dorettaspeedbuffed": {
-    "DisplayName": "DorettaSpeedBuffed",
-    "Version": "1.4",
-    "DrgVersion": "Update 33, Hotfix 4",
-    "AuthorIds": [
-      426057750611755030
-    ],
-    "Description": "--Increased SpeedModWhileTunneling 0.6 > 1.0\n--Increased SpeedModPlayers 1.0 > 1.5\n--Increased SpeedModCheat 1.0 > 1.5\n--As Host: Affects the Drolldozer Speed stats for all dwarfs",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c689a0ed6b97796ecb54eaeb387039452d9ef706/Quality%20of%20Life/Time%20saving/DorettaSpeedBuffed%20-%20V1.4%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "DorettaSpeedBuffed - V1.4",
-        "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/AIC_EscortMule.uasset": "29-7D-C7-59-37-6F-A7-06",
-          "../../../FSD/Content/GameElements/Objectives/Escort/AIC_EscortMule.uexp": "1D-8E-06-C6-22-3E-0C-60"
-        }
-      }
-    ]
-  },
   "dynamicresolution": {
     "DisplayName": "Dynamic Resolution",
     "Version": "1.1",
@@ -1430,6 +1410,26 @@
           "../../../FSD/Content/_ModBPs/Mod018.uexp": "10-ED-1A-FB-6B-C8-F3-B2",
           "../../../FSD/Content/_ModBPs/MyMods/DynamicResoution/018_SaveData.uexp": "56-6A-43-18-ED-7F-61-53",
           "../../../FSD/Content/_ModBPs/MyMods/DynamicResoution/018_UI.uexp": "E0-2B-CB-2C-CF-FC-63-E5"
+        }
+      }
+    ]
+  },
+  "dorettaspeedbuffed": {
+    "DisplayName": "DorettaSpeedBuffed",
+    "Version": "1.4",
+    "DrgVersion": "Update 33, Hotfix 4",
+    "AuthorIds": [
+      426057750611755030
+    ],
+    "Description": "--Increased SpeedModWhileTunneling 0.6 > 1.0\n--Increased SpeedModPlayers 1.0 > 1.5\n--Increased SpeedModCheat 1.0 > 1.5\n--As Host: Affects the Drolldozer Speed stats for all dwarfs",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c689a0ed6b97796ecb54eaeb387039452d9ef706/Quality%20of%20Life/Time%20saving/DorettaSpeedBuffed%20-%20V1.4%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "DorettaSpeedBuffed - V1.4",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Objectives/Escort/AIC_EscortMule.uasset": "29-7D-C7-59-37-6F-A7-06",
+          "../../../FSD/Content/GameElements/Objectives/Escort/AIC_EscortMule.uexp": "1D-8E-06-C6-22-3E-0C-60"
         }
       }
     ]
@@ -1505,6 +1505,32 @@
           "../../../FSD/Content/_ModBPs/BP_SpotpipeSpawner.uexp": "85-7A-DC-01-D9-67-88-44",
           "../../../FSD/Content/_ModBPs/Mod034.uexp": "34-FB-4E-09-D5-B6-55-C4",
           "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1E-90-65-97-04-D7-A0-4C"
+        }
+      }
+    ]
+  },
+  "mineheadisnowepic": {
+    "DisplayName": "Minehead Is Now Epic",
+    "Version": "2.6",
+    "DrgVersion": "Update 33, Hotfix 5",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nThe point extract minehead now has gravity, can spin round, and can have its location randomised. All the features can be individually turned on/off. Only works as the host.",
+    "LastUpdateChangelog": "- Fixed for Update 33 Hotfix 5\n - Added an option to set the min distance when picking a new random location.\n - General under the hood improvements to the random location function.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a94cdc7531a10082e71b1a2b6750078d91c3774b/Gameplay/Customizable%20tweaks/Minehead%20Is%20Now%20Epic%20-%20V2.6%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Minehead Is Now Epic - V2.6",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod006.uasset": "D8-00-07-98-FA-F3-C5-15",
+          "../../../FSD/Content/_ModBPs/MyMods/_/RandomGroundLocationV2.uasset": "C2-23-E8-E1-DB-4D-F1-61",
+          "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_SaveData.uasset": "78-27-29-5F-C4-F4-16-D2",
+          "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_UI.uasset": "DF-72-D7-5E-70-99-F9-3C",
+          "../../../FSD/Content/_ModBPs/Mod006.uexp": "FA-80-22-FB-96-48-A0-2A",
+          "../../../FSD/Content/_ModBPs/MyMods/_/RandomGroundLocationV2.uexp": "7A-F2-75-ED-7F-61-C4-FE",
+          "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_SaveData.uexp": "98-91-75-97-0D-FA-F9-9C",
+          "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_UI.uexp": "ED-10-5B-D9-2E-56-1E-46"
         }
       }
     ]
@@ -1585,44 +1611,6 @@
       }
     ]
   },
-  "mineheadisnowepic": {
-    "DisplayName": "Minehead Is Now Epic",
-    "Version": "2.6",
-    "DrgVersion": "Update 33, Hotfix 5",
-    "AuthorIds": [
-      158916111390343168
-    ],
-    "Description": "**Requires the mod loader.**\nThe point extract minehead now has gravity, can spin round, and can have its location randomised. All the features can be individually turned on/off. Only works as the host.",
-    "LastUpdateChangelog": "- Fixed for Update 33 Hotfix 5\n - Added an option to set the min distance when picking a new random location.\n - General under the hood improvements to the random location function.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a94cdc7531a10082e71b1a2b6750078d91c3774b/Gameplay/Customizable%20tweaks/Minehead%20Is%20Now%20Epic%20-%20V2.6%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Minehead Is Now Epic - V2.6",
-        "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod006.uasset": "D8-00-07-98-FA-F3-C5-15",
-          "../../../FSD/Content/_ModBPs/MyMods/_/RandomGroundLocationV2.uasset": "C2-23-E8-E1-DB-4D-F1-61",
-          "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_SaveData.uasset": "78-27-29-5F-C4-F4-16-D2",
-          "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_UI.uasset": "DF-72-D7-5E-70-99-F9-3C",
-          "../../../FSD/Content/_ModBPs/Mod006.uexp": "FA-80-22-FB-96-48-A0-2A",
-          "../../../FSD/Content/_ModBPs/MyMods/_/RandomGroundLocationV2.uexp": "7A-F2-75-ED-7F-61-C4-FE",
-          "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_SaveData.uexp": "98-91-75-97-0D-FA-F9-9C",
-          "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_UI.uexp": "ED-10-5B-D9-2E-56-1E-46"
-        }
-      }
-    ]
-  },
-  "twicetheenemieshaz335445555missionsdeepdives": {
-    "DisplayName": "Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives)",
-    "Version": "33.2.1",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      306800962432008193
-    ],
-    "Description": "Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing\n40+ simultaneous cries of pain? Want gigantic hordes of cannon fodder?\nThis is as close to vanilla as possible, so you can expect normal game behavior, only\nwith twice the enemies. Also makes normal Deep Dive fun again, less boring 😉\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Higher enemy count for an alternate higher difficulty, spawning tons of enemies instead of less but tougher enemies like haz6/7.\n--Variation 2x has 200% enemies (150% enemies single player)\n--Variation 1.5x has 150% enemies (125% enemies single player)\n--No XP boost or any other modification, this is just for fun\n--Use obviously the multiplier file you choose, not both\n----------------------------------------------------------------\nNote: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health\nNote: Replaces Haz 3, 4, 5 and DD/EDD. So it won't work with Haz 6/7. Only the host needs the mod\nNote: Recommended using \"Custom Cap\" mod to avoid enemy de-spawn. 150 normal enemies and 100 swarmers",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1befa52fb69d8a9085273df209c0afc5a6045cb2/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.2.1.zip",
-    "Paks": null
-  },
   "nomoredollarstoreflashlights": {
     "DisplayName": "No more Dollar Store flashlights",
     "Version": "33.2.2",
@@ -1649,6 +1637,18 @@
         }
       }
     ]
+  },
+  "twicetheenemieshaz335445555missionsdeepdives": {
+    "DisplayName": "Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives)",
+    "Version": "33.2.1",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      306800962432008193
+    ],
+    "Description": "Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing\n40+ simultaneous cries of pain? Want gigantic hordes of cannon fodder?\nThis is as close to vanilla as possible, so you can expect normal game behavior, only\nwith twice the enemies. Also makes normal Deep Dive fun again, less boring 😉\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Higher enemy count for an alternate higher difficulty, spawning tons of enemies instead of less but tougher enemies like haz6/7.\n--Variation 2x has 200% enemies (150% enemies single player)\n--Variation 1.5x has 150% enemies (125% enemies single player)\n--No XP boost or any other modification, this is just for fun\n--Use obviously the multiplier file you choose, not both\n----------------------------------------------------------------\nNote: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health\nNote: Replaces Haz 3, 4, 5 and DD/EDD. So it won't work with Haz 6/7. Only the host needs the mod\nNote: Recommended using \"Custom Cap\" mod to avoid enemy de-spawn. 150 normal enemies and 100 swarmers",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1befa52fb69d8a9085273df209c0afc5a6045cb2/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.2.1.zip",
+    "Paks": null
   },
   "pointlessshielddisruption": {
     "DisplayName": "Pointless Shield Disruption",
@@ -1706,23 +1706,22 @@
       }
     ]
   },
-  "hazard7": {
-    "DisplayName": "Hazard 7",
-    "Version": "3.0",
-    "DrgVersion": "Update 33",
+  "closerpromotionterminal": {
+    "DisplayName": "Closer Promotion Terminal",
+    "Version": "1.1",
+    "DrgVersion": "Update 33, Hotfix 3",
     "AuthorIds": [
-      189954203664252928
+      158916111390343168
     ],
-    "Description": "This is a comprehensive Hazard 7 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 7. Rewards multiplier is set to 200%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--A description of variables and the philosophy of why some were scaled more and some less is here -> https://docs.google.com/document/d/1O2hmVsoaSy2qId4jCWOP_pHMXaoGMWqf_MY7RAs6cxI/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up. \n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate. \n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up. \n--Beating this is possible, and using other buffs is cheating, but I would recommend staying inside the drop pod at the start of refinery missions.\n--Works well with expanded enemy cap mods.\n--For changes from V2.0 see Haz6",
+    "Description": "**Requires the mod loader.**\nAdds a promotion terminal to your personal cabin. Host-only.",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8918b44ed80e443322ffbb9ff3fd89a69b28c814/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V3.0%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/beaa72905fe198dac55e22c0d7b4f34a70a868ce/Quality%20of%20Life/Time%20saving/Closer%20Promotion%20Terminal%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Hazard 7 - V3.0",
+        "PakFileName": "Closer Promotion Terminal - V1.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "DE-7D-13-80-59-2E-89-F4",
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "C5-38-41-2A-20-9B-9F-06",
-          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "CD-5E-CC-AE-65-8E-8A-95"
+          "../../../FSD/Content/_ModBPs/Mod033.uasset": "EC-68-47-C8-C1-8D-A2-FE",
+          "../../../FSD/Content/_ModBPs/Mod033.uexp": "12-D1-BC-44-54-E9-5F-33"
         }
       }
     ]
@@ -1747,54 +1746,23 @@
       }
     ]
   },
-  "closerpromotionterminal": {
-    "DisplayName": "Closer Promotion Terminal",
-    "Version": "1.1",
-    "DrgVersion": "Update 33, Hotfix 3",
-    "AuthorIds": [
-      158916111390343168
-    ],
-    "Description": "**Requires the mod loader.**\nAdds a promotion terminal to your personal cabin. Host-only.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/beaa72905fe198dac55e22c0d7b4f34a70a868ce/Quality%20of%20Life/Time%20saving/Closer%20Promotion%20Terminal%20-%20V1.1%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Closer Promotion Terminal - V1.1",
-        "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod033.uasset": "EC-68-47-C8-C1-8D-A2-FE",
-          "../../../FSD/Content/_ModBPs/Mod033.uexp": "12-D1-BC-44-54-E9-5F-33"
-        }
-      }
-    ]
-  },
-  "musiccontrol": {
-    "DisplayName": "Music Control",
-    "Version": "1.0",
+  "hazard7": {
+    "DisplayName": "Hazard 7",
+    "Version": "3.0",
     "DrgVersion": "Update 33",
     "AuthorIds": [
-      199938370338553856
+      189954203664252928
     ],
-    "Description": "A re-created base class tree of sound classes and submixes used by music mods.",
+    "Description": "This is a comprehensive Hazard 7 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 7. Rewards multiplier is set to 200%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--A description of variables and the philosophy of why some were scaled more and some less is here -> https://docs.google.com/document/d/1O2hmVsoaSy2qId4jCWOP_pHMXaoGMWqf_MY7RAs6cxI/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up. \n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate. \n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up. \n--Beating this is possible, and using other buffs is cheating, but I would recommend staying inside the drop pod at the start of refinery missions.\n--Works well with expanded enemy cap mods.\n--For changes from V2.0 see Haz6",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9ed28a5e7f8cfa6b0d58d2a24f1e611e6820ce9b/Framework/Music%20Control%20-%20V1.0.zip",
-    "Paks": []
-  },
-  "bestfriendsforever": {
-    "DisplayName": "Best Friends Forever",
-    "Version": "1.0",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      199938370338553856
-    ],
-    "Description": "100% chance to encounter Korlok, BETC and Crassus Detonator in a mission preset.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4a75f60a60ddaea7872ed65dfee56c32b0b948bf/Gameplay/Gamemodes/Hazard%20Levels/Best%20Friends%20Forever%20-%20V1.0%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8918b44ed80e443322ffbb9ff3fd89a69b28c814/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V3.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Best Friends Forever - V1.0",
+        "PakFileName": "Hazard 7 - V3.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/Game/GameData/GD_EncounterSettings.uasset": "87-F0-AD-C9-C1-12-D4-2C",
-          "../../../FSD/Content/Game/GameData/GD_EncounterSettings.uexp": "F2-E0-A0-38-7B-0D-00-50"
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "DE-7D-13-80-59-2E-89-F4",
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "C5-38-41-2A-20-9B-9F-06",
+          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "CD-5E-CC-AE-65-8E-8A-95"
         }
       }
     ]
@@ -1817,6 +1785,38 @@
         }
       }
     ]
+  },
+  "bestfriendsforever": {
+    "DisplayName": "Best Friends Forever",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "100% chance to encounter Korlok, BETC and Crassus Detonator in a mission preset.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4a75f60a60ddaea7872ed65dfee56c32b0b948bf/Gameplay/Gamemodes/Hazard%20Levels/Best%20Friends%20Forever%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Best Friends Forever - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Game/GameData/GD_EncounterSettings.uasset": "87-F0-AD-C9-C1-12-D4-2C",
+          "../../../FSD/Content/Game/GameData/GD_EncounterSettings.uexp": "F2-E0-A0-38-7B-0D-00-50"
+        }
+      }
+    ]
+  },
+  "musiccontrol": {
+    "DisplayName": "Music Control",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      199938370338553856
+    ],
+    "Description": "A re-created base class tree of sound classes and submixes used by music mods.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9ed28a5e7f8cfa6b0d58d2a24f1e611e6820ce9b/Framework/Music%20Control%20-%20V1.0.zip",
+    "Paks": []
   },
   "mollyrespectsboundaries": {
     "DisplayName": "Molly Respects Boundaries",
@@ -2005,25 +2005,6 @@
       }
     ]
   },
-  "sentrygunbaseammobuffed": {
-    "DisplayName": "Sentrygun Base Ammo Buffed",
-    "Version": "1.0",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      426057750611755030
-    ],
-    "Description": "Changes the base Ammo capacity of the sentrygun\n--Increased Ammo 425 > 600\n--As Host: Affects all Engineer turrets if host has the mod\n--As Client: Doesn't work as Client",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b5d0a295f09c143109df84e8849e323e620d106c/Gameplay/Unbalanced/Weapons/Sentrygun%20Base%20Ammo%20Buffed%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Sentrygun Base Ammo Buffed - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/WPN_RecallableSentryGun.uexp": "4D-6A-9B-8B-C8-AA-60-E2"
-        }
-      }
-    ]
-  },
   "beastmasterbuff": {
     "DisplayName": "BeastMaster Buff",
     "Version": "1.1",
@@ -2044,6 +2025,25 @@
           "../../../FSD/Content/GameElements/KPI/Perks/BeastMaster/BP_BeastMaster.uexp": "D5-45-CE-EB-01-46-B0-31",
           "../../../FSD/Content/GameElements/KPI/Perks/BeastMaster/STE_BeastMaster.uexp": "5F-72-25-51-9F-40-2C-DA",
           "../../../FSD/Content/GameElements/KPI/Perks/PERK_BeastMaster.uexp": "62-CB-CE-C1-55-4B-A7-9C"
+        }
+      }
+    ]
+  },
+  "sentrygunbaseammobuffed": {
+    "DisplayName": "Sentrygun Base Ammo Buffed",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      426057750611755030
+    ],
+    "Description": "Changes the base Ammo capacity of the sentrygun\n--Increased Ammo 425 > 600\n--As Host: Affects all Engineer turrets if host has the mod\n--As Client: Doesn't work as Client",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b5d0a295f09c143109df84e8849e323e620d106c/Gameplay/Unbalanced/Weapons/Sentrygun%20Base%20Ammo%20Buffed%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Sentrygun Base Ammo Buffed - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/WPN_RecallableSentryGun.uexp": "4D-6A-9B-8B-C8-AA-60-E2"
         }
       }
     ]
@@ -2169,27 +2169,24 @@
       }
     ]
   },
-  "spinningdoom": {
-    "DisplayName": "Spinning Doom",
-    "Version": "1.0",
-    "DrgVersion": "Update 33",
+  "fabulouslyfastlootbugs": {
+    "DisplayName": "Fabulously Fast Lootbugs",
+    "Version": "1",
+    "DrgVersion": "Update 32/33",
     "AuthorIds": [
-      712926827911446548
+      229330150142115842
     ],
-    "Description": "[Spinning Death OC for Breach Cutter Buff]\n--Increased clip-size value from 0.3 to 0.5 (Allows a default of 2 clip-size)\n--Changed ammo penalty from 0.5 (Half ammo gone) to 1.0 (No ammo gone)\n--Increased lifetime value from 2.5 (7.5 seconds) to 5.0 (15 seconds)",
+    "Description": "Increases the Lootbug Speed tremendously  (25.0 to 1000.0) but they still rest normally. Also looks really funny",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fd8b32709e0a76584e8c5d5d5a954788f6e24cac/Gameplay/Unbalanced/Weapons/Spinning%20Doom%20-%20V1.0%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9c77d3abd203ee52182ff8bfd295653824f7ad30/Gameplay/Misc/Fabulously%20Fast%20Lootbugs%20-%20V1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Spinning Doom - V1.0",
+        "PakFileName": "Fabulously Fast Lootbugs - V1",
         "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/Penalty_AmmoBig_Linecutter.uexp.bak": "95-34-CF-C0-2F-79-32-C7",
-          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/Penalty_ClipsizeBig_Linecutter.uexp.bak": "E1-95-E9-CB-4D-8A-90-3A",
-          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/YawMan_Lifetime_LineCutter.uexp.bak": "8D-A9-1F-F1-13-1B-2A-62",
-          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/Penalty_AmmoBig_Linecutter.uexp": "9F-47-BB-C6-F9-1A-FB-5D",
-          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/Penalty_ClipsizeBig_Linecutter.uexp": "E6-4A-21-8A-8C-BE-03-AF",
-          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/YawMan_Lifetime_LineCutter.uexp": "DE-A6-6D-5A-59-64-EE-C3",
-          "../../../FSD/Content/WeaponsNTools/WPN_Pickaxe.uexp": "35-F0-64-AD-8E-C9-D4-E5"
+          "../../../FSD/Content/Critters/LootBug/ENE_LootBug.uasset": "FA-E7-02-64-36-FF-43-70",
+          "../../../FSD/Content/Critters/LootBug/ENE_LootBug_Gold.uasset": "AB-98-DC-71-6F-E2-CB-6B",
+          "../../../FSD/Content/Critters/LootBug/ENE_LootBug.uexp": "7F-29-BF-01-C0-2A-B0-6D",
+          "../../../FSD/Content/Critters/LootBug/ENE_LootBug_Gold.uexp": "0A-53-67-70-5E-9A-7D-4C"
         }
       }
     ]
@@ -2222,24 +2219,54 @@
       }
     ]
   },
-  "fabulouslyfastlootbugs": {
-    "DisplayName": "Fabulously Fast Lootbugs",
-    "Version": "1",
-    "DrgVersion": "Update 32/33",
+  "spinningdoom": {
+    "DisplayName": "Spinning Doom",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
     "AuthorIds": [
-      229330150142115842
+      712926827911446548
     ],
-    "Description": "Increases the Lootbug Speed tremendously  (25.0 to 1000.0) but they still rest normally. Also looks really funny",
+    "Description": "[Spinning Death OC for Breach Cutter Buff]\n--Increased clip-size value from 0.3 to 0.5 (Allows a default of 2 clip-size)\n--Changed ammo penalty from 0.5 (Half ammo gone) to 1.0 (No ammo gone)\n--Increased lifetime value from 2.5 (7.5 seconds) to 5.0 (15 seconds)",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9c77d3abd203ee52182ff8bfd295653824f7ad30/Gameplay/Misc/Fabulously%20Fast%20Lootbugs%20-%20V1%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fd8b32709e0a76584e8c5d5d5a954788f6e24cac/Gameplay/Unbalanced/Weapons/Spinning%20Doom%20-%20V1.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Fabulously Fast Lootbugs - V1",
+        "PakFileName": "Spinning Doom - V1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/Critters/LootBug/ENE_LootBug.uasset": "FA-E7-02-64-36-FF-43-70",
-          "../../../FSD/Content/Critters/LootBug/ENE_LootBug_Gold.uasset": "AB-98-DC-71-6F-E2-CB-6B",
-          "../../../FSD/Content/Critters/LootBug/ENE_LootBug.uexp": "7F-29-BF-01-C0-2A-B0-6D",
-          "../../../FSD/Content/Critters/LootBug/ENE_LootBug_Gold.uexp": "0A-53-67-70-5E-9A-7D-4C"
+          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/Penalty_AmmoBig_Linecutter.uexp.bak": "95-34-CF-C0-2F-79-32-C7",
+          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/Penalty_ClipsizeBig_Linecutter.uexp.bak": "E1-95-E9-CB-4D-8A-90-3A",
+          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/YawMan_Lifetime_LineCutter.uexp.bak": "8D-A9-1F-F1-13-1B-2A-62",
+          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/Penalty_AmmoBig_Linecutter.uexp": "9F-47-BB-C6-F9-1A-FB-5D",
+          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/Penalty_ClipsizeBig_Linecutter.uexp": "E6-4A-21-8A-8C-BE-03-AF",
+          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/YawMan_Lifetime_LineCutter.uexp": "DE-A6-6D-5A-59-64-EE-C3",
+          "../../../FSD/Content/WeaponsNTools/WPN_Pickaxe.uexp": "35-F0-64-AD-8E-C9-D4-E5"
+        }
+      }
+    ]
+  },
+  "customenemycap": {
+    "DisplayName": "Custom Enemy Cap",
+    "Version": "2.2",
+    "DrgVersion": "Update 33, Hotifx 4",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nLets you control the global enemy cap, and can optionally lower the cap depending on your FPS. Only works as the host.",
+    "LastUpdateChangelog": "Improved culling performance.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/887c00cd28f4313d9cb45f14a1d1b2522796526c/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.2%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Custom Enemy Cap - V2.2",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod017.uasset": "96-4C-C8-ED-9A-15-49-E9",
+          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_SaveData.uasset": "84-B6-DC-55-63-02-BE-2F",
+          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_UI.uasset": "C2-19-88-19-B6-0E-37-16",
+          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/CullMode.uasset": "7D-0E-93-43-EB-3F-C9-9C",
+          "../../../FSD/Content/_ModBPs/Mod017.uexp": "0A-68-4B-B5-4D-4C-A7-C9",
+          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_SaveData.uexp": "CF-B2-89-A0-E4-CB-E5-CC",
+          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_UI.uexp": "F6-FB-6A-BF-C5-18-B1-98",
+          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/CullMode.uexp": "1C-2A-83-37-1B-BF-ED-89",
+          "../../../FSD/Content/Game/BP_GameMode.uexp": "ED-83-35-49-52-9E-2E-5F"
         }
       }
     ]
@@ -2298,33 +2325,6 @@
           "../../../FSD/Content/GameElements/KPI/Perks/PERK_TemperatureInsulation.uexp": "28-7C-C8-09-6A-10-01-16",
           "../../../FSD/Content/GameElements/KPI/Perks/PERK_Thorns.uexp": "8F-1A-ED-79-CA-0D-AB-68",
           "../../../FSD/Content/GameElements/KPI/Perks/PERK_Vampire.uexp": "18-61-F7-2F-3A-40-EF-81"
-        }
-      }
-    ]
-  },
-  "customenemycap": {
-    "DisplayName": "Custom Enemy Cap",
-    "Version": "2.2",
-    "DrgVersion": "Update 33, Hotifx 4",
-    "AuthorIds": [
-      158916111390343168
-    ],
-    "Description": "**Requires the mod loader.**\nLets you control the global enemy cap, and can optionally lower the cap depending on your FPS. Only works as the host.",
-    "LastUpdateChangelog": "Improved culling performance.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/887c00cd28f4313d9cb45f14a1d1b2522796526c/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.2%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Custom Enemy Cap - V2.2",
-        "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod017.uasset": "96-4C-C8-ED-9A-15-49-E9",
-          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_SaveData.uasset": "84-B6-DC-55-63-02-BE-2F",
-          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_UI.uasset": "C2-19-88-19-B6-0E-37-16",
-          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/CullMode.uasset": "7D-0E-93-43-EB-3F-C9-9C",
-          "../../../FSD/Content/_ModBPs/Mod017.uexp": "0A-68-4B-B5-4D-4C-A7-C9",
-          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_SaveData.uexp": "CF-B2-89-A0-E4-CB-E5-CC",
-          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_UI.uexp": "F6-FB-6A-BF-C5-18-B1-98",
-          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/CullMode.uexp": "1C-2A-83-37-1B-BF-ED-89",
-          "../../../FSD/Content/Game/BP_GameMode.uexp": "ED-83-35-49-52-9E-2E-5F"
         }
       }
     ]
@@ -2416,6 +2416,25 @@
       }
     ]
   },
+  "pepegagunner": {
+    "DisplayName": "Pepega Gunner",
+    "Version": "2.0",
+    "DrgVersion": "Update 33 Experimental 1",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Unbalanced/Weapons/Pepega%20Gunner%20-%20V2.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Pepega Gunner - V2.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "5D-6E-F1-E8-31-69-53-55"
+        }
+      }
+    ]
+  },
   "minigunbaseammobuffed": {
     "DisplayName": "Minigun Base Ammo Buffed",
     "Version": "1.0",
@@ -2432,25 +2451,6 @@
         "CookedFileHashes": {
           "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset": "3F-19-F1-A7-5A-D8-EC-42",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "B6-F4-59-F6-9A-37-C2-93"
-        }
-      }
-    ]
-  },
-  "pepegagunner": {
-    "DisplayName": "Pepega Gunner",
-    "Version": "2.0",
-    "DrgVersion": "Update 33 Experimental 1",
-    "AuthorIds": [
-      350019378189828097
-    ],
-    "Description": "Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Unbalanced/Weapons/Pepega%20Gunner%20-%20V2.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Pepega Gunner - V2.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "5D-6E-F1-E8-31-69-53-55"
         }
       }
     ]
@@ -2634,26 +2634,6 @@
       }
     ]
   },
-  "maxleveldrill": {
-    "DisplayName": "Max Level Drill",
-    "Version": "1.0",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      156386896866574336
-    ],
-    "Description": "Set the three Drill parameter (x,y,z) to max",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2c1e5b182e28655549cfb959788beba4bbbd9c8c/Gameplay/Unbalanced/Tools%20%26%20Gear/Max%20Level%20Drill%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Max Level Drill - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/Drills/WPN_DoubleDrills.uasset": "8F-2C-DB-42-1A-C1-20-8E",
-          "../../../FSD/Content/WeaponsNTools/Drills/WPN_DoubleDrills.uexp": "52-82-16-8D-D6-B2-4C-DD"
-        }
-      }
-    ]
-  },
   "supersonicsentry": {
     "DisplayName": "SupersonicSentry",
     "Version": "1.01",
@@ -2670,6 +2650,26 @@
         "CookedFileHashes": {
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Moveable.uexp": "77-64-3C-CB-5B-60-97-62",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Redeployable.uexp": "EA-6B-3A-80-CA-CB-E4-AB"
+        }
+      }
+    ]
+  },
+  "maxleveldrill": {
+    "DisplayName": "Max Level Drill",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      156386896866574336
+    ],
+    "Description": "Set the three Drill parameter (x,y,z) to max",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2c1e5b182e28655549cfb959788beba4bbbd9c8c/Gameplay/Unbalanced/Tools%20%26%20Gear/Max%20Level%20Drill%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Max Level Drill - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Drills/WPN_DoubleDrills.uasset": "8F-2C-DB-42-1A-C1-20-8E",
+          "../../../FSD/Content/WeaponsNTools/Drills/WPN_DoubleDrills.uexp": "52-82-16-8D-D6-B2-4C-DD"
         }
       }
     ]
@@ -2891,27 +2891,6 @@
       }
     ]
   },
-  "hazard6": {
-    "DisplayName": "Hazard 6",
-    "Version": "3.0",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      189954203664252928
-    ],
-    "Description": "This comprehensive Hazard 6 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 6. Rewards multiplier is set to 166%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--A description of variables and the philosophy of why some were scaled more and some less is here -> https://docs.google.com/document/d/1O2hmVsoaSy2qId4jCWOP_pHMXaoGMWqf_MY7RAs6cxI/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up. \n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate. \n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up. \n--Changes since V2.0 include:\n-Special enemies like spitters and swarmers have an easier time spawning\n-Enemies do a little more damage to make scaling more consistent with base game hazards and counteract the difficulty reduction from special enemy spawn frequency\n-There is much more variance mission to mission in all difficulty elements",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/681a20964db829bbcd44ab1adc840b8157570b53/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V3.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Hazard 6 - V3.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "79-57-B6-D4-C6-98-FB-87",
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "C5-38-41-2A-20-9B-9F-06",
-          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "CD-5E-CC-AE-65-8E-8A-95"
-        }
-      }
-    ]
-  },
   "minigunricochetbullethellocbuffv2": {
     "DisplayName": "Minigun Ricochet Bullet Hell OC Buff V2",
     "Version": "2.0",
@@ -2932,6 +2911,27 @@
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ricochet_Gatling.uexp": "F5-64-1D-72-F1-D3-4A-7B",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Accuracy6.uexp": "A2-7A-84-C1-8C-FB-01-03",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Damage3.uexp": "B3-1A-7F-BA-04-59-00-37"
+        }
+      }
+    ]
+  },
+  "hazard6": {
+    "DisplayName": "Hazard 6",
+    "Version": "3.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      189954203664252928
+    ],
+    "Description": "This comprehensive Hazard 6 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 6. Rewards multiplier is set to 166%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--A description of variables and the philosophy of why some were scaled more and some less is here -> https://docs.google.com/document/d/1O2hmVsoaSy2qId4jCWOP_pHMXaoGMWqf_MY7RAs6cxI/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up. \n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate. \n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up. \n--Changes since V2.0 include:\n-Special enemies like spitters and swarmers have an easier time spawning\n-Enemies do a little more damage to make scaling more consistent with base game hazards and counteract the difficulty reduction from special enemy spawn frequency\n-There is much more variance mission to mission in all difficulty elements",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/681a20964db829bbcd44ab1adc840b8157570b53/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V3.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Hazard 6 - V3.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "79-57-B6-D4-C6-98-FB-87",
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "C5-38-41-2A-20-9B-9F-06",
+          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "CD-5E-CC-AE-65-8E-8A-95"
         }
       }
     ]
@@ -2964,26 +2964,6 @@
       }
     ]
   },
-  "guaranteedmachineevents": {
-    "DisplayName": "Guaranteed Machine Events",
-    "Version": "1.0",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      146392394328178690
-    ],
-    "Description": "Makes machine events always spawn in missions so that you can farm less to use your cores.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5d5fd07ff425c81d9bc5de6f2a9472f72abda92b/Gameplay/Unbalanced/Resources%20%26%20Progression/Guaranteed%20Machine%20Events%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Guaranteed Machine Events - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Game/GameData/GD_SpecialEventSettings.uasset": "61-96-8B-07-BA-78-4D-BE",
-          "../../../FSD/Content/Game/GameData/GD_SpecialEventSettings.uexp": "84-04-42-0A-C8-23-D3-59"
-        }
-      }
-    ]
-  },
   "goodoldbetcexe": {
     "DisplayName": "Good Old Bet-C.exe",
     "Version": "33.2.0",
@@ -3000,6 +2980,26 @@
         "CookedFileHashes": {
           "../../../FSD/Content/Enemies/MuleInfected/PRJ_FriendlyInfectedMuleGrenade.uasset": "92-FF-45-06-C6-E0-93-2D",
           "../../../FSD/Content/Enemies/MuleInfected/PRJ_FriendlyInfectedMuleGrenade.uexp": "52-DF-70-57-BF-0F-71-A3"
+        }
+      }
+    ]
+  },
+  "guaranteedmachineevents": {
+    "DisplayName": "Guaranteed Machine Events",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "Makes machine events always spawn in missions so that you can farm less to use your cores.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5d5fd07ff425c81d9bc5de6f2a9472f72abda92b/Gameplay/Unbalanced/Resources%20%26%20Progression/Guaranteed%20Machine%20Events%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Guaranteed Machine Events - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Game/GameData/GD_SpecialEventSettings.uasset": "61-96-8B-07-BA-78-4D-BE",
+          "../../../FSD/Content/Game/GameData/GD_SpecialEventSettings.uexp": "84-04-42-0A-C8-23-D3-59"
         }
       }
     ]
@@ -3104,6 +3104,26 @@
         "CookedFileHashes": {
           "../../../FSD/Content/Character/BP_PlayerCharacter.uasset": "09-18-44-BD-A9-61-0A-B1",
           "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "B9-17-34-FC-A7-A0-D7-9A"
+        }
+      }
+    ]
+  },
+  "hitscanepc": {
+    "DisplayName": "Hitscan EPC",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      185833916203139082
+    ],
+    "Description": "- Changes the velocity of the normal EPC projectile from 3500 to 70000, making it essentially hitscan.\n- As a host, the upgrade will affect everyone using the EPC\n- As a client, this mod will not affect the projectile speed, but there will be a slight desync where the projectile looks faster for a brief period.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/673ee2bea7a8151676b1c652897d84879bb4aef1/Gameplay/Unbalanced/Weapons/Hitscan%20EPC%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Hitscan EPC - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/PRJ_NormalBlasterShot.uasset": "0D-E9-51-5B-56-DB-99-DC",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/PRJ_NormalBlasterShot.uexp": "BD-95-FB-A3-0F-93-DC-AD"
         }
       }
     ]
@@ -4068,25 +4088,6 @@
       }
     ]
   },
-  "50nitrasupplydrops": {
-    "DisplayName": "50 Nitra Supply Drops",
-    "Version": "1.0",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      712926827911446548
-    ],
-    "Description": "[HOST ONLY EFFECT]\n--Changed supply drop cost to 50 Nitra",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/29bfb01ee91e658aa283d6051e93c99e8e63909b/Gameplay/Unbalanced/Other/50%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "50 Nitra Supply Drops - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "C3-32-8C-7E-06-3A-BF-82"
-        }
-      }
-    ]
-  },
   "shininglloyd": {
     "DisplayName": "Shining Lloyd",
     "Version": "1",
@@ -4117,22 +4118,41 @@
       }
     ]
   },
-  "upgradedplatformgun": {
-    "DisplayName": "Upgraded Platform Gun",
+  "50nitrasupplydrops": {
+    "DisplayName": "50 Nitra Supply Drops",
     "Version": "1.0",
     "DrgVersion": "Update 33",
     "AuthorIds": [
       712926827911446548
     ],
-    "Description": "--Platform Gun clip-size increased from 4 to 6\n--Platform Gun ammo increased from 16 to 32",
+    "Description": "[HOST ONLY EFFECT]\n--Changed supply drop cost to 50 Nitra",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7e3234d1a793de4fc2a779c2afbe5cff3054b626/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Platform%20Gun%20-%20V1.0%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/29bfb01ee91e658aa283d6051e93c99e8e63909b/Gameplay/Unbalanced/Other/50%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Upgraded Platform Gun - V1.0",
+        "PakFileName": "50 Nitra Supply Drops - V1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset": "9B-68-B9-F3-B5-D3-89-24",
-          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uexp": "68-9B-F0-94-B5-D2-CB-BD"
+          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "C3-32-8C-7E-06-3A-BF-82"
+        }
+      }
+    ]
+  },
+  "gunkseedpickupradius": {
+    "DisplayName": "Gunk Seed Pickup Radius",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "Increases the pickup sphere radius for gunk seeds to make them more on par with other large objects.  Thank you to NaturalBornCamper for updating this for me while I worked on other stuff.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/691a7e9a067cb364ce3e3f791f242b8fae086620/Quality%20of%20Life/Improved%20mechanics/Gunk%20Seed%20Pickup%20Radius%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Gunk Seed Pickup Radius - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Resources/Collectibles/GunkSeed/BP_GunkSeed.uasset": "B1-F6-45-B7-E2-22-72-5D",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/GunkSeed/BP_GunkSeed.uexp": "EB-B2-02-39-17-BE-88-41"
         }
       }
     ]
@@ -4156,22 +4176,22 @@
       }
     ]
   },
-  "gunkseedpickupradius": {
-    "DisplayName": "Gunk Seed Pickup Radius",
+  "upgradedplatformgun": {
+    "DisplayName": "Upgraded Platform Gun",
     "Version": "1.0",
-    "DrgVersion": "Update 33, Hotfix 2",
+    "DrgVersion": "Update 33",
     "AuthorIds": [
-      146392394328178690
+      712926827911446548
     ],
-    "Description": "Increases the pickup sphere radius for gunk seeds to make them more on par with other large objects.  Thank you to NaturalBornCamper for updating this for me while I worked on other stuff.",
+    "Description": "--Platform Gun clip-size increased from 4 to 6\n--Platform Gun ammo increased from 16 to 32",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/691a7e9a067cb364ce3e3f791f242b8fae086620/Quality%20of%20Life/Improved%20mechanics/Gunk%20Seed%20Pickup%20Radius%20-%20V1.0%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7e3234d1a793de4fc2a779c2afbe5cff3054b626/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Platform%20Gun%20-%20V1.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Gunk Seed Pickup Radius - V1.0",
+        "PakFileName": "Upgraded Platform Gun - V1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Resources/Collectibles/GunkSeed/BP_GunkSeed.uasset": "B1-F6-45-B7-E2-22-72-5D",
-          "../../../FSD/Content/GameElements/Resources/Collectibles/GunkSeed/BP_GunkSeed.uexp": "EB-B2-02-39-17-BE-88-41"
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset": "9B-68-B9-F3-B5-D3-89-24",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uexp": "68-9B-F0-94-B5-D2-CB-BD"
         }
       }
     ]
@@ -4413,26 +4433,6 @@
       }
     ]
   },
-  "doubletreasures": {
-    "DisplayName": "Double Treasures",
-    "Version": "1",
-    "DrgVersion": "Update 32/33",
-    "AuthorIds": [
-      229330150142115842
-    ],
-    "Description": "Doubles the Chance for Cargo Crates and Lost packs to generate",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b750e2b240a642c5448e78fc0f0d0d410b7526d0/Gameplay/Unbalanced/Resources%20%26%20Progression/Double%20Treasures%20-%20V1%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Double Treasures - V1",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Game/GameData/GD_TreasureSettings.uasset": "75-8A-0D-91-FA-DB-87-07",
-          "../../../FSD/Content/Game/GameData/GD_TreasureSettings.uexp": "18-72-A2-92-11-D5-D2-D6"
-        }
-      }
-    ]
-  },
   "soundqolpack": {
     "DisplayName": "Sound QoL pack",
     "Version": "1.0",
@@ -4611,6 +4611,26 @@
       }
     ]
   },
+  "doubletreasures": {
+    "DisplayName": "Double Treasures",
+    "Version": "1",
+    "DrgVersion": "Update 32/33",
+    "AuthorIds": [
+      229330150142115842
+    ],
+    "Description": "Doubles the Chance for Cargo Crates and Lost packs to generate",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b750e2b240a642c5448e78fc0f0d0d410b7526d0/Gameplay/Unbalanced/Resources%20%26%20Progression/Double%20Treasures%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Double Treasures - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Game/GameData/GD_TreasureSettings.uasset": "75-8A-0D-91-FA-DB-87-07",
+          "../../../FSD/Content/Game/GameData/GD_TreasureSettings.uexp": "18-72-A2-92-11-D5-D2-D6"
+        }
+      }
+    ]
+  },
   "kidscrate": {
     "DisplayName": "Kids Crate",
     "Version": "1",
@@ -4627,32 +4647,6 @@
         "CookedFileHashes": {
           "../../../FSD/Content/Audio/Music/Music_SpecialEvents/AudioFiles/DiscoverMusic_1.uasset": "C8-DE-17-53-73-35-5B-BA",
           "../../../FSD/Content/Audio/Music/Music_SpecialEvents/AudioFiles/DiscoverMusic_1.uexp": "53-B8-6C-0B-CC-C1-25-24"
-        }
-      }
-    ]
-  },
-  "betterspectator": {
-    "DisplayName": "Better Spectator",
-    "Version": "1.7",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      158916111390343168
-    ],
-    "Description": "**Requires the mod loader.**\nReplaces the game's spectator camera when you get downed (removes the fuzzy overlay and skips the faceplant animation). It allows you to freely orbit and zoom in/out when spectating players. You can also optionally spectate Bosco, Molly, Doretta, and BET-C.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f1143a182e80ffb6542bc63b38ef8dd762c2b263/Quality%20of%20Life/Camera/Better%20Spectator%20-%20V1.7%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Better Spectator - V1.7",
-        "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod025.uasset": "81-AA-DA-39-5F-A4-BF-87",
-          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_SaveData.uasset": "3E-A9-B8-85-1E-B0-AD-62",
-          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_SpectatorCam.uasset": "1F-E5-4C-0A-81-D7-2D-85",
-          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_UI.uasset": "B8-9E-3C-54-02-27-C5-70",
-          "../../../FSD/Content/_ModBPs/Mod025.uexp": "C2-17-CB-79-A8-46-FA-6F",
-          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_SaveData.uexp": "F7-15-5C-56-8D-FB-0C-DF",
-          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_SpectatorCam.uexp": "AB-07-DB-F7-B7-A2-EB-32",
-          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_UI.uexp": "1A-21-09-54-0F-7F-F3-05"
         }
       }
     ]
@@ -4807,6 +4801,32 @@
           "../../../FSD/Content/Landscape/Materials/TM_MangroveRock.uexp": "66-5A-7F-CE-4F-EF-39-5D",
           "../../../FSD/Content/Landscape/Materials/TM_Nitra.uexp": "51-C2-CE-15-F2-A9-DF-35",
           "../../../FSD/Content/Landscape/Materials/TM_OilShale.uexp": "EB-FF-DA-A1-D8-81-76-11"
+        }
+      }
+    ]
+  },
+  "betterspectator": {
+    "DisplayName": "Better Spectator",
+    "Version": "1.7",
+    "DrgVersion": "Update 33, Hotfix 2",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nReplaces the game's spectator camera when you get downed (removes the fuzzy overlay and skips the faceplant animation). It allows you to freely orbit and zoom in/out when spectating players. You can also optionally spectate Bosco, Molly, Doretta, and BET-C.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f1143a182e80ffb6542bc63b38ef8dd762c2b263/Quality%20of%20Life/Camera/Better%20Spectator%20-%20V1.7%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Better Spectator - V1.7",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod025.uasset": "81-AA-DA-39-5F-A4-BF-87",
+          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_SaveData.uasset": "3E-A9-B8-85-1E-B0-AD-62",
+          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_SpectatorCam.uasset": "1F-E5-4C-0A-81-D7-2D-85",
+          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_UI.uasset": "B8-9E-3C-54-02-27-C5-70",
+          "../../../FSD/Content/_ModBPs/Mod025.uexp": "C2-17-CB-79-A8-46-FA-6F",
+          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_SaveData.uexp": "F7-15-5C-56-8D-FB-0C-DF",
+          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_SpectatorCam.uexp": "AB-07-DB-F7-B7-A2-EB-32",
+          "../../../FSD/Content/_ModBPs/MyMods/BetterSpectator/025_UI.uexp": "1A-21-09-54-0F-7F-F3-05"
         }
       }
     ]
@@ -6181,6 +6201,48 @@
       }
     ]
   },
+  "hazard5carry": {
+    "DisplayName": "Hazard 5 Carry",
+    "Version": "3.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      189954203664252928
+    ],
+    "Description": "This mod is for making things difficult while waiting for joiners, testing 4man breakpoints, or just adding difficulty without touching base game properties. \n--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player lobby regardless of player count\n--This includes enemy count, health, and damage. \n--Get the experience of playing in the main discord while freeing up your field medic perk slot!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/806573623d5ab702f3fd4363188cb31ad5552c0f/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205%20Carry%20-%20V3.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Hazard 5 Carry - V3.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "7C-7E-5F-B4-D4-4F-34-15"
+        }
+      }
+    ]
+  },
+  "experimentalfatboycharger": {
+    "DisplayName": "Experimental Fatboy Charger",
+    "Version": "1.01",
+    "DrgVersion": "U33 H4",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "Upgrades your EPC to mysertiously fire PGL rounds when charged.\nAlso replaces the Persistant Plasma OC with the Fatboy OC.\n\nAdditional changes:\n-Adjusts cost of charged shot from 8 to 40.\n-Adjusts cost reduction on T31 'Improved Charge Efficiency' from -2 to -7.\n\nThese changes limit the possible spam to mimic the PGL's restrictions.",
+    "LastUpdateChangelog": "Fixed an issue that could cause your PGL to shoot axes.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/51f733d5e3c28203bbe9b2274f45300232179e1a/Gameplay/Unbalanced/Weapons/Experimental%20Fatboy%20Charger%20-%20V1.01%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Experimental Fatboy Charger - V1.01",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/Overclocks/OSB_EPC.uasset": "5B-49-0F-ED-75-25-E2-C2",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uasset": "2F-B7-2F-79-E4-8A-22-B4",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/Overclocks/OSB_EPC.uexp": "39-E5-02-82-D0-15-6E-B3",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/UPG_ChargeBlaster_C_ChargeCost.uexp": "BD-FB-A6-B7-E3-F1-AA-E9",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uexp": "2C-C9-BB-B5-C6-63-11-B9"
+        }
+      }
+    ]
+  },
   "recallableminigunturrets": {
     "DisplayName": "Recallable Minigun Turrets",
     "Version": "1.0",
@@ -6235,64 +6297,22 @@
       }
     ]
   },
-  "experimentalfatboycharger": {
-    "DisplayName": "Experimental Fatboy Charger",
-    "Version": "1.01",
-    "DrgVersion": "U33 H4",
-    "AuthorIds": [
-      243195324594782210
-    ],
-    "Description": "Upgrades your EPC to mysertiously fire PGL rounds when charged.\nAlso replaces the Persistant Plasma OC with the Fatboy OC.\n\nAdditional changes:\n-Adjusts cost of charged shot from 8 to 40.\n-Adjusts cost reduction on T31 'Improved Charge Efficiency' from -2 to -7.\n\nThese changes limit the possible spam to mimic the PGL's restrictions.",
-    "LastUpdateChangelog": "Fixed an issue that could cause your PGL to shoot axes.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/51f733d5e3c28203bbe9b2274f45300232179e1a/Gameplay/Unbalanced/Weapons/Experimental%20Fatboy%20Charger%20-%20V1.01%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Experimental Fatboy Charger - V1.01",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/Overclocks/OSB_EPC.uasset": "5B-49-0F-ED-75-25-E2-C2",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uasset": "2F-B7-2F-79-E4-8A-22-B4",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/Overclocks/OSB_EPC.uexp": "39-E5-02-82-D0-15-6E-B3",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/UPG_ChargeBlaster_C_ChargeCost.uexp": "BD-FB-A6-B7-E3-F1-AA-E9",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uexp": "2C-C9-BB-B5-C6-63-11-B9"
-        }
-      }
-    ]
-  },
-  "hazard5carry": {
-    "DisplayName": "Hazard 5 Carry",
-    "Version": "3.0",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      189954203664252928
-    ],
-    "Description": "This mod is for making things difficult while waiting for joiners, testing 4man breakpoints, or just adding difficulty without touching base game properties. \n--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player lobby regardless of player count\n--This includes enemy count, health, and damage. \n--Get the experience of playing in the main discord while freeing up your field medic perk slot!",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/806573623d5ab702f3fd4363188cb31ad5552c0f/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205%20Carry%20-%20V3.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Hazard 5 Carry - V3.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "7C-7E-5F-B4-D4-4F-34-15"
-        }
-      }
-    ]
-  },
-  "fasterdeposit": {
-    "DisplayName": "Faster Deposit",
+  "epccarve7m": {
+    "DisplayName": "EPC Carve 7m",
     "Version": "1.0",
     "DrgVersion": "Update 33",
     "AuthorIds": [
-      712926827911446548
+      185833916203139082
     ],
-    "Description": "--Deposit speed increased from 1.0 > 5.0",
+    "Description": "- Changes the carve radius of the thin containment field explosion from 6 meters to 7 meters. Useful for making EPC mining easier while keeping it usable in combat.\n- As a host, will affect anyone using this weapon in your game.\n- As a client, this mod has no effect.\n- Inspired by a similar mod made by GoldBl4d3",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/06f685ebfec0294a8ca9aa1a9a8d349df26a30c7/Gameplay/Unbalanced/Other/Faster%20Deposit%20-%20V1.0%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/70eed1328b963393688f09a1c724ba9387c810c4/Gameplay/Unbalanced/Weapons/EPC%20Carve%207m%20-%20V1.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Faster Deposit - V1.0",
+        "PakFileName": "EPC Carve 7m - V1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/PawnStats/PST_DepositSpeed.uasset": "57-08-DB-61-A9-C8-1A-E8",
-          "../../../FSD/Content/GameElements/PawnStats/PST_DepositSpeed.uexp": "3A-45-CE-82-74-7D-82-67"
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/PRJ_ChargedBlasterShot.uasset": "D8-58-CA-82-54-70-78-B2",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/PRJ_ChargedBlasterShot.uexp": "B8-40-59-BB-FB-AC-01-4F"
         }
       }
     ]
@@ -6413,22 +6433,22 @@
       }
     ]
   },
-  "epccarve7m": {
-    "DisplayName": "EPC Carve 7m",
+  "fasterdeposit": {
+    "DisplayName": "Faster Deposit",
     "Version": "1.0",
     "DrgVersion": "Update 33",
     "AuthorIds": [
-      185833916203139082
+      712926827911446548
     ],
-    "Description": "- Changes the carve radius of the thin containment field explosion from 6 meters to 7 meters. Useful for making EPC mining easier while keeping it usable in combat.\n- As a host, will affect anyone using this weapon in your game.\n- As a client, this mod has no effect.\n- Inspired by a similar mod made by GoldBl4d3",
+    "Description": "--Deposit speed increased from 1.0 > 5.0",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/70eed1328b963393688f09a1c724ba9387c810c4/Gameplay/Unbalanced/Weapons/EPC%20Carve%207m%20-%20V1.0%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/06f685ebfec0294a8ca9aa1a9a8d349df26a30c7/Gameplay/Unbalanced/Other/Faster%20Deposit%20-%20V1.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "EPC Carve 7m - V1.0",
+        "PakFileName": "Faster Deposit - V1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/PRJ_ChargedBlasterShot.uasset": "D8-58-CA-82-54-70-78-B2",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/PRJ_ChargedBlasterShot.uexp": "B8-40-59-BB-FB-AC-01-4F"
+          "../../../FSD/Content/GameElements/PawnStats/PST_DepositSpeed.uasset": "57-08-DB-61-A9-C8-1A-E8",
+          "../../../FSD/Content/GameElements/PawnStats/PST_DepositSpeed.uexp": "3A-45-CE-82-74-7D-82-67"
         }
       }
     ]

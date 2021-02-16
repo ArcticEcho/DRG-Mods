@@ -140,6 +140,16 @@ Changes grenade stats, carried amount and the way you use them.
 --**Cryo Grenades** freeze anything in 1 hit, including yourself and your allies, hold 3.  
 --**IFG** slow makes enemies move at 25% speed, take 70% more damage, last 20s, hold 3.
 
+## Hitscan EPC - v1.0
+**Authors:** BrewBreuw  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/673ee2bea7a8151676b1c652897d84879bb4aef1/Gameplay/Unbalanced/Weapons/Hitscan%20EPC%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+- Changes the velocity of the normal EPC projectile from 3500 to 70000, making it essentially hitscan.  
+- As a host, the upgrade will affect everyone using the EPC  
+- As a client, this mod will not affect the projectile speed, but there will be a slight desync where the projectile looks faster for a brief period.
+
 ## Legendary Hoarder - v1.0
 **Authors:** GreyHound  
 **DRG Version:** Update 33, Hotfix 2  
