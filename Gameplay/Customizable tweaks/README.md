@@ -46,14 +46,19 @@ I've also modified the broken resupplies to deal the same drop damage as regular
  - Pods no longer drop inside of eachother/increased space between them.  
  - The mod no longer despawns pods spawned by other mods.
 
-## Minehead Is Now Epic - v2.5
+## Minehead Is Now Epic - v2.6
 **Authors:** ArcticEcho  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/fb1aa086207e90a535d3c9506ce64c18ae633dd6/Gameplay/Customizable%20tweaks/Minehead%20Is%20Now%20Epic%20-%20V2.5%20_P.pak)  
+**DRG Version:** Update 33, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a94cdc7531a10082e71b1a2b6750078d91c3774b/Gameplay/Customizable%20tweaks/Minehead%20Is%20Now%20Epic%20-%20V2.6%20_P.pak)  
 
 **Description:**  
 **Requires the mod loader.**  
 The point extract minehead now has gravity, can spin round, and can have its location randomised. All the features can be individually turned on/off. Only works as the host.
+
+**Update v2.6 Changelog:**  
+- Fixed for Update 33 Hotfix 5  
+ - Added an option to set the min distance when picking a new random location.  
+ - General under the hood improvements to the random location function.
 
 ## Time Control - v1.1
 **Authors:** ArcticEcho  
