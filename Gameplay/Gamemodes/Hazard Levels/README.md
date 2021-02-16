@@ -164,10 +164,10 @@ Added Hazard name change in game and updated description
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1befa52fb69d8a9085273df209c0afc5a6045cb2/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.2.1.zip)  
 
 **Description:**  
-Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing 40+ simultaneous cries of pain?  
-Want gigantic hordes of cannon fodder?  
-I created this mod as a middle ground between haz 4 and haz 5 when playing with low level friends so they can have more  
-fun while not getting insta-killed by tough enemies. Also makes normal Deep Dive fun again, less boring 😉  
+Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing  
+40+ simultaneous cries of pain? Want gigantic hordes of cannon fodder?  
+This is as close to vanilla as possible, so you can expect normal game behavior, only  
+with twice the enemies. Also makes normal Deep Dive fun again, less boring 😉  
 Preview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992  
 Preview (Youtube): https://youtu.be/0k3bVdkpSOs  
 Preview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686  
@@ -176,8 +176,8 @@ Preview (Discord video): https://discordapp.com/channels/676880716142739467/7326
 --Variation 2x has 200% enemies (150% enemies single player)  
 --Variation 1.5x has 150% enemies (125% enemies single player)  
 --No XP boost or any other modification, this is just for fun  
---Use obviously the file you choose, not both  
+--Use obviously the multiplier file you choose, not both  
 \----------------------------------------------------------------  
 Note: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health  
 Note: Replaces Haz 3, 4, 5 and DD/EDD. So it won't work with Haz 6/7. Only the host needs the mod  
-Note: Recommended using "Custom Cap" mod to avoid enemy de-spawn
+Note: Recommended using "Custom Cap" mod to avoid enemy de-spawn. 150 normal enemies and 100 swarmers
