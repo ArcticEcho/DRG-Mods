@@ -176,7 +176,8 @@ Changes grenade stats, carried amount and the way you use them.
 Upgrades the GK2 so it can be more like a better gun, the Bulldog.  
 -T3.1 upgrade 'Floating Barrel' changed to 'Glyphid Neurotoxin Coating.'  
 -T5.2 upgrade 'Battle Cool' changed to 'Explosive Rounds.'  
--'Homebrew Powder' OC changed to 'Magic Bullets.'
+-'Homebrew Powder' OC changed to 'Magic Bullets.'  
+__**Warning:**__ Using Magic Bullets without Explosive Rounds will cause you to deal literally 0 damage.
 
 ## Minigun Base Ammo Buffed - v1.0
 **Authors:** Tristus  
