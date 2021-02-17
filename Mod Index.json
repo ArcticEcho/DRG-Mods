@@ -245,6 +245,32 @@
       }
     ]
   },
+  "advanceddarkness": {
+    "DisplayName": "Advanced Darkness",
+    "Version": "2.6",
+    "DrgVersion": "Update 32",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the mod loader.**\nAdds options for controlling fog and lights (client-side). Volumetric fog requires your shadow quality (in graphics settings) to be set to High or Ultra.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/468f5264cd8fcf45469ed1e855809acbdb754eed/Visual/Lighting/Advanced%20Darkness%20-%20V2.6%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Advanced Darkness - V2.6",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod001.uasset": "C7-71-EC-98-52-5F-CC-C1",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV2.uasset": "45-0D-C5-C4-17-25-5A-9B",
+          "../../../FSD/Content/_ModBPs/MyMods/AdvancedDarkness/001_SaveData.uasset": "D7-EF-12-45-65-93-F4-D6",
+          "../../../FSD/Content/_ModBPs/MyMods/AdvancedDarkness/001_UI.uasset": "D1-75-90-11-75-3B-D7-24",
+          "../../../FSD/Content/_ModBPs/Mod001.uexp": "BF-60-49-F6-AF-84-60-D4",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV2.uexp": "95-79-DA-05-15-CA-5A-30",
+          "../../../FSD/Content/_ModBPs/MyMods/AdvancedDarkness/001_SaveData.uexp": "1F-CE-9B-94-59-45-27-C0",
+          "../../../FSD/Content/_ModBPs/MyMods/AdvancedDarkness/001_UI.uexp": "6B-50-81-DA-44-97-FA-7E"
+        }
+      }
+    ]
+  },
   "animedoretta": {
     "DisplayName": "Anime Doretta",
     "Version": "1.1",
