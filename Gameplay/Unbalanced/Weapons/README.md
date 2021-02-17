@@ -89,6 +89,15 @@ These changes limit the possible spam to mimic the PGL's restrictions.
 **Update v1.01 Changelog:**  
 Fixed an issue that could cause your PGL to shoot axes.
 
+## Fast Sentry - v1.0
+**Authors:** Demellion Dismal  
+**DRG Version:** Update 33 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f2b455695566035a8f833c0d00958a9761989bcd/Gameplay/Unbalanced/Weapons/Fast%20Sentry%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+- Decreases base build time to 1 second.  
+- Decreases the fast build sentry mod bonus to -0.5 (total sentry build time 0.5 seconds)
+
 ## Fat Man OC - v3
 **Authors:** Sephiasus  
 **DRG Version:** Update 33  
