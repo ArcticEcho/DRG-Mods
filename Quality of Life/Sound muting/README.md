@@ -20,16 +20,18 @@ Mutes Doretta whine SFX on taking damage.
 **Description:**  
 Removes the high-pitched ringing sound effect that plays: after an explosion, at mission start, when switching classes, and when toggling your flashlight.
 
-## Sound QoL pack - v1.0
+## Sound QoL pack - v1.1
 **Authors:** GreyHound, Shrub_Daddy, Chibba  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9ef243dc2e6d9563bbb5f5cf697be8ad77858aaf/Quality%20of%20Life/Sound%20muting/Sound%20QoL%20Pack%20-%20V1.0%20_P.pak)  
+**DRG Version:** Update 33 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1c31892a751f0337938b12969077ae8473181991/Quality%20of%20Life/Sound%20muting/Sound%20QoL%20Pack%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-contains the following sound improvements:  
+This mod silences the most common distracting sounds in the game and includes the following:  
 -- Silent Doretta (removes the noise when that useless hunk of metal takes damage);  
 -- Silent Vampire (aka NO SUCC - removes the Vampire suction sound);  
 -- Silent Jukebox (mutes the entire Jukebox song collection);  
--- Personal Born Ready (makes the voicelines have 0 distance, so they're no longer global. Requires testing);  
 -- Silent Low Oxygen (removes the specific warning sounds and mutes the voicelines that play when you're low on Oxygen);  
--- No more BET-C repair sounds (screw that robot, she's the worst)
+-- No more BET-C repair sounds (screw that robot, she's the worst).
+
+**Update v1.1 Changelog:**  
+removed the Born Ready silencing as it wasn't working correctly.
