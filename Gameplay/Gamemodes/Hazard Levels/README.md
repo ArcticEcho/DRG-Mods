@@ -114,10 +114,10 @@ This comprehensive Hazard 6 Mod
 --This includes enemy count, health, and damage.   
 --Per request. Professional eat your heart out.
 
-## Hazard 7 - v3.0
+## Hazard 7 - v3.1
 **Authors:** Ike  
 **DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8918b44ed80e443322ffbb9ff3fd89a69b28c814/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V3.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/65837456c6185e572251e02a26bb7f3237e2682a/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V3.1%20_P.pak)  
 
 **Description:**  
 This is a comprehensive Hazard 7 Mod  
@@ -130,7 +130,10 @@ This is a comprehensive Hazard 7 Mod
 --Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up.   
 --Beating this is possible, and using other buffs is cheating, but I would recommend staying inside the drop pod at the start of refinery missions.  
 --Works well with expanded enemy cap mods.  
---For changes from V2.0 see Haz6
+ --For changes from V2.0 see Haz6
+
+**Update v3.1 Changelog:**  
+02/16/2021 corrected for the hotfix
 
 ## Starship Troopers - v33.2.1
 **Authors:** NaturalBornCamper  
