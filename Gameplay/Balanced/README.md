@@ -4,10 +4,10 @@ Mods attempting to balance stuff that performs worse than normal.
 
 <!-- mod list -->
 
-## BBP (Big Balance Patch) - v1.5
+## BBP (Big Balance Patch) - v1.51
 **Authors:** GreyHound  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/61b008f56ec1747f24a6ae99194c76df8190efc5/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.5.zip)  
+**DRG Version:** U33 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5e7b35b4deb31291b1faf6514c5ed28e970ae7c8/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.51.zip)  
 
 **Description:**  
 Pretty much overhauls your entire DRG gameplay experience. The changelog is too long to post here, so it has been included in the zip file. Also features a PDF changelog option.  
@@ -16,6 +16,9 @@ Notes:
 2. Do not use it with any mods that alter the weapons' base values (ammo, damage etc.); perks and grenades have been altered as well, so are utility tools and armor mods. I'm not responsible for your crashes should you choose to ignore this;)   
 This mod includes a rework of the PGL, extensive changes to Zhukovs/Subata/Warthog/Autocannon/Breach Cutter and buffs to underperforming OCs/weapons/perks/grenades along with nerfs to overperforming ones.  
 Note on shield generator changes: there is currently a bug where the duration upgrades apply twice. In order to "fix" this, I halved them so the values actually match what's written in the files. This is a temporary solution and will be reverted once GSG fixes the issue.
+
+**Update v1.51 Changelog:**  
+Fixes the BC projectile issues, adds a list of credits in a separate txt file.
 
 ## HE Grenade Carve - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
