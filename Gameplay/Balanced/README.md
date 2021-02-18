@@ -4,6 +4,17 @@ Mods attempting to balance stuff that performs worse than normal.
 
 <!-- mod list -->
 
+## AiO Weapon Balance - v1.14
+**Authors:** Elythnwaen  
+**DRG Version:** Update 33, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2f511c1cdbd91381e8a11b0c513838fb7bbdc198/Gameplay/Balanced/AiO%20Weapon%20Balance%20-%20V1.14%20_P.pak)  
+
+**Description:**  
+Changes will fully works only if the host has the mod installed.  
+Mostly buffs for underpowered OC and mods with some small nerfs (BC and TCF).  
+Made in collaboration with @Silaise.  
+Full change list: https://github.com/elythnwaen/drg-weapon-balance/blob/main/AiO/AiO-Balance.md
+
 ## BBP (Big Balance Patch) - v1.51
 **Authors:** GreyHound  
 **DRG Version:** U33 Hotfix 5  
