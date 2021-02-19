@@ -43,6 +43,15 @@ Unbalanced changes to tools and gear.
 - As a host, will affect anyone using this armor upgrade in your game.  
 - As a client, this mod has no effect.
 
+## Fuster Cluck Jr - v1.0
+**Authors:** Sesselpots, Our Lord And Savior Gabe Newell  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9e8daf64033c2ae2a3e4e458d9f9e7432447ea02/Gameplay/Unbalanced/Tools%20%26%20Gear/Fuster%20Cluck%20Jr%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+A spiritual placeholder mod for @Our Lord And Savior Gabe Newell 's Fuster Cluck mod  
+--Bulk Detonators have 24 bomblets at death that carve a large area of terrain
+
 ## Goo Plats - v1
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 33, Hotfix 3  
