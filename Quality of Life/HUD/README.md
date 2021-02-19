@@ -21,3 +21,11 @@ Removes the mission control speech text popup.
 **Description:**  
 **Requires the mod loader.**  
 Adds a small mission timer to the top of the screen. Also acts as a deep dive stage timer.
+
+## Real Weapon Stats - v2-19-2021
+**Authors:** Shattered  
+**DRG Version:** U33 H6  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8bd8c8fbc1c5cd849908f8b48d1d4b74aa4f04a1/Quality%20of%20Life/HUD/Real%20Weapon%20Stats%20-%20V2-19-2021%20_P.pak)  
+
+**Description:**  
+Makes the "Lead Storm" Powered Minigun and Zhukov NUK17 display their real ammunition, magazine capacity, and rate of fire. This is only a visual change, not a gameplay change. The mod is not compatible with other mods that change the stats for either of these weapons.
