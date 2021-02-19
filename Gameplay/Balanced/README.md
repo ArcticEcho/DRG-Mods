@@ -51,14 +51,6 @@ Fixes the BC projectile issues, adds a list of credits in a separate txt file.
 --Lootbugs now multiply resources that they eat by 3x and get new eating targets much faster.  
 --Seems to prevent them from dropping loot on death since you ring them dry through torture.
 
-## Power Creep - v2021-2-7
-**Authors:** Shattered  
-**DRG Version:** U33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e207d68932e1ee053fc7758140e7d40366a91648/Gameplay/Balanced/Power%20Creep%20-%20V2021-2-7%20_P.pak)  
-
-**Description:**  
-Mostly buffs and a few nerfs to increase build variety. Made using feedback from #beta-testing (discord channel) and karl.gg data. Change List: https://onlyo.co/36GBkpC
-
 ## SupersonicSentry - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
