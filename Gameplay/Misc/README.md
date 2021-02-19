@@ -50,6 +50,16 @@ No more needing to re-consider repairing BET-C or not on shield disruption missi
 --Friendly BET-C bombs do 0 damage on dwarves  
 \----------------------------------------------------------------
 
+## Pointless Low O2 - v1
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 33, Hotfix 6  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9996f2f46eb92508992f61614fc6d1a8bc70c5fc/Gameplay/Misc/Pointless%20Low%20O2%20-%20V1%20_P.pak)  
+
+**Description:**  
+You no longer lose Oxygen in low O2 missions, note that the O2 meter and O2 Canisters will still show up   
+- O2 Depletion per second 3.5 > 0  
+- Low O2 warning no longer gives hazard buff
+
 ## Pointless Shield Disruption - v1
 **Authors:** Shrub_Daddy  
 **DRG Version:** 33  

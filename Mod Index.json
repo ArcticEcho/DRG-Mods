@@ -5149,6 +5149,26 @@
       }
     ]
   },
+  "pointlesslowo2": {
+    "DisplayName": "Pointless Low O2",
+    "Version": "1",
+    "DrgVersion": "Update 33, Hotfix 6",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "You no longer lose Oxygen in low O2 missions, note that the O2 meter and O2 Canisters will still show up \n- O2 Depletion per second 3.5 > 0\n- Low O2 warning no longer gives hazard buff",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9996f2f46eb92508992f61614fc6d1a8bc70c5fc/Gameplay/Misc/Pointless%20Low%20O2%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Pointless Low O2 - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Missions/Warnings/NoOxygen/BP_OxygenComponent.uexp": "FB-E2-CF-BB-89-0E-3B-DA",
+          "../../../FSD/Content/GameElements/Missions/Warnings/NoOxygen/WRN_NoOxygen.uexp": "54-71-42-4E-8B-1A-C3-AE"
+        }
+      }
+    ]
+  },
   "pointlessshielddisruption": {
     "DisplayName": "Pointless Shield Disruption",
     "Version": "1",
