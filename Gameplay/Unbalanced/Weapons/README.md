@@ -220,13 +220,27 @@ Changes Bullet Hell Overclock for the Gunner Minigun
 [Changes the Neurotoxin Payload OC for the Autocannon]  
 --Increased the chance to entox enemies from 30% to 100%
 
-## Pepega Gunner - v2.0
+## Pepega Gunner - v2.1
 **Authors:** Shrub_Daddy  
-**DRG Version:** Update 33 Experimental 1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Unbalanced/Weapons/Pepega%20Gunner%20-%20V2.0%20_P.pak)  
+**DRG Version:** Update 33, Hotfix 6  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/94a0371123b2704cf5856eb35af6a6a937925779/Gameplay/Unbalanced/Weapons/Pepega%20Gunner%20-%20V2.1%20_P.pak)  
 
 **Description:**  
-Makes the Gunners Leadstorm super op, 99999 Ammo, 10000 rps, 1 Bullet Per Shot, No Recoil, No Spread, .25s Equip Duration, 10s Barrel Spindown, 10x Cooldown speed, No carve, 0.25s Overheat Duration, 1x Movement Speed, 200% Armor Breaking, and 200% Weakpoint Dmg.
+Makes the Gunners Leadstorm super op   
+99999 Ammo  
+2000 rps  
+1 Bullet Per Shot  
+No Recoil  
+No Spread  
+~6x Cooldown speed  
+No carve  
+0.15s Overheat Duration  
+1x Movement Speed  
+200% Armor Breaking  
+200% Weakpoint Dmg.
+
+**Update v2.1 Changelog:**  
+Updated for Hotfix 6, removed equip speed change, reduced Overheat duration, lowered firerate, reduced cooldown speed, removed barrel spindown change.
 
 ## Sentrygun Base Ammo Buffed - v1.0
 **Authors:** Tristus  
