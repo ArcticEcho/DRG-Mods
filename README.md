@@ -64,6 +64,7 @@ Managed by Karl Jr.
 
  - **[Gameplay/Gamemodes/Handicaps](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Gamemodes/Handicaps)**
    - **[No Reviving](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Gamemodes/Handicaps/README.md#no-reviving---v2)** by Shrub_Daddy ([download](https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Gamemodes/Handicaps/No%20Reviving%20-%20V2%20_P.pak))
+   - **[Warmer Swarmers](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Gamemodes/Handicaps/README.md#warmer-swarmers---v1)** by Shrub_Daddy ([download](https://github.com/ArcticEcho/DRG-Mods/raw/bc5bb217b7e6d692481115ffcb2a41528a4cea2a/Gameplay/Gamemodes/Handicaps/Warmer%20Swarmers%20-%20V1%20_P.pak))
 
  - **[Gameplay/Gamemodes/Hazard Levels](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Gamemodes/Hazard%20Levels)**
    - **[Best Friends Forever](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Gamemodes/Hazard%20Levels/README.md#best-friends-forever---v10)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/4a75f60a60ddaea7872ed65dfee56c32b0b948bf/Gameplay/Gamemodes/Hazard%20Levels/Best%20Friends%20Forever%20-%20V1.0%20_P.pak))
