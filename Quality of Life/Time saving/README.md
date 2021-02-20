@@ -13,17 +13,17 @@ QoL mods to speed up actions that take too long in-game.
 **Requires the mod loader.**  
 Adds a promotion terminal to your personal cabin. Host-only.
 
-## DorettaDontCare - v1.02
+## DorettaDontCare - v1.03
 **Authors:** BongoSkaggs  
-**DRG Version:** U33 H4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/95aacd87c4b377c997b3b0afd4a7e1c48befd188/Quality%20of%20Life/Time%20saving/DorettaDontCare%20-%20V1.02%20_P.pak)  
+**DRG Version:** U33 H6  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/95d98f93c3dc097f2d6252c3366793a649dc35b5/Quality%20of%20Life/Time%20saving/DorettaDontCare%20-%20V1.03%20_P.pak)  
 
 **Description:**  
 -Increases Doretta's mining speed by 66% (From 0.6 to 1.0)  
 -Host mod.
 
-**Update v1.02 Changelog:**  
-Fixed crash introduced in H4.
+**Update v1.03 Changelog:**  
+Fixed crash introduced in H6.
 
 ## DorettaSpeedBuffed - v1.4
 **Authors:** Tristus  
