@@ -1330,35 +1330,35 @@
   },
   "customwaves": {
     "DisplayName": "Custom Waves",
-    "Version": "1.3",
+    "Version": "1.4",
     "DrgVersion": "Update 33, Hotifx 6",
     "AuthorIds": [
       158916111390343168
     ],
-    "Description": "**Requires the mod loader.**\nThis mod adds a new customisable wave system to the game, it doesn't replace the \"natural\" in-game waves. The mod uses a spawn cost and spawn chance system to make wave compositions feel more natural and varied. Every enemy is assigned a spawn chance that determines its rarity (higher number = higher chance to spawn), and a spawn cost that determines how expensive that enemy type is to spawn (higher number = less units spawn per wave). Each wave is made up of multiple \"stages\", where each stage will spawn a group of enemies on a random player (at a set distance).\n\nUpdate 1.3:\n_This update will reset your settings._\n - Added 8 new enemies: arc acid spitter, explosive bomber, sentinel, tri-jaw, brundle, lacerator, arbelast, and hiveguard.\n - Fixed a bug that would allow enemies to spawn closer to players than what the minimum spawn distance was set to.\n - Fixed for update 33.\n - Altered default settings (arc acid spitters are used instead of normal acid spitters as they do not immediately start attacking after spawning.)",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/11f1898c099666fd9ce65eacf9c21a94b4f5491a/Gameplay/Customizable%20tweaks/Custom%20Waves%20-%20V1.3%20_P.pak",
+    "Description": "**Requires the mod loader.**\nThis mod adds a new customisable wave system to the game, it doesn't replace the \"natural\" in-game waves. The mod uses a spawn cost and spawn chance system to make wave compositions feel more natural and varied. Every enemy is assigned a spawn chance that determines its rarity (higher number = higher chance to spawn), and a spawn cost that determines how expensive that enemy type is to spawn (higher number = less units spawn per wave). Each wave is made up of multiple \"stages\", where each stage will spawn a group of enemies on a random player (at a set distance).",
+    "LastUpdateChangelog": "Fixed a minor conflict with the generous management mod.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a822a01a4174c1de2f511549a34eedcf26093bbe/Gameplay/Customizable%20tweaks/Custom%20Waves%20-%20V1.4%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Custom Waves - V1.3",
+        "PakFileName": "Custom Waves - V1.4",
         "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod024.uasset": "F1-1B-93-DE-2D-A6-63-7A",
+          "../../../FSD/Content/_ModBPs/Mod024.uasset": "F2-BB-96-95-E6-67-1C-9E",
           "../../../FSD/Content/_ModBPs/MyMods/_/RandomWorldTransform/ExtraSearchDirection.uasset": "EC-13-76-79-68-27-97-59",
-          "../../../FSD/Content/_ModBPs/MyMods/_/RandomWorldTransform/RandomWorldTransformV4.uasset": "57-33-56-1D-05-7C-C0-AB",
+          "../../../FSD/Content/_ModBPs/MyMods/_/RandomWorldTransform/RandomWorldTransformV5.uasset": "FB-D3-44-37-70-B2-5A-94",
           "../../../FSD/Content/_ModBPs/MyMods/_/WaveManagerV1_2/EnemyValues.uasset": "16-42-C6-25-DB-69-BB-5F",
           "../../../FSD/Content/_ModBPs/MyMods/_/WaveManagerV1_2/WaveDiversityMode.uasset": "A3-49-60-6B-C2-0A-6B-50",
-          "../../../FSD/Content/_ModBPs/MyMods/_/WaveManagerV1_2/WaveManager.uasset": "1E-8D-F9-45-B9-0D-A4-A2",
+          "../../../FSD/Content/_ModBPs/MyMods/_/WaveManagerV1_2/WaveManager.uasset": "AA-33-C2-8E-86-D0-EC-88",
           "../../../FSD/Content/_ModBPs/MyMods/_/WaveManagerV1_2/WaveManagerConfiguration.uasset": "13-BD-19-6A-F5-D1-9D-8A",
-          "../../../FSD/Content/_ModBPs/MyMods/CustomWaves/024_SaveData.uasset": "97-A7-98-43-FF-88-DF-A1",
+          "../../../FSD/Content/_ModBPs/MyMods/CustomWaves/024_SaveData.uasset": "E0-02-43-57-D6-C0-A2-27",
           "../../../FSD/Content/_ModBPs/MyMods/CustomWaves/024_UI.uasset": "AB-F3-3D-DB-CB-C4-BC-D7",
-          "../../../FSD/Content/_ModBPs/Mod024.uexp": "09-F4-14-0A-CF-70-6B-5B",
+          "../../../FSD/Content/_ModBPs/Mod024.uexp": "3B-F0-23-8B-6F-7B-63-EA",
           "../../../FSD/Content/_ModBPs/MyMods/_/RandomWorldTransform/ExtraSearchDirection.uexp": "67-E0-64-B7-64-57-CA-F6",
-          "../../../FSD/Content/_ModBPs/MyMods/_/RandomWorldTransform/RandomWorldTransformV4.uexp": "BD-E8-DC-DD-03-33-27-56",
+          "../../../FSD/Content/_ModBPs/MyMods/_/RandomWorldTransform/RandomWorldTransformV5.uexp": "BD-E8-DC-DD-03-33-27-56",
           "../../../FSD/Content/_ModBPs/MyMods/_/WaveManagerV1_2/EnemyValues.uexp": "ED-9D-57-2D-2F-D8-41-3F",
           "../../../FSD/Content/_ModBPs/MyMods/_/WaveManagerV1_2/WaveDiversityMode.uexp": "DD-72-39-DF-0C-BB-B0-CD",
           "../../../FSD/Content/_ModBPs/MyMods/_/WaveManagerV1_2/WaveManager.uexp": "42-93-CF-C7-ED-02-4F-EB",
           "../../../FSD/Content/_ModBPs/MyMods/_/WaveManagerV1_2/WaveManagerConfiguration.uexp": "13-D1-87-8D-CA-6F-80-1C",
-          "../../../FSD/Content/_ModBPs/MyMods/CustomWaves/024_SaveData.uexp": "C8-AA-30-AB-BE-9C-A0-5E",
+          "../../../FSD/Content/_ModBPs/MyMods/CustomWaves/024_SaveData.uexp": "08-D2-E4-B8-83-71-64-36",
           "../../../FSD/Content/_ModBPs/MyMods/CustomWaves/024_UI.uexp": "54-E3-07-9E-37-AD-26-C7"
         }
       }

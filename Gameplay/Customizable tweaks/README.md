@@ -16,20 +16,17 @@ Lets you control the global enemy cap, and can optionally lower the cap dependin
 **Update v2.2 Changelog:**  
 Improved culling performance.
 
-## Custom Waves - v1.3
+## Custom Waves - v1.4
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33, Hotifx 6  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/11f1898c099666fd9ce65eacf9c21a94b4f5491a/Gameplay/Customizable%20tweaks/Custom%20Waves%20-%20V1.3%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a822a01a4174c1de2f511549a34eedcf26093bbe/Gameplay/Customizable%20tweaks/Custom%20Waves%20-%20V1.4%20_P.pak)  
 
 **Description:**  
 **Requires the mod loader.**  
-This mod adds a new customisable wave system to the game, it doesn't replace the "natural" in-game waves. The mod uses a spawn cost and spawn chance system to make wave compositions feel more natural and varied. Every enemy is assigned a spawn chance that determines its rarity (higher number = higher chance to spawn), and a spawn cost that determines how expensive that enemy type is to spawn (higher number = less units spawn per wave). Each wave is made up of multiple "stages", where each stage will spawn a group of enemies on a random player (at a set distance).  
-Update 1.3:  
-_This update will reset your settings._  
- - Added 8 new enemies: arc acid spitter, explosive bomber, sentinel, tri-jaw, brundle, lacerator, arbelast, and hiveguard.  
- - Fixed a bug that would allow enemies to spawn closer to players than what the minimum spawn distance was set to.  
- - Fixed for update 33.  
- - Altered default settings (arc acid spitters are used instead of normal acid spitters as they do not immediately start attacking after spawning.)
+This mod adds a new customisable wave system to the game, it doesn't replace the "natural" in-game waves. The mod uses a spawn cost and spawn chance system to make wave compositions feel more natural and varied. Every enemy is assigned a spawn chance that determines its rarity (higher number = higher chance to spawn), and a spawn cost that determines how expensive that enemy type is to spawn (higher number = less units spawn per wave). Each wave is made up of multiple "stages", where each stage will spawn a group of enemies on a random player (at a set distance).
+
+**Update v1.4 Changelog:**  
+Fixed a minor conflict with the generous management mod.
 
 ## Environmentalist - v3.1
 **Authors:** ArcticEcho  
