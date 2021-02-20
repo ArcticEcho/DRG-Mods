@@ -3668,18 +3668,18 @@
   },
   "fustercluckjr": {
     "DisplayName": "Fuster Cluck Jr",
-    "Version": "1.0",
+    "Version": "1.01",
     "DrgVersion": "Update 33",
     "AuthorIds": [
       712926827911446548,
       146392394328178690
     ],
     "Description": "A spiritual placeholder mod for <@!146392394328178690> 's Fuster Cluck mod\n--Bulk Detonators have 24 bomblets at death that carve a large area of terrain",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9e8daf64033c2ae2a3e4e458d9f9e7432447ea02/Gameplay/Unbalanced/Tools%20%26%20Gear/Fuster%20Cluck%20Jr%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "--Reduced Ideal Spawn Size from 2 back to 1\n--Reduced Max Spawn Count from 4 back to 1",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1dd37bffc5bec99d8deab1d01ea531a97cc4c711/Gameplay/Unbalanced/Tools%20%26%20Gear/Fuster%20Cluck%20Jr%20-%20V1.01%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Fuster Cluck Jr - V1.0",
+        "PakFileName": "Fuster Cluck Jr - V1.01",
         "CookedFileHashes": {
           "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank.uasset": "59-3A-76-4D-C3-9A-E8-DF",
           "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank.uasset": "AA-08-65-D2-7A-F8-07-F3",
@@ -3687,7 +3687,7 @@
           "../../../FSD/Content/Enemies/Spider/ExploderTank/PM_ExploderTank_WeakPoint2.uasset": "68-6B-CC-EB-E5-D6-5D-27",
           "../../../FSD/Content/Enemies/Spider/ExploderTank/PM_ExploderTank_WeakPoint3.uasset": "52-CE-A0-BE-81-CB-8A-2B",
           "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uasset": "1B-2E-98-BA-5F-62-B9-C2",
-          "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank.uexp": "38-AA-8E-DE-01-DB-C4-3E",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank.uexp": "33-2F-56-E9-A3-98-26-1A",
           "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank.uexp": "1B-67-A6-70-78-B8-11-3A",
           "../../../FSD/Content/Enemies/Spider/ExploderTank/PM_ExploderTank_WeakPoint1.uexp": "80-01-15-96-EB-28-4C-DB",
           "../../../FSD/Content/Enemies/Spider/ExploderTank/PM_ExploderTank_WeakPoint2.uexp": "80-01-15-96-EB-28-4C-DB",
