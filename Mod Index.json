@@ -273,17 +273,17 @@
   },
   "aioweaponbalance": {
     "DisplayName": "AiO Weapon Balance",
-    "Version": "1.14",
+    "Version": "1.15",
     "DrgVersion": "Update 33, Hotfix 5",
     "AuthorIds": [
       88687704232951808
     ],
     "Description": "Changes will fully works only if the host has the mod installed.\nMostly buffs for underpowered OC and mods with some small nerfs (BC and TCF).\nMade in collaboration with <@!184373044351991809>.\nFull change list: https://github.com/elythnwaen/drg-weapon-balance/blob/main/AiO/AiO-Balance.md",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2f511c1cdbd91381e8a11b0c513838fb7bbdc198/Gameplay/Balanced/AiO%20Weapon%20Balance%20-%20V1.14%20_P.pak",
+    "LastUpdateChangelog": "Deepcore GK2:\nDecrease Max Ammo from 420 to 390\nCryo Cannon:\nDecrease Cold Damage (Temmperature) from 8 to 7\nGear Mod T4B: Increase Cold Damage (Temperature) from 1 to 2",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f4384db0b9404c3f05a81e41a3ec66c97dc0c627/Gameplay/Balanced/AiO%20Weapon%20Balance%20-%20V1.15%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "AiO Weapon Balance - V1.14",
+        "PakFileName": "AiO Weapon Balance - V1.15",
         "CookedFileHashes": {
           "../../../FSD/Content/LevelElements/RoomObjects/Hazards/ElectricPlant/STE_ElecticPlant_slowdown.uasset": "C6-91-BE-26-8E-58-25-D9",
           "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_DMG_25P_Assault.uasset": "E5-97-15-84-1D-CA-B3-E7",
@@ -317,6 +317,8 @@
           "../../../FSD/Content/WeaponsNTools/CombatShotgun/UPG_CombatShotgun_B_ClipSize+3.uasset": "41-64-A2-D4-9E-AF-81-E7",
           "../../../FSD/Content/WeaponsNTools/CombatShotgun/UPG_CombatShotgun_B_MaxAmmo.uasset": "72-DA-D0-AC-59-20-3D-7D",
           "../../../FSD/Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uasset": "FC-99-A4-CB-85-8C-CA-B7",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/UPG_Cryospray_D_Cooling.uasset": "05-6B-28-02-B6-99-37-1C",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/WPN_Cryospray.uasset": "D7-20-5C-16-72-71-75-08",
           "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Bonuis_ClipSize15_DualMP.uasset": "75-CC-66-F9-30-F8-C4-99",
           "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Penalty_Ammo-75_DualMP.uasset": "41-71-80-36-89-C1-98-E6",
           "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Penalty_ClipSize-10_DualMP.uasset": "B4-94-B5-D2-BC-30-D9-75",
@@ -353,7 +355,7 @@
           "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_DMG_25P_Assault.uexp": "7D-3E-A3-40-C5-C6-2B-74",
           "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_ClipSize.uexp": "BD-6D-73-93-9B-0E-2E-AD",
           "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_MaxAmmo.uexp": "4A-43-9F-E6-E7-5C-F9-BD",
-          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uexp": "BF-85-63-BD-5B-08-87-5D",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uexp": "82-35-3F-3A-34-C6-A6-65",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo_20.uexp": "65-D7-23-3F-2D-98-FB-58",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_FocusDamage_200P_M1000.uexp": "DD-C2-0C-7D-C7-22-BF-35",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_SpreadPerShot2_M1000.uexp": "46-72-6B-AE-52-F8-FD-29",
@@ -381,6 +383,8 @@
           "../../../FSD/Content/WeaponsNTools/CombatShotgun/UPG_CombatShotgun_B_ClipSize+3.uexp": "90-12-1A-91-23-02-49-62",
           "../../../FSD/Content/WeaponsNTools/CombatShotgun/UPG_CombatShotgun_B_MaxAmmo.uexp": "A4-BE-F4-DB-E6-95-A4-64",
           "../../../FSD/Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uexp": "B2-91-D6-10-F0-B0-EA-FA",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/UPG_Cryospray_D_Cooling.uexp": "09-49-22-76-DF-DE-5E-AC",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/WPN_Cryospray.uexp": "74-DE-24-0F-EE-91-41-F9",
           "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Bonuis_ClipSize15_DualMP.uexp": "B0-80-10-38-A0-0D-DC-B7",
           "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Penalty_Ammo-75_DualMP.uexp": "77-36-4B-9D-C4-90-07-67",
           "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Penalty_ClipSize-10_DualMP.uexp": "C8-E7-A1-BB-14-6C-21-6E",
