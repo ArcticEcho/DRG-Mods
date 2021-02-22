@@ -1307,25 +1307,27 @@
   },
   "customenemycap": {
     "DisplayName": "Custom Enemy Cap",
-    "Version": "2.2",
-    "DrgVersion": "Update 33, Hotifx 4",
+    "Version": "2.3",
+    "DrgVersion": "Update 33, Hotfix 6",
     "AuthorIds": [
       158916111390343168
     ],
     "Description": "**Requires the mod loader.**\nLets you control the global enemy cap, and can optionally lower the cap depending on your FPS. Only works as the host.",
-    "LastUpdateChangelog": "Improved culling performance.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/887c00cd28f4313d9cb45f14a1d1b2522796526c/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.2%20_P.pak",
+    "LastUpdateChangelog": "- Added the escort flying rocks to the list of enemies the mod will cull.\n - Fixed a bug that cause the mod to think there are more enemies alive than there actually are.\n - Fixed a bug with \"weakest enemy first\" culling option that would cause stronger enemies to be culled first.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/338c8a1633fd08371cf0a0c69e4d943c27f27c7b/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.3%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Custom Enemy Cap - V2.2",
+        "PakFileName": "Custom Enemy Cap - V2.3",
         "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod017.uasset": "96-4C-C8-ED-9A-15-49-E9",
+          "../../../FSD/Content/_ModBPs/Mod017.uasset": "B1-C1-E3-29-C8-35-7C-98",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV3.uasset": "C9-61-C8-B7-B1-24-50-32",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_SaveData.uasset": "84-B6-DC-55-63-02-BE-2F",
-          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_UI.uasset": "C2-19-88-19-B6-0E-37-16",
+          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_UI.uasset": "F5-9A-03-B3-00-00-7F-EF",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/CullMode.uasset": "7D-0E-93-43-EB-3F-C9-9C",
-          "../../../FSD/Content/_ModBPs/Mod017.uexp": "0A-68-4B-B5-4D-4C-A7-C9",
+          "../../../FSD/Content/_ModBPs/Mod017.uexp": "C8-20-C2-B2-12-4A-85-A4",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV3.uexp": "EF-3D-CE-8E-70-BB-FF-09",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_SaveData.uexp": "CF-B2-89-A0-E4-CB-E5-CC",
-          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_UI.uexp": "F6-FB-6A-BF-C5-18-B1-98",
+          "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_UI.uexp": "80-A6-2C-2E-A3-4C-23-11",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/CullMode.uexp": "1C-2A-83-37-1B-BF-ED-89",
           "../../../FSD/Content/Game/BP_GameMode.uexp": "ED-83-35-49-52-9E-2E-5F"
         }
