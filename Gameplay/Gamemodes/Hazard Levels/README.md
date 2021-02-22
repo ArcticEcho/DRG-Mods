@@ -138,6 +138,28 @@ This is a comprehensive Hazard 7 Mod
 **Update v3.1 Changelog:**  
 02/16/2021 corrected for the hotfix
 
+## Hazard 9- Freeme（and Hazard 8） - v1.0
+**Authors:** lpap  
+**DRG Version:** Update 33, Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7bfad1bda7fd37b4a69ad390877c022eb15b1361/Gameplay/Gamemodes/Hazard%20Levels/Hazard%209-%20Freeme%EF%BC%88and%20Hazard%208%EF%BC%89%20-%20V1.0.zip)  
+
+**Description:**  
+Hazard 9 is my design goal, Hazard 8 is just for beginners, not for design purposes, so it's best to play Hazard 9  
+——————  
+   One、Hazard 8/9 mod content introduction  
+   This is a new game experience "mod"  
+    The main content of mod, divided by type, is roughly divided into :  
+【Hazard 8/9】【60 Nitra】【110 Cap】【Weapons and Perks Adjustment 】  
+Hazard 9 and 8 are two integrated "mods" that are the same except for difficulty  
+    As you can see, this mod is different from most of the others, This mod was created by considering more of the game's elements, so it has many types of conten, with the weapon stats being the biggest change  
+    Detailed changes, please check in the compressed package  
+——————  
+If I follow this game in the future, I'll keep updating the Hazard 8/9 mod  
+This is something I made with my current understanding of games, you may find it a little difficult at the beginning, please try more  
+Hazard 8/9 May be disabled due to the game's "hotfix", Or I updated it, Please Constant concern discord  
+The following two compressed packages in addition to language translation is different, the rest of the content is the same  
+Because the word limit is exceeded, I put the other content in the “attention points”, there are some things that must be paid attention to, please be sure to check
+
 ## Starship Troopers - v33.2.1
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 2  
