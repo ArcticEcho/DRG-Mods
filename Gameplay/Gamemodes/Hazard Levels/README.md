@@ -131,10 +131,10 @@ corrected doretta file for hotfix (again)
 **Update v3.1 Changelog:**  
 corrected doretta file for hotfix (again)
 
-## Hazard 7 - v3.1
+## Hazard 7 - v3.3
 **Authors:** Ike  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/65837456c6185e572251e02a26bb7f3237e2682a/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V3.1%20_P.pak)  
+**DRG Version:** Update 33 Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/063aa94006312c396151fcfd6a960dcb2b651a8c/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V3.3%20_P.pak)  
 
 **Description:**  
 This is a comprehensive Hazard 7 Mod  
@@ -149,8 +149,8 @@ This is a comprehensive Hazard 7 Mod
 --Works well with expanded enemy cap mods.  
  --For changes from V2.0 see Haz6
 
-**Update v3.1 Changelog:**  
-02/16/2021 corrected for the hotfix
+**Update v3.3 Changelog:**  
+corrected doretta file for hotfix (again)
 
 ## Hazard 9- Freeme（and Hazard 8） - v1.0
 **Authors:** lpap  
