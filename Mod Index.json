@@ -5174,19 +5174,19 @@
   },
   "pepegagunner": {
     "DisplayName": "Pepega Gunner",
-    "Version": "2.1",
-    "DrgVersion": "Update 33, Hotfix 6",
+    "Version": "2.2",
+    "DrgVersion": "Update 33, Hotfix 7",
     "AuthorIds": [
       350019378189828097
     ],
-    "Description": "Makes the Gunners Leadstorm super op \n99999 Ammo\n2000 rps\n1 Bullet Per Shot\nNo Recoil\nNo Spread\n~6x Cooldown speed\nNo carve\n0.15s Overheat Duration\n1x Movement Speed\n200% Armor Breaking\n200% Weakpoint Dmg.",
-    "LastUpdateChangelog": "Updated for Hotfix 6, removed equip speed change, reduced Overheat duration, lowered firerate, reduced cooldown speed, removed barrel spindown change.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/94a0371123b2704cf5856eb35af6a6a937925779/Gameplay/Unbalanced/Weapons/Pepega%20Gunner%20-%20V2.1%20_P.pak",
+    "Description": "Makes the Gunners Leadstorm super op, **please do not use if you are not host, and remember to tell people you are playing modded**\n99999 Ammo\n2000 rps\n1 Bullet Per Shot\nNo Recoil\nNo Spread\n~6x Cooldown speed\nNo carve\n0.15s Overheat Duration\n1x Movement Speed (leadstorm will still make 0x)\n200% Armor Breaking\n200% Weakpoint Dmg.\n100% Stun chance (leadstorm will still make 0%)",
+    "LastUpdateChangelog": "Updated for Hotfix 7, added stun chance.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e391291b0e556fbc378ddb98695605251a8074fa/Gameplay/Unbalanced/Weapons/Pepega%20Gunner%20-%20V2.2%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Pepega Gunner - V2.1",
+        "PakFileName": "Pepega Gunner - V2.2",
         "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "E1-F6-29-13-90-A4-68-03"
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "47-35-A6-08-C9-12-5A-72"
         }
       }
     ]
