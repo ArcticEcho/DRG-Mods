@@ -4716,23 +4716,23 @@
   },
   "mineheadisnowepic": {
     "DisplayName": "Minehead Is Now Epic",
-    "Version": "2.6",
-    "DrgVersion": "Update 33, Hotfix 5",
+    "Version": "2.7",
+    "DrgVersion": "Update 33, Hotfix 6",
     "AuthorIds": [
       158916111390343168
     ],
     "Description": "**Requires the mod loader.**\nThe point extract minehead now has gravity, can spin round, and can have its location randomised. All the features can be individually turned on/off. Only works as the host.",
-    "LastUpdateChangelog": "- Fixed for Update 33 Hotfix 5\n - Added an option to set the min distance when picking a new random location.\n - General under the hood improvements to the random location function.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a94cdc7531a10082e71b1a2b6750078d91c3774b/Gameplay/Customizable%20tweaks/Minehead%20Is%20Now%20Epic%20-%20V2.6%20_P.pak",
+    "LastUpdateChangelog": "- Fixed a bug that would cause the mod to ignore the random location min distance option.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d7626e2d8975bfd79af91b80fdd976a894c684c6/Gameplay/Customizable%20tweaks/Minehead%20Is%20Now%20Epic%20-%20V2.7%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Minehead Is Now Epic - V2.6",
+        "PakFileName": "Minehead Is Now Epic - V2.7",
         "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod006.uasset": "D8-00-07-98-FA-F3-C5-15",
+          "../../../FSD/Content/_ModBPs/Mod006.uasset": "E1-08-23-05-A4-70-49-E1",
           "../../../FSD/Content/_ModBPs/MyMods/_/RandomGroundLocationV2.uasset": "C2-23-E8-E1-DB-4D-F1-61",
           "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_SaveData.uasset": "78-27-29-5F-C4-F4-16-D2",
           "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_UI.uasset": "DF-72-D7-5E-70-99-F9-3C",
-          "../../../FSD/Content/_ModBPs/Mod006.uexp": "FA-80-22-FB-96-48-A0-2A",
+          "../../../FSD/Content/_ModBPs/Mod006.uexp": "23-83-07-E4-E1-19-A4-7F",
           "../../../FSD/Content/_ModBPs/MyMods/_/RandomGroundLocationV2.uexp": "7A-F2-75-ED-7F-61-C4-FE",
           "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_SaveData.uexp": "98-91-75-97-0D-FA-F9-9C",
           "../../../FSD/Content/_ModBPs/MyMods/BetterMinehead/006_UI.uexp": "ED-10-5B-D9-2E-56-1E-46"
