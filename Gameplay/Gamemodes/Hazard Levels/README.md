@@ -96,10 +96,10 @@ This mod is for making things difficult while waiting for joiners, testing 4man 
 --Should show Haz5.5 in game.  
 --Per request to add some challenge to viewer spawns since enemy amount isn't affected but enemy stats are.
 
-## Hazard 6 - v3.2
+## Hazard 6 - v3.3
 **Authors:** Ike  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/39b81e25e5701e09856746d3352002ee2947d974/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V3.2%20_P.pak)  
+**DRG Version:** Update 33 Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5c533c48780f49ee11204929185d1be43e2a48b1/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V3.3%20_P.pak)  
 
 **Description:**  
 This comprehensive Hazard 6 Mod  
@@ -115,8 +115,8 @@ This comprehensive Hazard 6 Mod
 -Enemies do a little more damage to make scaling more consistent with base game hazards and counteract the difficulty reduction from special enemy spawn frequency  
 -There is much more variance mission to mission in all difficulty elements
 
-**Update v3.2 Changelog:**  
-corrected for hotfix
+**Update v3.3 Changelog:**  
+corrected doretta file for hotfix (again)
 
 ## Hazard 6 Carry - v3.0
 **Authors:** Ike  
