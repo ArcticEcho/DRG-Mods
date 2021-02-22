@@ -62,6 +62,17 @@ Inspired by the movie Starship Troopers, Hoxxes IV is an ugly planet, a bug plan
 --Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks  
 A Custom Enemy Cap mod is recommended, I use a cap of 150. Lower ammo cost also recommended.
 
+## Hazard 0: Creative - v1.0
+**Authors:** Ike  
+**DRG Version:** Update 33 Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a853bfd0581c32f75dcad0f31619b477d3d6979e/Gameplay/Gamemodes/Hazard%20Levels/Hazard%200%20Creative%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+This replaces Hazard 1 with Hazard 0, which is intended for picture taking and testing.   
+--No enemies spawn in waves or at the beginning of the map. Not too much different from Haz1.  
+--There are a couple exceptions: swarmer nests can spawn 1 or 2 and non-enemy hazards like crystals still exist.  
+--Lower rewards for completion.
+
 ## Hazard 5 Carry - v3.0
 **Authors:** Ike  
 **DRG Version:** Update 33  
