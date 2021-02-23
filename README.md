@@ -1,10 +1,10 @@
-# DRG-Mods
+# DRG Mods
 
-Mod repository for the DRG Modding discord server.
+The complete mod repository for the DRG Modding discord server.
 
-Managed by Karl Jr.
+Managed by our bot, Karl Jr.
 
-## Mod List
+# Mod List
 <!-- mod list -->
 
 ## [Audio/Music](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music)
