@@ -22,21 +22,21 @@ Cryo Cannon:
 Decrease Cold Damage (Temmperature) from 8 to 7  
 Gear Mod T4B: Increase Cold Damage (Temperature) from 1 to 2
 
-## BBP (Big Balance Patch) - v1.51
+## BBP (Big Balance Patch) - v1.6
 **Authors:** GreyHound  
-**DRG Version:** U33 Hotfix 5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5e7b35b4deb31291b1faf6514c5ed28e970ae7c8/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.51.zip)  
+**DRG Version:** U33 Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9e719bbacf4f4545c5fac1d093ffab9a560c9327/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.6.zip)  
 
 **Description:**  
 Pretty much overhauls your entire DRG gameplay experience. The changelog is too long to post here, so it has been included in the zip file. Also features a PDF changelog option.  
 Notes:   
-1. Changes will fully work only if the lobby host has the mod installed, otherwise any damage changes will be ignored and set to vanilla.   
-2. Do not use it with any mods that alter the weapons' base values (ammo, damage etc.); perks and grenades have been altered as well, so are utility tools and armor mods. I'm not responsible for your crashes should you choose to ignore this;)   
-This mod includes a rework of the PGL, extensive changes to Zhukovs/Subata/Warthog/Autocannon/Breach Cutter and buffs to underperforming OCs/weapons/perks/grenades along with nerfs to overperforming ones.  
-Note on shield generator changes: there is currently a bug where the duration upgrades apply twice. In order to "fix" this, I halved them so the values actually match what's written in the files. This is a temporary solution and will be reverted once GSG fixes the issue.
+1. Changes will fully work only if the lobby host has the mod installed, otherwise any damage changes will be ignored and set to vanilla.  
+2. Do not use it with any mods that alter the weapons' base values (ammo, damage etc.); perks and grenades have been altered as well, so are utility tools and armor mods. I'm not responsible for your crashes should you choose to ignore this;)  
+    This mod includes a rework of the PGL, extensive changes to Zhukovs/Subata/Warthog/Autocannon/Breach Cutter and buffs to underperforming OCs/weapons/perks/grenades along with nerfs to overperforming ones.  
+    Note on shield generator changes: there is currently a bug where the duration upgrades apply twice. In order to "fix" this, I halved them so the values actually match what's written in the files. This is a temporary solution and will be reverted once GSG fixes the issue.
 
-**Update v1.51 Changelog:**  
-Fixes the BC projectile issues, adds a list of credits in a separate txt file.
+**Update v1.6 Changelog:**  
+included in the doc/pdf under (v1.6) in bold.
 
 ## HE Grenade Carve - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
