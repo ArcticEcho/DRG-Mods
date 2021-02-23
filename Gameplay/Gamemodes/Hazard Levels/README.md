@@ -178,6 +178,40 @@ Note: Included optional 60 Nitra ressuply mod
 **Update v33.2.1 Changelog:**  
 Added Hazard name change in game and updated description
 
+## Starship Troopers Elite - v33.7.2
+**Authors:** NaturalBornCamper  
+**DRG Version:** Update 33, Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d8f05e668e56ecf9d91c79ee362f5b8082e2b76c/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20Elite%20-%20V33.7.2%20_P.pak)  
+
+**Description:**  
+FOR VETERANS OF MY REGULAR STARSHIP TROOPERS MOD, this mod triples the spawn size.  
+Regular Haz5 swarms vary a lot and some maps can have very little spawns. That won't  
+happen with this mod, swarms will pretty much be as large as the enemy cap you put.  
+You will always have intense maps so you need to stay ahead of your ammo and prioritize  
+nitra!! I don't recommend this mod for player level below 300, and even then I saw  
+high level players get utterly destroyed, as this is easily comparable to haz 6. Don't  
+recommend on Escort missions (but who plays those buggy missions anyways..)  
+The enemies still have Haz4 specifications (speed, damage, resistance, ..) as regular  
+Starship Troopers, but everything else is Haz5 (friendly fire, revive health, etc)  
+Point Extraction (1-4 dwarves): https://youtu.be/Yyp_PEo3xdI  
+Elimination (3 dwarves): https://youtu.be/r63D2Lm3HQw  
+Egg hunt (2-3 dwarves): https://youtu.be/YpNsQN9zkrI  
+Egg hunt (1-4 dwarves): https://youtu.be/5uaqHCSEcLA  
+Salvage (4 dwarves): https://youtu.be/-X4jcD_yJrQ  
+Salvage (2 dwarves): https://youtu.be/6Rcwf1xIqig  
+Refinery (3-4 dwarves): https://youtu.be/baSFK-lYZ3k  
+Refinery (3 dwarves): https://youtu.be/fY4M1g16Iqo  
+Morkite (2 dwarves): https://youtu.be/R9bZczjiCRA  
+\-------  
+--Triples the swarm sizes of Haz5 enemies (200% on single player)  
+--Resupplies cost 60 nitra  
+--Escort missions rocks have 25% health (as you will be busy with enemies)  
+--150% XP bonus  
+--Added a delay before first announced swarm to let you get some nitra first  
+--All waves will be massive, regular Starship Troopers vacation is over  
+--Replaces Haz 5. So it won't work with Haz 6/7. Only the host needs the mod  
+--You NEED "Custom Cap" mod, 180/200 for normal enemies (but more if GPU can handle), 100/120 for swarmers
+
 ## Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives) - v33.2.1
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 2  
