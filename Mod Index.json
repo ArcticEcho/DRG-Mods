@@ -110,6 +110,56 @@
       }
     ]
   },
+  "2xxp": {
+    "DisplayName": "2X XP",
+    "Version": "3.1",
+    "DrgVersion": "Update 33, Hotfix 7",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Inspired by <@!220325734374309889>'s original 2X XP mod, this mod makes most XP gained, 2X as much.\nThis includes...\n--Primary Objectives\n--Secondary Objectives\n--THE CUBE\n--DD and EDD\n--Certain collectibles (only ones that had an XP variable, like Apoca Blooms)\n**Note that this DOES stack with 2x XP anomaly, also this is client sided**",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/13444a248ab3dc028b74fbc6749feaea4256a928/Gameplay/Unbalanced/Resources%20%26%20Progression/2X%20XP%20-%20V3.1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "2X XP - V3.1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Objectives/Salvage/OBJ_1st_Salvage.uasset": "66-CA-32-55-A9-C2-5D-0D",
+          "../../../FSD/Content/GameElements/DeepDives/Templates/DD_Hard.uexp": "8B-5F-60-35-1A-7F-28-71",
+          "../../../FSD/Content/GameElements/DeepDives/Templates/DD_Normal.uexp": "1F-95-9E-E3-2B-D9-37-18",
+          "../../../FSD/Content/GameElements/Objectives/DeepDive/OBJ_DD_AlienEggs.uexp": "97-34-BB-B6-D1-1F-A7-B8",
+          "../../../FSD/Content/GameElements/Objectives/DeepDive/OBJ_DD_Morkite.uexp": "22-11-DE-BC-DD-BF-E7-A8",
+          "../../../FSD/Content/GameElements/Objectives/Defense/OBJ_1st_Defense.uexp": "5E-0E-49-75-11-1F-10-79",
+          "../../../FSD/Content/GameElements/Objectives/Elimination/OBJ_Eliminate_Eggs.uexp": "6E-16-7D-F2-C5-18-B1-22",
+          "../../../FSD/Content/GameElements/Objectives/Escort/OBJ_1st_Escort.uexp": "11-A5-9A-3D-5D-50-8D-CB",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_1st_Gather_AlienEggs.uexp": "32-09-8A-7C-5C-58-35-8E",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_1st_MineMorkite_linear.uexp": "2A-20-A0-70-F1-B1-D7-19",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_1st_PointExtraction.uexp": "82-30-58-F8-A2-69-FE-CF",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_2nd_Find_ApocaBloom.uexp": "2C-50-CD-98-7B-D7-8C-BB",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_2nd_Find_BooloCap.uexp": "7B-CA-EC-37-77-BF-F3-C8",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_2nd_Find_Ebonut.uexp": "07-C8-F4-85-B1-D9-86-29",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_2nd_Find_Fossil.uexp": "F8-6C-57-86-F4-C7-F4-6C",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_2nd_Find_Gunkseed.uexp": "7D-CA-5F-B8-7C-14-F7-7A",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_2nd_KillFleas_5.uexp": "D9-FB-A9-C7-6B-59-89-9C",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_2nd_Mine_Dystrum.uexp": "E9-25-EB-9D-A2-59-FD-ED",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_2nd_Mine_Hollomite.uexp": "47-32-E0-A0-21-58-83-43",
+          "../../../FSD/Content/GameElements/Objectives/OBJ_Gather_Base.uexp": "02-1C-7D-42-B6-79-CB-B0",
+          "../../../FSD/Content/GameElements/Objectives/Refinery/OBJ_1st_Refinery.uexp": "10-36-1D-FB-B1-F7-9F-9A",
+          "../../../FSD/Content/GameElements/Objectives/Reparation/OBJ_1st_RepairMinimules.uexp": "3E-5E-E7-11-4C-75-C8-97",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/ApocaBloom/RES_COLLECT_Apoca_Bloom.uexp": "FF-0F-BC-FF-E7-44-18-9C",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Barley/RES_COLLECT_Barley2.uexp": "0B-17-B8-B5-5B-AD-EC-88",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/BooloCap/RES_COLLECT_Boolo.uexp": "B7-72-AB-81-EA-29-08-77",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/RES_COLLECT_Ebonut.uexp": "BF-A5-86-37-61-93-DE-96",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Fossil/RES_COLLECT_Fossil.uexp": "76-C1-D8-EA-6F-F9-32-75",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/GunkSeed/RES_COLLECT_GunkSeed.uexp": "7D-4C-62-2D-C0-48-73-2F",
+          "../../../FSD/Content/GameElements/Resources/Embedded/AlienEgg/RES_EMBED_AlienEgg.uexp": "B9-96-C8-27-1C-D9-1D-10",
+          "../../../FSD/Content/GameElements/Resources/Embedded/Gems/RES_EMBED_Aquarq.uexp": "76-5E-89-EF-16-D6-F1-76",
+          "../../../FSD/Content/GameElements/Resources/Embedded/Gems/RES_HydraWeedCoreFragment.uexp": "95-2D-E2-88-61-07-F2-F5",
+          "../../../FSD/Content/GameElements/Resources/Embedded/UnknownArtifact/RES_EMBED_UnknownArtifact.uexp": "95-79-D0-62-42-4B-9E-D0"
+        }
+      }
+    ]
+  },
   "40nitrasupplydrops": {
     "DisplayName": "40 Nitra Supply Drops",
     "Version": "1.0",

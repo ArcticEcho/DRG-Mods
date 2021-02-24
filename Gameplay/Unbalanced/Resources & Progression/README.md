@@ -4,6 +4,21 @@ Unbalanced changes to nitra, gold, xp, materials, etc.
 
 <!-- mod list -->
 
+## 2X XP - v3.1
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 33, Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/13444a248ab3dc028b74fbc6749feaea4256a928/Gameplay/Unbalanced/Resources%20%26%20Progression/2X%20XP%20-%20V3.1%20_P.pak)  
+
+**Description:**  
+Inspired by @imdead's original 2X XP mod, this mod makes most XP gained, 2X as much.  
+This includes...  
+--Primary Objectives  
+--Secondary Objectives  
+--THE CUBE  
+--DD and EDD  
+--Certain collectibles (only ones that had an XP variable, like Apoca Blooms)  
+**Note that this DOES stack with 2x XP anomaly, also this is client sided**
+
 ## Double Treasures - v1
 **Authors:** Sephiasus  
 **DRG Version:** Update 32/33  
