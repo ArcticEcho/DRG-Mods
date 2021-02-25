@@ -67,6 +67,15 @@ No more needing to re-consider repairing BET-C or not on shield disruption missi
 --Friendly BET-C bombs do 0 damage on dwarves  
 \----------------------------------------------------------------
 
+## Leaf Lover Begone - v1
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 33, Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5edc5fecfa9b124fb36897210c0fbb6520d21c33/Gameplay/Misc/Leaf%20Lover%20Begone%20-%20V1%20_P.pak)  
+
+**Description:**  
+Makes the rank required to buy a leaf lovers 6,942,069, just so you never buy a Leaf Lovers Special  
+This is a joke mod... or is it?
+
 ## Pointless Low O2 - v1
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 33, Hotfix 6  

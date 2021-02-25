@@ -4611,6 +4611,25 @@
       }
     ]
   },
+  "leafloverbegone": {
+    "DisplayName": "Leaf Lover Begone",
+    "Version": "1",
+    "DrgVersion": "Update 33, Hotfix 7",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Makes the rank required to buy a leaf lovers 6,942,069, just so you never buy a Leaf Lovers Special\nThis is a joke mod... or is it?",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5edc5fecfa9b124fb36897210c0fbb6520d21c33/Gameplay/Misc/Leaf%20Lover%20Begone%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Leaf Lover Begone - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Bar/Drinkables/Drink_1st_LeafloversSpecial.uexp": "15-EA-FE-8D-3C-21-DF-A4"
+        }
+      }
+    ]
+  },
   "leechmoment": {
     "DisplayName": "Leech Moment",
     "Version": "1.1",
