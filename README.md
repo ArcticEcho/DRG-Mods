@@ -1,4 +1,4 @@
-# DRG Mods
+# Deep Rock Galactic Mods
 
 The complete mod repository for the DRG Modding discord server.
 
