@@ -42,6 +42,14 @@ Thanks to @Ike for the original, this is an update of his mod.
 **Update v1.01 Changelog:**  
 From 75 meters to 55
 
+## Reduced Neurotoxin Cloud Opacity - v1.0
+**Authors:** ArcticEcho  
+**DRG Version:** Update 33, Hotfix 8  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e7fc0438fdbc05d1d4b2652d9a63bef4c39b4265/Quality%20of%20Life/Other/Reduced%20Neurotoxin%20Cloud%20Opacity%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Reduces the opacity of the neurotoxin grenade's cloud to 15%, making it easier to see through.
+
 ## White Throwing Flares - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
