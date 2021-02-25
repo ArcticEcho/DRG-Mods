@@ -20,6 +20,23 @@ Makes your character kick barrels at 10x the force, conflicts with BarrelYeet5
 **Description:**  
 Makes your character kick barrels at 5x the force, conflicts with BarrelYeet10
 
+## Better Beers - v1
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 33, Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/36df3c1d12acccae46c57595bfc25feea08fd720/Gameplay/Misc/Better%20Beers%20-%20V1%20_P.pak)  
+
+**Description:**  
+Makes 8 of the special beers effects last longer  
+-**Blacklock Lager** Duration 20s > 120s  
+-**Blackreach Blonde** Duration 30s > 300s  
+-**Burning Love** Duration 12s > 60s  
+-**Flintlock Delight** Duration 25s > 75s  
+-**Mactera Brew** Duration 20s > 40s  
+-**Malt Rockbearer**Duration 30s > 120s  
+-**Seasoned Moonrider** Duration 25s > 150s  
+-**Underhill Deluxe** Duration 30s > 300s  
+-**Underhill Deluxe** Scale 0.5x > 0.37x
+
 ## Disco Fever! - v1.0
 **Authors:** Sesselpots  
 **DRG Version:** Update 33  

@@ -1063,6 +1063,32 @@
       }
     ]
   },
+  "betterbeers": {
+    "DisplayName": "Better Beers",
+    "Version": "1",
+    "DrgVersion": "Update 33, Hotfix 7",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Makes 8 of the special beers effects last longer\n-**Blacklock Lager** Duration 20s > 120s\n-**Blackreach Blonde** Duration 30s > 300s\n-**Burning Love** Duration 12s > 60s\n-**Flintlock Delight** Duration 25s > 75s\n-**Mactera Brew** Duration 20s > 40s\n-**Malt Rockbearer**Duration 30s > 120s\n-**Seasoned Moonrider** Duration 25s > 150s\n-**Underhill Deluxe** Duration 30s > 300s\n-**Underhill Deluxe** Scale 0.5x > 0.37x",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/36df3c1d12acccae46c57595bfc25feea08fd720/Gameplay/Misc/Better%20Beers%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Better Beers - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Bar/DrinkEffects/DE_BlacklockLager.uexp": "89-C6-6B-3B-C4-1C-55-41",
+          "../../../FSD/Content/GameElements/Bar/DrinkEffects/DE_BurningLove.uexp": "37-19-19-A9-A9-00-F3-EF",
+          "../../../FSD/Content/GameElements/Bar/DrinkEffects/DE_DiscoLight.uexp": "D6-1B-5C-EF-B4-B1-12-62",
+          "../../../FSD/Content/GameElements/Bar/DrinkEffects/DE_FlintLockesDelight.uexp": "86-3F-E2-6A-EF-5B-1B-BB",
+          "../../../FSD/Content/GameElements/Bar/DrinkEffects/DE_MacteraBrew.uexp": "D3-33-9E-FF-BC-1C-DD-B9",
+          "../../../FSD/Content/GameElements/Bar/DrinkEffects/DE_MaltRockBearer.uexp": "BA-59-DD-21-8E-04-54-6E",
+          "../../../FSD/Content/GameElements/Bar/DrinkEffects/DE_SeasonedMoonrider.uexp": "29-B0-15-AF-01-C0-37-39",
+          "../../../FSD/Content/GameElements/Bar/DrinkEffects/DE_UnderhillDeluxe.uexp": "4C-54-72-2C-18-76-31-8E"
+        }
+      }
+    ]
+  },
   "betterbosco": {
     "DisplayName": "Better Bosco",
     "Version": "1.0",
