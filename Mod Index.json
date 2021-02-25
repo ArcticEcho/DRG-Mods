@@ -1217,6 +1217,44 @@
       }
     ]
   },
+  "bpmodmanager": {
+    "DisplayName": "BP Mod Manager",
+    "Version": "4.2",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "Loads BluePrint mods into the game and provides a simple UI for managing them. Previously known as the mod loader.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/720009de925fb84a514f56c27959bc9011d2de9f/Framework/BP%20Mod%20Manager%20-%20V4.2%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Mod Loader - V4.2",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "6F-E7-21-3F-B6-41-8B-23",
+          "../../../FSD/Content/_ModBPs/ModManager/EmptyWidget.uasset": "90-7E-6E-02-58-28-A0-58",
+          "../../../FSD/Content/_ModBPs/ModManager/ModListItemUI.uasset": "5F-BD-8A-9F-1D-7E-49-53",
+          "../../../FSD/Content/_ModBPs/ModManager/ModManager.uasset": "6D-2E-D4-11-EE-A9-48-68",
+          "../../../FSD/Content/_ModBPs/ModManager/ModManagerConfigUI.uasset": "DC-D7-96-35-82-2D-C9-1D",
+          "../../../FSD/Content/_ModBPs/ModManager/ModManagerNotification.uasset": "39-A2-AD-C6-CE-C5-CB-29",
+          "../../../FSD/Content/_ModBPs/ModManager/ModManagerSaveData.uasset": "23-DB-06-C2-4B-F5-12-B9",
+          "../../../FSD/Content/_ModBPs/ModManager/ModManagerUI.uasset": "CF-97-C3-0B-93-32-62-21",
+          "../../../FSD/Content/_ModBPs/ModManager/ModsLoaded.uasset": "6F-58-D8-9D-AD-25-49-73",
+          "../../../FSD/Content/UI/Menu_EscapeMenu/ITM_CreditsEntry.uasset": "C3-57-3A-73-C9-59-9B-09",
+          "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1E-90-65-97-04-D7-A0-4C",
+          "../../../FSD/Content/_ModBPs/ModManager/EmptyWidget.uexp": "24-ED-4E-43-4F-2E-0E-2E",
+          "../../../FSD/Content/_ModBPs/ModManager/ModListItemUI.uexp": "D0-DE-D4-C6-31-CF-B3-1E",
+          "../../../FSD/Content/_ModBPs/ModManager/ModManager.uexp": "F8-B2-78-82-E5-C3-03-5E",
+          "../../../FSD/Content/_ModBPs/ModManager/ModManagerConfigUI.uexp": "AE-02-72-D1-AF-75-67-DE",
+          "../../../FSD/Content/_ModBPs/ModManager/ModManagerNotification.uexp": "0B-B3-3E-C0-51-89-C2-6A",
+          "../../../FSD/Content/_ModBPs/ModManager/ModManagerSaveData.uexp": "88-2D-E4-01-69-E0-9F-48",
+          "../../../FSD/Content/_ModBPs/ModManager/ModManagerUI.uexp": "16-D8-9C-AC-1F-D1-AF-88",
+          "../../../FSD/Content/_ModBPs/ModManager/ModsLoaded.uexp": "36-2F-54-F5-36-2D-A2-E3",
+          "../../../FSD/Content/UI/Menu_EscapeMenu/ITM_CreditsEntry.uexp": "B8-9E-95-96-18-01-4F-F1"
+        }
+      }
+    ]
+  },
   "brt7electropoglets": {
     "DisplayName": "BRT7 Electro Poglets",
     "Version": "1.0",
@@ -5082,44 +5120,6 @@
           "../../../FSD/Content/_ModBPs/MyMods/MissionTimer/MissionTimerUI.uasset": "B2-B5-D5-76-A2-25-F6-EB",
           "../../../FSD/Content/_ModBPs/Mod011.uexp": "B1-73-52-0C-09-1B-56-FA",
           "../../../FSD/Content/_ModBPs/MyMods/MissionTimer/MissionTimerUI.uexp": "DF-0A-D2-43-6F-93-EE-C9"
-        }
-      }
-    ]
-  },
-  "modloader": {
-    "DisplayName": "Mod Loader",
-    "Version": "4.2",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      158916111390343168
-    ],
-    "Description": "Provides a platform for mod developers to get their BluePrints mods loaded into the game. You can view and interact with the mods using the manager menu (keybinding N).",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/990c9ab8e3aca2189d2ef616893997f1e9cbceb8/Framework/Mod%20Loader%20-%20V4.2%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Mod Loader - V4.2",
-        "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "6F-E7-21-3F-B6-41-8B-23",
-          "../../../FSD/Content/_ModBPs/ModManager/EmptyWidget.uasset": "90-7E-6E-02-58-28-A0-58",
-          "../../../FSD/Content/_ModBPs/ModManager/ModListItemUI.uasset": "5F-BD-8A-9F-1D-7E-49-53",
-          "../../../FSD/Content/_ModBPs/ModManager/ModManager.uasset": "6D-2E-D4-11-EE-A9-48-68",
-          "../../../FSD/Content/_ModBPs/ModManager/ModManagerConfigUI.uasset": "DC-D7-96-35-82-2D-C9-1D",
-          "../../../FSD/Content/_ModBPs/ModManager/ModManagerNotification.uasset": "39-A2-AD-C6-CE-C5-CB-29",
-          "../../../FSD/Content/_ModBPs/ModManager/ModManagerSaveData.uasset": "23-DB-06-C2-4B-F5-12-B9",
-          "../../../FSD/Content/_ModBPs/ModManager/ModManagerUI.uasset": "CF-97-C3-0B-93-32-62-21",
-          "../../../FSD/Content/_ModBPs/ModManager/ModsLoaded.uasset": "6F-58-D8-9D-AD-25-49-73",
-          "../../../FSD/Content/UI/Menu_EscapeMenu/ITM_CreditsEntry.uasset": "C3-57-3A-73-C9-59-9B-09",
-          "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1E-90-65-97-04-D7-A0-4C",
-          "../../../FSD/Content/_ModBPs/ModManager/EmptyWidget.uexp": "24-ED-4E-43-4F-2E-0E-2E",
-          "../../../FSD/Content/_ModBPs/ModManager/ModListItemUI.uexp": "D0-DE-D4-C6-31-CF-B3-1E",
-          "../../../FSD/Content/_ModBPs/ModManager/ModManager.uexp": "F8-B2-78-82-E5-C3-03-5E",
-          "../../../FSD/Content/_ModBPs/ModManager/ModManagerConfigUI.uexp": "AE-02-72-D1-AF-75-67-DE",
-          "../../../FSD/Content/_ModBPs/ModManager/ModManagerNotification.uexp": "0B-B3-3E-C0-51-89-C2-6A",
-          "../../../FSD/Content/_ModBPs/ModManager/ModManagerSaveData.uexp": "88-2D-E4-01-69-E0-9F-48",
-          "../../../FSD/Content/_ModBPs/ModManager/ModManagerUI.uexp": "16-D8-9C-AC-1F-D1-AF-88",
-          "../../../FSD/Content/_ModBPs/ModManager/ModsLoaded.uexp": "36-2F-54-F5-36-2D-A2-E3",
-          "../../../FSD/Content/UI/Menu_EscapeMenu/ITM_CreditsEntry.uexp": "B8-9E-95-96-18-01-4F-F1"
         }
       }
     ]

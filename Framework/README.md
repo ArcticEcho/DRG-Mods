@@ -3,13 +3,13 @@ Mods that act as an underlying base of some kind for other mods.
 
 <!-- mod list -->
 
-## Mod Loader - v4.2
+## BP Mod Manager - v4.2
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/990c9ab8e3aca2189d2ef616893997f1e9cbceb8/Framework/Mod%20Loader%20-%20V4.2%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/720009de925fb84a514f56c27959bc9011d2de9f/Framework/BP%20Mod%20Manager%20-%20V4.2%20_P.pak)  
 
 **Description:**  
-Provides a platform for mod developers to get their BluePrints mods loaded into the game. You can view and interact with the mods using the manager menu (keybinding N).
+Loads BluePrint mods into the game and provides a simple UI for managing them. Previously known as the mod loader.
 
 ## Music Control - v1.0
 **Authors:** Demellion Dismal  
