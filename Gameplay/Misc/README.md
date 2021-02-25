@@ -45,6 +45,20 @@ Makes 8 of the special beers effects last longer
 **Description:**  
 Drinking a Blackreach Blonde will make you dance for 5 hours, or until you drink a Leaf Lover or DIE
 
+## Doretta 50% Enemy Damage Resistance - v33.7.0
+**Authors:** NaturalBornCamper  
+**DRG Version:** Update 33, Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/fb6638e0754fb1fcb4b36386122612f12ced78b4/Gameplay/Misc/Doretta%2050%25%20Enemy%20Damage%20Resistance%20-%20V33.7.0%20_P.pak)  
+
+**Description:**  
+Management finally invested and replaced Doretta's wet paper armor with cartboard!  
+Specifically made for high hazard mods, like Starship Troopers, Starship Troopers Elite, Bug Planet, Bug Planet Constant Conflict and 1.5x/2x enemies, where Doretta missions can be nearly impossible, especially with the huge amount of flying rocks and enemies keeping you busy from defending her.  
+It basically gives Doretta 50% damage resistance over all enemy attacks, so her health won't go down as fast if you went mining nitra haha  
+I don't think I will include this mod in Starship Troopers as most people will probably want the real deal.  
+\-------------------------------------------------------  
+--Only host needs the mod, will not break the doretta health UI on clients  
+--I did not change the friendly fire damage or environmental damage as it seems balanced
+
 ## Fabulously Fast Lootbugs - v1
 **Authors:** Sephiasus  
 **DRG Version:** Update 32/33  
