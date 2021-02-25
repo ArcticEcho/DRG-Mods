@@ -4794,6 +4794,26 @@
       }
     ]
   },
+  "lloydtakealligot": {
+    "DisplayName": "Lloyd Take All I Got",
+    "Version": "0",
+    "DrgVersion": "Update 33, Anniversary",
+    "AuthorIds": [
+      387909475924967426
+    ],
+    "Description": "What even can you buy with 5 coins?\nIncreased Lloyd tip to 500, erased tip cooldown entirely\n-------------------------------\nThis is basic version that didn't change locres, therefore no random conflicts with random text changing mods, but text is always saying you're tipping 5 credits...",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e9ce9cecb72fcb2da96dd7c059f3bfbdcbb2b028/Quality%20of%20Life/Time%20saving/Lloyd%20Take%20All%20I%20Got%20-%20V0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Lloyd Take All I Got - V0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Art/Environments/SpaceRig/TipMachine/BP_TIpJar_Base_Blueprint.uasset": "88-A2-6B-5C-8E-49-E3-48",
+          "../../../FSD/Content/Art/Environments/SpaceRig/TipMachine/BP_TIpJar_Base_Blueprint.uexp": "37-79-41-46-F8-D1-89-D5"
+        }
+      }
+    ]
+  },
   "lootsplosion": {
     "DisplayName": "Lootsplosion",
     "Version": "1.0",

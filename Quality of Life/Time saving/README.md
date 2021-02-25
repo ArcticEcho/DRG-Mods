@@ -69,6 +69,17 @@ Fixed crash introduced in H6.
 **Description:**  
 --Makes the time to start a mission in multiplayer or solo 1 second, allowing you to just make it to your seat!
 
+## Lloyd Take All I Got - v0
+**Authors:** Bebe  
+**DRG Version:** Update 33, Anniversary  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e9ce9cecb72fcb2da96dd7c059f3bfbdcbb2b028/Quality%20of%20Life/Time%20saving/Lloyd%20Take%20All%20I%20Got%20-%20V0%20_P.pak)  
+
+**Description:**  
+What even can you buy with 5 coins?  
+Increased Lloyd tip to 500, erased tip cooldown entirely  
+\-------------------------------  
+This is basic version that didn't change locres, therefore no random conflicts with random text changing mods, but text is always saying you're tipping 5 credits...
+
 ## NotSoBrokenSupplyPod - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
