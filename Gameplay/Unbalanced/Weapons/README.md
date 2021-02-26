@@ -62,6 +62,14 @@ Clip size penalty: -6 -> -9
 **Description:**  
 Bulldog Revolver's "Neurotoxin Coating" chance is now Guaranteed
 
+## Bulldog M1K Sound - v1.0
+**Authors:** Chibba  
+**DRG Version:** Update 33, Hotfix 9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b00a2e313289ef85c38dfdeb28e9fdb4bdea3ed4/Gameplay/Unbalanced/Weapons/Bulldog%20M1K%20Sound%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Changes the normal shooting sound of the M1K to Bulldog and gives it more ammo
+
 ## EPC Carve 7m - v1.0
 **Authors:** BrewBreuw  
 **DRG Version:** Update 33  

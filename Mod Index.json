@@ -1441,6 +1441,26 @@
       }
     ]
   },
+  "bulldogm1ksound": {
+    "DisplayName": "Bulldog M1K Sound",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 9",
+    "AuthorIds": [
+      156386896866574336
+    ],
+    "Description": "Changes the normal shooting sound of the M1K to Bulldog and gives it more ammo",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b00a2e313289ef85c38dfdeb28e9fdb4bdea3ed4/Gameplay/Unbalanced/Weapons/Bulldog%20M1K%20Sound%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Bulldog M1K Sound - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uasset": "0B-F6-63-E0-F6-8D-B8-3E",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uexp": "76-2A-92-28-A8-CA-04-93"
+        }
+      }
+    ]
+  },
   "closerpromotionterminal": {
     "DisplayName": "Closer Promotion Terminal",
     "Version": "1.1",
