@@ -1715,20 +1715,20 @@
   },
   "doretta50enemydamageresistance": {
     "DisplayName": "Doretta 50% Enemy Damage Resistance",
-    "Version": "33.7.0",
-    "DrgVersion": "Update 33, Hotfix 7",
+    "Version": "33.9.0",
+    "DrgVersion": "Update 33, Hotfix 9",
     "AuthorIds": [
       306800962432008193
     ],
-    "Description": "Management finally invested and replaced Doretta's wet paper armor with cartboard!\nSpecifically made for high hazard mods, like Starship Troopers, Starship Troopers Elite, Bug Planet, Bug Planet Constant Conflict and 1.5x/2x enemies, where Doretta missions can be nearly impossible, especially with the huge amount of flying rocks and enemies keeping you busy from defending her.\nIt basically gives Doretta 50% damage resistance over all enemy attacks, so her health won't go down as fast if you went mining nitra haha\nI don't think I will include this mod in Starship Troopers as most people will probably want the real deal.\n-------------------------------------------------------\n--Only host needs the mod, will not break the doretta health UI on clients\n--I did not change the friendly fire damage or environmental damage as it seems balanced",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fb6638e0754fb1fcb4b36386122612f12ced78b4/Gameplay/Misc/Doretta%2050%25%20Enemy%20Damage%20Resistance%20-%20V33.7.0%20_P.pak",
+    "Description": "Management finally invested and replaced Doretta's wet paper armor with cartboard!\nSpecifically made for high hazard mods, like Starship Troopers, Starship Troopers Elite, Bug Planet, Bug Planet Constant Conflict and 1.5x/2x enemies (But incompatible with Haz6/7), where Doretta missions can be nearly impossible, especially with the huge amount of flying rocks and enemies keeping you busy from defending her.\nIt basically gives Doretta 50% damage resistance over all enemy attacks, so her health won't go down as fast if you went mining nitra and can't make it back in time haha.\nI don't think I will include this mod in Starship Troopers as most people will probably want the real deal.\n-------------------------------------------------------\n--Only host needs the mod, will not break the doretta health UI on clients\n--I did not change the friendly fire damage or environmental damage as it seems balanced",
+    "LastUpdateChangelog": "Updated for Update 33, Hotfix 9",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/efc4face425153a0b4db0eb005febe8b43c2c1bc/Gameplay/Misc/Doretta%2050%25%20Enemy%20Damage%20Resistance%20-%20V33.9.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Doretta 50% Enemy Damage Resistance - V33.7.0",
+        "PakFileName": "Doretta 50% Enemy Damage Resistance - V33.9.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uasset": "F4-28-16-4A-1D-4D-A9-32",
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "E8-B0-3F-A1-CD-DD-28-EA"
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uasset": "97-0A-91-ED-1A-06-66-A3",
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "4D-D2-7D-21-09-E7-3A-F7"
         }
       }
     ]
