@@ -45,6 +45,14 @@ HIVEGUARD- Slower sentinal goo, More fireball terrain carve, optional variant w/
 TWINS- Mines explode sooner and *optional variant can freeze you instead*, rockwave attack has more knockback.  
 (full changes in the zip file)
 
+## ElimWaves - v1.7
+**Authors:** Potatolaser  
+**DRG Version:** Update 33, hotfix 9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a6e4329ce73a401007ba96ad8d5e57895e578e96/Gameplay/Gamemodes/Alternative%20playstyles/ElimWaves%20-%20V1.7%20_P.pak)  
+
+**Description:**  
+This mod adds back "random enemy spawns" during dreadnought fights! GSG removed these in hotfix 4, but I personally disagree with that decision. Adds back that excitement so elimination missions don't get stale so quickly. Version 1.7 takes up less space than previous ones and is less likely to conflict with stuff.
+
 ## Health For Shields Compilation - v1.0
 **Authors:** Our Lord And Savior Gabe Newell, NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 4  
