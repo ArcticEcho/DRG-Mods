@@ -4232,6 +4232,39 @@
       }
     ]
   },
+  "highqualitygk2": {
+    "DisplayName": "High Quality GK2",
+    "Version": "1.0",
+    "DrgVersion": "U33, H9",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "Adjustments to make the GK2 less bland.\n\nBase weapon changes.\n-Increased base RoF from 7 to 14.\n-Increased base magazine size from 25 to 35.\n\nUpgrade changes.\n-T1.2 RoF upgrade increased from +2 to +4.\n-T2.1 Damage upgrade increased from +2 to +3.\n-T2.2 Max Ammo upgrade decreased from +100 to +70.\n-T3.2 Damage upgrade increased from +1 to +2.\n-T3.3 Magazine Size upgrade increased from +10 to +15.\n-T4.1 Weakspot Damage upgrade swapped with T5 upgrade 'Battle Frenzy.'\n-T4.3 RoF upgrade increased from +2 to +4.\n-T5.1 upgrade 'Battle Frenzy' swapped with T4.1 Weakspot Damage.\n-T5.2 upgrade 'Battle Cool' replaced with additional copy of T2.2 Max Ammo.\n\nOverclock changes.\n-Compact Ammo magazine size bonus increased from +5 to +10.\n-Gas Rerouting RoF bonus increased from +1 to +2.\n-Overclocked Firing Mechanism RoF bonus increased from +3 to +6.\n-Bullets of Mercy magazine size penalty increased from -5 to -15.\n-AI Stability Engine RoF penalty increased from -2 to -4.\n-AI Stability Engine damage penalty increased from -2 to -3.\n-Electrifying Reload damage penalty reduced from -3 to 0.\n-Electrifying Reload magazine size penalty increased from -5 to -15.\n\nThese adjustments dramatically improve the GK2s DPS output, bringing it much closer to the M1000, while retaining its middling sustained fire capabilities.\nAdditionally the vertical recoil of the weapon becomes much more significant. Which improves the gunplay along with providing players a potential reason to give a damn about accuracy upgrades & OCs.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fcb7c53048c89566ca47dafe4867bae69914c38b/Gameplay/Unbalanced/Weapons/High%20Quality%20GK2%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "High Quality GK2 - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uasset": "28-3A-B3-60-32-E7-85-25",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_ClipSize5_AssaultRifle.uexp": "D8-B3-4E-02-37-F2-9D-A1",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_RoF+3_AssaultRifle.uexp": "13-F8-C1-D9-73-E6-B3-77",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_RoF1_AssaultRifle.uexp": "9E-53-26-41-C2-C6-18-A9",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Damage-2_AssaultRifle.uexp": "55-9E-B7-EE-CD-54-00-97",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_DMG_25P_Assault.uexp": "D9-95-10-F4-FA-05-98-72",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_RoF-2_AssaultRifle.uexp": "31-F2-CB-DD-73-F1-A5-4B",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/Penalty_ClipSize5_AssaultRifle.uexp": "C0-08-BB-14-62-3E-B5-2A",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_ClipSize.uexp": "28-51-A5-0A-87-B5-55-8D",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_Damage+1_B.uexp": "CB-16-26-4A-C6-66-50-98",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_Damage+2.uexp": "DC-D2-33-79-71-B8-07-D7",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_MaxAmmo.uexp": "71-53-4C-A2-FA-DC-DE-1C",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_RoF_A.uexp": "55-2B-74-4B-C9-AF-D5-9D",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_RoF_B.uexp": "20-34-BB-81-A0-7E-CF-4E",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uexp": "18-D0-28-5E-3A-C4-9C-E4"
+        }
+      }
+    ]
+  },
   "hitscanepc": {
     "DisplayName": "Hitscan EPC",
     "Version": "1.0",

@@ -157,6 +157,38 @@ Changes grenade stats, carried amount and the way you use them.
 --**Cryo Grenades** freeze anything in 1 hit, including yourself and your allies, hold 3.  
 --**IFG** slow makes enemies move at 25% speed, take 70% more damage, last 20s, hold 3.
 
+## High Quality GK2 - v1.0
+**Authors:** BongoSkaggs  
+**DRG Version:** U33, H9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/fcb7c53048c89566ca47dafe4867bae69914c38b/Gameplay/Unbalanced/Weapons/High%20Quality%20GK2%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Adjustments to make the GK2 less bland.  
+Base weapon changes.  
+-Increased base RoF from 7 to 14.  
+-Increased base magazine size from 25 to 35.  
+Upgrade changes.  
+-T1.2 RoF upgrade increased from +2 to +4.  
+-T2.1 Damage upgrade increased from +2 to +3.  
+-T2.2 Max Ammo upgrade decreased from +100 to +70.  
+-T3.2 Damage upgrade increased from +1 to +2.  
+-T3.3 Magazine Size upgrade increased from +10 to +15.  
+-T4.1 Weakspot Damage upgrade swapped with T5 upgrade 'Battle Frenzy.'  
+-T4.3 RoF upgrade increased from +2 to +4.  
+-T5.1 upgrade 'Battle Frenzy' swapped with T4.1 Weakspot Damage.  
+-T5.2 upgrade 'Battle Cool' replaced with additional copy of T2.2 Max Ammo.  
+Overclock changes.  
+-Compact Ammo magazine size bonus increased from +5 to +10.  
+-Gas Rerouting RoF bonus increased from +1 to +2.  
+-Overclocked Firing Mechanism RoF bonus increased from +3 to +6.  
+-Bullets of Mercy magazine size penalty increased from -5 to -15.  
+-AI Stability Engine RoF penalty increased from -2 to -4.  
+-AI Stability Engine damage penalty increased from -2 to -3.  
+-Electrifying Reload damage penalty reduced from -3 to 0.  
+-Electrifying Reload magazine size penalty increased from -5 to -15.  
+These adjustments dramatically improve the GK2s DPS output, bringing it much closer to the M1000, while retaining its middling sustained fire capabilities.  
+Additionally the vertical recoil of the weapon becomes much more significant. Which improves the gunplay along with providing players a potential reason to give a damn about accuracy upgrades & OCs.
+
 ## Hitscan EPC - v1.0
 **Authors:** BrewBreuw  
 **DRG Version:** Update 33  
