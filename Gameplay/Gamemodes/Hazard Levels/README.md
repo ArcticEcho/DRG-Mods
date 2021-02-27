@@ -131,10 +131,10 @@ corrected doretta file for hotfix (again)
 **Update v3.1 Changelog:**  
 corrected doretta file for hotfix (again)
 
-## Hazard 7 - v3.3
+## Hazard 7 - v3.4
 **Authors:** Ike  
-**DRG Version:** Update 33 Hotfix 7  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/063aa94006312c396151fcfd6a960dcb2b651a8c/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V3.3%20_P.pak)  
+**DRG Version:** Update 33 Hotfix 8  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7a2458d7da03f52a5cfd0f2483e3e17fbcaf62df/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V3.4%20_P.pak)  
 
 **Description:**  
 This is a comprehensive Hazard 7 Mod  
@@ -149,7 +149,7 @@ This is a comprehensive Hazard 7 Mod
 --Works well with expanded enemy cap mods.  
  --For changes from V2.0 see Haz6
 
-**Update v3.3 Changelog:**  
+**Update v3.4 Changelog:**  
 corrected doretta file for hotfix (again)
 
 ## Starship Troopers - v33.2.1
