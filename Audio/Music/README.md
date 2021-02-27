@@ -104,3 +104,19 @@ Full song list: https://docs.google.com/uc?export=download&id=1-9RHJvp4q2qhAebDx
 
 **Description:**  
 Replaces the Ambient Song in the Space Rig with Space Noise and Star Trek sounds to make it quieter.
+
+## WTFightMusic - v2.1
+**Authors:** CouchDiabetic  
+**DRG Version:** Update 33 Hotfix 9  
+**Download Link:** [Download](https://mega.nz/file/G91BnaYZ#5vBbhMDlR75W6LLLsvf5P0s8vyU0_jPi09RP_8E1E6o) (third-party host)  
+
+**Description:**  
+A music pack to make you stop in your tracks and ask, ‘TF am I listening to?’.  You’re guaranteed to get a good laugh while using this mod.  All in-game music and ambiances have been changed.  Each section will have a playlist you can view on YouTube.  
+Boss music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchZKWXeXM8awc8klW4CuquU7.  Features the Wallace and Gromit theme.  
+During any swarm, you’ll have a chance to hear any of the following songs from this playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchYQQaS5NClnkHYOn4Qx5hIr.  Features songs like Super Hey Yeah and Orphan Tears.  
+While escaping the caves of Hoxxes, you can expect to hear music from this playlist https://www.youtube.com/playlist?list=PLdXm8_JvZchacaBUdl85g9Xyf3ug89KyX.  Features songs like the Giorno’s theme from Jojo and Heavy Pissed-Off Tuba Gunner.  
+Mission completed music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchY1FhQfMyZBoHxVCHSEWxss.  Features Super Mario 64 Bob-Omb Battlefield OST.  
+Event music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchZra0FZGbuyh9MV6yEBh7me.  Features Dr. Robotnik’s Mean Bean Machine.  
+Space rig music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchappZI89YgRUsbjlEpif68c.  Features chill music from Club Penguin.  
+Ambiances bring you the haunted cave experience and are triggered every 3 minutes.  Listen closely.  You’ll have a chance to hear random laughter, people disappearing, an occasional meme, and children’s laughter at its creepiest (0.5x less chance than other ambiances).  
+Loading music can be one of the following memes: https://www.youtube.com/playlist?list=PLdXm8_JvZchbX2o7RAFlqAE8O-INJ40Zx.  Features ‘I am the milkman, my milk is delicious’.
