@@ -4150,20 +4150,20 @@
   },
   "hazard6": {
     "DisplayName": "Hazard 6",
-    "Version": "3.3",
-    "DrgVersion": "Update 33 Hotfix 7",
+    "Version": "3.4",
+    "DrgVersion": "Update 33 Hotfix 8",
     "AuthorIds": [
       189954203664252928
     ],
     "Description": "This comprehensive Hazard 6 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 6. Rewards multiplier is set to 166%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--A description of variables and the philosophy of why some were scaled more and some less is here -> https://docs.google.com/document/d/1O2hmVsoaSy2qId4jCWOP_pHMXaoGMWqf_MY7RAs6cxI/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up. \n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate. \n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up. \n--Changes since V2.0 include:\n-Special enemies like spitters and swarmers have an easier time spawning\n-Enemies do a little more damage to make scaling more consistent with base game hazards and counteract the difficulty reduction from special enemy spawn frequency\n-There is much more variance mission to mission in all difficulty elements",
     "LastUpdateChangelog": "corrected doretta file for hotfix (again)",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5c533c48780f49ee11204929185d1be43e2a48b1/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V3.3%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/da90d057c967e709101286b55aa0f329cb9c5425/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V3.4%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Hazard 6 - V3.3",
+        "PakFileName": "Hazard 6 - V3.4",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "79-57-B6-D4-C6-98-FB-87",
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "00-7F-97-0F-C6-01-56-22",
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "C5-38-41-2A-20-9B-9F-06",
           "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "CD-5E-CC-AE-65-8E-8A-95"
         }
       }
