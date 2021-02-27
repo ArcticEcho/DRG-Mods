@@ -180,6 +180,27 @@ Two、mod design goal
     8. other contents of the change idea is the same  
     9. One more word.In order to improve the game experience of Scout, he was identified as a key concern in Hazard 9.for now,his fighting ability is good, But save your teammate first
 
+## Hell's trial ground（The second half of the article） - v1.0
+**Authors:** lpap  
+**DRG Version:** Update 33, Hotfix 7  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/00fb8e9575bb2e5d41f11b008f7fa3594da2ce9b/Gameplay/Gamemodes/Hazard%20Levels/Hell%27s%20Trial%20Ground%EF%BC%88The%20Second%20Half%20Of%20The%20Article%EF%BC%89%20-%20V1.0.zip)  
+
+**Description:**  
+I as the old in the hardcore players, all of the changes in content, according to my own game experience and some basic calculation, no depth calculation, Limited ability, plus the limitation of some game mechanics, So the weapon balance is mediocre, difficulty Settings are ok, but it was enough, you have some doubts about these changes, this is normal  
+——————  
+Three、This mod has too much content, In order to avoid conflict with other mod, please remove the "mod" of the following type  
+（Change the difficulty of Hazard 5）（Enemy cap）（Nitra Supply Pod）（weapons）（Perks）  
+——————  
+four、In order to improve the game experience for four players and maintain game balance, please pay attention to and do as much as possible the following two points, though not necessary condition  
+   “Hell's trial ground” mod has changed the weapon stats to fit the Hazard 9 difficulty for a more enjoyable combat experience. Most weapon stats have been enhanced  
+    1. All 4 players must have this mod :    Due to the influence of the game mechanics,Homeowners can share the difficulty of the mod, but only some of the attributes of the weapons in the mod are shared, can the passenger plane get all the weapon attributes of the mod, so this is directly related to the game experience of the passenger plane, I am also very helpless about this question  
+    2. 4 players each choose 4 classes  
+“Hell's trial ground” mod casually share to other players, also in order to alleviate these problems  
+——————  
+This is mod I made with my current understanding of games, you may find it difficult at the beginning, please try more  
+This mod May be disabled due to the game's "hotfix", Or I updated it, Please Constant concern discord  
+The two mod packages are the same except for the language translation
+
 ## Starship Troopers - v33.2.1
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 2  
