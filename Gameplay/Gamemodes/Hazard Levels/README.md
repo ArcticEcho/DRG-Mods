@@ -152,33 +152,6 @@ This is a comprehensive Hazard 7 Mod
 **Update v3.4 Changelog:**  
 corrected doretta file for hotfix (again)
 
-## Hell's trial ground - v1.0
-**Authors:** lpap  
-**DRG Version:** Update 33, Hotfix 7  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/18d76f9e5e9f3122a16f68710df58dd996ac36d5/Gameplay/Gamemodes/Hazard%20Levels/Hell%27s%20Trial%20Ground%20-%20V1.0.zip)  
-
-**Description:**  
-——————  
-One、mod content introduction  
-   This is a new game experience "mod"  
-    The main content of mod, divided by type, is roughly divided into :  
-【Hazard 8/9】【60 Nitra】【110 Cap】【Weapons and Perks Adjustment 】  
-Hazard 9 and 8 are two integrated "mods" that are the same except for difficulty  
-    As you can see, this mod is different from most of the others, This mod was created by considering more of the game's elements, so it has many types of conten, with the weapon stats being the biggest change, it will bring more intensive combat and more challenging  
-    Detailed changelog, please check in the compressed package  
-Hazard 9 is my design goal, Hazard 8 is just for beginners, not for design purposes, so it's best to play Hazard 9  
-——————  
-Two、mod design goal  
-    1. Consider the game elements in the introduction comprehensively, focusing on the combat scenario  
-    2. Focus on teamwork, change direction of 4 classes for 4 players  
-    3. More enemies, increased enemy strength, and improved some weapon stats to get more intense combat and more challenging new difficulty.【Kill the enemy faster to get the fiercer fight】  
-    4. Moderate enemy Wave interval  
-    5. make the adjusted weapons as far as possible to maintain balance, enhance the weapon collocation of unpopular, add new weapon collocation  
-    6. Give up small upgrades and Overclocks for the bigger picture  
-    7. The enemy is stronger than the weapon  
-    8. other contents of the change idea is the same  
-    9. One more word. In order to improve the game experience of Scout, he was identified as a key concern in Hazard 9. for now, his fighting ability is good, But save your teammate first
-
 ## Starship Troopers - v33.2.1
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 2  
