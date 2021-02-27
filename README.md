@@ -34,6 +34,9 @@ You can easily locate your game installation path using steam:
 ## [Audio/Other](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other)
  - **[Metal Gear Alert Heightened Senses](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other/README.md#metal-gear-alert-heightened-senses---v1)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/7e2a85f66bef685ebeefda9314fc22724c064028/Audio/Other/Metal%20Gear%20Alert%20Heightened%20Senses%20-%20V1%20_P.pak))
 
+## [Audio/Voicelines](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines)
+ - **[Da fossa are attacking](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines/README.md#da-fossa-are-attacking---v05)** by CouchDiabetic ([download](https://github.com/ArcticEcho/DRG-Mods/raw/497f56bca78a1fdc7f971e2612f2af47f969e012/Audio/Voicelines/Da%20Fossa%20Are%20Attacking%20-%20V0.5.zip))
+
 ## [Audio/Weapons](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons)
  - **[BRT7 Glock 18c](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#brt7-glock-18c---v10)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/c6064933ecc2b7d2911d4d59dec79c6d2dd24738/Audio/Weapons/BRT7%20Glock%2018c%20-%20V1.0%20_P.pak))
  - **[M1K Garand](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#m1k-garand---v20)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f32395bcb50662b2abece6fdd8bd9aed6809cef8/Audio/Weapons/M1K%20Garand%20-%20V2.0%20_P.pak))
