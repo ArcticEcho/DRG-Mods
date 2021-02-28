@@ -4234,19 +4234,19 @@
   },
   "highqualitygk2": {
     "DisplayName": "High Quality GK2",
-    "Version": "1.0",
+    "Version": "1.01",
     "DrgVersion": "U33, H9",
     "AuthorIds": [
       243195324594782210
     ],
-    "Description": "Adjustments to make the GK2 less bland.\n\nBase weapon changes.\n-Increased base RoF from 7 to 14.\n-Increased base magazine size from 25 to 35.\n\nUpgrade changes.\n-T1.2 RoF upgrade increased from +2 to +4.\n-T2.1 Damage upgrade increased from +2 to +3.\n-T2.2 Max Ammo upgrade decreased from +100 to +70.\n-T3.2 Damage upgrade increased from +1 to +2.\n-T3.3 Magazine Size upgrade increased from +10 to +15.\n-T4.1 Weakspot Damage upgrade swapped with T5 upgrade 'Battle Frenzy.'\n-T4.3 RoF upgrade increased from +2 to +4.\n-T5.1 upgrade 'Battle Frenzy' swapped with T4.1 Weakspot Damage.\n-T5.2 upgrade 'Battle Cool' replaced with additional copy of T2.2 Max Ammo.\n\nOverclock changes.\n-Compact Ammo magazine size bonus increased from +5 to +10.\n-Gas Rerouting RoF bonus increased from +1 to +2.\n-Overclocked Firing Mechanism RoF bonus increased from +3 to +6.\n-Bullets of Mercy magazine size penalty increased from -5 to -15.\n-AI Stability Engine RoF penalty increased from -2 to -4.\n-AI Stability Engine damage penalty increased from -2 to -3.\n-Electrifying Reload damage penalty reduced from -3 to 0.\n-Electrifying Reload magazine size penalty increased from -5 to -15.\n\nThese adjustments dramatically improve the GK2s DPS output, bringing it much closer to the M1000, while retaining its middling sustained fire capabilities.\nAdditionally the vertical recoil of the weapon becomes much more significant. Which improves the gunplay along with providing players a potential reason to give a damn about accuracy upgrades & OCs.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fcb7c53048c89566ca47dafe4867bae69914c38b/Gameplay/Unbalanced/Weapons/High%20Quality%20GK2%20-%20V1.0%20_P.pak",
+    "Description": "Adjustments to make the GK2 less bland.\n\nBase weapon changes.\n-Increased base RoF from 7 to 14.\n-Increased base magazine size from 25 to 35.\n\nUpgrade changes.\n-T1.2 RoF upgrade increased from +2 to +4.\n-T2.1 Damage upgrade increased from +2 to +3.\n-T2.2 Max Ammo upgrade decreased from +100 to +70.\n-T3.2 Damage upgrade increased from +1 to +2.\n-T3.3 Magazine Size upgrade increased from +10 to +15.\n-T4.1 Weakspot Damage upgrade swapped with T5 upgrade 'Battle Frenzy.'\n-T4.3 RoF upgrade increased from +2 to +4.\n-T5.1 upgrade 'Battle Frenzy' swapped with T4.1 Weakspot Damage.\n-T5.2 upgrade 'Battle Cool' replaced with +120 Max Ammo upgrade\n\nOverclock changes.\n-Compact Ammo magazine size bonus increased from +5 to +10.\n-Gas Rerouting RoF bonus increased from +1 to +2.\n-Overclocked Firing Mechanism RoF bonus increased from +3 to +6.\n-Bullets of Mercy magazine size penalty increased from -5 to -15.\n-AI Stability Engine RoF penalty increased from -2 to -4.\n-AI Stability Engine damage penalty increased from -2 to -3.\n-Electrifying Reload damage penalty reduced from -3 to 0.\n-Electrifying Reload magazine size penalty increased from -5 to -15.\n\nThese adjustments dramatically improve the GK2s DPS output, bringing it much closer to the M1000, while retaining its middling sustained fire capabilities.\nAdditionally the vertical recoil of the weapon becomes much more significant. Which improves the gunplay along with providing players a potential reason to give a damn about accuracy upgrades & OCs.",
+    "LastUpdateChangelog": "Hacked together a fix for issue with T5.2 Max Ammo upgrade.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ac869830d14917ad61dc90527f833147fc581531/Gameplay/Unbalanced/Weapons/High%20Quality%20GK2%20-%20V1.01%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "High Quality GK2 - V1.0",
+        "PakFileName": "High Quality GK2 - V1.01",
         "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uasset": "28-3A-B3-60-32-E7-85-25",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uasset": "98-C5-99-CE-D7-89-10-D8",
           "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_ClipSize5_AssaultRifle.uexp": "D8-B3-4E-02-37-F2-9D-A1",
           "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_RoF+3_AssaultRifle.uexp": "13-F8-C1-D9-73-E6-B3-77",
           "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_RoF1_AssaultRifle.uexp": "9E-53-26-41-C2-C6-18-A9",

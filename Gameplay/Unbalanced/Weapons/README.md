@@ -157,10 +157,10 @@ Changes grenade stats, carried amount and the way you use them.
 --**Cryo Grenades** freeze anything in 1 hit, including yourself and your allies, hold 3.  
 --**IFG** slow makes enemies move at 25% speed, take 70% more damage, last 20s, hold 3.
 
-## High Quality GK2 - v1.0
+## High Quality GK2 - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33, H9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/fcb7c53048c89566ca47dafe4867bae69914c38b/Gameplay/Unbalanced/Weapons/High%20Quality%20GK2%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ac869830d14917ad61dc90527f833147fc581531/Gameplay/Unbalanced/Weapons/High%20Quality%20GK2%20-%20V1.01%20_P.pak)  
 
 **Description:**  
 Adjustments to make the GK2 less bland.  
@@ -176,7 +176,7 @@ Upgrade changes.
 -T4.1 Weakspot Damage upgrade swapped with T5 upgrade 'Battle Frenzy.'  
 -T4.3 RoF upgrade increased from +2 to +4.  
 -T5.1 upgrade 'Battle Frenzy' swapped with T4.1 Weakspot Damage.  
--T5.2 upgrade 'Battle Cool' replaced with additional copy of T2.2 Max Ammo.  
+-T5.2 upgrade 'Battle Cool' replaced with +120 Max Ammo upgrade  
 Overclock changes.  
 -Compact Ammo magazine size bonus increased from +5 to +10.  
 -Gas Rerouting RoF bonus increased from +1 to +2.  
@@ -188,6 +188,9 @@ Overclock changes.
 -Electrifying Reload magazine size penalty increased from -5 to -15.  
 These adjustments dramatically improve the GK2s DPS output, bringing it much closer to the M1000, while retaining its middling sustained fire capabilities.  
 Additionally the vertical recoil of the weapon becomes much more significant. Which improves the gunplay along with providing players a potential reason to give a damn about accuracy upgrades & OCs.
+
+**Update v1.01 Changelog:**  
+Hacked together a fix for issue with T5.2 Max Ammo upgrade.
 
 ## Hitscan EPC - v1.0
 **Authors:** BrewBreuw  
