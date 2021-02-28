@@ -341,6 +341,28 @@
       }
     ]
   },
+  "ahhgrunt": {
+    "DisplayName": "\"AHH\" Grunt",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 9",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaced the normal grunt scream with the \"AHH\" from the actual Dev request on the stream.\n\"Literally' as requested in the Dev stream.\"\nDOES NOT MAKE \"AHH\" THE STEVE NOISE!\nSample: https://discord.com/channels/676880716142739467/732650220214681600/815080687493185556",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/477d325a323555735e851b35af8f9e4664070420/Audio/NPC/AHH%20Grunt%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "AHH Grunt - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderGrunt/SpiderGruntGeneralScream/NEWGRUNTS/AmandaAHH.uasset": "4A-9D-0D-33-2B-11-AD-39",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderGrunt/SpiderGruntGeneralScream/SpiderGruntGeneralScream_Cue.uasset": "26-8D-E3-5D-46-85-BA-10",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderGrunt/SpiderGruntGeneralScream/NEWGRUNTS/AmandaAHH.uexp": "97-A4-23-1A-B8-A9-FE-6D",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderGrunt/SpiderGruntGeneralScream/SpiderGruntGeneralScream_Cue.uexp": "28-F2-04-EB-93-92-49-4B"
+        }
+      }
+    ]
+  },
   "aioweaponbalance": {
     "DisplayName": "AiO Weapon Balance",
     "Version": "1.15",

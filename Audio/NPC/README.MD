@@ -4,6 +4,17 @@ Audio changes for enemy creatures or friendly robots.
 
 <!-- mod list -->
 
+## "AHH" Grunt - v1.0
+**Authors:** Kraeus  
+**DRG Version:** Update 33, Hotfix 9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/477d325a323555735e851b35af8f9e4664070420/Audio/NPC/AHH%20Grunt%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaced the normal grunt scream with the "AHH" from the actual Dev request on the stream.  
+"Literally' as requested in the Dev stream."  
+DOES NOT MAKE "AHH" THE STEVE NOISE!  
+Sample: https://discord.com/channels/676880716142739467/732650220214681600/815080687493185556
+
 ## Anime Doretta - v1.1
 **Authors:** Pacagma  
 **DRG Version:** Update 33  
