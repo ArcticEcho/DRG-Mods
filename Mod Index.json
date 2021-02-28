@@ -4285,6 +4285,30 @@
       }
     ]
   },
+  "hiveguardscreamgrunt": {
+    "DisplayName": "Hiveguard Scream Grunt",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 9",
+    "AuthorIds": [
+      418874899868942336
+    ],
+    "Description": "Replaces the normal grunt scream with the enraged Hiveguard scream.\n\"As requested in the Dev stream.\"\nSample: https://discord.com/channels/676880716142739467/732650220214681600/815369843858604072",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/07622eda6d77f72af8fd6d8c20fe3c5579829aac/Audio/NPC/Hiveguard%20Scream%20Grunt%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Hiveguard Scream Grunt - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderGrunt/SpiderGruntGeneralScream/NEWGRUNTS/HiveScream1.uasset": "4E-28-A6-56-E1-EE-4A-67",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderGrunt/SpiderGruntGeneralScream/NEWGRUNTS/HiveScream2.uasset": "1C-5B-3D-63-B9-87-3D-55",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderGrunt/SpiderGruntGeneralScream/SpiderGruntGeneralScream_Cue.uasset": "00-EF-AC-52-FE-BF-0D-87",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderGrunt/SpiderGruntGeneralScream/NEWGRUNTS/HiveScream1.uexp": "15-67-25-D8-3F-BB-09-74",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderGrunt/SpiderGruntGeneralScream/NEWGRUNTS/HiveScream2.uexp": "CB-FD-BC-C1-86-A9-4D-26",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderGrunt/SpiderGruntGeneralScream/SpiderGruntGeneralScream_Cue.uexp": "6E-22-1B-8E-7B-86-03-3E"
+        }
+      }
+    ]
+  },
   "incrediblyoverpoweredperks": {
     "DisplayName": "Incredibly Overpowered Perks",
     "Version": "1",
