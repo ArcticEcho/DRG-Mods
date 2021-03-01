@@ -196,7 +196,7 @@ You can easily locate your game installation path using steam:
 
 ## [Quality of Life/HUD](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/HUD)
  - **[Mission Control Text Remover](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/HUD/README.md#mission-control-text-remover---v12)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/e303de4d3d5aab5825af8858ac95cdeb66d07e0f/Quality%20of%20Life/HUD/Mission%20Control%20Text%20Remover%20-%20V1.2%20_P.pak))
- - **[Mission Timer](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/HUD/README.md#mission-timer---v11)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/76c3a37a7ff885bcfbd72e74ddef2e45d5f003a5/Quality%20of%20Life/HUD/Mission%20Timer%20-%20V1.1%20_P.pak))
+ - **[Mission Timer](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/HUD/README.md#mission-timer---v20)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/02e27e2b5411ab8905010eeda31ceb47ab6f3819/Quality%20of%20Life/HUD/Mission%20Timer%20-%20V2.0%20_P.pak))
  - **[RealWeaponStats_U33H6](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/HUD/README.md#realweaponstats_u33h6---v0)** by Shattered ([download](https://github.com/ArcticEcho/DRG-Mods/raw/836ff189301bec11a5d797430255685b70ed2cc5/Quality%20of%20Life/HUD/RealWeaponStats_U33H6%20-%20V0%20_P.pak))
 
 ## [Quality of Life/Improved mechanics](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Improved%20mechanics)

@@ -5175,22 +5175,32 @@
   },
   "missiontimer": {
     "DisplayName": "Mission Timer",
-    "Version": "1.1",
-    "DrgVersion": "Update 33, Hotfix 2",
+    "Version": "2.0",
+    "DrgVersion": "Update 33, Hotfix 9",
     "AuthorIds": [
       158916111390343168
     ],
     "Description": "**Requires the mod loader.**\nAdds a small mission timer to the top of the screen. Also acts as a deep dive stage timer.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/76c3a37a7ff885bcfbd72e74ddef2e45d5f003a5/Quality%20of%20Life/HUD/Mission%20Timer%20-%20V1.1%20_P.pak",
+    "LastUpdateChangelog": "- Added an option to show fractions of a second.\n - Reworked the internal HUD handling to allow compatibility with other mods.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/02e27e2b5411ab8905010eeda31ceb47ab6f3819/Quality%20of%20Life/HUD/Mission%20Timer%20-%20V2.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Mission Timer - V1.1",
+        "PakFileName": "Mission Timer - V2.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod011.uasset": "06-02-CC-76-28-1E-7B-D5",
-          "../../../FSD/Content/_ModBPs/MyMods/MissionTimer/MissionTimerUI.uasset": "B2-B5-D5-76-A2-25-F6-EB",
-          "../../../FSD/Content/_ModBPs/Mod011.uexp": "B1-73-52-0C-09-1B-56-FA",
-          "../../../FSD/Content/_ModBPs/MyMods/MissionTimer/MissionTimerUI.uexp": "DF-0A-D2-43-6F-93-EE-C9"
+          "../../../FSD/Content/_ModBPs/Mod011.uasset": "76-46-02-FA-1B-6E-0A-35",
+          "../../../FSD/Content/_ModBPs/MyMods/_/CommonHUD/CommonHUD.uasset": "30-BD-77-DF-05-22-F5-4F",
+          "../../../FSD/Content/_ModBPs/MyMods/_/CommonHUD/MiscElements/SimpleDividerUI.uasset": "7E-86-66-B6-FE-D2-FE-AC",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV4.uasset": "42-39-FA-A2-8B-16-2D-37",
+          "../../../FSD/Content/_ModBPs/MyMods/MissionTimer/011_ConfigUI.uasset": "AE-17-D7-00-6A-91-FA-2E",
+          "../../../FSD/Content/_ModBPs/MyMods/MissionTimer/011_HUD.uasset": "71-E3-E7-CA-B0-C3-D5-B0",
+          "../../../FSD/Content/_ModBPs/MyMods/MissionTimer/011_SaveData.uasset": "DC-54-0D-D9-0E-1B-6E-B8",
+          "../../../FSD/Content/_ModBPs/Mod011.uexp": "AE-4F-B9-46-80-53-F4-EF",
+          "../../../FSD/Content/_ModBPs/MyMods/_/CommonHUD/CommonHUD.uexp": "02-9D-8B-4D-FB-AE-F0-54",
+          "../../../FSD/Content/_ModBPs/MyMods/_/CommonHUD/MiscElements/SimpleDividerUI.uexp": "83-07-95-E0-B2-3B-48-A2",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV4.uexp": "C1-AF-1C-00-AA-03-3A-20",
+          "../../../FSD/Content/_ModBPs/MyMods/MissionTimer/011_ConfigUI.uexp": "03-54-96-EC-03-5C-01-0D",
+          "../../../FSD/Content/_ModBPs/MyMods/MissionTimer/011_HUD.uexp": "3C-4A-C4-6F-BF-CB-C5-22",
+          "../../../FSD/Content/_ModBPs/MyMods/MissionTimer/011_SaveData.uexp": "76-2B-6E-02-F9-3C-FE-A4"
         }
       }
     ]
