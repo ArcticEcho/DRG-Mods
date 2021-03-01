@@ -4,19 +4,17 @@ Mods that can be tweaked in-game.
 
 <!-- mod list -->
 
-## Custom Enemy Cap - v2.3
+## Custom Enemy Cap - v2.4
 **Authors:** ArcticEcho  
-**DRG Version:** Update 33, Hotfix 6  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/338c8a1633fd08371cf0a0c69e4d943c27f27c7b/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.3%20_P.pak)  
+**DRG Version:** Update 33, Hotfix 9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/59892184c65aa70a653e7ee5eec7344ed936d896/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.4%20_P.pak)  
 
 **Description:**  
 **Requires the mod loader.**  
 Lets you control the global enemy cap, and can optionally lower the cap depending on your FPS. Only works as the host.
 
-**Update v2.3 Changelog:**  
-- Added the escort flying rocks to the list of enemies the mod will cull.  
- - Fixed a bug that cause the mod to think there are more enemies alive than there actually are.  
- - Fixed a bug with "weakest enemy first" culling option that would cause stronger enemies to be culled first.
+**Update v2.4 Changelog:**  
+- Added an option to display an enemy counter on the HUD.
 
 ## Custom Waves - v1.4
 **Authors:** ArcticEcho  
