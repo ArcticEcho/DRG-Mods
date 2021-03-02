@@ -5856,6 +5856,28 @@
       }
     ]
   },
+  "smoothfustercluckbulks": {
+    "DisplayName": "Smooth Fustercluck Bulks",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 9",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "--Makes bulks have speed increases based on hazard (should work for clients).\n--Bulks no longer make a crater where they explode (still hurts), but they send out 32 bomblets with 10m carve radius of super smooth terrain.  This means that the center point is a mountain with a massive crater around it that sucks to traverse.\n--Bulks have double health and a radioactive green glow.\n--Bulks now stay frozen for longer so that you might be able to counter this terrifying version.\n--Bulks now do significantly more friendly fire damage, so they can probably kill just about anything with ground slams.\n--Bulk bomblets now do 50% less damage and have lower minimal damage.\nOther changes from the original were not transferred due to file changes.  Can make the awful terrain version again but only if someone asks.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3493580518410a176390ad6615ab6a39ad53e9f8/Gameplay/Gamemodes/Handicaps/Smooth%20Fustercluck%20Bulks%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Smooth Fustercluck Bulks - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank.uasset": "AA-08-65-D2-7A-F8-07-F3",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank.uexp": "73-9F-E6-68-43-58-FD-41",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uasset": "1B-2E-98-BA-5F-62-B9-C2",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uexp": "5F-D7-09-11-C3-28-C7-DF"
+        }
+      }
+    ]
+  },
   "sniperturret": {
     "DisplayName": "Sniper Turret",
     "Version": "1.0",
