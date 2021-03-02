@@ -5591,20 +5591,20 @@
   },
   "recallableminigunturrets": {
     "DisplayName": "Recallable Minigun Turrets",
-    "Version": "1.1",
+    "Version": "1.2",
     "DrgVersion": "Update 33, Hotfix 9",
     "AuthorIds": [
       146392394328178690
     ],
     "Description": "Exactly the same as Minigun Turrets but you can recall these ones normally (hax).",
-    "LastUpdateChangelog": "Quite a few changes to make this better thought out.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1375e9ca467273995a902a291c1dee14692d722c/Gameplay/Unbalanced/Tools%20%26%20Gear/Recallable%20Minigun%20Turrets%20-%20V1.1%20_P.pak",
+    "LastUpdateChangelog": "Quite a few changes to make this better thought out, actually uploaded the version with recall this time.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d28b460d1373c35b26d9301ce7c439a1519be3f0/Gameplay/Unbalanced/Tools%20%26%20Gear/Recallable%20Minigun%20Turrets%20-%20V1.2%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Recallable Minigun Turrets - V1.1",
+        "PakFileName": "Recallable Minigun Turrets - V1.2",
         "CookedFileHashes": {
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Moveable.uasset": "38-8F-6D-BF-66-99-1A-85",
-          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Moveable.uexp": "EA-75-8B-68-5F-DD-00-9F",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Moveable.uexp": "92-31-CF-A3-8A-A0-07-DB",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Redeployable.uasset": "8A-C4-40-36-B0-24-8B-CA",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Redeployable.uexp": "CB-AE-7E-02-CF-CD-20-94",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_D_AngleRestriction.uasset": "74-0F-1B-70-7F-5F-BA-70",

@@ -84,16 +84,16 @@ Set the three Drill parameter (x,y,z) to max
 --All upgrades and various base turret stats were tweaked to make minigun turrets with a lot of ammo and decent damage but still within sane total kills per mag at best circumstances.  
 --Primarily for lots of enemies from mods and stuff, unbalanced otherwise.
 
-## Recallable Minigun Turrets - v1.1
+## Recallable Minigun Turrets - v1.2
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1375e9ca467273995a902a291c1dee14692d722c/Gameplay/Unbalanced/Tools%20%26%20Gear/Recallable%20Minigun%20Turrets%20-%20V1.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d28b460d1373c35b26d9301ce7c439a1519be3f0/Gameplay/Unbalanced/Tools%20%26%20Gear/Recallable%20Minigun%20Turrets%20-%20V1.2%20_P.pak)  
 
 **Description:**  
 Exactly the same as Minigun Turrets but you can recall these ones normally (hax).
 
-**Update v1.1 Changelog:**  
-Quite a few changes to make this better thought out.
+**Update v1.2 Changelog:**  
+Quite a few changes to make this better thought out, actually uploaded the version with recall this time.
 
 ## Slightly Wider Platforms - v1.0
 **Authors:** BrewBreuw  
