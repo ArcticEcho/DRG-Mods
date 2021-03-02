@@ -72,10 +72,10 @@ Makes "Fall Damage + Bug Repellent" platforms sticky goo from fungus bogs.
 **Description:**  
 Set the three Drill parameter (x,y,z) to max
 
-## Minigun Turrets - v1.0
+## Minigun Turrets - v1.1
 **Authors:** Our Lord And Savior Gabe Newell  
-**DRG Version:** Update 33, Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b188d3f8e634000b3c2b213bc728791bf31c68d1/Gameplay/Unbalanced/Tools%20%26%20Gear/Minigun%20Turrets%20-%20V1.0%20_P.pak)  
+**DRG Version:** Update 33, Hotfix 9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/57aa6fe7951650b5a364efa6484c1cc79c65666e/Gameplay/Unbalanced/Tools%20%26%20Gear/Minigun%20Turrets%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 --Prevents recall of turrets, so you have to jump above them to grab them, but they now get outlined like players.  
@@ -83,6 +83,9 @@ Set the three Drill parameter (x,y,z) to max
 --Gemini now gives you 4 turrets total.  
 --All upgrades and various base turret stats were tweaked to make minigun turrets with a lot of ammo and decent damage but still within sane total kills per mag at best circumstances.  
 --Primarily for lots of enemies from mods and stuff, unbalanced otherwise.
+
+**Update v1.1 Changelog:**  
+Increased base carried ammo to 1000 from 500, increased range from 10 to 15, reduced Gemini ammo from 1500 to 1000, reduced MK2 mag size to 1000 from 1500, increased stun chance to 15% from 10%, increased mag size upgrade to 1000 from 500, increased Defender cone size to 70 from 50.
 
 ## Recallable Minigun Turrets - v1.2
 **Authors:** Our Lord And Savior Gabe Newell  
