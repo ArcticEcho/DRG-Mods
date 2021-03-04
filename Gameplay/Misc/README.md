@@ -93,6 +93,14 @@ No more needing to re-consider repairing BET-C or not on shield disruption missi
 Makes the rank required to buy a leaf lovers 6,942,069, just so you never buy a Leaf Lovers Special  
 This is a joke mod... or is it?
 
+## No Korlok Spawn - v1.0
+**Authors:** GreyHound  
+**DRG Version:** Update 33, Hotfix 9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5c89ff075a94864ef65f70b4e98ea24be21c307e/Gameplay/Misc/No%20Korlok%20Spawn%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Sets Korlok's default 6% spawn chance to 0, essentially removing it from the spawn pool (per UshankaParty's request)
+
 ## Pointless Low O2 - v1
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 33, Hotfix 6  
