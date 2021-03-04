@@ -2687,7 +2687,7 @@
     ],
     "Description": "The Flare Rifle mod changes the Flare Gun and its weapons to allow for more aggressive usage, while hopefully not overshadowing Scout's actual primary weapons. In exchange for its additional combat capabilities, the Flare Rifle comes with a few drawbacks.\n*Unupgraded Flare Rifle*\nMaxAmmo: 12 > 7\nEquipDuration: 0.5 > 1.3\nRateOfFire: 1 > 0.7\nReloadDuration 2.4 > 4\n*PRJ*\nLightIntensity: 3.5 > 0.5\nDuration:  75 > 7\n*MAX AMMO A:* 3 > 16\n*DURATION A (swapped with clip size b):* 15 > 12\n*CLIP SIZE B (swapped with duration a):* 1 > 8\n*ROF B:* 3 > 6\n*auto reload replaced with +60 direct damage*\n*AMMO C:* 3 > 65\n*DURATION C:* 15 > 58\nIf a scout joins your lobby without the mod, their flares won't last very long.",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c93b6939c155526ff3f995163535c0231242ecb4/Gameplay/Gamemodes/Alternative%20playstyles/FlareRifle%20-%20V1.2%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9959e36d42a4e8b3328b232972f93856393fff4a/Gameplay/Unbalanced/Weapons/FlareRifle%20-%20V1.2%20_P.pak",
     "Paks": [
       {
         "PakFileName": "FlareRifle - V1.2",

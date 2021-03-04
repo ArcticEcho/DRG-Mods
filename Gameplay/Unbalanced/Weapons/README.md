@@ -127,6 +127,30 @@ A mod that changes the Fat Boy OC to a "real-er" nuke
 --Radiation Particles now glow slightly brighter and have a bigger circle  
 --! Now with better Carve Radius in Ver3 !
 
+## FlareRifle - v1.2
+**Authors:** Potatolaser  
+**DRG Version:** Update 33, hotfix 9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9959e36d42a4e8b3328b232972f93856393fff4a/Gameplay/Unbalanced/Weapons/FlareRifle%20-%20V1.2%20_P.pak)  
+
+**Description:**  
+The Flare Rifle mod changes the Flare Gun and its weapons to allow for more aggressive usage, while hopefully not overshadowing Scout's actual primary weapons. In exchange for its additional combat capabilities, the Flare Rifle comes with a few drawbacks.  
+*Unupgraded Flare Rifle*  
+MaxAmmo: 12 > 7  
+EquipDuration: 0.5 > 1.3  
+RateOfFire: 1 > 0.7  
+ReloadDuration 2.4 > 4  
+*PRJ*  
+LightIntensity: 3.5 > 0.5  
+Duration:  75 > 7  
+*MAX AMMO A:* 3 > 16  
+*DURATION A (swapped with clip size b):* 15 > 12  
+*CLIP SIZE B (swapped with duration a):* 1 > 8  
+*ROF B:* 3 > 6  
+*auto reload replaced with +60 direct damage*  
+*AMMO C:* 3 > 65  
+*DURATION C:* 15 > 58  
+If a scout joins your lobby without the mod, their flares won't last very long.
+
 ## Fullmetal Scout - v1.0
 **Authors:** Chibba  
 **DRG Version:** U 33, HF 2  

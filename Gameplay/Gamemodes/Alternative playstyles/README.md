@@ -53,30 +53,6 @@ TWINS- Mines explode sooner and *optional variant can freeze you instead*, rockw
 **Description:**  
 This mod adds back "random enemy spawns" during dreadnought fights! GSG removed these in hotfix 4, but I personally disagree with that decision. Adds back that excitement so elimination missions don't get stale so quickly. Version 1.7 takes up less space than previous ones and is less likely to conflict with stuff.
 
-## FlareRifle - v1.2
-**Authors:** Potatolaser  
-**DRG Version:** Update 33, hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c93b6939c155526ff3f995163535c0231242ecb4/Gameplay/Gamemodes/Alternative%20playstyles/FlareRifle%20-%20V1.2%20_P.pak)  
-
-**Description:**  
-The Flare Rifle mod changes the Flare Gun and its weapons to allow for more aggressive usage, while hopefully not overshadowing Scout's actual primary weapons. In exchange for its additional combat capabilities, the Flare Rifle comes with a few drawbacks.  
-*Unupgraded Flare Rifle*  
-MaxAmmo: 12 > 7  
-EquipDuration: 0.5 > 1.3  
-RateOfFire: 1 > 0.7  
-ReloadDuration 2.4 > 4  
-*PRJ*  
-LightIntensity: 3.5 > 0.5  
-Duration:  75 > 7  
-*MAX AMMO A:* 3 > 16  
-*DURATION A (swapped with clip size b):* 15 > 12  
-*CLIP SIZE B (swapped with duration a):* 1 > 8  
-*ROF B:* 3 > 6  
-*auto reload replaced with +60 direct damage*  
-*AMMO C:* 3 > 65  
-*DURATION C:* 15 > 58  
-If a scout joins your lobby without the mod, their flares won't last very long.
-
 ## Health For Shields Compilation - v1.0
 **Authors:** Our Lord And Savior Gabe Newell, NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 4  
