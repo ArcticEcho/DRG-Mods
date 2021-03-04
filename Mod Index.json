@@ -2678,6 +2678,42 @@
       }
     ]
   },
+  "flarerifle": {
+    "DisplayName": "FlareRifle",
+    "Version": "1.2",
+    "DrgVersion": "Update 33, hotfix 9",
+    "AuthorIds": [
+      252291709927555072
+    ],
+    "Description": "The Flare Rifle mod changes the Flare Gun and its weapons to allow for more aggressive usage, while hopefully not overshadowing Scout's actual primary weapons. In exchange for its additional combat capabilities, the Flare Rifle comes with a few drawbacks.\n*Unupgraded Flare Rifle*\nMaxAmmo: 12 > 7\nEquipDuration: 0.5 > 1.3\nRateOfFire: 1 > 0.7\nReloadDuration 2.4 > 4\n*PRJ*\nLightIntensity: 3.5 > 0.5\nDuration:  75 > 7\n*MAX AMMO A:* 3 > 16\n*DURATION A (swapped with clip size b):* 15 > 12\n*CLIP SIZE B (swapped with duration a):* 1 > 8\n*ROF B:* 3 > 6\n*auto reload replaced with +60 direct damage*\n*AMMO C:* 3 > 65\n*DURATION C:* 15 > 58\nIf a scout joins your lobby without the mod, their flares won't last very long.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c93b6939c155526ff3f995163535c0231242ecb4/Gameplay/Gamemodes/Alternative%20playstyles/FlareRifle%20-%20V1.2%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "FlareRifle - V1.2",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uasset": "D6-9E-49-EF-99-68-84-C3",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_Duration.uasset": "66-F2-6B-EB-08-AD-68-37",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_MaxAmmo.uasset": "1F-26-BF-A4-C1-D3-D0-91",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_ClipSize.uasset": "CA-27-7F-E2-52-0C-B9-30",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_RoF.uasset": "BC-79-FF-37-66-72-BF-50",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Autoreload.uasset": "CB-50-17-5B-FC-5B-B9-3C",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Duration_2.uasset": "CC-BB-22-93-A7-F4-B1-54",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_MaxAmmo_2.uasset": "04-E3-62-75-77-0C-78-03",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uasset": "DC-42-69-23-B9-01-8B-0C",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uexp": "CC-63-44-EF-66-68-CE-A6",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_Duration.uexp": "37-CE-01-DF-B3-0F-66-A7",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_MaxAmmo.uexp": "04-92-F1-CB-04-E4-84-3A",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_ClipSize.uexp": "B1-B8-74-5E-2F-67-C0-83",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_RoF.uexp": "F3-C1-D9-09-FF-53-2D-3D",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Autoreload.uexp": "70-0D-6A-68-80-DB-21-0C",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Duration_2.uexp": "8D-7C-FF-13-87-11-48-CC",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_MaxAmmo_2.uexp": "8D-8A-96-FB-8F-2E-E1-7E",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uexp": "70-FE-C3-CD-F6-E4-9F-2B"
+        }
+      }
+    ]
+  },
   "flashlightmodswithaircontrol": {
     "DisplayName": "Flashlight Mods With Air Control",
     "Version": "1.0",
