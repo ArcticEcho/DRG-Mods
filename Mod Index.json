@@ -2407,6 +2407,52 @@
       }
     ]
   },
+  "fabulousmolly": {
+    "DisplayName": "Fabulous Molly",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 9",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the BP Mod Manager.**\nAdds a molly paint customisation terminal to the spacerig (next to Bosco's terminal).\nYou can paint Molly in 3 different \"paint layers\", with over 300 different materials to pick from.\nThis is a client-side mod, so you'll always see your own paint customisation.\nThanks to Ms. kitty for helping playtest the mod.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b228eda8928f5c86256b7d999ae5c0aad34a5dc3/Visual/Misc/Fabulous%20Molly%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Fabulous Molly - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod041.uasset": "81-66-32-16-AE-12-6F-17",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV4.uasset": "42-39-FA-A2-8B-16-2D-37",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_ConsumeEscapeKey.uasset": "4A-19-83-6D-C1-4D-7A-A5",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_ConsumeUseInput.uasset": "46-EE-13-F3-16-0D-DC-9F",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_ManagerUI.uasset": "29-1E-B2-F9-E0-9F-E8-D7",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_MaterialUIBackgroundWall.uasset": "A7-56-F6-DA-FC-9A-70-40",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_MatSelectionUI.uasset": "CE-1C-F2-73-00-B2-08-7C",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_MatUIBackgroundFloor.uasset": "C3-71-1D-8D-76-0D-CD-82",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_SaveData.uasset": "BF-3D-9E-8C-AA-E2-56-77",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_SelectedMatWS.uasset": "8E-FB-DD-E5-44-3B-D4-2B",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_SelectedMatWSUI.uasset": "2A-38-6F-7C-BF-99-F5-77",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_UI.uasset": "F9-06-CD-DD-29-D8-6D-D6",
+          "../../../FSD/Content/UI/HUD_SpaceRig/BP_XharCustomizationConsole.uasset": "B6-37-5E-D2-81-0A-D4-0C",
+          "../../../FSD/Content/UI/HUD_SpaceRig/ConsoleScreen_XharCustomization.uasset": "4F-B4-AA-C1-55-31-E8-ED",
+          "../../../FSD/Content/_ModBPs/Mod041.uexp": "12-8D-47-53-D2-A3-31-6C",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV4.uexp": "C1-AF-1C-00-AA-03-3A-20",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_ConsumeEscapeKey.uexp": "E1-9A-CC-FA-5F-69-CF-55",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_ConsumeUseInput.uexp": "9E-65-DC-DA-2B-C2-E5-A1",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_ManagerUI.uexp": "D2-02-6B-F1-F4-4B-8A-A6",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_MaterialUIBackgroundWall.uexp": "F2-78-DB-89-AB-03-8F-E0",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_MatSelectionUI.uexp": "E1-47-05-72-8A-1B-08-83",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_MatUIBackgroundFloor.uexp": "B4-E5-23-75-7B-9B-58-0D",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_SaveData.uexp": "6B-51-09-75-5E-7E-E1-80",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_SelectedMatWS.uexp": "73-F2-C4-7A-2E-1C-D0-99",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_SelectedMatWSUI.uexp": "73-F2-C4-7A-2E-1C-D0-99",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousMolly/041_UI.uexp": "EE-43-4A-BC-88-21-40-19",
+          "../../../FSD/Content/UI/HUD_SpaceRig/BP_XharCustomizationConsole.uexp": "02-64-8C-E1-46-70-2E-23",
+          "../../../FSD/Content/UI/HUD_SpaceRig/ConsoleScreen_XharCustomization.uexp": "36-5F-EB-26-DD-E8-6C-0D"
+        }
+      }
+    ]
+  },
   "fastbarrelspawner": {
     "DisplayName": "Fast Barrel Spawner",
     "Version": "1.0",

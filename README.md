@@ -244,3 +244,4 @@ You can easily locate your game installation path using steam:
 
 ## [Visual/Misc](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc)
  - **[Better Post Processing](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc/README.md#better-post-processing---v13)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/9af05f5ba5645ab336fa03dc6d5712d9fa1a7216/Visual/Misc/Better%20Post%20Processing%20-%20V1.3%20_P.pak))
+ - **[Fabulous Molly](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc/README.md#fabulous-molly---v10)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/b228eda8928f5c86256b7d999ae5c0aad34a5dc3/Visual/Misc/Fabulous%20Molly%20-%20V1.0%20_P.pak))
