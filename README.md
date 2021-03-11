@@ -248,4 +248,5 @@ You can easily locate your game installation path using steam:
  - **[Fabulous Molly](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc/README.md#fabulous-molly---v10)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/b228eda8928f5c86256b7d999ae5c0aad34a5dc3/Visual/Misc/Fabulous%20Molly%20-%20V1.0%20_P.pak))
 
 ## [Visual/Textures & Icons](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Textures%20%26%20Icons)
+ - **[Class Icons Default](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Textures%20%26%20Icons/README.md#class-icons-default---v10)** by mino ([download](https://github.com/ArcticEcho/DRG-Mods/raw/8f76884f214334132d4f08574af2807c0fd07399/Visual/Textures%20%26%20Icons/Class%20Icons%20Default%20-%20V1.0%20_P.pak))
  - **[Weapon Paintjob Unlocker](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Textures%20%26%20Icons/README.md#weapon-paintjob-unlocker---v10)** by BongoSkaggs ([download](https://github.com/ArcticEcho/DRG-Mods/raw/8354c55da8ba975678884c65ef7c1470e4ebab7f/Visual/Textures%20%26%20Icons/Weapon%20Paintjob%20Unlocker%20-%20V1.0%20_P.pak))

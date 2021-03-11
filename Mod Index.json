@@ -1541,6 +1541,34 @@
       }
     ]
   },
+  "classiconsdefault": {
+    "DisplayName": "Class Icons Default",
+    "Version": "1.0",
+    "DrgVersion": "U33 H9",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Changes the class icons to their default pictogram. Yellow with a drill, red with a wrench&gear, green with a minigun and blue with a radar. Requested by <@!234858481272750080> (reupload)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8f76884f214334132d4f08574af2807c0fd07399/Visual/Textures%20%26%20Icons/Class%20Icons%20Default%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Class Icons Default - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Driller.uasset": "D1-6F-D2-1D-57-83-36-BF",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Engineer.uasset": "7C-C1-43-6C-8F-94-A5-E0",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.uasset": "21-F0-7A-89-85-BC-D3-F1",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Scout.uasset": "A2-28-C1-6B-28-0D-9F-60",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Driller.uexp": "3A-86-CA-62-DE-23-9B-0F",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Engineer.uexp": "8C-90-85-74-19-E0-35-CC",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.uexp": "E1-68-C6-C8-48-E1-B2-2E",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Scout.uexp": "67-1B-39-8C-79-51-3E-6C",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Driller.ubulk": "9E-1A-B2-7C-0D-B0-E7-1E",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Engineer.ubulk": "9D-7D-8F-E0-45-DE-3E-A3"
+        }
+      }
+    ]
+  },
   "closerpromotionterminal": {
     "DisplayName": "Closer Promotion Terminal",
     "Version": "1.1",

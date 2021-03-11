@@ -4,6 +4,14 @@ Changes to player icons, skin textures, etc.
 
 <!-- mod list -->
 
+## Class Icons Default - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8f76884f214334132d4f08574af2807c0fd07399/Visual/Textures%20%26%20Icons/Class%20Icons%20Default%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Changes the class icons to their default pictogram. Yellow with a drill, red with a wrench&gear, green with a minigun and blue with a radar. Requested by @Rabid Scotsman (reupload)
+
 ## Weapon Paintjob Unlocker - v1.0
 **Authors:** BongoSkaggs  
 **DRG Version:** U33 H9  
