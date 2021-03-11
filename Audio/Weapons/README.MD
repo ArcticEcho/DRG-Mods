@@ -22,6 +22,14 @@ Download Link None
 Replaces M1K sounds to to M1 Garand sounds   
 Download Link None
 
+## Minigun Real Deal - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6455b749c6c6ce770cf8cda17e18f4fb581e1c69/Audio/Weapons/Minigun%20Real%20Deal%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Like putting tribals on a car.
+
 ## Subata Glock 17 - v1.0
 **Authors:** Demellion Dismal  
 **DRG Version:** Update 33  

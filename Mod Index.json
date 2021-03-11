@@ -5387,6 +5387,30 @@
       }
     ]
   },
+  "minigunrealdeal": {
+    "DisplayName": "Minigun Real Deal",
+    "Version": "1.0",
+    "DrgVersion": "U33 H9",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Like putting tribals on a car.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6455b749c6c6ce770cf8cda17e18f4fb581e1c69/Audio/Weapons/Minigun%20Real%20Deal%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Minigun Real Deal - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFire/MiniGunFiringA_1.uasset": "5E-F6-FD-9A-1B-26-38-6F",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFire/MiniGunFiringA_2.uasset": "0E-16-1A-6C-4B-AD-8A-EB",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverheat/GatlingOverheatHeatGyroA_1.uasset": "5E-84-2D-0F-00-E5-30-D4",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFire/MiniGunFiringA_1.uexp": "91-52-78-10-CA-63-A4-92",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFire/MiniGunFiringA_2.uexp": "20-E0-FC-86-CA-0F-BE-41",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverheat/GatlingOverheatHeatGyroA_1.uexp": "A0-7F-71-8E-A4-51-53-11"
+        }
+      }
+    ]
+  },
   "minigunricochetbullethellocbuffv2": {
     "DisplayName": "Minigun Ricochet Bullet Hell OC Buff V2",
     "Version": "2.0",

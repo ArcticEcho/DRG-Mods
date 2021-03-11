@@ -45,6 +45,7 @@ You can easily locate your game installation path using steam:
 ## [Audio/Weapons](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons)
  - **[BRT7 Glock 18c](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#brt7-glock-18c---v10)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/c6064933ecc2b7d2911d4d59dec79c6d2dd24738/Audio/Weapons/BRT7%20Glock%2018c%20-%20V1.0%20_P.pak))
  - **[M1K Garand](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#m1k-garand---v20)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f32395bcb50662b2abece6fdd8bd9aed6809cef8/Audio/Weapons/M1K%20Garand%20-%20V2.0%20_P.pak))
+ - **[Minigun Real Deal](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#minigun-real-deal---v10)** by mino ([download](https://github.com/ArcticEcho/DRG-Mods/raw/6455b749c6c6ce770cf8cda17e18f4fb581e1c69/Audio/Weapons/Minigun%20Real%20Deal%20-%20V1.0%20_P.pak))
  - **[Subata Glock 17](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#subata-glock-17---v10)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/0c036d6b1fd956ce9736de80b0a3d9b9a0764ace/Audio/Weapons/Subata%20Glock%2017%20-%20V1.0%20_P.pak))
 
 ## [Framework](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework)
