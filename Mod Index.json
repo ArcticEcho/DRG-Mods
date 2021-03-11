@@ -5789,6 +5789,60 @@
       }
     ]
   },
+  "pickaxepowermovebrucelee": {
+    "DisplayName": "Pickaxe Powermove Bruce Lee",
+    "Version": "1.0",
+    "DrgVersion": "U33 H9",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Bringing Martial Arts to Hoxxes.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e80cb5f92766f86ab2afda5a4da10377cfe7d177/Audio/Voicelines/Pickaxe%20Powermove%20Bruce%20Lee%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Pickaxe Powermove Bruce Lee - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_1.uasset": "2A-DF-17-C5-CA-EC-63-78",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_10.uasset": "4D-96-6F-E7-D6-09-E5-41",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_11.uasset": "9B-35-25-0E-B4-A2-1F-54",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_12.uasset": "43-F3-AB-35-73-3A-81-B5",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_13.uasset": "C8-F2-E5-24-BA-9F-07-32",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_14.uasset": "FD-A7-68-76-32-95-90-04",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_15.uasset": "9E-04-3B-60-A0-36-A8-20",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_16.uasset": "07-0D-25-83-01-E9-FE-71",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_17.uasset": "DF-00-33-15-90-C9-91-D8",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_18.uasset": "5F-C0-46-35-8D-98-51-69",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_2.uasset": "76-BB-50-89-C5-F4-4A-91",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_3.uasset": "9A-F5-6F-D4-ED-19-02-B3",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_4.uasset": "FC-D1-3F-2F-30-5E-45-7B",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_5.uasset": "17-42-08-9E-27-16-99-8C",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_6.uasset": "50-62-EA-9A-88-F0-7E-D4",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_7.uasset": "51-67-17-C5-AC-21-A1-C6",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_8.uasset": "F5-D0-EC-70-80-1D-3E-26",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_9.uasset": "55-73-47-37-C2-95-61-C3",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_1.uexp": "48-3E-20-B4-90-68-DA-F7",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_10.uexp": "EB-95-98-44-AF-57-4F-FF",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_11.uexp": "3F-53-5F-12-3C-2D-09-0D",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_12.uexp": "20-CB-31-9F-A1-65-6F-A5",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_13.uexp": "98-8F-45-A6-E4-B8-D3-6D",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_14.uexp": "51-0B-FA-48-F0-4A-DF-55",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_15.uexp": "F3-C0-48-63-C7-81-D9-B8",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_16.uexp": "10-F7-37-A8-D3-B0-5E-53",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_17.uexp": "FF-6E-4E-27-94-89-ED-52",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_18.uexp": "27-F1-B0-CB-DE-F0-1E-50",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_2.uexp": "8D-83-6D-C0-38-2C-2D-8A",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_3.uexp": "E7-0E-A9-AD-0E-71-C1-C5",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_4.uexp": "7D-51-73-2B-17-B1-60-A1",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_5.uexp": "9B-B0-2F-E8-BB-0B-C6-57",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_6.uexp": "72-D1-AA-F9-39-F8-24-D2",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_7.uexp": "9B-5F-08-F6-F2-1F-6D-4E",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_8.uexp": "3B-E0-6B-DB-4F-5B-87-81",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/PickAxePowerAttack_9.uexp": "36-49-6B-B3-96-1E-AE-7C"
+        }
+      }
+    ]
+  },
   "pointlesslowo2": {
     "DisplayName": "Pointless Low O2",
     "Version": "1",
