@@ -315,6 +315,62 @@
       }
     ]
   },
+  "absurdlylongmissions": {
+    "DisplayName": "Absurdly Long Missions",
+    "Version": "1",
+    "DrgVersion": "U33 (Tested On Experimental Branch)",
+    "AuthorIds": [
+      273536272134307850
+    ],
+    "Description": "Alters map generation to allow mission lengths to reach up to about six times their usual maximum.\n(This has not been tested on all mission types yet, things may be very broken.)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/281e0ea1467630a8e92e0d2707e0213e62709ab6/Gameplay/Misc/Absurdly%20Long%20Missions%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Absurdly Long Missions - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Missions/DNA_2_01.uasset": "1C-13-22-C8-9B-D5-C8-61",
+          "../../../FSD/Content/GameElements/Missions/DNA_2_02.uasset": "13-B4-EA-2B-62-2F-1F-8F",
+          "../../../FSD/Content/GameElements/Missions/DNA_2_03.uasset": "9B-97-98-93-D3-B8-38-A7",
+          "../../../FSD/Content/GameElements/Missions/DNA_2_04.uasset": "63-42-60-39-F2-FA-63-1E",
+          "../../../FSD/Content/GameElements/Missions/DNA_2_05.uasset": "70-2E-E3-EC-72-6A-64-C5",
+          "../../../FSD/Content/GameElements/Missions/DNA_Escort_Long.uasset": "90-A6-B1-95-88-ED-D5-25",
+          "../../../FSD/Content/GameElements/Missions/DNA_Escort_Medium.uasset": "41-53-DE-60-65-67-FF-00",
+          "../../../FSD/Content/GameElements/Missions/DNA_Fractured_Complex.uasset": "46-36-70-46-72-0A-41-07",
+          "../../../FSD/Content/GameElements/Missions/DNA_Fractured_Medium.uasset": "28-30-01-A7-1C-F5-4B-A2",
+          "../../../FSD/Content/GameElements/Missions/DNA_FracturedSimple.uasset": "6B-D0-FF-74-BF-CC-B2-3F",
+          "../../../FSD/Content/GameElements/Missions/DNA_Motherlode_Long.uasset": "D0-C2-EC-41-52-54-B4-A3",
+          "../../../FSD/Content/GameElements/Missions/DNA_Motherlode_Short.uasset": "20-94-69-BF-4B-39-A5-D8",
+          "../../../FSD/Content/GameElements/Missions/DNA_Refinery_Complex.uasset": "EB-A3-23-28-54-D5-0F-72",
+          "../../../FSD/Content/GameElements/Missions/DNA_Refinery_Medium.uasset": "53-46-31-26-A9-C6-68-CD",
+          "../../../FSD/Content/GameElements/Missions/DNA_SalvageFractured_Complex.uasset": "8F-4F-1E-23-CD-29-AF-91",
+          "../../../FSD/Content/GameElements/Missions/DNA_SalvageFractured_Medium.uasset": "61-58-42-E0-B9-AA-21-68",
+          "../../../FSD/Content/GameElements/Missions/DNA_Star_Complex.uasset": "48-28-8F-10-AD-CF-B7-A9",
+          "../../../FSD/Content/GameElements/Missions/DNA_Star_Medium.uasset": "58-F6-CE-CB-80-75-98-59",
+          "../../../FSD/Content/GameElements/Missions/DNA_Tutorial.uasset": "AA-C9-A2-C9-79-E7-14-D2",
+          "../../../FSD/Content/GameElements/Missions/DNA_2_01.uexp": "9B-EA-E7-85-52-A8-09-10",
+          "../../../FSD/Content/GameElements/Missions/DNA_2_02.uexp": "28-3E-D7-7D-3F-0C-64-DF",
+          "../../../FSD/Content/GameElements/Missions/DNA_2_03.uexp": "75-85-B5-BF-40-9C-AC-39",
+          "../../../FSD/Content/GameElements/Missions/DNA_2_04.uexp": "C7-62-64-D8-60-F6-3D-96",
+          "../../../FSD/Content/GameElements/Missions/DNA_2_05.uexp": "F0-3B-EC-5B-DD-DC-02-3C",
+          "../../../FSD/Content/GameElements/Missions/DNA_Escort_Long.uexp": "09-F4-8D-D6-39-8C-78-B6",
+          "../../../FSD/Content/GameElements/Missions/DNA_Escort_Medium.uexp": "8F-70-90-83-D6-C7-50-62",
+          "../../../FSD/Content/GameElements/Missions/DNA_Fractured_Complex.uexp": "01-D7-3D-36-FC-F3-E2-74",
+          "../../../FSD/Content/GameElements/Missions/DNA_Fractured_Medium.uexp": "91-3D-8A-CF-4F-96-45-39",
+          "../../../FSD/Content/GameElements/Missions/DNA_FracturedSimple.uexp": "77-42-C8-22-86-42-DF-C4",
+          "../../../FSD/Content/GameElements/Missions/DNA_Motherlode_Long.uexp": "B0-5D-53-E1-5E-3E-39-43",
+          "../../../FSD/Content/GameElements/Missions/DNA_Motherlode_Short.uexp": "0E-B0-1C-B9-7C-B4-4B-46",
+          "../../../FSD/Content/GameElements/Missions/DNA_Refinery_Complex.uexp": "2A-69-84-21-1C-F0-18-D3",
+          "../../../FSD/Content/GameElements/Missions/DNA_Refinery_Medium.uexp": "C9-3C-FF-CB-F1-01-84-CA",
+          "../../../FSD/Content/GameElements/Missions/DNA_SalvageFractured_Complex.uexp": "CB-F4-68-15-66-3D-CE-0E",
+          "../../../FSD/Content/GameElements/Missions/DNA_SalvageFractured_Medium.uexp": "59-D6-C4-31-D1-5F-72-C7",
+          "../../../FSD/Content/GameElements/Missions/DNA_Star_Complex.uexp": "08-3C-E7-42-32-17-25-04",
+          "../../../FSD/Content/GameElements/Missions/DNA_Star_Medium.uexp": "54-2B-0F-EB-1C-23-1B-6A",
+          "../../../FSD/Content/GameElements/Missions/DNA_Tutorial.uexp": "F8-3F-E2-DD-BC-18-2E-FA"
+        }
+      }
+    ]
+  },
   "advanceddarkness": {
     "DisplayName": "Advanced Darkness",
     "Version": "2.6",

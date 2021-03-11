@@ -4,6 +4,15 @@ Random/fun mods that don't belong in the other categories.
 
 <!-- mod list -->
 
+## Absurdly Long Missions - v1
+**Authors:** Cat the Gaming Fluffball  
+**DRG Version:** U33 (Tested On Experimental Branch)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/281e0ea1467630a8e92e0d2707e0213e62709ab6/Gameplay/Misc/Absurdly%20Long%20Missions%20-%20V1%20_P.pak)  
+
+**Description:**  
+Alters map generation to allow mission lengths to reach up to about six times their usual maximum.  
+(This has not been tested on all mission types yet, things may be very broken.)
+
 ## Barrel Yeet 10x - v1
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 33, Hotfix 2  
