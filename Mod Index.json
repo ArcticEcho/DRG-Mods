@@ -1569,6 +1569,34 @@
       }
     ]
   },
+  "classiconsfunctions": {
+    "DisplayName": "Class Icons Functions",
+    "Version": "1.0",
+    "DrgVersion": "U33 H9",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Changes the class icons to their true meaning in a pictogram. Yellow with a hand truck (the carry), red with an engine (the motor), green with a crosshair (the terminator) and blue with the hermes foot (the flying monkey).",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b12c925b2673870b7c6eeb6be0d3b151c1fff3aa/Visual/Textures%20%26%20Icons/Class%20Icons%20Functions%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Class Icons Functions - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Driller.uasset": "24-96-C1-11-CE-45-46-4C",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Engineer.uasset": "D2-FC-96-BB-02-DA-10-72",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.uasset": "C7-ED-ED-14-10-A1-8E-80",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Scout.uasset": "64-D6-70-F3-5F-A0-B2-98",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Driller.uexp": "F9-60-EB-49-F7-BC-94-3F",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Engineer.uexp": "11-4D-35-05-0A-91-B6-0F",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.uexp": "D6-40-BD-35-F9-AD-0E-EF",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Scout.uexp": "E0-7F-BF-C4-40-D2-8B-44",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Driller.ubulk": "EF-30-F6-15-C4-D4-55-A0",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Engineer.ubulk": "38-95-02-A5-F3-C5-01-47"
+        }
+      }
+    ]
+  },
   "closerpromotionterminal": {
     "DisplayName": "Closer Promotion Terminal",
     "Version": "1.1",
