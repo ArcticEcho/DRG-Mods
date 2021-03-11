@@ -5157,6 +5157,30 @@
       }
     ]
   },
+  "lootbugpettingvoice": {
+    "DisplayName": "Lootbug Petting Voice",
+    "Version": "1.0",
+    "DrgVersion": "U33 H9",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "In case you need to hear why to shoot them.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ea750bc965303f78fc7ae56665b91ea0f96fdb6e/Audio/NPC/Lootbug%20Petting%20Voice%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Lootbug Petting Voice - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/Enemies/LootBug/LootBugDeath/LootBugReaction/LootBugReactionA_1.uasset": "F0-3E-25-B0-05-42-01-4D",
+          "../../../FSD/Content/Audio/SFX/Enemies/LootBug/LootBugDeath/LootBugReaction/LootBugReactionA_2.uasset": "24-A2-85-F4-55-91-B6-87",
+          "../../../FSD/Content/Audio/SFX/Enemies/LootBug/LootBugDeath/LootBugReaction/LootBugReactionA_3.uasset": "F7-16-C0-FF-D9-E0-8F-EB",
+          "../../../FSD/Content/Audio/SFX/Enemies/LootBug/LootBugDeath/LootBugReaction/LootBugReactionA_1.uexp": "DA-E6-04-D9-1E-DD-75-2E",
+          "../../../FSD/Content/Audio/SFX/Enemies/LootBug/LootBugDeath/LootBugReaction/LootBugReactionA_2.uexp": "B1-E9-02-54-9A-50-4C-DD",
+          "../../../FSD/Content/Audio/SFX/Enemies/LootBug/LootBugDeath/LootBugReaction/LootBugReactionA_3.uexp": "65-E7-39-3F-22-7A-0B-F6"
+        }
+      }
+    ]
+  },
   "lootsplosion": {
     "DisplayName": "Lootsplosion",
     "Version": "1.0",

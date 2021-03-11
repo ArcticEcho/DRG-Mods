@@ -57,6 +57,14 @@ Replaces Bulk Detonator growl with random KEKW laugh.
 **Description:**  
 Adds "It was at this moment he knew" line to a leech grabbing sound.
 
+## Lootbug Petting Voice - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ea750bc965303f78fc7ae56665b91ea0f96fdb6e/Audio/NPC/Lootbug%20Petting%20Voice%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+In case you need to hear why to shoot them.
+
 ## Molly R2D2 - v1
 **Authors:** Kraeus  
 **DRG Version:** Update 33  
