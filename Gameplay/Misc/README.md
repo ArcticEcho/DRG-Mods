@@ -6,7 +6,7 @@ Random/fun mods that don't belong in the other categories.
 
 ## Absurdly Long Missions - v1
 **Authors:** Cat the Gaming Fluffball  
-**DRG Version:** U33 (Tested On Experimental Branch)  
+**DRG Version:** U33, Hotfix 9 (Tested On Experimental Branch)  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/281e0ea1467630a8e92e0d2707e0213e62709ab6/Gameplay/Misc/Absurdly%20Long%20Missions%20-%20V1%20_P.pak)  
 
 **Description:**  
