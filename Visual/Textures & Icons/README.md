@@ -20,6 +20,14 @@ Changes the class icons to their default pictogram. Yellow with a drill, red wit
 **Description:**  
 Changes the class icons to their true meaning in a pictogram. Yellow with a hand truck (the carry), red with an engine (the motor), green with a crosshair (the terminator) and blue with the hermes foot (the flying monkey).
 
+## Streamsuit 5000 All PaintJobs - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8dbb3b6ee5eb10b69f733487a0617ce432086663/Visual/Textures%20%26%20Icons/Streamsuit%205000%20All%20PaintJobs%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+This DOES NOT unlock the Streamsuit without having the DLC. It unlocks the color slot for the parts of it in case you already have the DLC itself.
+
 ## Weapon Paintjob Unlocker - v1.0
 **Authors:** BongoSkaggs  
 **DRG Version:** U33 H9  
