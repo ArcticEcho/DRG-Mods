@@ -56,6 +56,14 @@ Sets the Chance for Cargo Crates and Lost packs to generate to 0
 **Description:**  
 Increases the pickup sphere radius for gunk seeds to make them more on par with other large objects.  Thank you to NaturalBornCamper for updating this for me while I worked on other stuff.
 
+## Hollow Bough Destructibles - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c0b1d318a12d869d948d81f4bab728a6f765109c/Quality%20of%20Life/Improved%20mechanics/Hollow%20Bough%20Destructibles%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Lets you destroy dry thorn tumble and bough cone.
+
 ## No more Dollar Store flashlights - v33.2.2
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 2  
