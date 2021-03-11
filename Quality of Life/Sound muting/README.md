@@ -4,6 +4,14 @@ QoL mods to mute annoying sounds.
 
 <!-- mod list -->
 
+## Doretta Shut Up - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/00b64eca0cde09d001fa9b3ece84ba6f3796df17/Quality%20of%20Life/Sound%20muting/Doretta%20Shut%20Up%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Silences Doretta completely not just on damage but especially when someone can't stop petting it or when you constantly throw it on the way back.
+
 ## No Doretta Whining - v1.0
 **Authors:** Demellion Dismal  
 **DRG Version:** Update 33  
