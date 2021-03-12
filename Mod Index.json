@@ -6692,28 +6692,6 @@
       }
     ]
   },
-  "streamsuit5000allpaintjobs": {
-    "DisplayName": "Streamsuit 5000 All PaintJobs",
-    "Version": "1.0",
-    "DrgVersion": "U33 H9",
-    "AuthorIds": [
-      166293241153585152
-    ],
-    "Description": "This DOES NOT unlock the Streamsuit without having the DLC. It unlocks the color slot for the parts of it in case you already have the DLC itself.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8dbb3b6ee5eb10b69f733487a0617ce432086663/Visual/Textures%20%26%20Icons/Streamsuit%205000%20All%20PaintJobs%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Streamsuit 5000 All PaintJobs - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Character/Vanity2/Armor/VAN_ArmorDriller_DLC_Streamer.uexp": "DA-FC-B6-11-D0-6E-A7-B7",
-          "../../../FSD/Content/Character/Vanity2/Armor/VAN_ArmorEngineer_DLC_Streamer.uexp": "AF-EB-3D-57-11-83-2C-EB",
-          "../../../FSD/Content/Character/Vanity2/Armor/VAN_ArmorGunner_DLC_Streamer.uexp": "54-67-06-EF-84-46-00-07",
-          "../../../FSD/Content/Character/Vanity2/Armor/VAN_ArmorScout_DLC_Streamer.uexp": "44-7D-E6-DC-46-47-18-E6"
-        }
-      }
-    ]
-  },
   "subataglock17": {
     "DisplayName": "Subata Glock 17",
     "Version": "1.0",
