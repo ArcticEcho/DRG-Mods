@@ -36,4 +36,5 @@ This DOES NOT unlock the Streamsuit without having the DLC. It unlocks the color
 **Description:**  
 Unlocks the default, skin specific paintjobs for use on non-default skins. Works on host and client.  
 Example: Fourth Relic paintjob on Neon Band skin.  
-https://discord.com/channels/676880716142739467/732650220214681600/819480528070639647
+https://discord.com/channels/676880716142739467/732650220214681600/819480528070639647  
+**_Note:_**This mod does ***not*** unlock DLC exclusive skins & paintjobs. You must own the appropriate DLC in order to use DLC exclusive items.

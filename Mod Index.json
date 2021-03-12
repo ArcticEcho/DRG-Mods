@@ -7193,7 +7193,7 @@
     "AuthorIds": [
       243195324594782210
     ],
-    "Description": "Unlocks the default, skin specific paintjobs for use on non-default skins. Works on host and client.\nExample: Fourth Relic paintjob on Neon Band skin.\nhttps://discord.com/channels/676880716142739467/732650220214681600/819480528070639647",
+    "Description": "Unlocks the default, skin specific paintjobs for use on non-default skins. Works on host and client.\nExample: Fourth Relic paintjob on Neon Band skin.\nhttps://discord.com/channels/676880716142739467/732650220214681600/819480528070639647\n\n**_Note:_**This mod does ***not*** unlock DLC exclusive skins & paintjobs. You must own the appropriate DLC in order to use DLC exclusive items.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8354c55da8ba975678884c65ef7c1470e4ebab7f/Visual/Textures%20%26%20Icons/Weapon%20Paintjob%20Unlocker%20-%20V1.0%20_P.pak",
     "Paks": [
