@@ -317,17 +317,17 @@
   },
   "absurdlylongmissions": {
     "DisplayName": "Absurdly Long Missions",
-    "Version": "1",
+    "Version": "1.1",
     "DrgVersion": "U33, Hotfix 9 (Tested On Experimental Branch)",
     "AuthorIds": [
       273536272134307850
     ],
     "Description": "Alters map generation to allow mission lengths to reach up to about six times their usual maximum.\n(This has not been tested on all mission types yet, things may be very broken.)",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/281e0ea1467630a8e92e0d2707e0213e62709ab6/Gameplay/Misc/Absurdly%20Long%20Missions%20-%20V1%20_P.pak",
+    "LastUpdateChangelog": "- Refinery missions have been updated to be more complex.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/72785dcf88cb7f69af53ae746801a7cf9f858e07/Gameplay/Misc/Absurdly%20Long%20Missions%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Absurdly Long Missions - V1",
+        "PakFileName": "Absurdly Long Missions - V1.1",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/Missions/DNA_2_01.uasset": "1C-13-22-C8-9B-D5-C8-61",
           "../../../FSD/Content/GameElements/Missions/DNA_2_02.uasset": "13-B4-EA-2B-62-2F-1F-8F",
@@ -360,8 +360,8 @@
           "../../../FSD/Content/GameElements/Missions/DNA_FracturedSimple.uexp": "77-42-C8-22-86-42-DF-C4",
           "../../../FSD/Content/GameElements/Missions/DNA_Motherlode_Long.uexp": "B0-5D-53-E1-5E-3E-39-43",
           "../../../FSD/Content/GameElements/Missions/DNA_Motherlode_Short.uexp": "0E-B0-1C-B9-7C-B4-4B-46",
-          "../../../FSD/Content/GameElements/Missions/DNA_Refinery_Complex.uexp": "2A-69-84-21-1C-F0-18-D3",
-          "../../../FSD/Content/GameElements/Missions/DNA_Refinery_Medium.uexp": "C9-3C-FF-CB-F1-01-84-CA",
+          "../../../FSD/Content/GameElements/Missions/DNA_Refinery_Complex.uexp": "17-C1-3F-86-CC-61-D2-E0",
+          "../../../FSD/Content/GameElements/Missions/DNA_Refinery_Medium.uexp": "22-BE-CE-5A-04-86-19-0B",
           "../../../FSD/Content/GameElements/Missions/DNA_SalvageFractured_Complex.uexp": "CB-F4-68-15-66-3D-CE-0E",
           "../../../FSD/Content/GameElements/Missions/DNA_SalvageFractured_Medium.uexp": "59-D6-C4-31-D1-5F-72-C7",
           "../../../FSD/Content/GameElements/Missions/DNA_Star_Complex.uexp": "08-3C-E7-42-32-17-25-04",
