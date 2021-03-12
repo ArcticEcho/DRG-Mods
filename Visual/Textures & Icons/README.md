@@ -4,6 +4,17 @@ Changes to player icons, skin textures, etc.
 
 <!-- mod list -->
 
+## Armor Paintjob Unlocker - v1.0
+**Authors:** BongoSkaggs  
+**DRG Version:** U33 H9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5ae70f5bb9d87e709389e30a8ef818ded9a89768/Visual/Textures%20%26%20Icons/Armor%20Paintjob%20Unlocker%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Unlocks the default paintjobs that are attached to the Mk1-5 & Streamer armors to be used on other armors. Also allows Streamer armor to use other paintjobs.  
+Example: Gunner Mk5 paintjob on Scale Brigade armor.  
+https://discord.com/channels/676880716142739467/732650220214681600/819878197533081640  
+**Note**: This mod does ***not*** unlock any DLC exclusive skins & paintjobs. You must own the appropriate DLC in order to use DLC exclusive items.
+
 ## Class Icons Default - v1.0
 **Authors:** mino  
 **DRG Version:** U33 H9  
