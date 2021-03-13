@@ -250,7 +250,7 @@ You can easily locate your game installation path using steam:
 
 ## [Visual/Misc](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc)
  - **[Better Post Processing](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc/README.md#better-post-processing---v13)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/9af05f5ba5645ab336fa03dc6d5712d9fa1a7216/Visual/Misc/Better%20Post%20Processing%20-%20V1.3%20_P.pak))
- - **[Fabulous Molly](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc/README.md#fabulous-molly---v10)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/b228eda8928f5c86256b7d999ae5c0aad34a5dc3/Visual/Misc/Fabulous%20Molly%20-%20V1.0%20_P.pak))
+ - **[Fabulous Molly](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc/README.md#fabulous-molly---v20)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/39b033c526df0984d3bbdcfce3d0faa02190ea36/Visual/Misc/Fabulous%20Molly%20-%20V2.0%20_P.pak))
 
 ## [Visual/Textures & Icons](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Textures%20%26%20Icons)
  - **[Armor Paintjob Unlocker](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Textures%20%26%20Icons/README.md#armor-paintjob-unlocker---v10)** by BongoSkaggs ([download](https://github.com/ArcticEcho/DRG-Mods/raw/5ae70f5bb9d87e709389e30a8ef818ded9a89768/Visual/Textures%20%26%20Icons/Armor%20Paintjob%20Unlocker%20-%20V1.0%20_P.pak))
