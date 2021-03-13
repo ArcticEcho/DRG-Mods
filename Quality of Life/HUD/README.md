@@ -41,4 +41,4 @@ Displays real weapon stats (ammo, magazine, and rate of fire) for the "lead stor
 
 **Description:**  
 **Requires mod loader**  
-A HUD element to show how far along your gun is in reloading. Check out my github for more info here.
+A HUD element to show how far along your gun is in reloading. Check out my github for more info [here.](https://github.com/samamstar/SamsReloadBar/)
