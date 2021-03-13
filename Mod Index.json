@@ -6253,6 +6253,38 @@
       }
     ]
   },
+  "samsreloadbar": {
+    "DisplayName": "SamsReloadBar",
+    "Version": "0.5",
+    "DrgVersion": "U33H9",
+    "AuthorIds": [
+      276091282542297089
+    ],
+    "Description": "A HUD element to show how far along your gun is in reloading. Check out my github for more info [here.](https://github.com/samamstar/SamsReloadBar/)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/24aac454cb5c75d60f0a2008ba556cecb9d18e95/Quality%20of%20Life/HUD/SamsReloadBar%20-%20V0.5%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "SamsReloadBar - V0.5",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/AllWeapons.uasset": "F4-8C-C6-40-C5-BC-69-10",
+          "../../../FSD/Content/_ModBPs/CalibrationRequired.uasset": "6A-9E-38-89-2B-E6-DD-C9",
+          "../../../FSD/Content/_ModBPs/DebugUI.uasset": "1D-3C-D3-B6-F6-10-75-E9",
+          "../../../FSD/Content/_ModBPs/Mod042.uasset": "A0-8D-9F-B1-48-63-3F-B6",
+          "../../../FSD/Content/_ModBPs/ReloadBar.uasset": "70-A6-20-DD-8C-A0-87-FC",
+          "../../../FSD/Content/_ModBPs/SettingsUI.uasset": "13-EA-CD-28-9D-A8-6F-13",
+          "../../../FSD/Content/_ModBPs/WeaponData.uasset": "BE-B0-95-0D-40-CE-95-A3",
+          "../../../FSD/Content/_ModBPs/AllWeapons.uexp": "D9-3D-A2-78-F5-8F-BE-73",
+          "../../../FSD/Content/_ModBPs/CalibrationRequired.uexp": "00-9C-2F-98-A4-BE-69-CC",
+          "../../../FSD/Content/_ModBPs/DebugUI.uexp": "7A-33-3F-FE-64-E2-C4-9D",
+          "../../../FSD/Content/_ModBPs/Mod042.uexp": "B2-F9-71-62-0A-A6-B2-F9",
+          "../../../FSD/Content/_ModBPs/ReloadBar.uexp": "92-4A-17-4A-D7-81-72-89",
+          "../../../FSD/Content/_ModBPs/SettingsUI.uexp": "E0-13-1A-DD-7C-04-7A-70",
+          "../../../FSD/Content/_ModBPs/WeaponData.uexp": "7A-79-61-41-7E-B9-57-E3"
+        }
+      }
+    ]
+  },
   "seasonalspacerig": {
     "DisplayName": "Seasonal Space Rig",
     "Version": "1.1",
