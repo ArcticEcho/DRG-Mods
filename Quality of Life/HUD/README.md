@@ -40,4 +40,5 @@ Displays real weapon stats (ammo, magazine, and rate of fire) for the "lead stor
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/24aac454cb5c75d60f0a2008ba556cecb9d18e95/Quality%20of%20Life/HUD/SamsReloadBar%20-%20V0.5%20_P.pak)  
 
 **Description:**  
-A HUD element to show how far along your gun is in reloading. Check out my github for more info [here.](https://github.com/samamstar/SamsReloadBar/)
+**Requires mod loader**  
+A HUD element to show how far along your gun is in reloading. Check out my github for more info here.
