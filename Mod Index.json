@@ -569,6 +569,54 @@
       }
     ]
   },
+  "alternativeassaultrifle": {
+    "DisplayName": "Alternative Assault Rifle",
+    "Version": "3.0",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      298686463556583426
+    ],
+    "Description": "Changes Scout's Deepcore GK2 firing and reload sounds. [Preview.](https://www.youtube.com/watch?v=3kKOLKvO2Nc)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/317731efbaccb12c8ed48a89b56ddd72ab2ad573/Audio/Weapons/Alternative%20Assault%20Rifle%20-%20V3.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Alternative Assault Rifle - V3.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsLoop.uasset": "DC-07-4C-4F-25-C8-D6-84",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/Fire-01.uasset": "9F-FA-BA-C8-76-1D-8A-33",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/Fire-02.uasset": "0B-7E-F6-F4-5B-72-6D-E5",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/Fire-03.uasset": "15-D0-07-F5-13-FF-0A-41",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/Fire-04.uasset": "D8-33-06-37-30-BD-F0-62",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/MagIn.uasset": "B0-83-22-C0-40-D8-3A-52",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/MagOut.uasset": "5B-37-ED-D6-89-B8-95-E9",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/SideWheel-In-1.uasset": "93-72-E0-23-39-97-69-C3",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/SideWheel-In-2.uasset": "C8-EB-83-D8-99-CE-59-8F",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/SideWheel-Out.uasset": "81-8A-80-00-4E-84-57-C5",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/AssaultRifleFireCoreCombined_Cue.uasset": "76-65-43-7C-56-0C-B1-3A",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/AssaultRifleReload/AssaultRifleReloadA_1_Cue.uasset": "6A-77-A1-84-64-1E-4F-E2",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/AssaultRifleReload/AssaultRifleReloadB_1_Cue.uasset": "57-46-82-5C-E1-2B-37-43",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/AssaultRifleReload/AssaultRifleReloadD_1_Cue.uasset": "DF-99-BB-49-D1-E0-69-58",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/AssaultRifleReload/AssaultRifleReloadE_1_Cue.uasset": "0B-EC-3F-CB-39-0D-56-F7",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsLoop.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/Fire-01.uexp": "56-11-27-75-7F-D4-86-BB",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/Fire-02.uexp": "70-87-93-54-C0-23-3B-47",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/Fire-03.uexp": "22-F1-13-0F-7D-52-1D-ED",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/Fire-04.uexp": "E2-BD-F8-6B-0D-79-39-9B",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/MagIn.uexp": "B7-98-24-23-F3-21-D0-62",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/MagOut.uexp": "9C-5A-7E-DC-87-A4-09-47",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/SideWheel-In-1.uexp": "D6-5D-29-18-9B-40-2C-70",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/SideWheel-In-2.uexp": "3E-E7-07-FD-B3-38-95-71",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/0CustomAudio/SideWheel-Out.uexp": "03-1D-91-B7-F0-E5-6A-A4",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/AssaultRifleFireCoreCombined_Cue.uexp": "12-26-24-FB-C7-85-C9-7C",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/AssaultRifleReload/AssaultRifleReloadA_1_Cue.uexp": "10-3A-03-40-9C-DF-AF-8D",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/AssaultRifleReload/AssaultRifleReloadB_1_Cue.uexp": "4C-60-8D-87-5B-E7-10-81",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/AssaultRifleReload/AssaultRifleReloadD_1_Cue.uexp": "2F-BB-F7-AA-E4-86-FD-9E",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_AssaultRifle/AssaultRifleReload/AssaultRifleReloadE_1_Cue.uexp": "3C-48-86-24-66-AD-FB-7C"
+        }
+      }
+    ]
+  },
   "animedoretta": {
     "DisplayName": "Anime Doretta",
     "Version": "1.1",

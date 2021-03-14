@@ -4,6 +4,14 @@ Audio changes for weapons and tools.
 
 <!-- mod list -->
 
+## Alternative Assault Rifle - v3.0
+**Authors:** Gad  
+**DRG Version:** U33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/317731efbaccb12c8ed48a89b56ddd72ab2ad573/Audio/Weapons/Alternative%20Assault%20Rifle%20-%20V3.0%20_P.pak)  
+
+**Description:**  
+Changes Scout's Deepcore GK2 firing and reload sounds. [Preview.](https://www.youtube.com/watch?v=3kKOLKvO2Nc)
+
 ## BRT7 Glock 18c - v1.0
 **Authors:** Demellion Dismal  
 **DRG Version:** Update 33  
