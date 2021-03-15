@@ -4,6 +4,19 @@ Mods that increase the difficulty of things.
 
 <!-- mod list -->
 
+## Cave Leech Clusterfuck - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** Update 33, Hotfix 9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/65b21d62d06df26bf961dff056eabf1350e7a9c7/Gameplay/Gamemodes/Handicaps/Cave%20Leech%20Clusterfuck%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are too big, or too slow? Do you have a nuisance Scout you're looking to dispose of? Look no further - Cave Leech Clusterfuck is the mod for you!  
+--Makes smaller, faster leeches  
+--Makes a *lot* more leeches (but only in missions with the modifier)  
+--Renames *Cave Leech Cluster* to *Cave Leech Clusterfuck* in mission selection  
+--Increases hazard bonus  
+--May not behave quite right on all mission types (Refinery has been... odd so far)
+
 ## No Reviving - v2
 **Authors:** Shrub_Daddy  
 **DRG Version:** 33  
