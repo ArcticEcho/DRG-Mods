@@ -14,27 +14,23 @@ For mods that don't fit any other visual category.
 Adds options for controlling: super-sampling, ambient occlusion, bloom, lens flare, lens dirt, vignette, and film grain.  
 _Your in-game graphics settings for post-processing must be set to high/ultra._
 
-## Fabulous Molly - v2.0
+## Fabulous Molly - v2.1
 **Authors:** ArcticEcho  
-**DRG Version:** Update 33, Hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/39b033c526df0984d3bbdcfce3d0faa02190ea36/Visual/Misc/Fabulous%20Molly%20-%20V2.0%20_P.pak)  
+**DRG Version:** Update 33, Hotifx 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c053433817b2b6a661bdebfcf5ae1e62f2d8c90e/Visual/Misc/Fabulous%20Molly%20-%20V2.1%20_P.pak)  
 
 **Description:**  
 **Requires the BP Mod Manager.**  
 Adds a molly paint customisation terminal to the spacerig (next to Bosco's terminal).  
-You can paint Molly in 3 different "paint layers", with over 300 different materials to pick from.  
+You can paint Molly in 4 different "paint layers", with over 400 different materials to pick from.  
 This is a client-side mod, so you'll always see your own paint customisation.  
 Thanks to Ms. kitty for helping playtest the mod.
 
-**Update v2.0 Changelog:**  
-- Added 200 new materials.  
- - Added 5 customisation save slots.  
- - Added a new layer to change the material of the blinking lights.  
- - Added an optional material list that adds (50-ish) more wacky materials.  
- - Added options for which layers are randomised each mission.  
- - Improved the randomise option to now apply different paints for each molly (assuming you have multiple mollys in a mission).  
- - Fixed FPS issues in the spacerig.  
- - Fixed a bug that caused storms to break.  
- - Fixed a bug that caused molly to spawn twice if you were a client in a lobby where the host also had the mod installed.  
- - Fixed mouse sensitivity in other terminals.  
- - Fixed being able to click on hidden materials.
+**Update v2.1 Changelog:**  
+This will be the last update I make to this mod for a while (unless something breaks).   
+ - Fixed a bug where highlighted materials wouldn't update after changing save slot.  
+ - Improved FPS in the spacerig (again).  
+ - Improved general stability and performance in missions.  
+ - Improved material selection clarity a bit.  
+ - Added material name to the UI.  
+ - Made the wardrobe light a bit brighter.
