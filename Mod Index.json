@@ -2681,6 +2681,30 @@
       }
     ]
   },
+  "enhancedtriangulation": {
+    "DisplayName": "Enhanced Triangulation",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 9",
+    "AuthorIds": [
+      231051407032057856
+    ],
+    "Description": "Basically doubles the radius of the triangulation events in the salvage mission, although visuals do NOT update to their proper size.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c32603789c6de20e55115e4986a1a8701676ea78/Gameplay/Unbalanced/Other/Enhanced%20Triangulation%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Enhanced Triangulation - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Objectives/Salvage/EVENT_DropPodDefense_Base.uasset": "4A-E8-2F-63-C0-2A-0A-C7",
+          "../../../FSD/Content/GameElements/Objectives/Salvage/EVENT_DropPodDefense_Refuel.uasset": "08-29-9D-18-C7-88-0A-56",
+          "../../../FSD/Content/GameElements/Objectives/Salvage/EVENT_DropPodDefense_Uplink.uasset": "4F-4D-6F-DA-3C-28-FE-0E",
+          "../../../FSD/Content/GameElements/Objectives/Salvage/EVENT_DropPodDefense_Base.uexp": "16-81-D6-76-27-84-E1-42",
+          "../../../FSD/Content/GameElements/Objectives/Salvage/EVENT_DropPodDefense_Refuel.uexp": "9C-E1-75-25-3E-04-E8-DF",
+          "../../../FSD/Content/GameElements/Objectives/Salvage/EVENT_DropPodDefense_Uplink.uexp": "A2-49-2E-02-0F-A6-9C-7D"
+        }
+      }
+    ]
+  },
   "environmentalist": {
     "DisplayName": "Environmentalist",
     "Version": "3.1",

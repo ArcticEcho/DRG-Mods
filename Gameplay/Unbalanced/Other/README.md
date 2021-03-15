@@ -68,6 +68,14 @@ Unbalanced mods that don't belong in the other categories.
 - As a host, the carve size increase will affect everyone who joins your game. The reduced number of hits needed will only affect you.  
 - As a client, it will try to carve a larger spot, but revert back to the normal carve size. The reduced number of hits needed will only affect you.
 
+## Enhanced Triangulation - v1.0
+**Authors:** Maixxi.png  
+**DRG Version:** Update 33, Hotfix 9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c32603789c6de20e55115e4986a1a8701676ea78/Gameplay/Unbalanced/Other/Enhanced%20Triangulation%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Basically doubles the radius of the triangulation events in the salvage mission, although visuals do NOT update to their proper size.
+
 ## Escort Rock Nerf - v1.0
 **Authors:** Sesselpots  
 **DRG Version:** Update 33  
