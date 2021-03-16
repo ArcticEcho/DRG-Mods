@@ -36,7 +36,7 @@ Displays real weapon stats (ammo, magazine, and rate of fire) for the "lead stor
 
 ## SamsReloadBar - v0.6
 **Authors:** Samamstar  
-**DRG Version:** U33H9  
+**DRG Version:** U33H10  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/706fd0e92e0b164f385d01744b5fcfecbd4cc595/Quality%20of%20Life/HUD/SamsReloadBar%20-%20V0.6%20_P.pak)  
 
 **Description:**  
