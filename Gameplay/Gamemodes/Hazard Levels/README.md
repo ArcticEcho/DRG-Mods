@@ -259,26 +259,27 @@ Morkite (2 dwarves): https://youtu.be/R9bZczjiCRA
 **Update v33.7.4 Changelog:**  
 Adds Difficulties for EDD and includes enemy cap (SEE NOTE ABOVE)
 
-## Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives) - v33.2.1
+## Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives) - v33.10.0
 **Authors:** NaturalBornCamper  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1befa52fb69d8a9085273df209c0afc5a6045cb2/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.2.1.zip)  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/13b262e8af943cad764e9cf6f3bd10fc8b2274b5/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.10.0.zip)  
 
 **Description:**  
-Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing  
-40+ simultaneous cries of pain? Want gigantic hordes of cannon fodder?  
-This is as close to vanilla as possible, so you can expect normal game behavior, only  
-with twice the enemies. Also makes normal Deep Dive fun again, less boring 😉  
+Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing 40+ simultaneous cries of pain? Want gigantic hordes of cannon fodder?  
+This is as close to vanilla as possible, so you can expect normal game behavior, only with twice the enemies. Also makes normal Deep Dive fun again, less boring 😉  
 Preview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992  
 Preview (Youtube): https://youtu.be/0k3bVdkpSOs  
 Preview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686  
 \----------------------------------------------------------------  
---Higher enemy count for an alternate higher difficulty, spawning tons of enemies instead of less but tougher enemies like haz6/7.  
+--Higher enemy count for an alternate higher difficulty, spawning more enemies instead of making them tougher.  
 --Variation 2x has 200% enemies (150% enemies single player)  
 --Variation 1.5x has 150% enemies (125% enemies single player)  
 --No XP boost or any other modification, this is just for fun  
 --Use obviously the multiplier file you choose, not both  
 \----------------------------------------------------------------  
 Note: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health  
-Note: Replaces Haz 3, 4, 5 and DD/EDD. So it won't work with Haz 6/7. Only the host needs the mod  
-Note: Recommended using "Custom Cap" mod to avoid enemy de-spawn. 150 normal enemies and 100 swarmers
+Note: Replaces Haz 3, 4, 5 and DD/EDD. Only the host needs the mod  
+NOTE: YOU DON'T NEED "Custom Cap" mod, but if you want to use it anyways, you might crash on first launch. Let me know if you have issues and I'll remove it or figure something out
+
+**Update v33.10.0 Changelog:**  
+Added Hazard name in Haz3/Haz4/Haz5, includes enemy cap (SEE NOTE ABOVE)
