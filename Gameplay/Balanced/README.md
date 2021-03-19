@@ -38,6 +38,25 @@ Notes:
 **Update v1.7 Changelog:**  
 included in the doc/pdf with entries under (v1.7) in bold or underlined/bolded in case it was an update to an earlier change.
 
+## Disposable Sentry - v1.0
+**Authors:** TommyGun  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/654ee4614d5849f28bac0f0432c49ae40e60d9d6/Gameplay/Balanced/Disposable%20Sentry%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Reworks engineer's sentry gun into a 'disposable' one (upgrades also rebalanced)  
+Somewhat inspired by the sentries from the old builds  
+**Disposable Sentry rundown**  
++ Quick to set up and recall  
++ High rate of fire  
+- Low base damage  
+- Low sentry ammo capacity  
+- Cannot refill ammo  
+Notable upgrade changes  
+* Gemini grants you three sentries  
+* Re-enable sentry ammo refill in tier 2 upgrades  
+* Quick Deploy will allow you to almost instantly build a sentry
+
 ## HE Grenade Carve - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
