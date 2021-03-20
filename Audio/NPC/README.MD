@@ -82,3 +82,12 @@ Preview -> https://discord.com/channels/676880716142739467/732650220214681600/80
 **Description:**  
 Replaces Lloyd's vocalizations with Lloyd the Bartender from The Shining run through a robot vocal changer.  
 Preview -> https://discord.com/channels/676880716142739467/732650220214681600/806979173154947082
+
+## Swiggity Grabbers - v1.0
+**Authors:** Lithobraker  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3891045dde8a110db3ab3f7f4b060429ccf2d5b1/Audio/NPC/Swiggity%20Grabbers%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the Grabber's signature screech with two versions of "Swiggity Swooty", and one version of "I am coming for the booty", by Vinesauce Joel.  
+Note: It's possible this may make them harder to hear, as the new voice isn't as piercing as before.

@@ -7103,6 +7103,36 @@
       }
     ]
   },
+  "swiggitygrabbers": {
+    "DisplayName": "Swiggity Grabbers",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 10",
+    "AuthorIds": [
+      123942120330362882
+    ],
+    "Description": "Replaces the Grabber's signature screech with two versions of \"Swiggity Swooty\", and one version of \"I am coming for the booty\", by Vinesauce Joel.\nNote: It's possible this may make them harder to hear, as the new voice isn't as piercing as before.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3891045dde8a110db3ab3f7f4b060429ccf2d5b1/Audio/NPC/Swiggity%20Grabbers%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Swiggity Grabbers - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamA_1.uasset": "8D-8E-34-A4-1D-E0-EF-A7",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamA_2.uasset": "DB-E9-51-BA-10-67-F9-47",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamA_3.uasset": "38-E4-3F-67-FD-44-F3-07",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamDistanceA_1.uasset": "6D-53-23-9C-4F-74-C4-38",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamDistanceA_2.uasset": "04-58-63-11-D4-1C-EB-31",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamDistanceA_3.uasset": "18-25-6A-5C-B0-60-54-85",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamA_1.uexp": "22-82-E2-23-3C-BC-00-3C",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamA_2.uexp": "82-C4-2D-F5-82-A0-D1-77",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamA_3.uexp": "A4-37-C6-7C-E0-01-AB-99",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamDistanceA_1.uexp": "67-73-82-D9-8F-81-BE-5D",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamDistanceA_2.uexp": "C7-D1-36-84-62-75-EF-2D",
+          "../../../FSD/Content/Audio/SFX/Enemies/Grabber/GrabberScream/GrabberScreamDistanceA_3.uexp": "7E-6C-7B-DE-62-4C-EB-03"
+        }
+      }
+    ]
+  },
   "tacticalnukes": {
     "DisplayName": "Tactical Nukes",
     "Version": "1",

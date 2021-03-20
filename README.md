@@ -34,6 +34,7 @@ You can easily locate your game installation path using steam:
  - **[Lootbug Petting Voice](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#lootbug-petting-voice---v10)** by mino ([download](https://github.com/ArcticEcho/DRG-Mods/raw/ea750bc965303f78fc7ae56665b91ea0f96fdb6e/Audio/NPC/Lootbug%20Petting%20Voice%20-%20V1.0%20_P.pak))
  - **[Molly R2D2](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#molly-r2d2---v1)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/45d4540bc1ac065822487e58659f7dab7e715a7a/Audio/NPC/Molly%20R2D2%20-%20V1%20_P.pak))
  - **[Shining Lloyd](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#shining-lloyd---v1)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/2e07ee80662a345bfdeb1bce8f683f61d82d84e3/Audio/NPC/Shining%20Lloyd%20-%20V1%20_P.pak))
+ - **[Swiggity Grabbers](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#swiggity-grabbers---v10)** by Lithobraker ([download](https://github.com/ArcticEcho/DRG-Mods/raw/3891045dde8a110db3ab3f7f4b060429ccf2d5b1/Audio/NPC/Swiggity%20Grabbers%20-%20V1.0%20_P.pak))
 
 ## [Audio/Other](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other)
  - **[Metal Gear Alert Heightened Senses](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other/README.md#metal-gear-alert-heightened-senses---v1)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/7e2a85f66bef685ebeefda9314fc22724c064028/Audio/Other/Metal%20Gear%20Alert%20Heightened%20Senses%20-%20V1%20_P.pak))
