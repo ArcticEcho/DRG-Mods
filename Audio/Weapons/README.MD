@@ -21,6 +21,14 @@ Changes Scout's Deepcore GK2 firing and reload sounds. [Preview.](https://www.yo
 Replaces BRT7 sounds with Glock 18c sounds  
 Download Link None
 
+## HL1 HD Bulldog - v1.0
+**Authors:** Lithobraker  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/dac22f016d4a8459eceff427edeb1704e8733bc5/Audio/Weapons/HL1%20HD%20Bulldog%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the Bulldog's firing sounds with HD versions of the .357 Revolver from Half-Life.
+
 ## M1K Garand - v2.0
 **Authors:** Demellion Dismal  
 **DRG Version:** Update 33  

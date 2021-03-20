@@ -4946,6 +4946,38 @@
       }
     ]
   },
+  "hl1hdbulldog": {
+    "DisplayName": "HL1 HD Bulldog",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 10",
+    "AuthorIds": [
+      123942120330362882
+    ],
+    "Description": "Replaces the Bulldog's firing sounds with HD versions of the .357 Revolver from Half-Life.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/dac22f016d4a8459eceff427edeb1704e8733bc5/Audio/Weapons/HL1%20HD%20Bulldog%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "HL1 HD Bulldog - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_CustomSounds/Revolver_1.uasset": "04-17-C2-5D-3B-1E-8E-F6",
+          "../../../FSD/Content/_CustomSounds/Revolver_2.uasset": "87-6C-CD-6B-F2-34-54-D7",
+          "../../../FSD/Content/_CustomSounds/Revolver_3.uasset": "CB-65-ED-0F-95-B7-95-2A",
+          "../../../FSD/Content/_CustomSounds/Revolver_4.uasset": "CC-30-88-7C-D1-EB-65-EE",
+          "../../../FSD/Content/_CustomSounds/Revolver_5.uasset": "6E-74-7E-79-1D-D7-C7-4D",
+          "../../../FSD/Content/_CustomSounds/Revolver_6.uasset": "9E-AB-8A-6F-6A-97-73-F0",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Revolver/FP_RevolverFire_Cue.uasset": "A2-D6-24-CE-3F-77-9A-A9",
+          "../../../FSD/Content/_CustomSounds/Revolver_1.uexp": "5E-FA-15-C1-90-A2-9F-F5",
+          "../../../FSD/Content/_CustomSounds/Revolver_2.uexp": "34-84-25-EB-8D-59-9F-3C",
+          "../../../FSD/Content/_CustomSounds/Revolver_3.uexp": "3D-DF-FA-D4-9D-0A-8E-D5",
+          "../../../FSD/Content/_CustomSounds/Revolver_4.uexp": "62-94-39-26-46-74-EC-00",
+          "../../../FSD/Content/_CustomSounds/Revolver_5.uexp": "A1-8C-BA-78-36-2D-13-A1",
+          "../../../FSD/Content/_CustomSounds/Revolver_6.uexp": "42-2C-03-31-AA-66-B8-91",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Revolver/FP_RevolverFire_Cue.uexp": "3D-16-7C-49-B0-60-70-7E"
+        }
+      }
+    ]
+  },
   "hollowboughdestructibles": {
     "DisplayName": "Hollow Bough Destructibles",
     "Version": "1.0",
