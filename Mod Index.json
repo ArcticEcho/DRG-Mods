@@ -5156,6 +5156,36 @@
       }
     ]
   },
+  "kaboomstick": {
+    "DisplayName": "Kaboomstick",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 10",
+    "AuthorIds": [
+      123942120330362882
+    ],
+    "Description": "Replaces the Jury-Rigged Boomstick's firing sounds with the Sawed-Off from Counter-Strike: Global Offensive.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/832ed7dba163c3808124a8c159fca5d7deeb54d0/Audio/Weapons/Kaboomstick%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Kaboomstick - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_CustomSounds/Sawedoff_1.uasset": "EA-CF-91-C2-0B-A2-F4-DE",
+          "../../../FSD/Content/_CustomSounds/Sawedoff_2.uasset": "7A-81-6E-55-1B-5B-58-36",
+          "../../../FSD/Content/_CustomSounds/Sawedoff_3.uasset": "BC-D7-49-A7-32-B9-BE-44",
+          "../../../FSD/Content/_CustomSounds/Sawedoff_4.uasset": "57-0A-ED-15-D0-09-21-41",
+          "../../../FSD/Content/_CustomSounds/Sawedoff_5.uasset": "A4-F0-E1-79-76-BC-5A-8B",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/SawedOffShotgun_Fire_Cue.uasset": "35-28-88-81-DC-7E-15-29",
+          "../../../FSD/Content/_CustomSounds/Sawedoff_1.uexp": "C7-83-4F-BB-9C-E0-CB-0E",
+          "../../../FSD/Content/_CustomSounds/Sawedoff_2.uexp": "0E-AA-17-F9-B0-43-FC-D4",
+          "../../../FSD/Content/_CustomSounds/Sawedoff_3.uexp": "6E-A5-1D-93-55-FC-2B-F5",
+          "../../../FSD/Content/_CustomSounds/Sawedoff_4.uexp": "FC-7B-B3-71-38-11-1B-EB",
+          "../../../FSD/Content/_CustomSounds/Sawedoff_5.uexp": "80-61-C5-E0-12-6E-10-29",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/SawedOffShotgun_Fire_Cue.uexp": "A7-12-BD-BE-5B-F2-08-29"
+        }
+      }
+    ]
+  },
   "kekwdetonator": {
     "DisplayName": "KEKW Detonator",
     "Version": "1.1",
