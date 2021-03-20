@@ -49,6 +49,7 @@ You can easily locate your game installation path using steam:
  - **[M1K Garand](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#m1k-garand---v20)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f32395bcb50662b2abece6fdd8bd9aed6809cef8/Audio/Weapons/M1K%20Garand%20-%20V2.0%20_P.pak))
  - **[Minigun Real Deal](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#minigun-real-deal---v10)** by mino ([download](https://github.com/ArcticEcho/DRG-Mods/raw/6455b749c6c6ce770cf8cda17e18f4fb581e1c69/Audio/Weapons/Minigun%20Real%20Deal%20-%20V1.0%20_P.pak))
  - **[Subata Glock 17](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#subata-glock-17---v10)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/0c036d6b1fd956ce9736de80b0a3d9b9a0764ace/Audio/Weapons/Subata%20Glock%2017%20-%20V1.0%20_P.pak))
+ - **[Warthog Punch](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#warthog-punch---v10)** by Lithobraker ([download](https://github.com/ArcticEcho/DRG-Mods/raw/8ebc25c30a98228fd0af8713e1a282898f1b1a78/Audio/Weapons/Warthog%20Punch%20-%20V1.0%20_P.pak))
 
 ## [Framework](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework)
  - **[BP Mod Manager](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#bp-mod-manager---v43)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/440b16704a5e2e627bb93009c9afc73e29841bad/Framework/BP%20Mod%20Manager%20-%20V4.3%20_P.pak))

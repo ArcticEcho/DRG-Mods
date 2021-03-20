@@ -7593,6 +7593,36 @@
       }
     ]
   },
+  "warthogpunch": {
+    "DisplayName": "Warthog Punch",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 10",
+    "AuthorIds": [
+      123942120330362882
+    ],
+    "Description": "Replaces the Warthog's firing sounds with those of the XM1014 from Counter-Strike: Global Offensive. Never played it myself, but these sounds have KICK! Let me know if they're too loud.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8ebc25c30a98228fd0af8713e1a282898f1b1a78/Audio/Weapons/Warthog%20Punch%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Warthog Punch - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_CustomSounds/CombatShotgun_1.uasset": "77-09-FC-81-8B-74-F8-75",
+          "../../../FSD/Content/_CustomSounds/CombatShotgun_2.uasset": "07-BD-D8-03-3F-3D-35-F8",
+          "../../../FSD/Content/_CustomSounds/CombatShotgun_3.uasset": "66-85-3B-F3-12-80-F7-CB",
+          "../../../FSD/Content/_CustomSounds/CombatShotgun_4.uasset": "53-68-04-E2-AA-45-1B-7B",
+          "../../../FSD/Content/_CustomSounds/CombatShotgun_5.uasset": "67-80-98-8E-07-DE-AF-09",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/ShotgunFireCore_Cue.uasset": "52-38-4C-09-3C-7A-90-AA",
+          "../../../FSD/Content/_CustomSounds/CombatShotgun_1.uexp": "46-61-95-B6-5F-BD-AF-0B",
+          "../../../FSD/Content/_CustomSounds/CombatShotgun_2.uexp": "92-11-7F-B7-03-E6-C6-E3",
+          "../../../FSD/Content/_CustomSounds/CombatShotgun_3.uexp": "9A-D9-36-10-8D-58-97-1A",
+          "../../../FSD/Content/_CustomSounds/CombatShotgun_4.uexp": "AF-2A-8E-8C-69-78-6F-F6",
+          "../../../FSD/Content/_CustomSounds/CombatShotgun_5.uexp": "91-9C-85-60-52-E3-2F-7F",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/ShotgunFireCore_Cue.uexp": "30-7D-FB-80-48-9E-9E-C8"
+        }
+      }
+    ]
+  },
   "weaponpaintjobunlocker": {
     "DisplayName": "Weapon Paintjob Unlocker",
     "Version": "1.0",

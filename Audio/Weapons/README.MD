@@ -46,3 +46,11 @@ Like putting tribals on a car.
 **Description:**  
 Replaces Subata sounds with Glock 17 sounds  
 Download Link None
+
+## Warthog Punch - v1.0
+**Authors:** Lithobraker  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8ebc25c30a98228fd0af8713e1a282898f1b1a78/Audio/Weapons/Warthog%20Punch%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the Warthog's firing sounds with those of the XM1014 from Counter-Strike: Global Offensive. Never played it myself, but these sounds have KICK! Let me know if they're too loud.
