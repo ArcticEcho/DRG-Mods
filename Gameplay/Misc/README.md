@@ -74,6 +74,20 @@ I don't think I will include this mod in Starship Troopers as most people will p
 **Update v33.9.0 Changelog:**  
 Updated for Update 33, Hotfix 9
 
+## Escort mission flying rocks reduced health - v33.2.0
+**Authors:** NaturalBornCamper  
+**DRG Version:** Update 33, Hotfix 2  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/86733ac3d947271d77ac7ffc233ea5f213421a2d/Gameplay/Misc/Escort%20Mission%20Flying%20Rocks%20Reduced%20Health%20-%20V33.2.0.zip)  
+
+**Description:**  
+No, this is not a cheat, I just decided not to bundle it with other mods anymore to reduce confusion.  
+This is a sub-mod, to use with the mods Starship Troopers, Bug planet, increased enemy spawn where the amount of flying rocks during the second stage of Escort missions can be overwhelming.  
+\----------------------------------------------------------------  
+--Variation 0.5 has 50% health  
+--Variation 0.35 has 35% health  
+--Variation 0.25 has 25% health  
+\----------------------------------------------------------------
+
 ## Fabulously Fast Lootbugs - v1
 **Authors:** Sephiasus  
 **DRG Version:** Update 32/33  
