@@ -7072,31 +7072,17 @@
   },
   "starshiptroopers": {
     "DisplayName": "Starship Troopers",
-    "Version": "33.2.3",
+    "Version": "33.2.4",
     "DrgVersion": "Update 33, Hotfix 2",
     "AuthorIds": [
       306800962432008193
     ],
-    "Description": "For people who don't like Haz5's bullet sponge enemies, but find Haz4 too easy.\nSimilar to my \"Increased enemies\" mod, but a bit different as I wasn't satisfied, this mod brings Haz4 enemies into Haz5 (speed, damage resistance, etc) with double the enemy count of Haz5, to give you a Starship Troopers-like feeling with massive hordes of enemies while still rewarding 133% XP since the difficulty feels pretty much the same.\nHaz3 is just 150% more enemies without change to their stats as they are already very much soft.\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Haz3 150% enemies (125% on single player)\n--Haz4 150% enemies (125% on single player)\n--Haz5 200% enemies (150% on single player)\n----------------------------------------------------------------\nNote: Escort mission double flying rocks can be overwhelming, so I included optional mods to decrease their health\nNote: Replaces Haz 3, 3.5, 4, 4.5, 5 and 5.5. Only the host needs the mod\nNote: You can use the mod \"Cheaper resupplies\" with 60 nitra if you are having ammo problems, but 80 is still ok\nNOTE: YOU DON'T NEED \"Custom Cap\" mod, but if you want to use it anyways, you might crash on first launch. Let me know if you have issues and I'll remove it or figure something out",
-    "LastUpdateChangelog": "Added Hazard name in Haz3/Haz4, Adds Difficulties for DD/EDD, includes enemy cap (SEE NOTE ABOVE)",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7367056ebad041b952ad0a09bf010a1b5902c043/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V33.2.3.zip",
+    "Description": "For people who don't like Haz5's bullet sponge enemies, but find Haz4 too easy.\nThis mod brings Haz4 enemies into Haz5 (speed, damage resistance, etc) with double the enemy count, to give you a Starship Troopers-like feeling with massive hordes of enemies while still rewarding 133% XP since the difficulty feels pretty much the same.\nHaz3 is just 150% more enemies without change to their stats as they are already very much soft\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Haz3 spawns 150% enemies (125% on single player)\n--Haz4 spawns 150% enemies (125% on single player)\n--Haz5 spawns 200% enemies (150% on single player)\n--Replaces Haz 3, 4, 5 and DD/EDD. Only the host needs the mod\n--IMPORTANT: Use EITHER the \"300_cap\" file ALONE or the regular file along with ArcticEcho's \"Custom Cap\" mod (300 enemies, 120 swarmers)\n----------------------------------------------------------------\nNOTES:\n-Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health by 50%\n-You should use the mod to improve Doretta's damage resistance by 50% (as you will constantly be busy with enemies)\n-You can use the mod \"Cheaper resupplies\" with 60 nitra if you're having ammo problems, but 80 is still ok",
+    "LastUpdateChangelog": "Removed bundled enemy cap and other bundled mods to remove confusion",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6c966b919bb81686cdd2de5bffd8747d1dd4bd81/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V33.2.4.zip",
     "Paks": [
       {
-        "PakFileName": "flying_rock_0.35_health_u33.2.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uasset": "9E-DB-E5-EA-4C-85-75-EE",
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "40-20-2E-6E-AD-36-D2-F8"
-        }
-      },
-      {
-        "PakFileName": "flying_rock_0.5_health_u33.2.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uasset": "9E-DB-E5-EA-4C-85-75-EE",
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "AE-45-04-DC-25-D0-AA-E3"
-        }
-      },
-      {
-        "PakFileName": "starship_troopers_33.2.3",
+        "PakFileName": "starship_troopers_300_cap_33.2.4",
         "CookedFileHashes": {
           "../../../FSD/Content/Game/BP_GameMode.uasset": "B6-65-80-2F-2E-23-7D-E7",
           "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uasset": "80-55-E6-F4-07-C1-65-9B",
@@ -7104,6 +7090,21 @@
           "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_04_Extreme.uasset": "05-D9-5E-C7-E1-F4-33-95",
           "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uasset": "C5-13-8F-02-35-02-7E-6F",
           "../../../FSD/Content/Game/BP_GameMode.uexp": "66-CD-D7-2B-DF-99-71-E0",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_03_5_Dangerous.uexp": "13-22-6D-30-91-C4-0A-B7",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "A2-3B-39-14-56-00-D2-B7",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "04-18-C9-B1-2D-BE-9B-89",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_03_Dangerous.uexp": "05-F0-46-10-00-D8-81-07",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_04_Extreme.uexp": "EB-5D-56-B2-F8-DD-AD-E5",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "E4-CA-76-14-43-11-0F-F0"
+        }
+      },
+      {
+        "PakFileName": "starship_troopers_33.2.4",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uasset": "80-55-E6-F4-07-C1-65-9B",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uasset": "B7-4F-55-FE-52-10-6E-10",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_04_Extreme.uasset": "05-D9-5E-C7-E1-F4-33-95",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uasset": "C5-13-8F-02-35-02-7E-6F",
           "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_03_5_Dangerous.uexp": "13-22-6D-30-91-C4-0A-B7",
           "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "A2-3B-39-14-56-00-D2-B7",
           "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "04-18-C9-B1-2D-BE-9B-89",
