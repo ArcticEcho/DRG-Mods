@@ -259,14 +259,14 @@ Morkite (2 dwarves): https://youtu.be/R9bZczjiCRA
 **Update v33.7.4 Changelog:**  
 Adds Difficulties for EDD and includes enemy cap (SEE NOTE ABOVE)
 
-## Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives) - v33.10.0
+## Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives) - v33.10.1
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/13b262e8af943cad764e9cf6f3bd10fc8b2274b5/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.10.0.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/abcd98f07bc61dd2f67915cb9eb4ae1fbc5eb54b/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.10.1.zip)  
 
 **Description:**  
-Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing 40+ simultaneous cries of pain? Want gigantic hordes of cannon fodder?  
-This is as close to vanilla as possible, so you can expect normal game behavior, only with twice the enemies. Also makes normal Deep Dive fun again, less boring 😉  
+This mods simply and only make the game spawn more enemies without changing anything else. This means swarms will be larger, swarmer nests will shoot more swarmers, brood nexus will pop more swarmers, etc  
+This is as close to vanilla as possible, so you can expect normal game behavior apart from the increased spawn. Also makes normal Deep Dive fun again, less boring 😉  
 Preview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992  
 Preview (Youtube): https://youtu.be/0k3bVdkpSOs  
 Preview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686  
@@ -276,10 +276,13 @@ Preview (Discord video): https://discordapp.com/channels/676880716142739467/7326
 --Variation 1.5x has 150% enemies (125% enemies single player)  
 --No XP boost or any other modification, this is just for fun  
 --Use obviously the multiplier file you choose, not both  
+--Replaces Haz 3, 4, 5 and DD/EDD. Only the host needs the mod  
+--IMPORTANT: Use EITHER the "xxx_cap" file ALONE or the regular file along with ArcticEcho's "Custom Cap" mod (300 enemies, 120 swarmers)  
 \----------------------------------------------------------------  
-Note: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health  
-Note: Replaces Haz 3, 4, 5 and DD/EDD. Only the host needs the mod  
-NOTE: YOU DON'T NEED "Custom Cap" mod, but if you want to use it anyways, you might crash on first launch. Let me know if you have issues and I'll remove it or figure something out
+NOTES:  
+-Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health by 50%  
+-You should use the mod to improve Doretta's damage resistance by 50% (as you will be busy with enemies)  
+-You can use the mod "Cheaper resupplies" with 60 nitra if you're having ammo problems, but 80 is still ok
 
-**Update v33.10.0 Changelog:**  
-Added Hazard name in Haz3/Haz4/Haz5, includes enemy cap (SEE NOTE ABOVE)
+**Update v33.10.1 Changelog:**  
+Removed bundled enemy cap and other mods to remove confusion

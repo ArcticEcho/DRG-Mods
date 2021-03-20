@@ -7388,31 +7388,41 @@
   },
   "twicetheenemieshaz335445555missionsdeepdives": {
     "DisplayName": "Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives)",
-    "Version": "33.10.0",
+    "Version": "33.10.1",
     "DrgVersion": "Update 33, Hotfix 10",
     "AuthorIds": [
       306800962432008193
     ],
-    "Description": "Who doesn't feel ecstatic when throwing an explosive into a swarm of aliens and hearing 40+ simultaneous cries of pain? Want gigantic hordes of cannon fodder?\nThis is as close to vanilla as possible, so you can expect normal game behavior, only with twice the enemies. Also makes normal Deep Dive fun again, less boring 😉\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Higher enemy count for an alternate higher difficulty, spawning more enemies instead of making them tougher.\n--Variation 2x has 200% enemies (150% enemies single player)\n--Variation 1.5x has 150% enemies (125% enemies single player)\n--No XP boost or any other modification, this is just for fun\n--Use obviously the multiplier file you choose, not both\n----------------------------------------------------------------\nNote: 2x escort mission flying rocks is too much, so I included optional mods where they have 50% or 35% health\nNote: Replaces Haz 3, 4, 5 and DD/EDD. Only the host needs the mod\nNOTE: YOU DON'T NEED \"Custom Cap\" mod, but if you want to use it anyways, you might crash on first launch. Let me know if you have issues and I'll remove it or figure something out",
-    "LastUpdateChangelog": "Added Hazard name in Haz3/Haz4/Haz5, includes enemy cap (SEE NOTE ABOVE)",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/13b262e8af943cad764e9cf6f3bd10fc8b2274b5/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.10.0.zip",
+    "Description": "This mods simply and only make the game spawn more enemies without changing anything else. This means swarms will be larger, swarmer nests will shoot more swarmers, brood nexus will pop more swarmers, etc\nThis is as close to vanilla as possible, so you can expect normal game behavior apart from the increased spawn. Also makes normal Deep Dive fun again, less boring 😉\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n----------------------------------------------------------------\n--Higher enemy count for an alternate higher difficulty, spawning more enemies instead of making them tougher.\n--Variation 2x has 200% enemies (150% enemies single player)\n--Variation 1.5x has 150% enemies (125% enemies single player)\n--No XP boost or any other modification, this is just for fun\n--Use obviously the multiplier file you choose, not both\n--Replaces Haz 3, 4, 5 and DD/EDD. Only the host needs the mod\n--IMPORTANT: Use EITHER the \"xxx_cap\" file ALONE or the regular file along with ArcticEcho's \"Custom Cap\" mod (300 enemies, 120 swarmers)\n----------------------------------------------------------------\nNOTES:\n-Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health by 50%\n-You should use the mod to improve Doretta's damage resistance by 50% (as you will be busy with enemies)\n-You can use the mod \"Cheaper resupplies\" with 60 nitra if you're having ammo problems, but 80 is still ok",
+    "LastUpdateChangelog": "Removed bundled enemy cap and other mods to remove confusion",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/abcd98f07bc61dd2f67915cb9eb4ae1fbc5eb54b/Gameplay/Gamemodes/Hazard%20Levels/Twice%20The%20Enemies%20Haz%203%2C%203.5%2C%204%2C%204.5%2C%205%2C%205.5%20%28Missions%20%2B%20Deep%20Dives%29%20-%20V33.10.1.zip",
     "Paks": [
       {
-        "PakFileName": "flying_rock_0.35_health_u33.2.0",
+        "PakFileName": "1.5x_enemies_200_cap_33.10.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uasset": "9E-DB-E5-EA-4C-85-75-EE",
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "40-20-2E-6E-AD-36-D2-F8"
+          "../../../FSD/Content/Game/BP_GameMode.uasset": "B6-65-80-2F-2E-23-7D-E7",
+          "../../../FSD/Content/Game/BP_GameMode.uexp": "60-D7-01-8D-52-55-B7-1F",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_03_5_Dangerous.uexp": "13-22-6D-30-91-C4-0A-B7",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "6B-00-9D-84-AE-97-87-4E",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "DD-B1-BD-7B-E2-2B-35-3C",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_03_Dangerous.uexp": "70-04-C6-77-C7-55-AF-69",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_04_Extreme.uexp": "89-26-51-65-07-76-B7-E8",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "69-AD-D1-5E-3E-E9-37-6E"
         }
       },
       {
-        "PakFileName": "flying_rock_0.5_health_u33.2.0",
+        "PakFileName": "1.5x_enemies_33.10.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uasset": "9E-DB-E5-EA-4C-85-75-EE",
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "AE-45-04-DC-25-D0-AA-E3"
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_03_5_Dangerous.uexp": "13-22-6D-30-91-C4-0A-B7",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "6B-00-9D-84-AE-97-87-4E",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "DD-B1-BD-7B-E2-2B-35-3C",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_03_Dangerous.uexp": "70-04-C6-77-C7-55-AF-69",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_04_Extreme.uexp": "89-26-51-65-07-76-B7-E8",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "69-AD-D1-5E-3E-E9-37-6E"
         }
       },
       {
-        "PakFileName": "2x_enemies_33.10.0",
+        "PakFileName": "2x_enemies_300_cap_33.10.1",
         "CookedFileHashes": {
           "../../../FSD/Content/Game/BP_GameMode.uasset": "B6-65-80-2F-2E-23-7D-E7",
           "../../../FSD/Content/Game/BP_GameMode.uexp": "66-CD-D7-2B-DF-99-71-E0",
@@ -7425,16 +7435,14 @@
         }
       },
       {
-        "PakFileName": "1.5x_enemies_33.10.0",
+        "PakFileName": "2x_enemies_33.10.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/Game/BP_GameMode.uasset": "B6-65-80-2F-2E-23-7D-E7",
-          "../../../FSD/Content/Game/BP_GameMode.uexp": "60-D7-01-8D-52-55-B7-1F",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_03_5_Dangerous.uexp": "13-22-6D-30-91-C4-0A-B7",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "6B-00-9D-84-AE-97-87-4E",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "DD-B1-BD-7B-E2-2B-35-3C",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_03_Dangerous.uexp": "70-04-C6-77-C7-55-AF-69",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_04_Extreme.uexp": "89-26-51-65-07-76-B7-E8",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "69-AD-D1-5E-3E-E9-37-6E"
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_03_5_Dangerous.uexp": "D5-E5-11-39-92-FD-A0-E9",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "9F-A2-0D-FF-9E-22-24-02",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "AB-83-A5-3E-A9-A8-83-EB",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_03_Dangerous.uexp": "95-5E-2B-BD-B0-91-16-3C",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_04_Extreme.uexp": "B0-47-44-C4-88-08-CA-9B",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "8A-30-3A-1B-6F-E6-45-4A"
         }
       }
     ]
