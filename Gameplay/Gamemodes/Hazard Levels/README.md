@@ -228,21 +228,20 @@ NOTES:
 **Update v33.2.4 Changelog:**  
 Removed bundled enemy cap and other bundled mods to remove confusion
 
-## Starship Troopers Elite - v33.7.4
+## Starship Troopers Elite - v33.7.5
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 7  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/68e09c813fefcb0d7a22a2c6b199323e66b011a0/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20Elite%20-%20V33.7.4%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e288c15f71ba3060033d5b729600b338825c49b3/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20Elite%20-%20V33.7.5.zip)  
 
 **Description:**  
-FOR VETERANS OF MY REGULAR STARSHIP TROOPERS MOD, this mod triples the spawn size.  
-Regular Haz5 swarms vary a lot and some maps can have very little spawns. That won't happen with this mod, swarms will pretty much be as large as the enemy cap you put.  
-You will always have intense maps so you need to stay ahead of your ammo and prioritize nitra!!  
-The enemies still have Haz4 specifications (speed, damage, resistance, ..) as regular Starship Troopers, but everything else is Haz5 (friendly fire, revive health, etc)  
-I HIGHLY recommend using the mod that improves doretta armor so you can focus on enemies instead of babysiting a drill.  
+FOR VETERANS OF MY REGULAR STARSHIP TROOPERS MOD, this mod triples the spawn size so expect to be swimming in bugs if you don't kill fast enough.  
+Furthermore, regular Haz5 swarms vary a lot and some maps can have very little spawns. That won't happen with this mod, spawns will always be between 90% and 100% of the max seed value.  
+This means you will always have intense maps so you need to stay ahead of your ammo and prioritize nitra!!  
+The enemies still have Haz4 specifications (speed, damage, resistance, ..) as regular Starship Troopers, but everything else is Haz5 (friendly fire, fall damage, etc)  
+I HIGHLY recommend using the mod that improves doretta armor so you can focus on enemies instead of babysitting a drill.  
 Point Extraction (1-4 dwarves): https://youtu.be/Yyp_PEo3xdI  
 Elimination (3 dwarves): https://youtu.be/r63D2Lm3HQw  
 Egg hunt (2-3 dwarves): https://youtu.be/YpNsQN9zkrI  
-Egg hunt (1-4 dwarves): https://youtu.be/5uaqHCSEcLA  
 Salvage (4 dwarves): https://youtu.be/-X4jcD_yJrQ  
 Salvage (2 dwarves): https://youtu.be/6Rcwf1xIqig  
 Refinery (3-4 dwarves): https://youtu.be/baSFK-lYZ3k  
@@ -250,16 +249,19 @@ Refinery (3 dwarves): https://youtu.be/fY4M1g16Iqo
 Morkite (2 dwarves): https://youtu.be/R9bZczjiCRA  
 \-------  
 --Triples the swarm sizes of Haz5 enemies (200% on single player)  
---Resupplies cost 50 nitra  
---Escort missions rocks have 25% health (as you will be busy with enemies)  
 --150% XP bonus  
 --Added a delay before first announced swarm to let you get some nitra first  
 --All waves will be massive, regular Starship Troopers vacation is over  
---Replaces Haz 5. Only the host needs the mod  
---YOU DON'T NEED "Custom Cap" mod, but if you want to use it anyways, you might crash on first launch. Let me know if you have issues and I'll remove it or figure something out
+--Replaces Haz 4.5, 5, 5.5 (Includes EDD). Only the host needs the mod  
+--IMPORTANT: Use EITHER the "400_cap" file ALONE or the regular file along with ArcticEcho's "Custom Cap" mod (using 400 enemies, 200 swarmers)  
+\-------  
+NOTES:  
+-You should use the mod to reduce Escort mission's flying rocks' health to 25%  
+-You should use the mod to improve Doretta's damage resistance by 75%  
+-You should use the mod to make resupplies cost 50 nitra
 
-**Update v33.7.4 Changelog:**  
-Adds Difficulties for EDD and includes enemy cap (SEE NOTE ABOVE)
+**Update v33.7.5 Changelog:**  
+Removes all bundled mods to remove confusion
 
 ## Twice the enemies Haz 3, 3.5, 4, 4.5, 5, 5.5 (Missions + Deep Dives) - v33.10.1
 **Authors:** NaturalBornCamper  

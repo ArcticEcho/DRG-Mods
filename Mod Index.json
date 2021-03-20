@@ -7117,29 +7117,35 @@
   },
   "starshiptrooperselite": {
     "DisplayName": "Starship Troopers Elite",
-    "Version": "33.7.4",
+    "Version": "33.7.5",
     "DrgVersion": "Update 33, Hotfix 7",
     "AuthorIds": [
       306800962432008193
     ],
-    "Description": "FOR VETERANS OF MY REGULAR STARSHIP TROOPERS MOD, this mod triples the spawn size.\nRegular Haz5 swarms vary a lot and some maps can have very little spawns. That won't happen with this mod, swarms will pretty much be as large as the enemy cap you put.\nYou will always have intense maps so you need to stay ahead of your ammo and prioritize nitra!!\nThe enemies still have Haz4 specifications (speed, damage, resistance, ..) as regular Starship Troopers, but everything else is Haz5 (friendly fire, revive health, etc)\nI HIGHLY recommend using the mod that improves doretta armor so you can focus on enemies instead of babysiting a drill.\nPoint Extraction (1-4 dwarves): https://youtu.be/Yyp_PEo3xdI\nElimination (3 dwarves): https://youtu.be/r63D2Lm3HQw\nEgg hunt (2-3 dwarves): https://youtu.be/YpNsQN9zkrI\nEgg hunt (1-4 dwarves): https://youtu.be/5uaqHCSEcLA\nSalvage (4 dwarves): https://youtu.be/-X4jcD_yJrQ\nSalvage (2 dwarves): https://youtu.be/6Rcwf1xIqig\nRefinery (3-4 dwarves): https://youtu.be/baSFK-lYZ3k\nRefinery (3 dwarves): https://youtu.be/fY4M1g16Iqo\nMorkite (2 dwarves): https://youtu.be/R9bZczjiCRA\n-------\n--Triples the swarm sizes of Haz5 enemies (200% on single player)\n--Resupplies cost 50 nitra\n--Escort missions rocks have 25% health (as you will be busy with enemies)\n--150% XP bonus\n--Added a delay before first announced swarm to let you get some nitra first\n--All waves will be massive, regular Starship Troopers vacation is over\n--Replaces Haz 5. Only the host needs the mod\n--YOU DON'T NEED \"Custom Cap\" mod, but if you want to use it anyways, you might crash on first launch. Let me know if you have issues and I'll remove it or figure something out",
-    "LastUpdateChangelog": "Adds Difficulties for EDD and includes enemy cap (SEE NOTE ABOVE)",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/68e09c813fefcb0d7a22a2c6b199323e66b011a0/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20Elite%20-%20V33.7.4%20_P.pak",
+    "Description": "FOR VETERANS OF MY REGULAR STARSHIP TROOPERS MOD, this mod triples the spawn size so expect to be swimming in bugs if you don't kill fast enough.\nFurthermore, regular Haz5 swarms vary a lot and some maps can have very little spawns. That won't happen with this mod, spawns will always be between 90% and 100% of the max seed value.\nThis means you will always have intense maps so you need to stay ahead of your ammo and prioritize nitra!!\nThe enemies still have Haz4 specifications (speed, damage, resistance, ..) as regular Starship Troopers, but everything else is Haz5 (friendly fire, fall damage, etc)\nI HIGHLY recommend using the mod that improves doretta armor so you can focus on enemies instead of babysitting a drill.\nPoint Extraction (1-4 dwarves): https://youtu.be/Yyp_PEo3xdI\nElimination (3 dwarves): https://youtu.be/r63D2Lm3HQw\nEgg hunt (2-3 dwarves): https://youtu.be/YpNsQN9zkrI\nSalvage (4 dwarves): https://youtu.be/-X4jcD_yJrQ\nSalvage (2 dwarves): https://youtu.be/6Rcwf1xIqig\nRefinery (3-4 dwarves): https://youtu.be/baSFK-lYZ3k\nRefinery (3 dwarves): https://youtu.be/fY4M1g16Iqo\nMorkite (2 dwarves): https://youtu.be/R9bZczjiCRA\n-------\n--Triples the swarm sizes of Haz5 enemies (200% on single player)\n--150% XP bonus\n--Added a delay before first announced swarm to let you get some nitra first\n--All waves will be massive, regular Starship Troopers vacation is over\n--Replaces Haz 4.5, 5, 5.5 (Includes EDD). Only the host needs the mod\n--IMPORTANT: Use EITHER the \"400_cap\" file ALONE or the regular file along with ArcticEcho's \"Custom Cap\" mod (using 400 enemies, 200 swarmers)\n-------\nNOTES:\n-You should use the mod to reduce Escort mission's flying rocks' health to 25%\n-You should use the mod to improve Doretta's damage resistance by 75%\n-You should use the mod to make resupplies cost 50 nitra",
+    "LastUpdateChangelog": "Removes all bundled mods to remove confusion",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e288c15f71ba3060033d5b729600b338825c49b3/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20Elite%20-%20V33.7.5.zip",
     "Paks": [
       {
-        "PakFileName": "Starship Troopers Elite - V33.7.4",
+        "PakFileName": "starship_troopers_elite_33.7.5",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uasset": "80-55-E6-F4-07-C1-65-9B",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uasset": "B7-4F-55-FE-52-10-6E-10",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "71-78-BD-4F-D6-73-58-60",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "59-F2-D1-D2-E3-36-87-41",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "14-45-45-16-7C-EA-08-3B"
+        }
+      },
+      {
+        "PakFileName": "starship_troopers_elite_400_cap_33.7.5",
         "CookedFileHashes": {
           "../../../FSD/Content/Game/BP_GameMode.uasset": "B6-65-80-2F-2E-23-7D-E7",
           "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uasset": "80-55-E6-F4-07-C1-65-9B",
           "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uasset": "B7-4F-55-FE-52-10-6E-10",
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uasset": "9E-DB-E5-EA-4C-85-75-EE",
-          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uasset": "32-55-58-80-14-B6-B1-52",
           "../../../FSD/Content/Game/BP_GameMode.uexp": "70-AD-2D-93-F9-B4-78-B1",
           "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "71-78-BD-4F-D6-73-58-60",
           "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "59-F2-D1-D2-E3-36-87-41",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "14-45-45-16-7C-EA-08-3B",
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "78-1B-6E-67-16-DB-C2-3A",
-          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "C3-32-8C-7E-06-3A-BF-82"
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "14-45-45-16-7C-EA-08-3B"
         }
       }
     ]
