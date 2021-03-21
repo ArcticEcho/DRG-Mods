@@ -127,6 +127,28 @@ A mod that changes the Fat Boy OC to a "real-er" nuke
 --Radiation Particles now glow slightly brighter and have a bigger circle  
 --! Now with better Carve Radius in Ver3 !
 
+## FlareRifles - v3.2
+**Authors:** Potatolaser  
+**DRG Version:** U33, hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/065e2e01ac18b6d5c8d2ddcff3ac350319e5342d/Gameplay/Unbalanced/Weapons/FlareRifles%20-%20V3.2%20_P.pak)  
+
+**Description:**  
+The Flare Rifles mod changes Scout's primaries into Flare Guns, and it also changes each Flare Gun to allow for more aggressive usage (like stun and/or damage modifications), while hopefully not overshadowing the M1000 or GK2. Each one is equal to about half of one of vanilla scout's primaries in terms of potential damage dealt, and the maximum flare uptime is less than the vanilla Flare Gun's uptime (unless you take max ammo, but then all your flares are very short). The Flare Rifle has normal reload time, equip speed, and RoF, but a very short base flare time of 3 seconds.   
+**Base Flare Rifle**  
+MaxAmmo: 12 > 24  
+**Projectile**  
+LightIntensity: slightly decreased maybe  
+Duration:  75 > 3  
+**Modifications**  
+*MAX AMMO A*: 3 > 14  
+*CLIP SIZE B*: 1 > 4  
+*ROF B*: 3 > 5  
+*STUN*: +100% chance to stun on any hit  
+*SPIKY GRENADE*: +60 damage (no explosives involved)  
+*AMMO C*: 3 > 60  
+*DURATION C*: 15 > 18  
+Note: Despite being in the Unbalanced category, I’ve taken measures to make sure that this mod isn’t really better than Scout’s vanilla weapons. If you think this isn’t the case, please message me. Also, if a scout joins your lobby without the mod, their flares may not last very long.
+
 ## Fullmetal Scout - v1.0
 **Authors:** Chibba  
 **DRG Version:** U 33, HF 2  
