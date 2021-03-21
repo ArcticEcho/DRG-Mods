@@ -79,10 +79,13 @@ Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Ga
 Replaces Subata sounds with Glock 17 sounds  
 Download Link None
 
-## Warthog Punch - v1.0
+## Warthog Punch - v1.1
 **Authors:** Lithobraker  
 **DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8ebc25c30a98228fd0af8713e1a282898f1b1a78/Audio/Weapons/Warthog%20Punch%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0f8a121c6ccac433644944d94552757af4029eed/Audio/Weapons/Warthog%20Punch%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Replaces the Warthog's firing sounds with those of the XM1014 from Counter-Strike: Global Offensive. Never played it myself, but these sounds have KICK! Let me know if they're too loud.
+
+**Update v1.1 Changelog:**  
+Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.
