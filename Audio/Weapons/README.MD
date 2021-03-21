@@ -35,7 +35,7 @@ Download Link None
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d668a576cb3f03630e1d58bd89f144b08c1b0ca8/Audio/Weapons/Heavy%20Lead%20Storm%20-%20V1.0%20_P.pak)  
 
 **Description:**  
-Replaces the Lead Storm Minigun's firing and spin-up sounds. The firing loop is a modified sound effect from City of Heroes, meanwhile the spin-up is sourced from the Giant Heavy Robot spin-up sound from Team Fortress 2.
+Replaces the Lead Storm Minigun's firing and spin-up sounds. The firing loop is a modified sound effect from City of Heroes, meanwhile the spin-up is sourced from the Giant Heavy Robot spin-up sound from Team Fortress 2. Preview: https://streamable.com/hpbzpz
 
 ## HL1 HD Bulldog - v1.1
 **Authors:** Lithobraker  
