@@ -12,6 +12,14 @@ Audio changes for weapons and tools.
 **Description:**  
 Changes Scout's Deepcore GK2 firing and reload sounds. [Preview.](https://www.youtube.com/watch?v=3kKOLKvO2Nc)
 
+## Alternative Boomstick - v1
+**Authors:** Rauliken, Gad  
+**DRG Version:** U33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2468709f123c6c77541ab6ff527e7c930b3d5ddb/Audio/Weapons/Alternative%20Boomstick%20-%20V1%20_P.pak)  
+
+**Description:**  
+Changes Scout's Jurry-Rigged Boomstick firing and reload sounds. Original by Rauliken. [Preview.](https://www.youtube.com/watch?v=OE3f6PeQZnE)
+
 ## BRT7 Glock 18c - v1.0
 **Authors:** Demellion Dismal  
 **DRG Version:** Update 33  

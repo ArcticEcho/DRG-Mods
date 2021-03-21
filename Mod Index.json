@@ -617,6 +617,47 @@
       }
     ]
   },
+  "alternativeboomstick": {
+    "DisplayName": "Alternative Boomstick",
+    "Version": "1",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      275695993574522881,
+      298686463556583426
+    ],
+    "Description": "Changes Scout's Jurry-Rigged Boomstick firing and reload sounds. Original by Rauliken. [Preview.](https://www.youtube.com/watch?v=OE3f6PeQZnE)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2468709f123c6c77541ab6ff527e7c930b3d5ddb/Audio/Weapons/Alternative%20Boomstick%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Alternative Boomstick - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stAnd3rdSharedWeapons.uasset": "24-BC-B3-FB-88-10-10-1A",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsSingle.uasset": "1C-7F-BE-32-CA-8F-51-F6",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/0ModdedAudio/Boomstick/BoomstickFire.uasset": "C1-BA-50-3A-BA-77-01-46",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/0ModdedAudio/Boomstick/BoomstickReload1.uasset": "21-12-E4-50-9D-53-71-65",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/0ModdedAudio/Boomstick/BoomstickReload2.uasset": "DE-EB-5C-1A-DC-C4-10-0A",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/0ModdedAudio/Boomstick/BoomstickShell1.uasset": "32-53-6A-AA-DC-CE-6C-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/0ModdedAudio/Boomstick/BoomstickShell2.uasset": "AB-3F-08-43-52-73-13-B6",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/Reload/SawedOffShotgunReload2_Cue.uasset": "5D-57-53-A1-69-E4-92-2B",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/Reload/SawedOffShotgunReload4_Cue.uasset": "1F-EE-CC-66-33-E9-11-40",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/Reload/SawedOffShotgunReload5_Cue.uasset": "FA-EB-4D-8D-0D-07-FD-76",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/SawedOffShotgun_Fire_Cue.uasset": "0B-42-E7-B6-8D-F0-03-2B",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stAnd3rdSharedWeapons.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsSingle.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/0ModdedAudio/Boomstick/BoomstickFire.uexp": "E2-95-B8-01-72-60-97-7E",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/0ModdedAudio/Boomstick/BoomstickReload1.uexp": "97-DF-53-5E-13-13-C1-08",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/0ModdedAudio/Boomstick/BoomstickReload2.uexp": "44-39-0B-31-3D-BC-0E-84",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/0ModdedAudio/Boomstick/BoomstickShell1.uexp": "16-04-A5-2B-E6-99-0F-2D",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/0ModdedAudio/Boomstick/BoomstickShell2.uexp": "4D-78-95-64-DC-71-4A-1E",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/Reload/SawedOffShotgunReload2_Cue.uexp": "36-33-33-48-05-84-96-34",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/Reload/SawedOffShotgunReload4_Cue.uexp": "85-80-D2-1D-2B-42-EE-28",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/Reload/SawedOffShotgunReload5_Cue.uexp": "4B-7E-D6-4F-50-D4-B3-C6",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/SawedOffShotgun_Fire_Cue.uexp": "8B-AC-E6-4C-F2-BB-D7-10"
+        }
+      }
+    ]
+  },
   "animedoretta": {
     "DisplayName": "Anime Doretta",
     "Version": "1.1",
