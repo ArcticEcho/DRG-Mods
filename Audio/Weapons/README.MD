@@ -82,7 +82,7 @@ Like putting tribals on a car.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8c3979cbbeea41023d291accb85611bc240fdb8c/Audio/Weapons/Pingy%20M1000%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Garand ping. It also replaces the firing sounds with ones that are a mixture of samples from Call of Duty: World At War, Team Fortress 2, and Counter-Strike: Global Offensive. Let me know if you want a version that just replaces the ping.
+Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Garand ping. It also replaces the firing sounds with ones that are a mixture of samples from Call of Duty: World At War, Team Fortress 2, and Counter-Strike: Global Offensive. Let me know if you want a version that just replaces the ping. Preview: https://streamable.com/p6juhr
 
 **Update v1.1 Changelog:**  
 Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.
