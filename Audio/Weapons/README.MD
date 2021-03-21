@@ -102,7 +102,7 @@ Download Link None
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0f8a121c6ccac433644944d94552757af4029eed/Audio/Weapons/Warthog%20Punch%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-Replaces the Warthog's firing sounds with those of the XM1014 from Counter-Strike: Global Offensive. Never played it myself, but these sounds have KICK! Let me know if they're too loud.
+Replaces the Warthog's firing sounds with those of the XM1014 from Counter-Strike: Global Offensive. Never played it myself, but these sounds have KICK! Preview: https://streamable.com/2hohct
 
 **Update v1.1 Changelog:**  
 Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.
