@@ -29,6 +29,14 @@ Changes Scout's Jurry-Rigged Boomstick firing and reload sounds. Original by Rau
 Replaces BRT7 sounds with Glock 18c sounds  
 Download Link None
 
+## Halo Subata - v1.0
+**Authors:** Lithobraker  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/96ecd122a0c2a323d26c5d0a6b0e9474e13b36ff/Audio/Weapons/Halo%20Subata%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the Subata 120's firing sound and reload sounds with those of the M6D Magnum from Halo: Combat Evolved. Preview: https://streamable.com/zn8fm2
+
 ## Heavy Lead Storm - v1.0
 **Authors:** Lithobraker  
 **DRG Version:** Update 33, Hotfix 10  
