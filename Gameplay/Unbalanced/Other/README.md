@@ -40,6 +40,15 @@ Unbalanced mods that don't belong in the other categories.
 [HOST ONLY EFFECT]  
 --Changed supply drop cost to 50 Nitra
 
+## 60 Nitra Supply Drops - v1.0
+**Authors:** Sesselpots  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/bd0ecba54f261ca9eb2d3c233eba2aa1f3fcc9bb/Gameplay/Unbalanced/Other/60%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+[HOST ONLY EFFECT]  
+--Changed supply drop cost to 60 Nitra
+
 ## Better Bosco - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  

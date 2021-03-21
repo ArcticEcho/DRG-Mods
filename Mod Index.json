@@ -199,6 +199,26 @@
       }
     ]
   },
+  "60nitrasupplydrops": {
+    "DisplayName": "60 Nitra Supply Drops",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "[HOST ONLY EFFECT]\n--Changed supply drop cost to 60 Nitra",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/bd0ecba54f261ca9eb2d3c233eba2aa1f3fcc9bb/Gameplay/Unbalanced/Other/60%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "60 Nitra Supply Drops - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uasset": "32-55-58-80-14-B6-B1-52",
+          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "13-1E-24-49-12-C3-D9-97"
+        }
+      }
+    ]
+  },
   "8grenaderework": {
     "DisplayName": "8 Grenade Rework",
     "Version": "1.0",
