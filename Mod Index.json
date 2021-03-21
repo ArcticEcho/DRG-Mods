@@ -6337,42 +6337,34 @@
   },
   "pingym1000": {
     "DisplayName": "Pingy M1000",
-    "Version": "1.0",
+    "Version": "1.1",
     "DrgVersion": "Update 33, Hotfix 10",
     "AuthorIds": [
       123942120330362882
     ],
     "Description": "Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Garand ping. It also replaces the firing sounds with ones that are a mixture of samples from Call of Duty: World At War, Team Fortress 2, and Counter-Strike: Global Offensive. Let me know if you want a version that just replaces the ping.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/da9a142e61fd62dd1d96e3522eed591f03373752/Audio/Weapons/Pingy%20M1000%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8c3979cbbeea41023d291accb85611bc240fdb8c/Audio/Weapons/Pingy%20M1000%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Pingy M1000 - V1.0",
+        "PakFileName": "Pingy M1000 - V1.1",
         "CookedFileHashes": {
           "../../../FSD/Content/_CustomSounds/Boltaction_1.uasset": "09-49-51-51-7C-23-2E-A1",
-          "../../../FSD/Content/_CustomSounds/Boltaction_2.uasset": "BC-2C-B5-A2-BE-34-31-DB",
-          "../../../FSD/Content/_CustomSounds/Boltaction_3.uasset": "67-73-7C-A8-3F-CF-E8-ED",
-          "../../../FSD/Content/_CustomSounds/Boltaction_4.uasset": "C0-6E-AA-A3-7F-8E-99-3B",
-          "../../../FSD/Content/_CustomSounds/Boltaction_5.uasset": "D3-F3-57-22-EA-FA-10-26",
           "../../../FSD/Content/_CustomSounds/Boltaction_Charged_1.uasset": "FF-E8-33-19-9C-F3-96-82",
-          "../../../FSD/Content/_CustomSounds/Boltaction_Charged_2.uasset": "D1-09-A3-F6-44-8B-AD-42",
-          "../../../FSD/Content/_CustomSounds/Boltaction_Charged_3.uasset": "03-F9-9E-50-FC-C9-25-CE",
           "../../../FSD/Content/_CustomSounds/Boltaction_Ping.uasset": "2B-30-0E-36-6E-52-2E-CD",
-          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/BoltActionRifleFireCore_Cue.uasset": "8F-37-75-C8-27-8F-70-7A",
-          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/BoltActionRifleFireCoreCharged_Cue.uasset": "61-FE-DD-10-2D-3B-1C-8B",
-          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/M1000Reload/M1000ReloadB_1_Cue.uasset": "1E-5D-77-21-36-36-E3-C0",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stAnd3rdSharedWeapons.uasset": "C3-FA-57-82-36-68-D3-BD",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsSingle.uasset": "E2-C6-1D-F2-51-16-38-AB",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/BoltActionRifleFireCore_Cue.uasset": "33-33-DA-B4-1E-75-D6-FD",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/BoltActionRifleFireCoreCharged_Cue.uasset": "82-2D-14-03-8A-22-7B-8E",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/M1000Reload/M1000ReloadB_1_Cue.uasset": "35-FF-AF-C7-57-55-01-9A",
           "../../../FSD/Content/_CustomSounds/Boltaction_1.uexp": "1D-E7-AA-8F-F1-8E-3A-BD",
-          "../../../FSD/Content/_CustomSounds/Boltaction_2.uexp": "E7-E0-89-0A-ED-94-34-83",
-          "../../../FSD/Content/_CustomSounds/Boltaction_3.uexp": "78-B4-E2-E5-EE-EF-1F-6F",
-          "../../../FSD/Content/_CustomSounds/Boltaction_4.uexp": "FF-25-F2-71-47-80-BD-B4",
-          "../../../FSD/Content/_CustomSounds/Boltaction_5.uexp": "55-8C-F8-3D-81-2F-AF-46",
           "../../../FSD/Content/_CustomSounds/Boltaction_Charged_1.uexp": "F5-31-B5-21-91-18-94-46",
-          "../../../FSD/Content/_CustomSounds/Boltaction_Charged_2.uexp": "DA-52-2A-3F-04-D6-FF-1F",
-          "../../../FSD/Content/_CustomSounds/Boltaction_Charged_3.uexp": "94-03-39-0D-B5-C0-2C-E9",
           "../../../FSD/Content/_CustomSounds/Boltaction_Ping.uexp": "4F-9E-59-01-A0-F8-4B-8B",
-          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/BoltActionRifleFireCore_Cue.uexp": "66-A0-F7-15-D6-BD-57-0B",
-          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/BoltActionRifleFireCoreCharged_Cue.uexp": "AF-B7-3D-80-48-BC-7F-1D",
-          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/M1000Reload/M1000ReloadB_1_Cue.uexp": "A3-1B-78-D8-D1-85-6E-A5"
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stAnd3rdSharedWeapons.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsSingle.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/BoltActionRifleFireCore_Cue.uexp": "C2-D4-3A-79-66-21-22-39",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/BoltActionRifleFireCoreCharged_Cue.uexp": "4E-02-39-BA-AF-5B-4A-67",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/M1000Reload/M1000ReloadB_1_Cue.uexp": "DA-1C-A6-07-DE-E3-A7-28"
         }
       }
     ]

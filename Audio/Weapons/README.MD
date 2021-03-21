@@ -68,13 +68,16 @@ Download Link None
 **Description:**  
 Like putting tribals on a car.
 
-## Pingy M1000 - v1.0
+## Pingy M1000 - v1.1
 **Authors:** Lithobraker  
 **DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/da9a142e61fd62dd1d96e3522eed591f03373752/Audio/Weapons/Pingy%20M1000%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8c3979cbbeea41023d291accb85611bc240fdb8c/Audio/Weapons/Pingy%20M1000%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Garand ping. It also replaces the firing sounds with ones that are a mixture of samples from Call of Duty: World At War, Team Fortress 2, and Counter-Strike: Global Offensive. Let me know if you want a version that just replaces the ping.
+
+**Update v1.1 Changelog:**  
+Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.
 
 ## Subata Glock 17 - v1.0
 **Authors:** Demellion Dismal  
