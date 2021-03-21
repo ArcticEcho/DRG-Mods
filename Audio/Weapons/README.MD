@@ -54,7 +54,7 @@ Fixed the mod not obeying game volume settings, tweaked sound volume, and replac
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6df9843aa482761207b0355612fe6064b7847d3c/Audio/Weapons/Kaboomstick%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-Replaces the Jury-Rigged Boomstick's firing sounds with the Sawed-Off from Counter-Strike: Global Offensive.
+Replaces the Jury-Rigged Boomstick's firing sounds with the Sawed-Off from Counter-Strike: Global Offensive. Preview: https://streamable.com/8xnjyu
 
 **Update v1.1 Changelog:**  
 Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.
