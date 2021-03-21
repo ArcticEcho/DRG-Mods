@@ -29,6 +29,14 @@ Changes Scout's Jurry-Rigged Boomstick firing and reload sounds. Original by Rau
 Replaces BRT7 sounds with Glock 18c sounds  
 Download Link None
 
+## Heavy Lead Storm - v1.0
+**Authors:** Lithobraker  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d668a576cb3f03630e1d58bd89f144b08c1b0ca8/Audio/Weapons/Heavy%20Lead%20Storm%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the Lead Storm Minigun's firing and spin-up sounds. The firing loop is a modified sound effect from City of Heroes, meanwhile the spin-up is sourced from the Giant Heavy Robot spin-up sound from Team Fortress 2.
+
 ## HL1 HD Bulldog - v1.1
 **Authors:** Lithobraker  
 **DRG Version:** Update 33, Hotfix 10  

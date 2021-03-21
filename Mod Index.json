@@ -3822,6 +3822,38 @@
       }
     ]
   },
+  "heavyleadstorm": {
+    "DisplayName": "Heavy Lead Storm",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 10",
+    "AuthorIds": [
+      123942120330362882
+    ],
+    "Description": "Replaces the Lead Storm Minigun's firing and spin-up sounds. The firing loop is a modified sound effect from City of Heroes, meanwhile the spin-up is sourced from the Giant Heavy Robot spin-up sound from Team Fortress 2.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d668a576cb3f03630e1d58bd89f144b08c1b0ca8/Audio/Weapons/Heavy%20Lead%20Storm%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Heavy Lead Storm - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_CustomSounds/MinigunLoop.uasset": "E1-F3-C0-E8-30-0E-20-72",
+          "../../../FSD/Content/_CustomSounds/MinigunTail.uasset": "4A-BE-19-91-3F-1D-C3-08",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsLoop.uasset": "CE-2A-26-5F-E2-AF-71-10",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonWeaponsTail.uasset": "CA-22-99-B5-A4-8D-73-5E",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFireCore_Cue.uasset": "53-5B-6F-C2-2B-90-06-02",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFireTail_Cue.uasset": "A0-A2-85-75-E3-16-70-4C",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MinigunRoll/MiniGunRollOnA_1.uasset": "F7-CE-AB-E3-B8-6E-D0-C5",
+          "../../../FSD/Content/_CustomSounds/MinigunLoop.uexp": "E4-DF-74-23-B5-1F-E7-09",
+          "../../../FSD/Content/_CustomSounds/MinigunTail.uexp": "83-82-54-72-9D-F3-C9-07",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsLoop.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonWeaponsTail.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFireCore_Cue.uexp": "86-72-2A-DD-38-87-1E-E3",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFireTail_Cue.uexp": "72-04-22-38-82-75-12-76",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MinigunRoll/MiniGunRollOnA_1.uexp": "84-3D-C8-18-2A-96-4F-F7"
+        }
+      }
+    ]
+  },
   "hegrenadecarve": {
     "DisplayName": "HE Grenade Carve",
     "Version": "1.0",
