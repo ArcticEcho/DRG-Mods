@@ -43,7 +43,7 @@ Replaces the Lead Storm Minigun's firing and spin-up sounds. The firing loop is 
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f8bc5bf6790ed2d4c250d8d406d597acf976d66f/Audio/Weapons/HL1%20HD%20Bulldog%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-Replaces the Bulldog's firing sounds with HD versions of the .357 Revolver from Half-Life.
+Replaces the Bulldog's firing sounds with HD versions of the .357 Revolver from Half-Life. Preview: https://streamable.com/46htod
 
 **Update v1.1 Changelog:**  
 Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.

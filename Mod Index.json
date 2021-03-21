@@ -5060,7 +5060,7 @@
     "AuthorIds": [
       123942120330362882
     ],
-    "Description": "Replaces the Bulldog's firing sounds with HD versions of the .357 Revolver from Half-Life.",
+    "Description": "Replaces the Bulldog's firing sounds with HD versions of the .357 Revolver from Half-Life. Preview: https://streamable.com/46htod",
     "LastUpdateChangelog": "Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.",
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f8bc5bf6790ed2d4c250d8d406d597acf976d66f/Audio/Weapons/HL1%20HD%20Bulldog%20-%20V1.1%20_P.pak",
     "Paks": [
