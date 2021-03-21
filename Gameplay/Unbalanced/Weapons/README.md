@@ -127,34 +127,6 @@ A mod that changes the Fat Boy OC to a "real-er" nuke
 --Radiation Particles now glow slightly brighter and have a bigger circle  
 --! Now with better Carve Radius in Ver3 !
 
-## FlareRifle - v1.6
-**Authors:** Potatolaser  
-**DRG Version:** U33, hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e95336214e9b186e91e3125323c0a57712f07066/Gameplay/Unbalanced/Weapons/FlareRifle%20-%20V1.6%20_P.pak)  
-
-**Description:**  
-The Flare Rifle mod changes the Flare Gun and its modifications to allow for more aggressive usage, while hopefully not overshadowing Scout's actual primary weapons. It's equal to about half of one of scout's primaries in terms of potential damage dealt, and the maximum flare uptime is less than the vanilla Flare Gun's uptime. In exchange for its additional combat capabilities, the Flare Rifle comes with a few drawbacks like a longer equip duration, a slower reload speed, a slower base ROF, and terrible base flare duration.  
-**Base Flare Rifle**  
-MaxAmmo: 12 > 18  
-EquipDuration: 0.5 > 1.3  
-RateOfFire: 1 > 0.7  
-ReloadDuration 2.4 > 4  
-**Projectile**  
-LightIntensity: slightly decreased maybe  
-Duration:  75 > 3  
-**Modifications**  
-*MAX AMMO A:* 3 > 19  
-*DURATION A (swapped with clip size b):* 15 > 14  
-*CLIP SIZE B (swapped with duration a):* 1 > 8  
-*ROF B:* 3 > 6  
-*auto reload replaced with +60 direct damage*  
-*AMMO C:* 3 > 60  
-*DURATION C:* 15 > 25  
-Note: If a scout joins your lobby without the mod, their flares won't last very long... but the mod works in other ppl's lobbies?? idk
-
-**Update v1.6 Changelog:**  
-V1.5 is balanced so the max dps build can reload at least once or twice, and the maximum flare uptime doesn't exceed vanilla's
-
 ## Fullmetal Scout - v1.0
 **Authors:** Chibba  
 **DRG Version:** U 33, HF 2  
