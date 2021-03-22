@@ -4,6 +4,20 @@ Mods that increase the difficulty of things.
 
 <!-- mod list -->
 
+## Candy Van Leeches - v1
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 33. Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e917397a5c6a776c47b296a6c9255144d8d8f255/Gameplay/Gamemodes/Handicaps/Candy%20Van%20Leeches%20-%20V1%20_P.pak)  
+
+**Description:**  
+Makes Cave Leeches move insanely fast  
+-- Instant grabbing  
+-- 200 Meter grab distance  
+-- No delay  
+-- No lowering you down if it's killed  
+Note that this makes leeches incredibly unfair as they will yoink you before you can even shoot them likely  
+Why did I make this? Cause why not?
+
 ## Cave Leech Clusterfuck - v1.0
 **Authors:** The Inevitable Luke  
 **DRG Version:** Update 33, Hotfix 9  
