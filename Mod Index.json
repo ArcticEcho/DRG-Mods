@@ -7020,6 +7020,28 @@
       }
     ]
   },
+  "sociallydistantcaveleeches": {
+    "DisplayName": "Socially Distant Cave Leeches",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 10",
+    "AuthorIds": [
+      297356398558183424
+    ],
+    "Description": "Hoxxes IV seems to be running low on masks, so the cave leeches have been instructed to improve their social distancing. Cave leeches will enthusiastically buzz around you, but *almost* certainly will not be able to grab you (and if one does, please send me a clip!)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a0edc22dce3185b15ad29204da2d538d768ac508/Gameplay/Gamemodes/Alternative%20playstyles/Socially%20Distant%20Cave%20Leeches%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Socially Distant Cave Leeches - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/CaveLeech/EMMD_CaveLeech.uexp": "4C-B9-5D-8E-C5-49-7A-BA",
+          "../../../FSD/Content/Enemies/CaveLeech/ENE_CaveLeech.uexp": "F2-E5-75-57-61-F9-3D-77",
+          "../../../FSD/Content/GameElements/Missions/Warnings/CaveLeechDen/MUT_CaveLeechStationaryEncounter.uexp": "7D-92-CD-A8-8E-20-DE-79",
+          "../../../FSD/Content/GameElements/Missions/Warnings/CaveLeechDen/WRN_CaveLeechDen.uexp": "31-93-52-37-BC-83-D6-51"
+        }
+      }
+    ]
+  },
   "soundqolpack": {
     "DisplayName": "Sound QoL pack",
     "Version": "1.1",

@@ -64,6 +64,14 @@ This mod adds back "random enemy spawns" during dreadnought fights! GSG removed 
 --Includes all combos of laser sight, air control, 2x, 3x flashlights and this shield and health swapping.  
 Preview: https://discord.com/channels/676880716142739467/732650220214681600/809671728606347274
 
+## Socially Distant Cave Leeches - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a0edc22dce3185b15ad29204da2d538d768ac508/Gameplay/Gamemodes/Alternative%20playstyles/Socially%20Distant%20Cave%20Leeches%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Hoxxes IV seems to be running low on masks, so the cave leeches have been instructed to improve their social distancing. Cave leeches will enthusiastically buzz around you, but *almost* certainly will not be able to grab you (and if one does, please send me a clip!)
+
 ## Support Pods - v1.1
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33  
