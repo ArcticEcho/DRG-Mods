@@ -22,6 +22,7 @@ You can easily locate your game installation path using steam:
  - **[Kraeus's Crazy Jukebox](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#kraeuss-crazy-jukebox---v1)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/fa0a8b53454dfe375fe94a3320a9355a4fa94952/Audio/Music/Kraeus%27s%20Crazy%20Jukebox%20-%20V1%20_P.pak))
  - **[Kraeus's Crazy Tunes!](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#kraeuss-crazy-tunes---v20)** by Kraeus ([download](https://drive.google.com/file/d/10IP-zik_WQfzrjm5p5QZqjoi-oEhsXgm/view?usp=sharing) - third-party host)
  - **[Quiet Space Rig](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#quiet-space-rig---v1)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/ccfe539bc436d9a43aaed84fe50bfc3eda55955e/Audio/Music/Quiet%20Space%20Rig%20-%20V1%20_P.pak))
+ - **[Starship Troopers OST Music Replacement](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#starship-troopers-ost-music-replacement---v08)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/070a1e1e280a157a22e41d0891f8b55a04379587/Audio/Music/Starship%20Troopers%20OST%20Music%20Replacement%20-%20V0.8%20_P.pak))
  - **[WTFightMusic](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#wtfightmusic---v21)** by CouchDiabetic ([download](https://mega.nz/file/G91BnaYZ#5vBbhMDlR75W6LLLsvf5P0s8vyU0_jPi09RP_8E1E6o) - third-party host)
 
 ## [Audio/NPC](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC)
