@@ -130,6 +130,16 @@ These changes limit the possible spam to mimic the PGL's restrictions.
 **Update v1.01 Changelog:**  
 Fixed an issue that could cause your PGL to shoot axes.
 
+## Extended Luries - v1.0
+**Authors:** PastoSeco14  
+**DRG Version:** Update 33, Hotifx 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/03fe1232ba9384a1b9b631a525534ed502084ebd/Gameplay/Unbalanced/Weapons/Extended%20Luries%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+--- Makes 1min long luries, so if you throw it and any bugs arent nearby it can last a bit longer to avoid wasting  
+--- 8 Lures  
+--- More HP so they can absorb more hits
+
 ## Fast Sentry - v1.0
 **Authors:** Demellion Dismal  
 **DRG Version:** Update 33 Hotfix 5  
