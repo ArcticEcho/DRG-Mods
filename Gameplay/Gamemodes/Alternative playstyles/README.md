@@ -72,6 +72,14 @@ Preview: https://discord.com/channels/676880716142739467/732650220214681600/8096
 **Description:**  
 You need 69 gunk seeds to complete the secondary. Don't worry, enough will spawn.
 
+## Rated 3090+ - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c03021fd52e47972dfaa565c6c4c061ef8b867fc/Gameplay/Gamemodes/Alternative%20playstyles/Rated%203090%2B%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+You need 69 gunk seeds to complete the secondary. Don't worry, enough will spawn - enough that you'll need a beefy computer to stay at high fps.
+
 ## Socially Distant Cave Leeches - v1.0
 **Authors:** The Inevitable Luke  
 **DRG Version:** Update 33, Hotfix 10  
