@@ -6641,6 +6641,25 @@
       }
     ]
   },
+  "rated18": {
+    "DisplayName": "Rated 18+",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 10",
+    "AuthorIds": [
+      297356398558183424
+    ],
+    "Description": "You need 69 gunk seeds to complete the secondary. Don't worry, enough will spawn.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e807e9956b4eb1685558371d32fac8b66ac85c1b/Gameplay/Gamemodes/Alternative%20playstyles/Rated%2018%2B%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Rated 18+ - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Objectives/OBJ_2nd_Find_Gunkseed.uexp": "06-7F-56-81-2C-01-E6-31"
+        }
+      }
+    ]
+  },
   "realweaponstatsu33h6": {
     "DisplayName": "RealWeaponStats_U33H6",
     "Version": "0",

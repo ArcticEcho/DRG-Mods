@@ -64,6 +64,14 @@ This mod adds back "random enemy spawns" during dreadnought fights! GSG removed 
 --Includes all combos of laser sight, air control, 2x, 3x flashlights and this shield and health swapping.  
 Preview: https://discord.com/channels/676880716142739467/732650220214681600/809671728606347274
 
+## Rated 18+ - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e807e9956b4eb1685558371d32fac8b66ac85c1b/Gameplay/Gamemodes/Alternative%20playstyles/Rated%2018%2B%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+You need 69 gunk seeds to complete the secondary. Don't worry, enough will spawn.
+
 ## Socially Distant Cave Leeches - v1.0
 **Authors:** The Inevitable Luke  
 **DRG Version:** Update 33, Hotfix 10  
