@@ -420,6 +420,22 @@ But wait! There's more! Your trusty Sentry Gun has also been upgraded to hurl ax
 **Description:**  
 The radiation field left by fatboy rounds no longer affects players OR Doretta
 
+## Ultimate Glyphid Trap - v1.0
+**Authors:** PastoSeco14, Our Lord And Savior Gabe Newell  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e6dc87da2a288ecde06b92857ced472adb7d126b/Gameplay/Unbalanced/Weapons/Ultimate%20Glyphid%20Trap%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+--- Recallable Minigun Turrets with 1 second build time  
+--- Adds 5min long electric arc turrets  
+--- 2min. long unbreakeable luries  
+--- 10 Luries  
+--- 2x ammo for breach cutter  
+--- Increased Breach cutter damage  
+Notes: **Recallable Minigun Turrets** is a mod made by @Our Lord And Savior Gabe Newell, **you should try that one and the other mods that he has published **!, (I modified his mod to make the sentry build time way less longer)   
+This mod was made up keeping in mind the @Sesselpots's Bug Planet Constant Conflict mod gameplay, so it works pretty good killing large hordes of grunts, if you use it in vanilla Hazards this mod will be extremely OP  
+Handle with caution, you can accidentally kill teammates while using this, so you should never forget to recall your turrets to deactivate the electric arc
+
 ## UnnerfedElephantRounds - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
