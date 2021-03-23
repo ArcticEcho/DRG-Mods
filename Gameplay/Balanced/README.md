@@ -74,6 +74,16 @@ ammo capacity upgrade increased 15 > 25
 damage bonus from defender upgrade reduced 3 > 2  
 hawkeye detection range upgrade reduced 30 > 20
 
+## Extended Luries - v1.0
+**Authors:** PastoSeco14  
+**DRG Version:** Update 33, Hotifx 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c01510e3a5748a791c287077654430bf443715ee/Gameplay/Balanced/Extended%20Luries%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+--- Makes 1min long luries, so if you throw it and any bugs arent nearby it can last a bit longer to avoid wasting  
+--- 8 Lures  
+--- More HP so they can absorb more hits
+
 ## HE Grenade Carve - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
