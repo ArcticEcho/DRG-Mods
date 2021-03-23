@@ -4,6 +4,15 @@ Unbalanced changes to guns and grenades.
 
 <!-- mod list -->
 
+## 100% Chance Electrocution - v1.0
+**Authors:** PastoSeco14  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/bbe401862155ada455780d5ea50b5dfb5ca9a1d5/Gameplay/Unbalanced/Weapons/100%25%20Chance%20Electrocution%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Makes the "Stubby" Voltaic SMG have 100% chance of electrocution chance  
+Good to light turrets with electric arc or emp discharge without wasting more than 1 bullet
+
 ## 2x Ammo And Slightly Better Scout - v1.0
 **Authors:** BrewBreuw  
 **DRG Version:** Update 33  
