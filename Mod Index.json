@@ -219,6 +219,26 @@
       }
     ]
   },
+  "5minelectricarcduration": {
+    "DisplayName": "5min. Electric Arc Duration",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 10",
+    "AuthorIds": [
+      614293792907853825
+    ],
+    "Description": "Makes the electric arc OC lasts 5 min. this can be useful at building bases or traps, dont forget to recall your sentrys to deactivate the arc !",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1f3b0f85da6ebd04e3aa3af351bda951a25e8c4a/Gameplay/Unbalanced/Weapons/5min.%20Electric%20Arc%20Duration%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "5min. Electric Arc Duration - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/SentryGun/BP_EletrocutedSentry.uasset": "80-DA-66-81-B6-8D-D3-47",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/BP_EletrocutedSentry.uexp": "AA-A2-2C-7C-2D-D5-AD-53"
+        }
+      }
+    ]
+  },
   "60nitrasupplydrops": {
     "DisplayName": "60 Nitra Supply Drops",
     "Version": "1.0",

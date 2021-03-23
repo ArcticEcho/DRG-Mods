@@ -30,6 +30,14 @@ Good to light turrets with electric arc or emp discharge without wasting more th
 - As a client, this mod will still affect your ammo, but not damage or armor.  
 *Thanks to* @imdead *for helping me make the Slightly Better Scout portion of this mod and* @GreyHound *for their work on the 2x ammo (now known as legendary hoarder) mod*
 
+## 5min. Electric Arc Duration - v1.0
+**Authors:** PastoSeco14  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1f3b0f85da6ebd04e3aa3af351bda951a25e8c4a/Gameplay/Unbalanced/Weapons/5min.%20Electric%20Arc%20Duration%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Makes the electric arc OC lasts 5 min. this can be useful at building bases or traps, dont forget to recall your sentrys to deactivate the arc !
+
 ## 8 Grenade Rework - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 4  
