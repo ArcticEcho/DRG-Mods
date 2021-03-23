@@ -37,6 +37,22 @@ Exactly the same as my grenade rework file, but hold 8 of all of the grenades in
 **Description:**  
 Makes you carry 8 grenades for all types to match up with axes.
 
+## Better Carpet Bomber - v1.0
+**Authors:** PastoSeco14  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/56e9cf44ff94c28fc94792d855c5e8571e9704f8/Gameplay/Unbalanced/Weapons/Better%20Carpet%20Bomber%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Makes the Carpet Bomber OC for autocannon a true Grunt killing machine ! (also works well killing big enemies)  
+--- 2x Ammo  
+--- Damage: -6 > -1  
+--- Area Damage: +3 > +6  
+--- Effect Radius +0.7 > +1.7  
+--- 1st Upgrade of C Tier (Super charged feed mechanism): +2 > + 3.5  
+First of all, thanks for adding me as a modder  
+Second: This mod was made keeping in mind the @Sesselpots's Bug Planet - Constant Conflict mod gameplay, so it is made to give hell as many grunts as you can, if you use it in vanilla Hazards you may find it OP  
+Have fun !
+
 ## BRT7 Electro Poglets - v1.0
 **Authors:** ZeroSignal_  
 **DRG Version:** Update 33, Hotfix 4  

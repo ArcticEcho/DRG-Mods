@@ -1518,6 +1518,38 @@
       }
     ]
   },
+  "bettercarpetbomber": {
+    "DisplayName": "Better Carpet Bomber",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 10",
+    "AuthorIds": [
+      614293792907853825
+    ],
+    "Description": "Makes the Carpet Bomber OC for autocannon a true Grunt killing machine ! (also works well killing big enemies)\n--- 2x Ammo\n--- Damage: -6 > -1\n--- Area Damage: +3 > +6\n--- Effect Radius +0.7 > +1.7\n--- 1st Upgrade of C Tier (Super charged feed mechanism): +2 > + 3.5\nFirst of all, thanks for adding me as a modder\nSecond: This mod was made keeping in mind the <@!712926827911446548>'s Bug Planet - Constant Conflict mod gameplay, so it is made to give hell as many grunts as you can, if you use it in vanilla Hazards you may find it OP\nHave fun !",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/56e9cf44ff94c28fc94792d855c5e8571e9704f8/Gameplay/Unbalanced/Weapons/Better%20Carpet%20Bomber%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Better Carpet Bomber - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Autocannon/Overclocks/OC_BonusesAndPenalties/OC_Bonus_RadialDamage_4_Autocannon.uasset": "BF-1B-DA-AB-F9-52-61-72",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/Overclocks/OC_BonusesAndPenalties/OC_Bonus_RadialRange_200_Autocannon.uasset": "27-35-51-0E-B7-5E-C2-07",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/Overclocks/OC_BonusesAndPenalties/Penalty_DirectDamage-9_AC.uasset": "1D-A8-1D-98-98-E9-F6-B2",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/UPG_AutoCannon_A_MagazineCapacity.uasset": "40-40-F7-8A-20-53-B6-29",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/UPG_EFFECT_FireTimeIncreaseScale.uasset": "4E-B0-F7-C6-09-72-48-A7",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/UPG_EFFECT_MaxFireRate_C.uasset": "FE-8F-78-7F-15-06-7B-25",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/WPN_Autocannon.uasset": "3A-E3-05-1E-1F-BC-4D-52",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/Overclocks/OC_BonusesAndPenalties/OC_Bonus_RadialDamage_4_Autocannon.uexp": "3A-C8-53-2F-C7-27-5F-94",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/Overclocks/OC_BonusesAndPenalties/OC_Bonus_RadialRange_200_Autocannon.uexp": "20-AB-D7-8A-8E-11-A0-F7",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/Overclocks/OC_BonusesAndPenalties/Penalty_DirectDamage-9_AC.uexp": "06-43-0C-67-2A-41-D9-8F",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/UPG_AutoCannon_A_MagazineCapacity.uexp": "40-3E-F9-7A-7C-CC-42-98",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/UPG_EFFECT_FireTimeIncreaseScale.uexp": "23-24-65-43-BC-57-9C-BF",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/UPG_EFFECT_MaxFireRate_C.uexp": "5C-B0-E2-DE-E8-2D-39-BF",
+          "../../../FSD/Content/WeaponsNTools/Autocannon/WPN_Autocannon.uexp": "FE-83-B2-43-E1-5E-DC-57"
+        }
+      }
+    ]
+  },
   "bettermininglaser": {
     "DisplayName": "BetterMiningLaser",
     "Version": "1.01",
