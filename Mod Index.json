@@ -3716,6 +3716,34 @@
       }
     ]
   },
+  "grenadelauncherm79mp1": {
+    "DisplayName": "Grenade Launcher M79 MP1",
+    "Version": "1.0",
+    "DrgVersion": "U33 H10",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Changes the engineers grenade launcher shooting and reloading sound to the M79 sound from Max Payne 1.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/90a98beb16c1227872017756b480afce4a0be19d/Audio/Weapons/Grenade%20Launcher%20M79%20MP1%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Grenade Launcher M79 MP1 - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_1.uasset": "75-BD-87-94-B7-C2-CF-48",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_2.uasset": "A9-99-9C-3C-D4-EA-D3-8C",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_3.uasset": "54-03-5B-F0-91-D4-87-CB",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/Reload/GrenadeLauncherB_1.uasset": "89-41-04-6E-A0-A8-38-79",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/Reload/GrenadeLauncherC_1.uasset": "99-AA-25-09-24-50-58-D1",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_1.uexp": "7C-F2-2E-BC-8E-A5-D5-81",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_2.uexp": "7C-F2-2E-BC-8E-A5-D5-81",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_3.uexp": "7C-F2-2E-BC-8E-A5-D5-81",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/Reload/GrenadeLauncherB_1.uexp": "E8-35-95-F4-63-35-69-52",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/Reload/GrenadeLauncherC_1.uexp": "FC-1E-61-8D-07-F3-F9-6D"
+        }
+      }
+    ]
+  },
   "grenaderework": {
     "DisplayName": "Grenade Rework",
     "Version": "1.0",

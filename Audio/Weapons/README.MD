@@ -37,6 +37,14 @@ Changes the engineers shotgun shooting and reloading sound to the Jackhammer sou
 Replaces BRT7 sounds with Glock 18c sounds  
 Download Link None
 
+## Grenade Launcher M79 MP1 - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/90a98beb16c1227872017756b480afce4a0be19d/Audio/Weapons/Grenade%20Launcher%20M79%20MP1%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Changes the engineers grenade launcher shooting and reloading sound to the M79 sound from Max Payne 1.
+
 ## Halo Subata - v1.0
 **Authors:** Lithobraker  
 **DRG Version:** Update 33, Hotfix 10  
