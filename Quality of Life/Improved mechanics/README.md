@@ -48,6 +48,14 @@ Note: Incompatible with the "No more Dollar Store flashlights" mod as they both 
 Sets the Chance for Cargo Crates and Lost packs to generate to 0  
 --Ah those pesky Treasures blocking my cave and disrupting my Mining Mission, if only there was a way to get rid of them -Probably Nobody--
 
+## Fuel Canister Pickup Radius - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c5d1c559c407919d2948df4f8b3b37ac1f4b0d9b/Quality%20of%20Life/Improved%20mechanics/Fuel%20Canister%20Pickup%20Radius%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Increases the pickup sphere radius for fuel canisters to make them more on par with other large objects.
+
 ## Gunk Seed Pickup Radius - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
