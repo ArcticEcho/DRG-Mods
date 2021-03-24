@@ -28,6 +28,14 @@ Mutes Doretta whine SFX on taking damage.
 **Description:**  
 Removes the high-pitched ringing sound effect that plays: after an explosion, at mission start, when switching classes, and when toggling your flashlight.
 
+## Silent Molly Breadcrumbs - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/64f0bca66667269847b753156d9c415654b5ff44/Quality%20of%20Life/Sound%20muting/Silent%20Molly%20Breadcrumbs%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Mutes the sound of the blinking poles which molly leaves behind when going for the droppod. Especially helpful when you play viewer spawns with multi molly as option.
+
 ## Sound QoL pack - v1.1
 **Authors:** GreyHound, Shrub_Daddy, Chibba  
 **DRG Version:** Update 33 Hotfix 5  
