@@ -876,6 +876,50 @@
       }
     ]
   },
+  "autoshotgunjackhammermp1": {
+    "DisplayName": "AutoShotgun Jackhammer MP1",
+    "Version": "1.0",
+    "DrgVersion": "U33 H10",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Changes the engineers shotgun shooting and reloading sound to the Jackhammer sound from Max Payne 1.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/87eba5565360cc5e64fb21f91858742603f1bbdf/Audio/Weapons/AutoShotgun%20Jackhammer%20MP1%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "AutoShotgun Jackhammer MP1 - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_01.uasset": "AC-F5-92-11-D4-15-F0-E6",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_02.uasset": "9B-6F-BD-9A-D8-59-37-CA",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_03.uasset": "F7-C2-91-61-39-5A-0A-38",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_04.uasset": "F2-58-26-F5-D7-41-97-59",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_05.uasset": "E2-DF-12-ED-84-E7-F6-42",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_06.uasset": "7C-75-B7-7A-16-8D-AB-4B",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_07.uasset": "AE-71-A9-1D-8B-A0-13-14",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_08.uasset": "5B-95-A9-92-49-4F-D4-A9",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_09.uasset": "69-D6-E6-FD-CE-4C-49-DF",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_10.uasset": "FB-89-E9-73-89-0B-73-44",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_11.uasset": "FB-0E-FF-C8-32-FF-1D-4B",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_12.uasset": "0A-D9-AF-9B-18-65-B7-A6",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/Reload/V2/SawedOffShotgunReloadC_1.uasset": "84-34-6F-5A-46-59-1C-66",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_01.uexp": "F5-65-89-B3-65-B7-40-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_02.uexp": "F5-65-89-B3-65-B7-40-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_03.uexp": "F5-65-89-B3-65-B7-40-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_04.uexp": "F5-65-89-B3-65-B7-40-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_05.uexp": "F5-65-89-B3-65-B7-40-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_06.uexp": "F5-65-89-B3-65-B7-40-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_07.uexp": "F5-65-89-B3-65-B7-40-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_08.uexp": "F5-65-89-B3-65-B7-40-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_09.uexp": "F5-65-89-B3-65-B7-40-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_10.uexp": "6E-15-E9-49-17-9C-D1-91",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_11.uexp": "6E-15-E9-49-17-9C-D1-91",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_CombatShotgun/CombatShotgunFireCombined/CombatShotgunCombinedA_12.uexp": "6E-15-E9-49-17-9C-D1-91",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_SawedOffShotgun/Reload/V2/SawedOffShotgunReloadC_1.uexp": "9F-9F-05-0D-98-87-FA-44"
+        }
+      }
+    ]
+  },
   "barrelyeet10x": {
     "DisplayName": "Barrel Yeet 10x",
     "Version": "1",

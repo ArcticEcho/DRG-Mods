@@ -20,6 +20,14 @@ Changes Scout's Deepcore GK2 firing and reload sounds. [Preview.](https://www.yo
 **Description:**  
 Changes Scout's Jurry-Rigged Boomstick firing and reload sounds. Original by Rauliken. [Preview.](https://www.youtube.com/watch?v=OE3f6PeQZnE)
 
+## AutoShotgun Jackhammer MP1 - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/87eba5565360cc5e64fb21f91858742603f1bbdf/Audio/Weapons/AutoShotgun%20Jackhammer%20MP1%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Changes the engineers shotgun shooting and reloading sound to the Jackhammer sound from Max Payne 1.
+
 ## BRT7 Glock 18c - v1.0
 **Authors:** Demellion Dismal  
 **DRG Version:** Update 33  
