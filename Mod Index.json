@@ -6336,6 +6336,50 @@
       }
     ]
   },
+  "nochokingsoundonlowoxygen": {
+    "DisplayName": "No Choking Sound on Low Oxygen",
+    "Version": "1.0",
+    "DrgVersion": "U33 H10",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Removes all choking sound lines on low ox mutator missions.The flashing screen and the alert are still working.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e10293624bdd514843ed78da7e333afde7ab96b2/Quality%20of%20Life/Sound%20muting/No%20Choking%20Sound%20On%20Low%20Oxygen%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "No Choking Sound On Low Oxygen - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_1.uasset": "1A-EF-9D-A5-A1-F6-70-B0",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_10.uasset": "5A-C9-68-84-BF-63-05-40",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_11.uasset": "28-54-A8-D7-32-45-C5-76",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_12.uasset": "20-16-9D-99-A9-A5-52-88",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_13.uasset": "94-22-55-BB-36-89-8F-07",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_2.uasset": "68-22-9E-D6-F3-29-5D-40",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_3.uasset": "95-E1-BC-07-17-FE-CA-EC",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_4.uasset": "CF-FD-9F-BE-82-0B-26-B8",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_5.uasset": "6D-AC-A2-35-51-56-C8-66",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_6.uasset": "24-3E-CB-20-17-A6-7F-DF",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_7.uasset": "D2-85-08-0F-9E-D4-2A-11",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_8.uasset": "96-D8-BC-3C-0E-FE-28-DC",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_9.uasset": "F1-9A-1F-E8-0A-C3-0D-32",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_1.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_10.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_11.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_12.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_13.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_2.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_3.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_4.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_5.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_6.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_7.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_8.uexp": "9B-32-76-93-76-A6-E1-34",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/DwarfSpeakAugust2019/OxygenMutatorHeavyBreathing_9.uexp": "9B-32-76-93-76-A6-E1-34"
+        }
+      }
+    ]
+  },
   "nodorettawhining": {
     "DisplayName": "No Doretta Whining",
     "Version": "1.0",

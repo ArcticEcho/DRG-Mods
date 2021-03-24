@@ -12,6 +12,14 @@ QoL mods to mute annoying sounds.
 **Description:**  
 Silences Doretta completely not just on damage but especially when someone can't stop petting it or when you constantly throw it on the way back.
 
+## No Choking Sound on Low Oxygen - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e10293624bdd514843ed78da7e333afde7ab96b2/Quality%20of%20Life/Sound%20muting/No%20Choking%20Sound%20On%20Low%20Oxygen%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Removes all choking sound lines on low ox mutator missions.The flashing screen and the alert are still working.
+
 ## No Doretta Whining - v1.0
 **Authors:** Demellion Dismal  
 **DRG Version:** Update 33  
