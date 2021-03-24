@@ -28,6 +28,14 @@ Mutes Doretta whine SFX on taking damage.
 **Description:**  
 Removes the high-pitched ringing sound effect that plays: after an explosion, at mission start, when switching classes, and when toggling your flashlight.
 
+## Perk Born Ready no Voice - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d7e5e1b707dc41a65e0f47114247db680b4b6ffb/Quality%20of%20Life/Sound%20muting/Perk%20Born%20Ready%20No%20Voice%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Removes all voice lines which occur every five seconds after born ready triggers and can be heard by anyone around you. The additional shotgun cocking sound is still working.
+
 ## Silent Molly Breadcrumbs - v1.0
 **Authors:** mino  
 **DRG Version:** U33 H10  

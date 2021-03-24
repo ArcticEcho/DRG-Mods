@@ -6507,6 +6507,38 @@
       }
     ]
   },
+  "perkbornreadynovoice": {
+    "DisplayName": "Perk Born Ready no Voice",
+    "Version": "1.0",
+    "DrgVersion": "U33 H10",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Removes all voice lines which occur every five seconds after born ready triggers and can be heard by anyone around you. The additional shotgun cocking sound is still working.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d7e5e1b707dc41a65e0f47114247db680b4b6ffb/Quality%20of%20Life/Sound%20muting/Perk%20Born%20Ready%20No%20Voice%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Perk Born Ready No Voice - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_01.uasset": "1A-22-FB-4B-DF-D9-77-A7",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_02.uasset": "A5-58-9B-49-0D-46-1E-9C",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_03.uasset": "30-07-2B-1F-11-BE-C9-82",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_04.uasset": "23-EA-63-61-5D-17-5B-F6",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_05.uasset": "97-C3-0E-C5-E7-18-6A-93",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_06.uasset": "8D-6F-FB-B0-F0-42-F4-15",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_07.uasset": "EE-E2-44-0C-9A-9E-44-66",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_01.uexp": "4C-32-11-B1-E6-D5-C7-A8",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_02.uexp": "4C-32-11-B1-E6-D5-C7-A8",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_03.uexp": "4C-32-11-B1-E6-D5-C7-A8",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_04.uexp": "4C-32-11-B1-E6-D5-C7-A8",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_05.uexp": "4C-32-11-B1-E6-D5-C7-A8",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_06.uexp": "4C-32-11-B1-E6-D5-C7-A8",
+          "../../../FSD/Content/Audio/SFX/Characters/Voices/Dwarves/Dwarf_01/SpeakDwarfMarch2020/PrkActvtnsBornReadyTalkToSelf_07.uexp": "4C-32-11-B1-E6-D5-C7-A8"
+        }
+      }
+    ]
+  },
   "pickaxepowermovebrucelee": {
     "DisplayName": "Pickaxe Powermove Bruce Lee",
     "Version": "1.0",
