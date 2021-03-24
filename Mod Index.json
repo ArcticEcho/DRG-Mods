@@ -8051,6 +8051,32 @@
       }
     ]
   },
+  "ultimateflamethrower": {
+    "DisplayName": "Ultimate Flamethrower",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotifx 10",
+    "AuthorIds": [
+      255467797340094465
+    ],
+    "Description": "Ultimate Flamethrower\nBase Weapon Modifications\n--- Base damage 25\n--- 200 meter flame reach\n--- 200 meter flame gain per second\n--- 1200 max ammo\n--- 200 clip size\n--- .6 second reload\n--- 3 meter damage radius\n--- Enemies catch fire almost instantly (debuff)\n--- Fire debuff very slow decay speed",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ee22c8eb951dc79cc41214d22bfa27211a6c35e8/Gameplay/Unbalanced/Weapons/Ultimate%20Flamethrower%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Ultimate Flamethrower - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Flamethrower/UPG_Flamethrower_B_StickyDuration.uasset": "59-6E-65-1D-4F-F9-0B-A1",
+          "../../../FSD/Content/WeaponsNTools/Flamethrower/UPG_Flamethrower_D_Fear.uasset": "5C-8E-0C-B4-96-6E-84-15",
+          "../../../FSD/Content/WeaponsNTools/Flamethrower/UPG_Flamethrower_D_StickyDuration_2.uasset": "C3-D9-2E-7A-A1-1E-47-42",
+          "../../../FSD/Content/WeaponsNTools/Flamethrower/WPN_FlameThrower.uasset": "FE-D6-1D-25-7F-6D-98-5D",
+          "../../../FSD/Content/WeaponsNTools/Flamethrower/UPG_Flamethrower_B_StickyDuration.uexp": "AD-1E-99-CD-0B-FF-B5-44",
+          "../../../FSD/Content/WeaponsNTools/Flamethrower/UPG_Flamethrower_D_Fear.uexp": "D6-71-8D-1C-68-20-87-ED",
+          "../../../FSD/Content/WeaponsNTools/Flamethrower/UPG_Flamethrower_D_StickyDuration_2.uexp": "0B-B4-48-EC-D7-00-E6-1D",
+          "../../../FSD/Content/WeaponsNTools/Flamethrower/WPN_FlameThrower.uexp": "40-18-95-9A-DD-80-5E-01"
+        }
+      }
+    ]
+  },
   "ultimateglyphidtrap": {
     "DisplayName": "Ultimate Glyphid Trap",
     "Version": "1.0",

@@ -430,6 +430,24 @@ But wait! There's more! Your trusty Sentry Gun has also been upgraded to hurl ax
 **Description:**  
 The radiation field left by fatboy rounds no longer affects players OR Doretta
 
+## Ultimate Flamethrower - v1.0
+**Authors:** Smelly Gritz  
+**DRG Version:** Update 33, Hotifx 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ee22c8eb951dc79cc41214d22bfa27211a6c35e8/Gameplay/Unbalanced/Weapons/Ultimate%20Flamethrower%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Ultimate Flamethrower  
+Base Weapon Modifications  
+--- Base damage 25  
+--- 200 meter flame reach  
+--- 200 meter flame gain per second  
+--- 1200 max ammo  
+--- 200 clip size  
+--- .6 second reload  
+--- 3 meter damage radius  
+--- Enemies catch fire almost instantly (debuff)  
+--- Fire debuff very slow decay speed
+
 ## Ultimate Glyphid Trap - v1.0
 **Authors:** PastoSeco14, Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 10  
