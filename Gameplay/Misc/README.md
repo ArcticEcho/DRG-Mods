@@ -106,6 +106,8 @@ It basically gives Doretta 50%/75% damage resistance over all enemy attacks, so 
 --Only host needs the mod, will not break the Doretta health UI on clients  
 --I did not change the friendly fire damage or environmental damage as it seems balanced  
 --Gives Doretta 50% or 75% Enemy damage resistance, according to the variation you use  
+--I recommend using 50% on Starship Troopers  
+--I recommend using 75% on Starship Troopers Elite  
 --NOTE: Will probably crash if you use it with the "Upgraded Doretta" mod
 
 **Update v33.9.0 Changelog:**  
