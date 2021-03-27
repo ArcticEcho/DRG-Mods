@@ -35,7 +35,7 @@ Deep Dives will now spawn resources.  The resource veins only work for the host 
 
 ## Dreadnought Buffs - v2.2
 **Authors:** Potatolaser  
-**DRG Version:** Update 33 hotfix 7  
+**DRG Version:** U33, hotfix 10  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/db96531cf95d14aab3505bfba1121f674ca8a020/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V2.2.zip)  
 
 **Description:**  
