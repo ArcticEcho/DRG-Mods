@@ -105,16 +105,19 @@ Full song list: https://docs.google.com/uc?export=download&id=1-9RHJvp4q2qhAebDx
 **Description:**  
 Replaces the Ambient Song in the Space Rig with Space Noise and Star Trek sounds to make it quieter.
 
-## Starship Troopers OST Music Replacement - v0.8
+## Starship Troopers OST Music Replacement - v0.9
 **Authors:** Kraeus  
 **DRG Version:** Update 33. Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/070a1e1e280a157a22e41d0891f8b55a04379587/Audio/Music/Starship%20Troopers%20OST%20Music%20Replacement%20-%20V0.8%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6a58073e5c3a5e111d4114fa1ad78a8d04d1230f/Audio/Music/Starship%20Troopers%20OST%20Music%20Replacement%20-%20V0.9%20_P.pak)  
 
 **Description:**  
 Replaces all music in the game with music from the Starship Troopers movie OST.  
 End wave will be Klendathu Drop 50%. (63% OST, 33% Live for flavor.)  
 I'll probably still do some volume passes before 1.0.  
 No Jukebox songs.
+
+**Update v0.9 Changelog:**  
+0.9 - Volume pass done. Increased volume on some songs. "Make waves more obvious" pass next.
 
 ## WTFightMusic - v2.1
 **Authors:** CouchDiabetic  
