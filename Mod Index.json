@@ -2453,26 +2453,6 @@
     "DownloadUrl": "https://mega.nz/file/frZXAAJJ#Qd9o6YG2Abv9kvAn6BY9pIU6qK-T7XhLiDx54DV6dfc",
     "Paks": null
   },
-  "doretta50enemydamageresistance": {
-    "DisplayName": "Doretta 50% Enemy Damage Resistance",
-    "Version": "33.9.0",
-    "DrgVersion": "Update 33, Hotfix 9",
-    "AuthorIds": [
-      306800962432008193
-    ],
-    "Description": "Management finally invested and replaced Doretta's wet paper armor with cartboard!\nSpecifically made for high hazard mods, like Starship Troopers, Starship Troopers Elite, Bug Planet, Bug Planet Constant Conflict and 1.5x/2x enemies (But incompatible with Haz6/7), where Doretta missions can be nearly impossible, especially with the huge amount of flying rocks and enemies keeping you busy from defending her.\nIt basically gives Doretta 50% damage resistance over all enemy attacks, so her health won't go down as fast if you went mining nitra and can't make it back in time haha.\nI don't think I will include this mod in Starship Troopers as most people will probably want the real deal.\n-------------------------------------------------------\n--Only host needs the mod, will not break the doretta health UI on clients\n--I did not change the friendly fire damage or environmental damage as it seems balanced",
-    "LastUpdateChangelog": "Updated for Update 33, Hotfix 9",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/efc4face425153a0b4db0eb005febe8b43c2c1bc/Gameplay/Misc/Doretta%2050%25%20Enemy%20Damage%20Resistance%20-%20V33.9.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Doretta 50% Enemy Damage Resistance - V33.9.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uasset": "97-0A-91-ED-1A-06-66-A3",
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "4D-D2-7D-21-09-E7-3A-F7"
-        }
-      }
-    ]
-  },
   "dorettadontcare": {
     "DisplayName": "DorettaDontCare",
     "Version": "1.03",
@@ -5414,6 +5394,26 @@
           "../../../FSD/Content/LevelElements/RoomObjects/LoosePhysicalObjects/PhysicalTumbleWeed/BP_PhysicsTumbleweed.uasset": "9D-B0-A7-15-1E-72-83-45",
           "../../../FSD/Content/LevelElements/RoomObjects/LoosePhysicalObjects/BP_Phys_KickableObject_Base.uexp": "57-7D-CB-21-B6-82-A1-D8",
           "../../../FSD/Content/LevelElements/RoomObjects/LoosePhysicalObjects/PhysicalTumbleWeed/BP_PhysicsTumbleweed.uexp": "ED-FF-05-29-DF-AF-63-DC"
+        }
+      }
+    ]
+  },
+  "improveddorettaarmor": {
+    "DisplayName": "Improved Doretta Armor",
+    "Version": "33.9.0",
+    "DrgVersion": "Update 33, Hotfix 9",
+    "AuthorIds": [
+      306800962432008193
+    ],
+    "Description": "Management finally invested and replaced Doretta's wet paper armor\nThis is not for cheating, it's a sub mod specifically made for high hazard mods, like Starship Troopers, Bug Planet and 1.5x/2x enemies (But incompatible with Haz6/7), where Doretta missions can be nearly impossible with the huge amount of flying rocks and enemies keeping you busy from defending her.\nIt basically gives Doretta 50%/75% damage resistance over all enemy attacks, so her health won't go down as fast if you took a babysitting break to mine nitra and can't make it back in time.\n-------------------------------------------------------\n--Only host needs the mod, will not break the Doretta health UI on clients\n--I did not change the friendly fire damage or environmental damage as it seems balanced\n--Gives Doretta 50% or 75% Enemy damage resistance, according to the variation you use\n--NOTE: Will probably crash if you use it with the \"Upgraded Doretta\" mod",
+    "LastUpdateChangelog": "Updated for Update 33, Hotfix 9, updated description and name",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/61cdd545b7387b43df9e18b5088252b39f496a0e/Gameplay/Misc/Improved%20Doretta%20Armor%20-%20V33.9.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Doretta 50% Enemy Damage Resistance - V33.9.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uasset": "97-0A-91-ED-1A-06-66-A3",
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "4D-D2-7D-21-09-E7-3A-F7"
         }
       }
     ]

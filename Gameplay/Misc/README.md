@@ -57,23 +57,6 @@ Makes 8 of the special beers effects last longer
 **Description:**  
 Drinking a Blackreach Blonde will make you dance for 5 hours, or until you drink a Leaf Lover or DIE
 
-## Doretta 50% Enemy Damage Resistance - v33.9.0
-**Authors:** NaturalBornCamper  
-**DRG Version:** Update 33, Hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/efc4face425153a0b4db0eb005febe8b43c2c1bc/Gameplay/Misc/Doretta%2050%25%20Enemy%20Damage%20Resistance%20-%20V33.9.0%20_P.pak)  
-
-**Description:**  
-Management finally invested and replaced Doretta's wet paper armor with cartboard!  
-Specifically made for high hazard mods, like Starship Troopers, Starship Troopers Elite, Bug Planet, Bug Planet Constant Conflict and 1.5x/2x enemies (But incompatible with Haz6/7), where Doretta missions can be nearly impossible, especially with the huge amount of flying rocks and enemies keeping you busy from defending her.  
-It basically gives Doretta 50% damage resistance over all enemy attacks, so her health won't go down as fast if you went mining nitra and can't make it back in time haha.  
-I don't think I will include this mod in Starship Troopers as most people will probably want the real deal.  
-\-------------------------------------------------------  
---Only host needs the mod, will not break the doretta health UI on clients  
---I did not change the friendly fire damage or environmental damage as it seems balanced
-
-**Update v33.9.0 Changelog:**  
-Updated for Update 33, Hotfix 9
-
 ## Escort mission flying rocks reduced health - v33.2.0
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 2  
@@ -109,6 +92,24 @@ No more needing to re-consider repairing BET-C or not on shield disruption missi
 \----------------------------------------------------------------  
 --Friendly BET-C bombs do 0 damage on dwarves  
 \----------------------------------------------------------------
+
+## Improved Doretta Armor - v33.9.0
+**Authors:** NaturalBornCamper  
+**DRG Version:** Update 33, Hotfix 9  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/61cdd545b7387b43df9e18b5088252b39f496a0e/Gameplay/Misc/Improved%20Doretta%20Armor%20-%20V33.9.0%20_P.pak)  
+
+**Description:**  
+Management finally invested and replaced Doretta's wet paper armor  
+This is not for cheating, it's a sub mod specifically made for high hazard mods, like Starship Troopers, Bug Planet and 1.5x/2x enemies (But incompatible with Haz6/7), where Doretta missions can be nearly impossible with the huge amount of flying rocks and enemies keeping you busy from defending her.  
+It basically gives Doretta 50%/75% damage resistance over all enemy attacks, so her health won't go down as fast if you took a babysitting break to mine nitra and can't make it back in time.  
+\-------------------------------------------------------  
+--Only host needs the mod, will not break the Doretta health UI on clients  
+--I did not change the friendly fire damage or environmental damage as it seems balanced  
+--Gives Doretta 50% or 75% Enemy damage resistance, according to the variation you use  
+--NOTE: Will probably crash if you use it with the "Upgraded Doretta" mod
+
+**Update v33.9.0 Changelog:**  
+Updated for Update 33, Hotfix 9, updated description and name
 
 ## Leaf Lover Begone - v1
 **Authors:** Shrub_Daddy  
