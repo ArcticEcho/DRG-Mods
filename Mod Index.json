@@ -2583,14 +2583,14 @@
   },
   "dreadnoughtbuffs": {
     "DisplayName": "Dreadnought Buffs",
-    "Version": "2.2",
+    "Version": "2.21",
     "DrgVersion": "U33, hotfix 10",
     "AuthorIds": [
       252291709927555072
     ],
     "Description": "Buffs the dreadnoughts! There's a lot of general changes like a bit more health, damage, and speed; but the Big Ones are:\nOG DREAD- Faster fireballs, larger aoe slam radius, eggshots can zap you and spawn more swarmers.\nHIVEGUARD- Slower sentinal goo, faster turn radius. Two versions with lots of fireball carve *OR* movespeed\nTWINS- Mines explode sooner and the arbalest's attacks can freeze you, rockwave attack has more knockback.\n(full list of changes in the zip file)",
-    "LastUpdateChangelog": "Eggshot now has damage falloff, the nonspeedy version of the hiveguard has a bigger carve radius, and the multifireballs of the twin will damage *and* make you slightly colder. Mods renamed for clarity.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/db96531cf95d14aab3505bfba1121f674ca8a020/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V2.2.zip",
+    "LastUpdateChangelog": "Updated readme to include the old names of the mods",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7057a69cfd0e3113bde8b9a4ca05e447936b2764/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V2.21.zip",
     "Paks": [
       {
         "PakFileName": "PrepareForTroubleV1.5legacy",

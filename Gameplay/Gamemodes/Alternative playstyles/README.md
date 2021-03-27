@@ -33,10 +33,10 @@ Deep Dives will now spawn an abundant amount of resources.  The resource veins o
 **Description:**  
 Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.
 
-## Dreadnought Buffs - v2.2
+## Dreadnought Buffs - v2.21
 **Authors:** Potatolaser  
 **DRG Version:** U33, hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/db96531cf95d14aab3505bfba1121f674ca8a020/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V2.2.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7057a69cfd0e3113bde8b9a4ca05e447936b2764/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V2.21.zip)  
 
 **Description:**  
 Buffs the dreadnoughts! There's a lot of general changes like a bit more health, damage, and speed; but the Big Ones are:  
@@ -45,8 +45,8 @@ HIVEGUARD- Slower sentinal goo, faster turn radius. Two versions with lots of fi
 TWINS- Mines explode sooner and the arbalest's attacks can freeze you, rockwave attack has more knockback.  
 (full list of changes in the zip file)
 
-**Update v2.2 Changelog:**  
-Eggshot now has damage falloff, the nonspeedy version of the hiveguard has a bigger carve radius, and the multifireballs of the twin will damage *and* make you slightly colder. Mods renamed for clarity.
+**Update v2.21 Changelog:**  
+Updated readme to include the old names of the mods
 
 ## ElimWaves - v1.7
 **Authors:** Potatolaser  
