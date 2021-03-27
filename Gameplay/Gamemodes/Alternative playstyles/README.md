@@ -33,17 +33,20 @@ Deep Dives will now spawn an abundant amount of resources.  The resource veins o
 **Description:**  
 Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.
 
-## Dreadnought Buffs - v2.1
+## Dreadnought Buffs - v2.2
 **Authors:** Potatolaser  
 **DRG Version:** Update 33 hotfix 7  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1fe23ac54020140a7af4a47ee4514b6559475eba/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V2.1.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/db96531cf95d14aab3505bfba1121f674ca8a020/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V2.2.zip)  
 
 **Description:**  
-Buffs the dreadnoughts! There's a lot of changes, but the Big Ones are:  
-OG DREAD- Faster fireballs, larger aoe slam radius, *eggshots can zap you* and spawn more swarmers.  
-HIVEGUARD- Slower sentinal goo, More fireball terrain carve, optional variant w/ a lot more speed.  
-TWINS- Mines explode sooner and *optional variant can freeze you instead*, rockwave attack has more knockback.  
-(full changes in the zip file)
+Buffs the dreadnoughts! There's a lot of general changes like a bit more health, damage, and speed; but the Big Ones are:  
+OG DREAD- Faster fireballs, larger aoe slam radius, eggshots can zap you and spawn more swarmers.  
+HIVEGUARD- Slower sentinal goo, faster turn radius. Two versions with lots of fireball carve *OR* movespeed  
+TWINS- Mines explode sooner and the arbalest's attacks can freeze you, rockwave attack has more knockback.  
+(full list of changes in the zip file)
+
+**Update v2.2 Changelog:**  
+Eggshot now has damage falloff, the nonspeedy version of the hiveguard has a bigger carve radius, and the multifireballs of the twin will damage *and* make you slightly colder. Mods renamed for clarity.
 
 ## ElimWaves - v1.7
 **Authors:** Potatolaser  
