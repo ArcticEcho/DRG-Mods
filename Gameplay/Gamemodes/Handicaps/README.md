@@ -31,6 +31,14 @@ Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are
 --Increases hazard bonus  
 --May not behave quite right on all mission types (Refinery has been... odd so far)
 
+## Hardended Weakness - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/bc5a179dd9a9d06be91de699bb048a394bb6dc27/Gameplay/Gamemodes/Handicaps/Hardended%20Weakness%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Turns the mutator anomaly 'Critical Weakness' into the opposite. Instead of increasing the damage to weakpoints by 5x from the usual 2x or 3x it turns the spots into hardened shells which only take 0.5x damage. This makes it possible to have two negative mutators at once as it still counts as anomaly not a warning. It also doesn't increase the payout it just the challenge. Refer to the DRG wiki how this mutator usual works and which parts are affected on which creature: https://deeprockgalactic.fandom.com/wiki/Mutators#Critical_Weakness & https://deeprockgalactic.fandom.com/wiki/Creatures . This works only as host but for everyone who joins (no mod manager / not blueprinted).
+
 ## No Reviving - v2
 **Authors:** Shrub_Daddy  
 **DRG Version:** 33  

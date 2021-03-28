@@ -3929,6 +3929,29 @@
       }
     ]
   },
+  "hardendedweakness": {
+    "DisplayName": "Hardended Weakness",
+    "Version": "1.0",
+    "DrgVersion": "U33 H10",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Turns the mutator anomaly 'Critical Weakness' into the opposite. Instead of increasing the damage to weakpoints by 5x from the usual 2x or 3x it turns the spots into hardened shells which only take 0.5x damage. This makes it possible to have two negative mutators at once as it still counts as anomaly not a warning. It also doesn't increase the payout it just the challenge. Refer to the DRG wiki how this mutator usual works and which parts are affected on which creature: https://deeprockgalactic.fandom.com/wiki/Mutators#Critical_Weakness & https://deeprockgalactic.fandom.com/wiki/Creatures . This works only as host but for everyone who joins (no mod manager / not blueprinted).",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/bc5a179dd9a9d06be91de699bb048a394bb6dc27/Gameplay/Gamemodes/Handicaps/Hardended%20Weakness%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Hardended Weakness - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/Icons/Icons_MissionMap/Mismap_Mutators/MisMap_Mutator_Icons_Critical_Weakness.uasset": "28-D2-7D-89-19-CB-2B-A0",
+          "../../../FSD/Content/GameElements/Missions/Mutators/Weakspot/MMUT_Weakspot.uexp": "19-E6-1B-7E-DF-8A-26-BF",
+          "../../../FSD/Content/GameElements/Missions/Mutators/Weakspot/MUT_Weakspot.uexp": "2F-84-18-3F-DC-F9-0C-DD",
+          "../../../FSD/Content/UI/Art/Icons/Icons_MissionMap/Mismap_Mutators/MisMap_Mutator_Icons_Critical_Weakness.uexp": "2A-5D-B6-14-37-50-D6-C4",
+          "../../../FSD/Content/UI/Art/Icons/Icons_MissionMap/Mismap_Mutators/MisMap_Mutator_Icons_Critical_Weakness.ubulk": "F2-E1-D8-4C-2F-39-70-D9"
+        }
+      }
+    ]
+  },
   "hazard0creative": {
     "DisplayName": "Hazard 0: Creative",
     "Version": "1.0",
