@@ -28,6 +28,14 @@ Removes all choking sound lines on low ox mutator missions.The flashing screen a
 **Description:**  
 Mutes Doretta whine SFX on taking damage.
 
+## No Thorn Damage Voice Lines - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5818bd7614423bc091b09810944fe3d60afebcae/Quality%20of%20Life/Sound%20muting/No%20Thorn%20Damage%20Voice%20Lines%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Removes all 31 voice lines for touching a thorn on hollow bough. Any sounds that may still come up are generic damage sounds not replacements.
+
 ## No Tinnitus - v1
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33  
