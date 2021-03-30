@@ -7312,6 +7312,30 @@
       }
     ]
   },
+  "showevents": {
+    "DisplayName": "Show Events",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 9",
+    "AuthorIds": [
+      459630634210557953
+    ],
+    "Description": "Can display the number of Machine Events, Cargo Crates, and Lost Packs on the map",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/dd73de36a142eb42a00d089ceb5bf05a54f53f7e/Quality%20of%20Life/HUD/Show%20Events%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Show Events - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod046.uasset": "0A-72-8C-A3-79-B5-FF-BA",
+          "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "6F-E7-21-3F-B6-41-8B-23",
+          "../../../FSD/Content/_ModBPs/MyMods/showEvent/046HUD.uasset": "39-40-B4-90-3B-2E-77-4B",
+          "../../../FSD/Content/_ModBPs/Mod046.uexp": "15-83-40-EA-7B-5B-89-88",
+          "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1E-90-65-97-04-D7-A0-4C",
+          "../../../FSD/Content/_ModBPs/MyMods/showEvent/046HUD.uexp": "52-49-54-FC-36-46-95-A9"
+        }
+      }
+    ]
+  },
   "shreklure": {
     "DisplayName": "Shrek LURE",
     "Version": "1.0",
