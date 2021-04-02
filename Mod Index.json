@@ -718,6 +718,103 @@
       }
     ]
   },
+  "alternativelegendaryborders": {
+    "DisplayName": "Alternative Legendary Borders",
+    "Version": "1.0",
+    "DrgVersion": "Update 33, Hotfix 11",
+    "AuthorIds": [
+      507722296065130506
+    ],
+    "Description": "A recolor-replacement for the current three legendary promotions. Includes multiple variants. Refer to: https://discord.com/channels/676880716142739467/732650220214681600/827595797180579851",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fdf8110ecea9041334f5170881d3bedf793d1bf9/Visual/Textures%20%26%20Icons/Alternative%20Legendary%20Borders%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "BlueLegend_1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uasset": "44-C8-E6-DF-9C-FD-B9-4D",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uasset": "76-C0-5E-8B-DA-33-70-98",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uasset": "03-35-DF-56-C8-F0-AA-37",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uexp": "52-5A-84-6F-39-B0-9E-F5",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uexp": "A8-E8-D7-01-F7-B8-DC-76",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uexp": "CD-00-FF-3A-06-06-BC-B8",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.ubulk": "FE-EA-4D-05-E6-B6-69-C0",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.ubulk": "9B-82-0B-48-43-B6-1A-DD",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.ubulk": "7A-36-01-93-80-69-CB-9B"
+        }
+      },
+      {
+        "PakFileName": "PinkLegend_1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uasset": "CE-B8-46-3D-1C-99-E2-F5",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uasset": "99-D4-F6-17-05-F8-0B-9D",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uasset": "9C-52-02-F4-B3-FF-7B-56",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uexp": "80-BA-F6-A8-B4-05-16-36",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uexp": "11-2B-5B-72-E4-4A-74-31",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uexp": "0C-26-D0-69-EE-C8-F2-F0",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.ubulk": "5E-3F-28-57-EC-23-88-7A",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.ubulk": "77-21-97-E0-EE-D5-39-C2",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.ubulk": "84-ED-61-38-14-FE-5C-24"
+        }
+      },
+      {
+        "PakFileName": "PlatinWhiteLegend_1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uasset": "EA-E4-5C-19-97-85-3B-F6",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uasset": "B9-13-04-5C-CC-DE-14-69",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uasset": "41-28-F7-75-29-0C-CA-15",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uexp": "66-54-F4-85-DE-2C-CB-37",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uexp": "B5-33-79-05-E3-1F-77-22",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uexp": "3F-DE-6A-21-4E-CF-FB-83",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.ubulk": "0E-FF-8B-90-7F-89-8B-40",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.ubulk": "EA-3B-5C-8C-DA-D9-74-16",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.ubulk": "F4-F4-AF-97-FB-4A-09-0A"
+        }
+      },
+      {
+        "PakFileName": "PurpleLegend_1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uasset": "EA-F2-D2-45-62-49-86-AB",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uasset": "AB-CE-95-26-12-FD-DD-5C",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uasset": "07-33-3F-E7-14-A7-6A-B9",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uexp": "A0-3F-88-FC-E8-64-B9-65",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uexp": "68-C7-0F-70-71-EA-85-EA",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uexp": "BE-B8-FA-C8-DE-1F-66-AE",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.ubulk": "C7-3E-05-6C-E6-F4-29-4D",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.ubulk": "5B-73-56-DF-4A-6C-FB-09",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.ubulk": "4F-89-24-E5-EF-91-AA-41"
+        }
+      },
+      {
+        "PakFileName": "RedLegend_1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uasset": "CD-BA-46-26-B2-5B-2F-75",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uasset": "AA-04-67-9D-C1-B1-AA-AF",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uasset": "1B-9A-BB-4B-A2-1A-83-8E",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uexp": "C6-58-DD-36-29-20-B3-01",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uexp": "14-5C-0F-6F-79-DC-54-79",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uexp": "6B-40-45-63-92-C6-11-74",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.ubulk": "E4-5E-57-86-10-1F-28-DC",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.ubulk": "87-05-2E-79-F6-E1-F3-C8",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.ubulk": "D2-5E-55-67-AB-9D-33-7B"
+        }
+      },
+      {
+        "PakFileName": "SteelLegend_1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uasset": "04-EE-70-E1-36-FD-96-FF",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uasset": "8D-39-79-A7-B5-57-0A-22",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uasset": "51-35-8A-E7-5C-B3-8D-F7",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.uexp": "71-36-E2-80-27-6F-B9-85",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.uexp": "48-00-05-BD-C2-73-98-E1",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.uexp": "43-3A-64-BF-FF-F1-2B-C2",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl01.ubulk": "4B-D0-7A-2F-7A-8B-A6-F5",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl02.ubulk": "63-D3-DA-41-9F-25-01-21",
+          "../../../FSD/Content/UI/Art/Icons/IconsPromotion/T_PromTier06Diamond_Lvl03.ubulk": "B8-45-70-D4-6B-C2-D4-26"
+        }
+      }
+    ]
+  },
   "animedoretta": {
     "DisplayName": "Anime Doretta",
     "Version": "1.1",
