@@ -149,10 +149,10 @@ Fixed an issue that could cause your PGL to shoot axes.
 - Decreases base build time to 1 second.  
 - Decreases the fast build sentry mod bonus to -0.5 (total sentry build time 0.5 seconds)
 
-## Fat Man OC - v3
+## Fat Man OC (Fatboy Overclock) - v3
 **Authors:** Sephiasus  
 **DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/439f1b314f02f61caee6cc2dcbf1341fb598516e/Gameplay/Unbalanced/Weapons/Fat%20Man%20OC%20-%20V3%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c65dfa469fee67f56b55ce82655e5f865ce67229/Gameplay/Unbalanced/Weapons/Fat%20Man%20OC%20%28Fatboy%20Overclock%29%20-%20V3%20_P.pak)  
 
 **Description:**  
 A mod that changes the Fat Boy OC to a "real-er" nuke  
