@@ -61,6 +61,14 @@ Mission Ending Music - Mick Gordon - At Dooms Gate
 **Update v1.4.1 Changelog:**  
 Added list of music
 
+## Drip Fortress End Screen - v1.0
+**Authors:** Pacagma  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f83ca60f70ef9bc293a3443cfcb6f10fabf6ca44/Audio/Music/Drip%20Fortress%20End%20Screen%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the end screen music with drip fortress 😎
+
 ## Kids Crate - v1
 **Authors:** Kraeus  
 **DRG Version:** Update 33  

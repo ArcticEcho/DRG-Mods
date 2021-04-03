@@ -2831,6 +2831,28 @@
       }
     ]
   },
+  "dripfortressendscreen": {
+    "DisplayName": "Drip Fortress End Screen",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      169492441982959616
+    ],
+    "Description": "Replaces the end screen music with drip fortress 😎",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f83ca60f70ef9bc293a3443cfcb6f10fabf6ca44/Audio/Music/Drip%20Fortress%20End%20Screen%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Drip Fortress End Screen - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/Music/Music_EndWave/AudioFiles/St_Action_Edited_B_3.uasset": "2B-F3-0B-C7-9A-DD-A2-F7",
+          "../../../FSD/Content/Audio/Music/Music_EndWave/AudioFiles/St_Action_Master_1.uasset": "EC-C6-BF-CE-82-EA-DE-0E",
+          "../../../FSD/Content/Audio/Music/Music_EndWave/AudioFiles/St_Action_Edited_B_3.uexp": "20-36-28-00-E4-90-91-92",
+          "../../../FSD/Content/Audio/Music/Music_EndWave/AudioFiles/St_Action_Master_1.uexp": "76-EA-BA-AB-E8-43-59-51"
+        }
+      }
+    ]
+  },
   "dwarfsizedcarveandfastermining": {
     "DisplayName": "Dwarf-Sized Carve and Faster Mining",
     "Version": "1.0",
