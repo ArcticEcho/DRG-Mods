@@ -67,7 +67,7 @@ Added list of music
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f83ca60f70ef9bc293a3443cfcb6f10fabf6ca44/Audio/Music/Drip%20Fortress%20End%20Screen%20-%20V1.0%20_P.pak)  
 
 **Description:**  
-Replaces the end screen music with drip fortress 😎
+Mihkel Macaroni for the original song
 
 ## Kids Crate - v1
 **Authors:** Kraeus  
