@@ -170,10 +170,10 @@ A mod that changes the Fat Boy OC to a "real-er" nuke
 --Radiation Particles now glow slightly brighter and have a bigger circle  
 --! Now with better Carve Radius in Ver3 !
 
-## FlareRifles - v3.4
+## FlareRifles - v3.5
 **Authors:** Potatolaser  
 **DRG Version:** U33, hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6fd2aa44d3e334cbe4c0c6afab34c2057adbffb5/Gameplay/Unbalanced/Weapons/FlareRifles%20-%20V3.4%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b8e446804d3f7e52e531c6e2b78a96dc2ef0343c/Gameplay/Unbalanced/Weapons/FlareRifles%20-%20V3.5.zip)  
 
 **Description:**  
 The Flare Rifles mod changes Scout's primaries into Flare Guns, and it also changes each Flare Gun to allow for more aggressive usage (like stun and/or damage modifications), while hopefully not overshadowing the M1000 or GK2. Each one is equal to about half of one of vanilla scout's primaries in terms of potential damage dealt, and the maximum flare uptime is less than the vanilla Flare Gun's uptime (unless you take max ammo, but then all your flares are very short). The Flare Rifle has normal reload time, equip speed, and RoF, but a very short base flare time of 3 seconds.   
@@ -193,8 +193,8 @@ Duration:  75 > 3
 *DURATION C*: 15 > 18  
 Note: Despite being in the Unbalanced category, I’ve taken measures to make sure that this mod isn’t really better than the normal weapons scout has. If you think this isn’t the case, please message me. Also, if a scout joins your lobby without the mod, their flares may not last very long.
 
-**Update v3.4 Changelog:**  
-Weapon now does physical instead of kinetic damage. Flares have a decent amount in common with axes, so... Practically speaking this means the weapon does bonus damage against a small group of enemies and can proc vampire.
+**Update v3.5 Changelog:**  
+Added an alternate version of the mod that swaps the weapon stun modification with a +heat modification (like the one on scout's shotgun). Also added the old version of the Flare Rifle (singular) mod.
 
 ## Fullmetal Scout - v1.0
 **Authors:** Chibba  

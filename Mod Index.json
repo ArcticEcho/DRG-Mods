@@ -3653,17 +3653,44 @@
   },
   "flarerifles": {
     "DisplayName": "FlareRifles",
-    "Version": "3.4",
+    "Version": "3.5",
     "DrgVersion": "U33, hotfix 10",
     "AuthorIds": [
       252291709927555072
     ],
     "Description": "The Flare Rifles mod changes Scout's primaries into Flare Guns, and it also changes each Flare Gun to allow for more aggressive usage (like stun and/or damage modifications), while hopefully not overshadowing the M1000 or GK2. Each one is equal to about half of one of vanilla scout's primaries in terms of potential damage dealt, and the maximum flare uptime is less than the vanilla Flare Gun's uptime (unless you take max ammo, but then all your flares are very short). The Flare Rifle has normal reload time, equip speed, and RoF, but a very short base flare time of 3 seconds. \n**Base Flare Rifle**\nMaxAmmo: 12 > 24\n**Projectile**\nDamage type: Physical\nLightIntensity: slightly decreased maybe\nDuration:  75 > 3\n**Modifications**\n*MAX AMMO A*: 3 > 14\n*CLIP SIZE B*: 1 > 4\n*ROF B*: 3 > 5\n*STUN*: +100% chance to stun on any hit\n*SPIKY GRENADE*: +60 damage (no explosives involved)\n*AMMO C*: 3 > 60\n*DURATION C*: 15 > 18\nNote: Despite being in the Unbalanced category, I’ve taken measures to make sure that this mod isn’t really better than the normal weapons scout has. If you think this isn’t the case, please message me. Also, if a scout joins your lobby without the mod, their flares may not last very long.",
-    "LastUpdateChangelog": "Weapon now does physical instead of kinetic damage. Flares have a decent amount in common with axes, so... Practically speaking this means the weapon does bonus damage against a small group of enemies and can proc vampire.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6fd2aa44d3e334cbe4c0c6afab34c2057adbffb5/Gameplay/Unbalanced/Weapons/FlareRifles%20-%20V3.4%20_P.pak",
+    "LastUpdateChangelog": "Added an alternate version of the mod that swaps the weapon stun modification with a +heat modification (like the one on scout's shotgun). Also added the old version of the Flare Rifle (singular) mod.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b8e446804d3f7e52e531c6e2b78a96dc2ef0343c/Gameplay/Unbalanced/Weapons/FlareRifles%20-%20V3.5.zip",
     "Paks": [
       {
-        "PakFileName": "FlareRifles - V3.4",
+        "PakFileName": "FlareRiflesHeatOptionV3.4",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/InventoryLists/BP_ScoutInventory.uasset": "65-EA-C9-01-E1-9D-CA-A5",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_StaggerOnWeakspot.uasset": "4C-FE-D0-7F-3E-D4-2A-79",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uasset": "B7-71-2C-80-81-09-97-79",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_Duration.uasset": "66-F2-6B-EB-08-AD-68-37",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_MaxAmmo.uasset": "1F-26-BF-A4-C1-D3-D0-91",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_ClipSize.uasset": "CA-27-7F-E2-52-0C-B9-30",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_RoF.uasset": "BC-79-FF-37-66-72-BF-50",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Autoreload.uasset": "CB-50-17-5B-FC-5B-B9-3C",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Duration_2.uasset": "CC-BB-22-93-A7-F4-B1-54",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_MaxAmmo_2.uasset": "04-E3-62-75-77-0C-78-03",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uasset": "40-75-99-0E-5C-60-50-4C",
+          "../../../FSD/Content/Character/InventoryLists/BP_ScoutInventory.uexp": "0E-D3-A4-3B-35-C8-9D-23",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_StaggerOnWeakspot.uexp": "6A-A4-97-A9-22-F7-8D-50",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uexp": "EC-25-10-9D-04-8C-6B-E8",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_Duration.uexp": "66-1F-88-85-52-59-A0-C9",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_MaxAmmo.uexp": "4D-90-E2-FC-BA-9B-9C-2A",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_ClipSize.uexp": "17-A8-62-7F-44-70-EE-28",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_RoF.uexp": "F1-3E-D0-D1-2B-0D-8A-07",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Autoreload.uexp": "70-0D-6A-68-80-DB-21-0C",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Duration_2.uexp": "2C-57-32-95-48-9C-4D-92",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_MaxAmmo_2.uexp": "F6-18-38-88-1D-83-2A-F5",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uexp": "C1-C2-BF-4E-AD-6B-00-24"
+        }
+      },
+      {
+        "PakFileName": "FlareRiflesStunOptionV3.4",
         "CookedFileHashes": {
           "../../../FSD/Content/Character/InventoryLists/BP_ScoutInventory.uasset": "65-EA-C9-01-E1-9D-CA-A5",
           "../../../FSD/Content/WeaponsNTools/AssaultRifle/UPG_AssaultRifle_StaggerOnWeakspot.uasset": "4C-FE-D0-7F-3E-D4-2A-79",
@@ -3687,6 +3714,29 @@
           "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Duration_2.uexp": "2C-57-32-95-48-9C-4D-92",
           "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_MaxAmmo_2.uexp": "F6-18-38-88-1D-83-2A-F5",
           "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uexp": "C1-C2-BF-4E-AD-6B-00-24"
+        }
+      },
+      {
+        "PakFileName": "FlareRifleSingular(Legacy)V2.1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uasset": "D6-9E-49-EF-99-68-84-C3",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_Duration.uasset": "66-F2-6B-EB-08-AD-68-37",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_MaxAmmo.uasset": "1F-26-BF-A4-C1-D3-D0-91",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_ClipSize.uasset": "CA-27-7F-E2-52-0C-B9-30",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_RoF.uasset": "BC-79-FF-37-66-72-BF-50",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Autoreload.uasset": "CB-50-17-5B-FC-5B-B9-3C",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Duration_2.uasset": "CC-BB-22-93-A7-F4-B1-54",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_MaxAmmo_2.uasset": "04-E3-62-75-77-0C-78-03",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uasset": "82-30-F8-36-17-EF-46-76",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uexp": "EC-25-10-9D-04-8C-6B-E8",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_Duration.uexp": "66-1F-88-85-52-59-A0-C9",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_MaxAmmo.uexp": "D1-D9-4B-28-FB-8D-DF-29",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_ClipSize.uexp": "52-C4-0A-E2-0E-67-51-16",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_B_RoF.uexp": "F3-C1-D9-09-FF-53-2D-3D",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Autoreload.uexp": "70-0D-6A-68-80-DB-21-0C",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Duration_2.uexp": "BF-01-A0-4A-B7-76-BB-4A",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_MaxAmmo_2.uexp": "F6-18-38-88-1D-83-2A-F5",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uexp": "B9-9C-43-E0-3C-DA-5B-13"
         }
       }
     ]
