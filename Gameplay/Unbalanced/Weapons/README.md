@@ -478,6 +478,14 @@ Handle with caution, you can accidentally kill teammates while using this, so yo
 -Removes reload speed increase penalty. (This also affects Six Shooter.)  
 -Client side mod.
 
+## Warthog Breacher - v1.0
+**Authors:** Sesselpots  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f385c908352d203ce4986314296e9bc7e03088ca/Gameplay/Unbalanced/Weapons/Warthog%20Breacher%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Swapped Tier 1 Overstuffed Magazine Mod on the "Warthog" Auto 210 for the Bulldogs Super Blowthrough Rounds, giving the warthog +3 Max Penetration
+
 ## ZiplineGun Speed, Ammo and Angle Buffed - v1.0
 **Authors:** Tristus  
 **DRG Version:** Update 33, Hotfix 2  
