@@ -170,31 +170,33 @@ A mod that changes the Fat Boy OC to a "real-er" nuke
 --Radiation Particles now glow slightly brighter and have a bigger circle  
 --! Now with better Carve Radius in Ver3 !
 
-## FlareRifles - v3.5
+## FlareRifles - v3.51
 **Authors:** Potatolaser  
 **DRG Version:** U33, hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b8e446804d3f7e52e531c6e2b78a96dc2ef0343c/Gameplay/Unbalanced/Weapons/FlareRifles%20-%20V3.5.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/469fa7a185131d663590e5f4e31eba0946f8388b/Gameplay/Unbalanced/Weapons/FlareRifles%20-%20V3.51.zip)  
 
 **Description:**  
 The Flare Rifles mod changes Scout's primaries into Flare Guns, and it also changes each Flare Gun to allow for more aggressive usage (like stun and/or damage modifications), while hopefully not overshadowing the M1000 or GK2. Each one is equal to about half of one of vanilla scout's primaries in terms of potential damage dealt, and the maximum flare uptime is less than the vanilla Flare Gun's uptime (unless you take max ammo, but then all your flares are very short). The Flare Rifle has normal reload time, equip speed, and RoF, but a very short base flare time of 3 seconds.   
 **Base Flare Rifle**  
-MaxAmmo: 12 > 24  
+MaxAmmo: 12 > 22  
 **Projectile**  
 Damage type: Physical  
 LightIntensity: slightly decreased maybe  
+Damage 40 > 54  
 Duration:  75 > 3  
 **Modifications**  
-*MAX AMMO A*: 3 > 14  
+*MAX AMMO A*: 3 > 12  
 *CLIP SIZE B*: 1 > 4  
 *ROF B*: 3 > 5  
-*STUN*: +100% chance to stun on any hit  
+*STUN*: +100% chance to stun on any hit, or...  
+*+HEAT*: add 50% of the damage as heat  
 *SPIKY GRENADE*: +60 damage (no explosives involved)  
-*AMMO C*: 3 > 60  
+*AMMO C*: 3 > 45  
 *DURATION C*: 15 > 18  
-Note: Despite being in the Unbalanced category, I’ve taken measures to make sure that this mod isn’t really better than the normal weapons scout has. If you think this isn’t the case, please message me. Also, if a scout joins your lobby without the mod, their flares may not last very long.
+Note:  Please set the “prevent latejoin character duplication” option to TRUE, as if a scout joins without the mod he will have two vanilla flare guns (with a worse flare duration)
 
-**Update v3.5 Changelog:**  
-Added an alternate version of the mod that swaps the weapon stun modification with a +heat modification (like the one on scout's shotgun). Also added the old version of the Flare Rifle (singular) mod.
+**Update v3.51 Changelog:**  
+Adjusted some values so that now the flare rifle can one shot grunts to the head. Updated Readme Slightly
 
 ## Fullmetal Scout - v1.0
 **Authors:** Chibba  
