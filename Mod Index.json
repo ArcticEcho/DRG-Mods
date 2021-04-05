@@ -1017,6 +1017,25 @@
       }
     ]
   },
+  "barleyforsale": {
+    "DisplayName": "Barley for Sale",
+    "Version": "1.0",
+    "DrgVersion": "U33 H10",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Tired of having all the wealth but no option to buy happiness? Let me hear your saying \"I ain't farming gold anymore\" one more time.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c0956849cab90e9d66adf223322cb959883c6721/Quality%20of%20Life/Improved%20mechanics/Barley%20For%20Sale%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Barley For Sale - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Barley/RES_COLLECT_Barley1.uexp": "D1-69-B0-73-95-D0-6B-B8"
+        }
+      }
+    ]
+  },
   "barrelyeet10x": {
     "DisplayName": "Barrel Yeet 10x",
     "Version": "1",

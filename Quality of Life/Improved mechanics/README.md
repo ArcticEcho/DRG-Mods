@@ -12,6 +12,14 @@ Changes to stuff that might be underwhelming or annoying in the base game.
 **Description:**  
 Lets you place up to 10 different waypoints to track routes and points of interest.  The 11th waypoint will replace the 1st one and so on.
 
+## Barley for Sale - v1.0
+**Authors:** mino  
+**DRG Version:** U33 H10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c0956849cab90e9d66adf223322cb959883c6721/Quality%20of%20Life/Improved%20mechanics/Barley%20For%20Sale%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Tired of having all the wealth but no option to buy happiness? Let me hear your saying "I ain't farming gold anymore" one more time.
+
 ## BetterMiningLaser - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
