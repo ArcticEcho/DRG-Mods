@@ -10,6 +10,7 @@ Random/fun mods that don't belong in the other categories.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/72785dcf88cb7f69af53ae746801a7cf9f858e07/Gameplay/Misc/Absurdly%20Long%20Missions%20-%20V1.1%20_P.pak)  
 
 **Description:**  
+***This is a mod that affects map generation. Please ensure all players have the mod, otherwise map desync will occur.***  
 Alters map generation to allow mission lengths to reach up to about six times their usual maximum.  
 (This has not been tested on all mission types yet, things may be very broken.)
 

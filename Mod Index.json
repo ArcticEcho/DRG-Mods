@@ -382,7 +382,7 @@
     "AuthorIds": [
       273536272134307850
     ],
-    "Description": "Alters map generation to allow mission lengths to reach up to about six times their usual maximum.\n(This has not been tested on all mission types yet, things may be very broken.)",
+    "Description": "***This is a mod that affects map generation. Please ensure all players have the mod, otherwise map desync will occur.***\nAlters map generation to allow mission lengths to reach up to about six times their usual maximum.\n(This has not been tested on all mission types yet, things may be very broken.)",
     "LastUpdateChangelog": "- Refinery missions have been updated to be more complex.",
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/72785dcf88cb7f69af53ae746801a7cf9f858e07/Gameplay/Misc/Absurdly%20Long%20Missions%20-%20V1.1%20_P.pak",
     "Paks": [
