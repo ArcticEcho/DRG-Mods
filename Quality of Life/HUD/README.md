@@ -63,4 +63,4 @@ Remembered to actually include the changes from 0.7.1 this time (thanks @Elythnw
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/dd73de36a142eb42a00d089ceb5bf05a54f53f7e/Quality%20of%20Life/HUD/Show%20Events%20-%20V1.0%20_P.pak)  
 
 **Description:**  
-Can display the number of Machine Events, Cargo Crates, and Lost Packs on the map
+need BP Mod Manager!Can display the number of Machine Events, Cargo Crates, and Lost Packs on the screen.
