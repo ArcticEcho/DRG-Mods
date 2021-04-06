@@ -4,6 +4,14 @@ QoL changes to HUD elements.
 
 <!-- mod list -->
 
+## Custom timer - v1.1
+**Authors:** flynoob  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/663cdf0390d55dd13d13ba3cfbcc03aa16d167f7/Quality%20of%20Life/HUD/Custom%20Timer%20-%20V1.1%20_P.pak)  
+
+**Description:**  
+Allows you to have a custom timer, default is 5 seconds, press 1,2,3,4,5, scroll up and scroll down to trigger the timer.There will be a hint when the time is up
+
 ## Mission Control Text Remover - v1.2
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33, Hotfix 2  

@@ -2219,6 +2219,42 @@
       }
     ]
   },
+  "customtimer": {
+    "DisplayName": "Custom timer",
+    "Version": "1.1",
+    "DrgVersion": "Update 33, Hotfix 10",
+    "AuthorIds": [
+      459630634210557953
+    ],
+    "Description": "Allows you to have a custom timer, default is 5 seconds, press 1,2,3,4,5, scroll up and scroll down to trigger the timer.There will be a hint when the time is up",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/663cdf0390d55dd13d13ba3cfbcc03aa16d167f7/Quality%20of%20Life/HUD/Custom%20Timer%20-%20V1.1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Custom Timer - V1.1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod048.uasset": "5E-D4-13-79-CF-E1-06-C5",
+          "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "6F-E7-21-3F-B6-41-8B-23",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/048_SaveData.uasset": "61-AF-62-08-B9-E9-ED-32",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/048HUD.uasset": "C9-71-55-12-4F-DC-E0-AF",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/048SETHUD.uasset": "E2-3F-AF-20-36-A8-25-2E",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/AUTanya_VoiAtkd.uasset": "84-31-98-FA-F5-17-C2-EE",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/AUTanya_VoiCrec.uasset": "C4-60-B6-0E-9A-C2-EA-F3",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/AUTanya_VoiSelf.uasset": "9A-CB-B2-9C-61-5B-7F-B7",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/readyCue.uasset": "0A-25-6B-47-E5-27-1B-14",
+          "../../../FSD/Content/_ModBPs/Mod048.uexp": "B6-41-4C-64-31-4E-DE-4D",
+          "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1E-90-65-97-04-D7-A0-4C",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/048_SaveData.uexp": "29-EB-98-C7-03-E0-EC-D0",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/048HUD.uexp": "CB-19-3C-C8-F2-EF-F4-92",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/048SETHUD.uexp": "AE-AA-05-22-16-48-2C-00",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/AUTanya_VoiAtkd.uexp": "EE-AB-59-9B-13-E4-49-16",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/AUTanya_VoiCrec.uexp": "AB-38-0E-CE-0D-A1-B2-95",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/AUTanya_VoiSelf.uexp": "70-97-63-95-01-6B-A5-7A",
+          "../../../FSD/Content/_ModBPs/MyMods/mod48/readyCue.uexp": "D1-1F-8F-66-42-72-22-DF"
+        }
+      }
+    ]
+  },
   "customwaves": {
     "DisplayName": "Custom Waves",
     "Version": "1.4",
