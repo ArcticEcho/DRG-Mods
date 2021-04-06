@@ -10,7 +10,7 @@ QoL changes to HUD elements.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4b713ba2c3d1f5fa9d3081c661e65bb3ef32957c/Quality%20of%20Life/HUD/Custom%20Timer%20-%20V1.2%20_P.pak)  
 
 **Description:**  
-I'm equipped with Born Ready, but often forget if it's reloaded.So I made a progress bar to let me know that the reload is complete.This mod allows you to have a custom timer, default is 5 seconds, press 1,2,3,4,5,Q, scroll up and scroll down to trigger the timer.There will be a hint when the time is up.
+need BP Mod Manager!I'm equipped with Born Ready, but often forget if it's reloaded.So I made a progress bar to let me know that the reload is complete.This mod allows you to have a custom timer, default is 5 seconds, press 1,2,3,4,5,Q, scroll up and scroll down to trigger the timer.There will be a hint when the time is up.
 
 **Update v1.2 Changelog:**  
 Now you can choose to turn the beep on or off
