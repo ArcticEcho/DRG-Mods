@@ -2508,17 +2508,17 @@
   },
   "disposablesentry": {
     "DisplayName": "Disposable Sentry",
-    "Version": "1.1",
+    "Version": "1.2",
     "DrgVersion": "Update 33, Hotfix 10",
     "AuthorIds": [
       101294815932579840
     ],
-    "Description": "Reworks engineer's sentry gun into a 'disposable' one (upgrades also rebalanced)\nSomewhat inspired by the sentries from the old builds\n\n**Disposable Sentry rundown**\n+ Quick to set up and recall\n+ High rate of fire\n- Low base damage\n- Low sentry ammo capacity\n- Cannot refill ammo\nNotable upgrade changes\n* Gemini grants you three sentries\n* Re-enable sentry ammo refill in tier 2 upgrades\n* Quick Deploy will allow you to almost instantly build a sentry",
-    "LastUpdateChangelog": "__**disposable sentry balancing attempt #1**__\n\n**base stats**\nrecalling sentries is generally a bit faster now\ndetection range reduced 20 > 15\ndamage increased 3 > 4\n**tier 1**\nmk2 upgrade detection range increased 5 > 7.5\n**tier 2**\nquick deploy upgrade reduces construction time a bit more -0.9s > -1s\nwidemouth reload speed increased 75 > 100\n**tier 3**\nammo capacity upgrade increased 15 > 25\n**tier 4**\ndamage bonus from defender upgrade reduced 3 > 2\nhawkeye detection range upgrade reduced 30 > 20",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/be44fc5b8f6d914b44112768ed9b10c02bfe7539/Gameplay/Balanced/Disposable%20Sentry%20-%20V1.1%20_P.pak",
+    "Description": "Reworks engineer's sentry gun into a 'disposable' one (upgrades also rebalanced)\nSomewhat inspired by the sentries from the old builds\n**Disposable Sentry rundown**\n* Quick to set up and recall\n* High rate of fire\n* Low base damage\n* Low sentry ammo capacity\n* Cannot refill ammo\n**Notable upgrade changes:**\n* Gemini grants you three sentries\n* Re-enable sentry ammo refill in tier 2 upgrades\n* Quick Deploy will allow you to almost instantly build a sentry",
+    "LastUpdateChangelog": "**__disposable sentry balancing attempt #2 (v1.2)__**\n**base stats**\nrecalling sentries was made faster again\ndamage 4 > 5.5\n**tier 1**\nmk2 upgrade damage decreased 5 > 4\ngemini system ammo increased 100 > 200",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/764c0b59d8380baf0b66be75a52cc62807816a36/Gameplay/Balanced/Disposable%20Sentry%20-%20V1.2%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Disposable Sentry - V1.1",
+        "PakFileName": "Disposable Sentry - V1.2",
         "CookedFileHashes": {
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Moveable.uasset": "38-8F-6D-BF-66-99-1A-85",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Redeployable.uasset": "2B-1D-DF-EC-62-B4-6C-62",
@@ -2545,8 +2545,8 @@
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_D_FocusedFire.uasset": "BF-86-B3-5A-31-DF-6D-54",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_D_ManualTargeting.uasset": "C0-77-A2-D1-3A-FC-0F-F5",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/WPN_RecallableSentryGun.uasset": "BF-52-1E-8F-89-0B-85-09",
-          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Moveable.uexp": "C3-9C-99-E4-FA-42-84-B6",
-          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Redeployable.uexp": "F5-B1-1A-9D-56-09-77-28",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Moveable.uexp": "B4-77-C5-00-41-34-01-62",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Redeployable.uexp": "03-E4-8B-41-1C-2C-D6-4F",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/HUD_SentryGunManager.uexp": "B5-F8-B7-98-7D-EF-AB-F6",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_BurstCooldown.uexp": "E7-9D-30-6D-CF-98-4F-B1",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_D_AngleRestriction.uexp": "14-5D-95-34-42-2A-8E-6C",
@@ -2555,8 +2555,8 @@
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_D_Range.uexp": "07-F5-E4-34-D5-9C-1F-EE",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_ExtraSentry.uexp": "38-A7-BF-D6-D9-A8-FA-98",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_RotationSpeed.uexp": "71-49-F8-A4-EA-FC-1E-E5",
-          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_TotalAmmo.uexp": "D4-27-62-64-19-93-89-0B",
-          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_A_Damage.uexp": "5F-DE-B9-60-79-6D-EF-E6",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_TotalAmmo.uexp": "64-6D-B4-A0-B5-1F-04-A1",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_A_Damage.uexp": "30-21-57-2A-22-9C-0C-F7",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_A_ExtraSentry.uexp": "9F-2F-C4-6F-2E-CC-10-88",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_A_Range.uexp": "97-42-21-87-D3-C8-56-07",
           "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_A_StrongerTurret.uexp": "34-12-70-9E-3A-A0-DF-5D",

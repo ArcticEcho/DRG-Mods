@@ -38,41 +38,33 @@ Notes:
 **Update v1.7 Changelog:**  
 included in the doc/pdf with entries under (v1.7) in bold or underlined/bolded in case it was an update to an earlier change.
 
-## Disposable Sentry - v1.1
+## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/be44fc5b8f6d914b44112768ed9b10c02bfe7539/Gameplay/Balanced/Disposable%20Sentry%20-%20V1.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/764c0b59d8380baf0b66be75a52cc62807816a36/Gameplay/Balanced/Disposable%20Sentry%20-%20V1.2%20_P.pak)  
 
 **Description:**  
 Reworks engineer's sentry gun into a 'disposable' one (upgrades also rebalanced)  
 Somewhat inspired by the sentries from the old builds  
 **Disposable Sentry rundown**  
-+ Quick to set up and recall  
-+ High rate of fire  
-- Low base damage  
-- Low sentry ammo capacity  
-- Cannot refill ammo  
-Notable upgrade changes  
+* Quick to set up and recall  
+* High rate of fire  
+* Low base damage  
+* Low sentry ammo capacity  
+* Cannot refill ammo  
+**Notable upgrade changes:**  
 * Gemini grants you three sentries  
 * Re-enable sentry ammo refill in tier 2 upgrades  
 * Quick Deploy will allow you to almost instantly build a sentry
 
-**Update v1.1 Changelog:**  
-__**disposable sentry balancing attempt #1**__  
+**Update v1.2 Changelog:**  
+**__disposable sentry balancing attempt #2 (v1.2)__**  
 **base stats**  
-recalling sentries is generally a bit faster now  
-detection range reduced 20 > 15  
-damage increased 3 > 4  
+recalling sentries was made faster again  
+damage 4 > 5.5  
 **tier 1**  
-mk2 upgrade detection range increased 5 > 7.5  
-**tier 2**  
-quick deploy upgrade reduces construction time a bit more -0.9s > -1s  
-widemouth reload speed increased 75 > 100  
-**tier 3**  
-ammo capacity upgrade increased 15 > 25  
-**tier 4**  
-damage bonus from defender upgrade reduced 3 > 2  
-hawkeye detection range upgrade reduced 30 > 20
+mk2 upgrade damage decreased 5 > 4  
+gemini system ammo increased 100 > 200
 
 ## HE Grenade Carve - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
