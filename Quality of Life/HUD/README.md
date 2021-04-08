@@ -58,13 +58,17 @@ A HUD element to show how far along your gun is in reloading. Check out my githu
 **Update v0.7.2 Changelog:**  
 Remembered to actually include the changes from 0.7.1 this time (thanks @Elythnwaen !)
 
-## Show Events - v1.0
+## Show Events - v1.1
 **Authors:** flynoob  
-**DRG Version:** Update 33, Hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/dd73de36a142eb42a00d089ceb5bf05a54f53f7e/Quality%20of%20Life/HUD/Show%20Events%20-%20V1.0%20_P.pak)  
+**DRG Version:** Update 33, Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/46bdfa548d84a0c027192dfc93ef2afd8261eb1f/Quality%20of%20Life/HUD/Show%20Events%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-need BP Mod Manager!Can display the number of Machine Events, Cargo Crates, and Lost Packs on the screen.
+**need BP Mod Manager**!Can display the number of Machine Events, Cargo Crates, and Lost Packs on the screen.
+
+**Update v1.1 Changelog:**  
+1.Now it can only be displayed by pressing the **left ctrl**  
+2.UI modified
 
 ## Speedometer - v1.0
 **Authors:** Bebe  
