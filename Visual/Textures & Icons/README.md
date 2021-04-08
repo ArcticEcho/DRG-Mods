@@ -4,13 +4,16 @@ Changes to player icons, skin textures, etc.
 
 <!-- mod list -->
 
-## Alternative Legendary Borders - v1.0
+## Alternative Legendary Borders - v1.1
 **Authors:** Matt0027  
 **DRG Version:** Update 33, Hotfix 11  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/fdf8110ecea9041334f5170881d3bedf793d1bf9/Visual/Textures%20%26%20Icons/Alternative%20Legendary%20Borders%20-%20V1.0.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/935f0a104a70d417bf35e32dd834ad22a1a42abc/Visual/Textures%20%26%20Icons/Alternative%20Legendary%20Borders%20-%20V1.1.zip)  
 
 **Description:**  
-A recolor-replacement for the current three legendary promotions. Includes multiple variants. Refer to: https://discord.com/channels/676880716142739467/732650220214681600/827595797180579851
+A recolor-replacement for the current three legendary promotions. Includes multiple variants. Refer to: https://discord.com/channels/676880716142739467/732650220214681600/829674038690709564
+
+**Update v1.1 Changelog:**  
+Added 5 new variants
 
 ## Armor Paintjob Unlocker - v1.0
 **Authors:** BongoSkaggs  
