@@ -65,3 +65,11 @@ Remembered to actually include the changes from 0.7.1 this time (thanks @Elythnw
 
 **Description:**  
 need BP Mod Manager!Can display the number of Machine Events, Cargo Crates, and Lost Packs on the screen.
+
+## Speedometer - v1.0
+**Authors:** Bebe  
+**DRG Version:** U33H10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/46f598a59efe8812914b274821b9f72dc242fa5e/Quality%20of%20Life/HUD/Speedometer%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+**Requires BP mod manager**. Adds a small panel to the mid left displaying your speed and maximum speed in past 5 seconds as well as coordinates
