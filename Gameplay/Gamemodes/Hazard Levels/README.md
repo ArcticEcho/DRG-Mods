@@ -117,17 +117,16 @@ This comprehensive Hazard 6 Mod
 **Update v3.5 Changelog:**  
 corrected doretta file for hotfix (again)
 
-## Hazard 6 Carry - v3.4
+## Hazard 6 Carry - v3.5
 **Authors:** Ike  
-**DRG Version:** Update 33 Hotfix 8  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e0adcd20aba141065f929c3887d85f21aba10085/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20Carry%20-%20V3.4%20_P.pak)  
+**DRG Version:** Update 33 Hotfix 10  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e7e80be9d7ac99c3cec2b92e77522d7dc28b83c0/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20Carry%20-%20V3.5%20_P.pak)  
 
 **Description:**  
 --Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player Hazard 6 lobby regardless of player count  
---This includes enemy count, health, and damage.   
---Per request. Professional eat your heart out.
+--This includes enemy count, health, and damage.
 
-**Update v3.4 Changelog:**  
+**Update v3.5 Changelog:**  
 corrected doretta file for hotfix (again)
 
 ## Hazard 7 - v3.5

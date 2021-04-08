@@ -4256,20 +4256,20 @@
   },
   "hazard6carry": {
     "DisplayName": "Hazard 6 Carry",
-    "Version": "3.4",
-    "DrgVersion": "Update 33 Hotfix 8",
+    "Version": "3.5",
+    "DrgVersion": "Update 33 Hotfix 10",
     "AuthorIds": [
       189954203664252928
     ],
-    "Description": "--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player Hazard 6 lobby regardless of player count\n--This includes enemy count, health, and damage. \n--Per request. Professional eat your heart out.",
+    "Description": "--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player Hazard 6 lobby regardless of player count\n--This includes enemy count, health, and damage.",
     "LastUpdateChangelog": "corrected doretta file for hotfix (again)",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e0adcd20aba141065f929c3887d85f21aba10085/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20Carry%20-%20V3.4%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e7e80be9d7ac99c3cec2b92e77522d7dc28b83c0/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20Carry%20-%20V3.5%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Hazard 6 Carry - V3.4",
+        "PakFileName": "Hazard 6 Carry - V3.5",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "28-D9-12-EC-F4-6B-C3-6E",
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "C5-38-41-2A-20-9B-9F-06",
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "E8-8F-C3-2A-C9-F4-63-0E",
           "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "CD-5E-CC-AE-65-8E-8A-95"
         }
       }
