@@ -42,14 +42,6 @@ Changes the class icons to their default pictogram. Yellow with a drill, red wit
 **Description:**  
 Changes the class icons to their true meaning in a pictogram. Yellow with a hand truck (the carry), red with an engine (the motor), green with a crosshair (the terminator) and blue with the hermes foot (the flying monkey).
 
-## Russian Advanced Localisation - v1.0
-**Authors:** Bebe, Soviya  
-**DRG Version:** U33H10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b9cfbf711b130b9269aea5525ea6c40aa8ba9d5f/Visual/Textures%20%26%20Icons/Russian%20Advanced%20Localisation%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Replaces English images with Russian ones (Like beer icons, shop advertisements, memorial hall posters and "free beers" sign)
-
 ## Weapon Paintjob Unlocker - v1.0
 **Authors:** BongoSkaggs  
 **DRG Version:** U33 H9  
