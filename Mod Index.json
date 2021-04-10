@@ -9029,25 +9029,25 @@
   },
   "showevents": {
     "DisplayName": "Show Events",
-    "Version": "1.1",
+    "Version": "1.1.1",
     "DrgVersion": "Update 33, Hotfix 10",
     "AuthorIds": [
       459630634210557953
     ],
-    "Description": "**need BP Mod Manager**!Can display the number of Machine Events, Cargo Crates, and Lost Packs on the screen.",
-    "LastUpdateChangelog": "1.Now it can only be displayed by pressing the **left ctrl**\n2.UI modified",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/46bdfa548d84a0c027192dfc93ef2afd8261eb1f/Quality%20of%20Life/HUD/Show%20Events%20-%20V1.1%20_P.pak",
+    "Description": "need BP Mod Manager!Can display the number of Machine Events, Cargo Crates, and Lost Packs on the screen.",
+    "LastUpdateChangelog": "1.Now it can only be displayed by pressing the left ctrl\n2.UI modified\n3.Now move the info down a bit so as not to be blocked by the mutations lis\n4?.Removed Herobrine",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/74f998ca2641c42d25083297e3a936a015497578/Quality%20of%20Life/HUD/Show%20Events%20-%20V1.1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Show Events - V1.1",
+        "PakFileName": "Show Events - V1.1.1",
         "CookedFileHashes": {
           "../../../FSD/Content/_ModBPs/Mod043.uasset": "3B-41-1E-97-70-3D-EC-66",
           "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "6F-E7-21-3F-B6-41-8B-23",
-          "../../../FSD/Content/_ModBPs/MyMods/showEvent/043HUD.uasset": "18-4F-27-CA-03-0C-DE-60",
+          "../../../FSD/Content/_ModBPs/MyMods/showEvent/043HUD.uasset": "BA-5B-FC-F8-07-72-EE-EA",
           "../../../FSD/Content/_ModBPs/MyMods/showEvent/showeventIcon.uasset": "0E-12-0D-D9-E4-B2-F2-87",
           "../../../FSD/Content/_ModBPs/Mod043.uexp": "F0-19-D0-84-E1-93-46-D1",
           "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1E-90-65-97-04-D7-A0-4C",
-          "../../../FSD/Content/_ModBPs/MyMods/showEvent/043HUD.uexp": "94-7F-E1-82-4E-7B-FE-92",
+          "../../../FSD/Content/_ModBPs/MyMods/showEvent/043HUD.uexp": "E7-BD-04-27-5B-72-6F-84",
           "../../../FSD/Content/_ModBPs/MyMods/showEvent/showeventIcon.uexp": "5E-4E-2B-9F-CE-44-59-12"
         }
       }
