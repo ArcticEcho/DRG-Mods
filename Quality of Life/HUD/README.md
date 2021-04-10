@@ -72,10 +72,15 @@ need BP Mod Manager!Can display the number of Machine Events, Cargo Crates, and 
 3.Now move the info down a bit so as not to be blocked by the mutations lis  
 4?.Removed Herobrine
 
-## Speedometer - v1.0
+## Speedometer - v1.1
 **Authors:** Bebe  
 **DRG Version:** U33H10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/46f598a59efe8812914b274821b9f72dc242fa5e/Quality%20of%20Life/HUD/Speedometer%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/cb18366bdfeeea929f2eaa867a37b995a3c0367b/Quality%20of%20Life/HUD/Speedometer%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 **Requires BP mod manager**. Adds a small panel to the mid left displaying your speed and maximum speed in past 5 seconds as well as coordinates
+
+**Update v1.1 Changelog:**  
+- Added BP Mod Manager support, now it shows UPS, amount of seconds stored and the size of array.  
+- Changed UPS from 20 to 100. I was very anxious about performance lags...  
+- Added support for different sized monitors. Probably. Has to be tested.
