@@ -44,6 +44,7 @@ You can easily locate your game installation path using steam:
 
 ## [Audio/Voicelines](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines)
  - **[Da fossa are attacking](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines/README.md#da-fossa-are-attacking---v05)** by CouchDiabetic ([download](https://github.com/ArcticEcho/DRG-Mods/raw/497f56bca78a1fdc7f971e2612f2af47f969e012/Audio/Voicelines/Da%20Fossa%20Are%20Attacking%20-%20V0.5.zip))
+ - **[No Profanity Mod](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines/README.md#no-profanity-mod---v09)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/eb4dd8671a42864af92ed9d000ac2cf554dc2d98/Audio/Voicelines/No%20Profanity%20Mod%20-%20V0.9%20_P.pak))
  - **[Pickaxe Powermove Bruce Lee](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines/README.md#pickaxe-powermove-bruce-lee---v10)** by mino ([download](https://github.com/ArcticEcho/DRG-Mods/raw/e80cb5f92766f86ab2afda5a4da10377cfe7d177/Audio/Voicelines/Pickaxe%20Powermove%20Bruce%20Lee%20-%20V1.0%20_P.pak))
 
 ## [Audio/Weapons](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons)
