@@ -20,13 +20,16 @@ Changes Scout's Deepcore GK2 firing and reload sounds. [Preview.](https://www.yo
 **Description:**  
 Changes Scout's Jurry-Rigged Boomstick firing and reload sounds. Original by Rauliken. [Preview.](https://www.youtube.com/watch?v=OE3f6PeQZnE)
 
-## Alternative Minigun - v1
+## Alternative Minigun - v1.0
 **Authors:** Gad  
 **DRG Version:** U33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c1c21646f6a6fe28819b24e3f7a6a2f45338edb2/Audio/Weapons/Alternative%20Minigun%20-%20V1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/805a87f1d4d70339a78a244d34eb3e1ea666164e/Audio/Weapons/Alternative%20Minigun%20-%20V1.0%20_P.pak)  
 
 **Description:**  
 Changes Gunner's Lead Storm Minigun firing, overheating, and jamming sounds. [Preview.](https://www.youtube.com/watch?v=R6C6dOXHZP8)
+
+**Update v1.0 Changelog:**  
+Fixed file name.
 
 ## AutoShotgun Jackhammer MP1 - v1.0
 **Authors:** mino  
