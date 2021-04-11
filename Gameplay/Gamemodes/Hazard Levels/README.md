@@ -198,33 +198,35 @@ This is mod I made with my current understanding of games, you may find it diffi
 This mod May be disabled due to the game's "hotfix", Or I updated it, Please Constant concern discord  
 The two mod packages are the same except for the language translation
 
-## Larger enemy spawns, for missions and Deep dives (1.5x, 2x, 3x, 4x, 5x) - v33.10.1
+## Larger enemy spawns, for missions and Deep dives (1.5x, 2x, 3x, 4x, 5x) - v33.10.2
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3cb20d3ce2e0c32b927a1c602c495d51a9955dbd/Gameplay/Gamemodes/Hazard%20Levels/Larger%20Enemy%20Spawns%2C%20For%20Missions%20And%20Deep%20Dives%20%281.5x%2C%202x%2C%203x%2C%C2%A04x%2C%205x%29%20-%20V33.10.1.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/68f30bf440ae928e24730295110a9acc88a3220d/Gameplay/Gamemodes/Hazard%20Levels/Larger%20Enemy%20Spawns%2C%20For%20Missions%20And%20Deep%20Dives%20%281.5x%2C%202x%2C%203x%2C%C2%A04x%2C%205x%29%20-%20V33.10.2.zip)  
 
 **Description:**  
-This mods simply and only make the game spawn more enemies without changing anything else. This means swarms will be larger, swarmer nests will shoot more swarmers, brood nexus will pop more swarmers, etc  
+This mods simply make the game spawn more enemies without changing anything else. This means swarms will be larger, nests will shoot more swarmers, nexus will pop more swarmers, etc  
 This is as close to vanilla as possible, so you can expect normal game behavior apart from the increased spawn. Also makes normal Deep Dive fun again, less boring 😉  
+Better play with 1.5x or 2x versions for a fun experience as I added 3x, 4x and 5x just for fun (try popping a nexus and see the swarmer fountain haha), but actually fun on regular DD  
 Preview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992  
 Preview (Youtube): https://youtu.be/0k3bVdkpSOs  
 Preview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686  
-\----------------------------------------------------------------  
+\-------------------  
 --Higher enemy count for an alternate higher difficulty, spawning more enemies instead of making them tougher.  
 --Variation 2x has 200% enemies (150% enemies single player)  
 --Variation 1.5x has 150% enemies (125% enemies single player)  
+--Variations 3x, 4x and 5x are not recommended for normal gameplay  
 --No XP boost or any other modification, this is just for fun  
---Use obviously the multiplier file you choose, not both  
+--Use obviously the multiplier file you choose  
 --Replaces Haz 3, 4, 5 and DD/EDD. Only the host needs the mod  
---IMPORTANT: Use EITHER the "xxx_cap" file ALONE or the regular file along with ArcticEcho's "Custom Cap" mod (300 enemies, 120 swarmers)  
-\----------------------------------------------------------------  
+--IMPORTANT: Use EITHER the "xxx_cap" file ALONE or the regular file along with ArcticEcho's "Custom Cap" mod (using 800 enemies, 600 swarmers max on 5x)  
+\-------------------  
 NOTES:  
 -Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health by 50%  
 -You should use the mod to improve Doretta's damage resistance by 50% (as you will be busy with enemies)  
 -You can use the mod "Cheaper resupplies" with 60 nitra if you're having ammo problems, but 80 is still ok
 
-**Update v33.10.1 Changelog:**  
-Removed bundled enemy cap and other mods to remove confusion
+**Update v33.10.2 Changelog:**  
+Added 3x, 4x and 5x for fun, laughs and fails
 
 ## Starship Troopers - v33.2.4
 **Authors:** NaturalBornCamper  
