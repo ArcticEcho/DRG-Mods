@@ -885,6 +885,64 @@
       }
     ]
   },
+  "alternativeminigun": {
+    "DisplayName": "Alternative Minigun",
+    "Version": "1",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      298686463556583426
+    ],
+    "Description": "Changes Gunner's Lead Storm Minigun firing, overheating, and jamming sounds. [Preview.](https://www.youtube.com/watch?v=R6C6dOXHZP8)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c1c21646f6a6fe28819b24e3f7a6a2f45338edb2/Audio/Weapons/Alternative%20Minigun%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Alternative Minigun - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stAnd3rdSharedWeapons.uasset": "CA-84-4C-07-42-96-14-07",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsLoop.uasset": "8F-4E-1D-CD-64-6B-53-E0",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire2ndWeaponsAutoMix.uasset": "4E-14-86-D6-4F-2D-2C-6C",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonWeaponsTail.uasset": "81-42-2B-8D-0F-36-9E-FB",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Fire1.uasset": "A5-7E-F3-C8-56-1D-B1-AF",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Fire2.uasset": "AA-D5-34-B1-0A-2D-AF-32",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Overheat_PopIn1.uasset": "A0-6C-0D-EA-68-99-21-DC",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/OverHeat_PopIn2.uasset": "C1-4A-EA-F3-BF-9B-CC-C7",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Overheat_PopOut1.uasset": "57-F5-E2-0C-72-08-8F-F7",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/OverHeat_PopOut2.uasset": "53-0F-3B-78-7A-AF-23-84",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Overheat_Rattle1.uasset": "0A-63-1E-B5-83-D4-AC-69",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Overheat_Rattle2.uasset": "29-D0-4C-71-25-D2-B0-E8",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Tail.uasset": "50-B2-1F-F8-EA-A8-94-62",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFireCore_Cue.uasset": "33-48-5A-86-A0-6F-32-E8",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFireTail_Cue.uasset": "4E-54-EA-8C-5C-D2-A8-E8",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverheatElementA_Cue.uasset": "E7-A2-4C-7A-BC-68-3C-33",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverheatElementB_Cue.uasset": "70-29-95-2E-49-E7-00-E0",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverHeatPitch_Cue.uasset": "48-9F-67-90-44-77-5F-43",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverheatVentA_Cue.uasset": "5F-3B-D2-F7-C8-EF-64-9C",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverheatVentB_Cue.uasset": "EE-02-DC-30-A4-77-91-72",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stAnd3rdSharedWeapons.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsLoop.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire2ndWeaponsAutoMix.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonWeaponsTail.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Fire1.uexp": "1B-90-94-12-2A-92-D4-85",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Fire2.uexp": "78-C4-A8-66-0E-8F-43-8E",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Overheat_PopIn1.uexp": "C7-9B-7E-D0-42-11-05-D3",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/OverHeat_PopIn2.uexp": "62-4B-9B-1B-E0-FA-71-67",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Overheat_PopOut1.uexp": "B8-B3-43-06-40-3A-7F-A8",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/OverHeat_PopOut2.uexp": "7E-02-A0-7F-F4-2B-45-42",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Overheat_Rattle1.uexp": "54-C5-AD-B0-F1-73-F9-E7",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Overheat_Rattle2.uexp": "EA-24-B9-CE-DB-CE-A3-B7",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/0CustomAudio/Tail.uexp": "B0-3D-69-E8-88-F9-52-29",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFireCore_Cue.uexp": "62-B6-A3-56-64-5F-EE-C4",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunFireTail_Cue.uexp": "B1-77-DC-E9-6B-15-F0-DC",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverheatElementA_Cue.uexp": "5D-26-D5-AB-A2-64-F4-5B",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverheatElementB_Cue.uexp": "54-36-54-CE-1D-1D-3B-4E",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverHeatPitch_Cue.uexp": "BE-BC-5C-10-BE-7D-F0-49",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverheatVentA_Cue.uexp": "E0-DA-4B-33-57-E2-0E-6D",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MiniGunOverheatVentB_Cue.uexp": "05-6E-A7-5D-C8-2C-33-AB"
+        }
+      }
+    ]
+  },
   "animedoretta": {
     "DisplayName": "Anime Doretta",
     "Version": "1.1",
