@@ -357,6 +357,42 @@ No carve
 **Update v2.2 Changelog:**  
 Updated for Hotfix 7, added stun chance.
 
+## Scout for Bug Planet - v1
+**Authors:** PastoSeco14  
+**DRG Version:** U33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b76090ccd94a9b3fddc13469be0459b3eeb92c36/Gameplay/Unbalanced/Weapons/Scout%20For%20Bug%20Planet%20-%20V1%20_P.pak)  
+
+**Description:**  
+Since hazard mods like "Bug Planet Constant Conflict" add a lot of enemies I rebalanced the scout weapons to be competent against the large waves of alien spiders, this mod may seem to be broken at first but remember it was made to face the (at least for me), hardest hazard mod available: Bug Planet (also play it with custom enemy cap set on 200)  
+Changes  
+GK2 Assault Rifle:   
+This one is more powerful, so you'll have granted protection against lots of enemies and big enemies but you'll run out of ammo if you dont prioritize nitra  
+Damage 15 -> 18  
+Max Ammo 350 -> 550  
+Magazine Size 25 -> 50  
+RoF 7 -> 12  
+Reload Time 1.8 -> 1.4  
+Weakpoint Bonus 10% -> 20%  
+M1000  
+This one will cause a lot more damage, so if you are lucky you can waste 1 bullet per grunt and use the extra ammo to kill as many glyphids as you can, also you can defend yourself against large enemies such as opressors, praetorians, etc to keep the fight against the lots of grunts (one shot grunts not guaranteed)  
+Damage 50 ->100  
+Max ammo -> 144  
+Magazine Size 8 -> 12  
+RoF 4 -> 5  
+Reload time: 2.5 -> 2  
+Weak Point Bonus 10% -> 30%  
+Armor breaking 30% -> 80%  
+Shotgun or "DOOMstick"  
+Idk if this was done before but the sawed shotgun now acts like the supershotgun from DOOM Eternal, with only one shot per shell you get twice the damage and a fast reload so you can kill as fast as you can, i recommend it for close quarters, a lot of grunts close form each others and fast kills of big enemies, also the shotgun jump doesnt seem very affected since the reload time is very fast  
+Damage 12 -> 24  
+Pellets 8 -> 16  
+Shock wave AoE damage 20 -> 40  
+Max Ammo -> 44 (maybe i should reduce it)  
+Mag Size 2 -> 1  
+Rof 1.5 -> 5  
+Reload time 2 -> 1  
+Im running out of space to write lol, this mod adds fun things, give it a try 😉
+
 ## Sentrygun Base Ammo Buffed - v1.0
 **Authors:** Tristus  
 **DRG Version:** Update 33, Hotfix 2  

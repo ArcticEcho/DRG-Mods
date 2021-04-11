@@ -9162,6 +9162,44 @@
       }
     ]
   },
+  "scoutforbugplanet": {
+    "DisplayName": "Scout for Bug Planet",
+    "Version": "1",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      614293792907853825
+    ],
+    "Description": "Since hazard mods like \"Bug Planet Constant Conflict\" add a lot of enemies I rebalanced the scout weapons to be competent against the large waves of alien spiders, this mod may seem to be broken at first but remember it was made to face the (at least for me), hardest hazard mod available: Bug Planet (also play it with custom enemy cap set on 200)\nChanges\nGK2 Assault Rifle: \nThis one is more powerful, so you'll have granted protection against lots of enemies and big enemies but you'll run out of ammo if you dont prioritize nitra\nDamage 15 -> 18\nMax Ammo 350 -> 550\nMagazine Size 25 -> 50\nRoF 7 -> 12\nReload Time 1.8 -> 1.4\nWeakpoint Bonus 10% -> 20%\nM1000\nThis one will cause a lot more damage, so if you are lucky you can waste 1 bullet per grunt and use the extra ammo to kill as many glyphids as you can, also you can defend yourself against large enemies such as opressors, praetorians, etc to keep the fight against the lots of grunts (one shot grunts not guaranteed)\nDamage 50 ->100\nMax ammo -> 144\nMagazine Size 8 -> 12\nRoF 4 -> 5\nReload time: 2.5 -> 2\nWeak Point Bonus 10% -> 30%\nArmor breaking 30% -> 80%\nShotgun or \"DOOMstick\"\nIdk if this was done before but the sawed shotgun now acts like the supershotgun from DOOM Eternal, with only one shot per shell you get twice the damage and a fast reload so you can kill as fast as you can, i recommend it for close quarters, a lot of grunts close form each others and fast kills of big enemies, also the shotgun jump doesnt seem very affected since the reload time is very fast\nDamage 12 -> 24\nPellets 8 -> 16\nShock wave AoE damage 20 -> 40\nMax Ammo -> 44 (maybe i should reduce it)\nMag Size 2 -> 1\nRof 1.5 -> 5\nReload time 2 -> 1\nIm running out of space to write lol, this mod adds fun things, give it a try 😉",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b76090ccd94a9b3fddc13469be0459b3eeb92c36/Gameplay/Unbalanced/Weapons/Scout%20For%20Bug%20Planet%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Scout For Bug Planet - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uasset": "7E-0B-B4-F3-FC-CA-B3-B2",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uasset": "53-31-35-BD-87-3F-2D-63",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uasset": "1E-82-D7-12-0F-31-CC-9E",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uasset": "D6-9E-49-EF-99-68-84-C3",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uasset": "9D-DC-AF-38-91-F8-31-F1",
+          "../../../FSD/Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset": "D0-CF-C3-AC-01-EF-BB-A6",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Freeze/Grenade_Freeze.uasset": "1A-C1-CD-23-92-B1-10-2C",
+          "../../../FSD/Content/WeaponsNTools/Grenades/IFG/Grenade_IFG.uasset": "9E-D0-30-90-58-E1-BE-2E",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Pheromone/Grenade_Pheromone.uasset": "42-F2-CB-4B-D0-E8-94-81",
+          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uasset": "7B-72-CE-35-9D-EC-C7-69",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uexp": "A8-61-C1-D2-F5-2D-4A-41",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uexp": "77-91-CB-16-E9-D7-E8-16",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uexp": "DB-43-0C-6C-B1-BA-F2-2C",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uexp": "33-6D-65-7D-69-25-EB-74",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uexp": "56-53-07-57-47-CB-EC-51",
+          "../../../FSD/Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uexp": "3F-E2-50-D9-02-55-0F-7A",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Freeze/Grenade_Freeze.uexp": "47-0B-52-13-1C-1C-98-20",
+          "../../../FSD/Content/WeaponsNTools/Grenades/IFG/Grenade_IFG.uexp": "F3-AB-D0-B7-8C-94-1A-C0",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Pheromone/Grenade_Pheromone.uexp": "DE-B7-C8-30-5C-A3-36-26",
+          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uexp": "9C-19-2D-69-FE-83-49-BB"
+        }
+      }
+    ]
+  },
   "seasonalspacerig": {
     "DisplayName": "Seasonal Space Rig",
     "Version": "1.1",
