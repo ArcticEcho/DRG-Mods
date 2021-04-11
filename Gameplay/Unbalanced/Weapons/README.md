@@ -357,10 +357,10 @@ No carve
 **Update v2.2 Changelog:**  
 Updated for Hotfix 7, added stun chance.
 
-## RJ2500 Compound - v1.0
+## RJ2500 Compound - v1.1
 **Authors:** Shrub_Daddy  
 **DRG Version:** U33, HF 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8228479e239e5aa0527139a74c14b96af0e08ded/Gameplay/Unbalanced/Weapons/RJ2500%20Compound%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/88b600d0bbb34801e7a23a6ae5b5ab09195085b3/Gameplay/Unbalanced/Weapons/RJ2500%20Compound%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Meatshield's mod, "With these changes, `BCABB + RJ250 Compound` will have same ammo as if you took T2.A, but the interval between grenades will be decreased from 2.5 sec to 1.8 sec. Additionally, the reduced Velocity will let you do Sync Jumps in caverns with 10m ceiling or less, instead of requiring the current 46m. The 1.8 sec between grenades will let you chain-jump too."  
