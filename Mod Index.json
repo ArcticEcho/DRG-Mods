@@ -9870,27 +9870,27 @@
   },
   "speedometer": {
     "DisplayName": "Speedometer",
-    "Version": "1.1",
+    "Version": "1.2",
     "DrgVersion": "U33H10",
     "AuthorIds": [
       387909475924967426
     ],
     "Description": "**Requires BP mod manager**. Adds a small panel to the mid left displaying your speed and maximum speed in past 5 seconds as well as coordinates",
-    "LastUpdateChangelog": "- Added BP Mod Manager support, now it shows UPS, amount of seconds stored and the size of array.\n- Changed UPS from 20 to 100. I was very anxious about performance lags...\n- Added support for different sized monitors. Probably. Has to be tested.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cb18366bdfeeea929f2eaa867a37b995a3c0367b/Quality%20of%20Life/HUD/Speedometer%20-%20V1.1%20_P.pak",
+    "LastUpdateChangelog": "- Changed centimeters to meters in coordinates\n- Decreased amount of decimals after point for coordinates",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cb3d8afcf1245c5bd6f0e2b6aa1db9f61d285636/Quality%20of%20Life/HUD/Speedometer%20-%20V1.2%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Speedometer - V1.1",
+        "PakFileName": "Speedometer - V1.2",
         "CookedFileHashes": {
           "../../../FSD/Content/_ModBPs/HUD_ML.uasset": "BE-E8-2F-6D-78-00-AB-24",
           "../../../FSD/Content/_ModBPs/HUD_MM.uasset": "80-C9-89-44-32-84-91-83",
-          "../../../FSD/Content/_ModBPs/HUD_speed.uasset": "CE-DE-18-F5-94-D9-AA-74",
-          "../../../FSD/Content/_ModBPs/Mod020.uasset": "8D-96-6D-FE-9C-E8-D0-4A",
+          "../../../FSD/Content/_ModBPs/HUD_speed.uasset": "30-22-CB-69-50-9D-85-C4",
+          "../../../FSD/Content/_ModBPs/Mod020.uasset": "54-C9-B6-9D-7D-7E-AD-A4",
           "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "6F-E7-21-3F-B6-41-8B-23",
           "../../../FSD/Content/_ModBPs/HUD_ML.uexp": "4E-7B-B4-F2-A5-69-CA-09",
           "../../../FSD/Content/_ModBPs/HUD_MM.uexp": "F3-D6-19-D7-AD-BC-88-9F",
-          "../../../FSD/Content/_ModBPs/HUD_speed.uexp": "76-6A-6D-6E-22-DA-69-F3",
-          "../../../FSD/Content/_ModBPs/Mod020.uexp": "06-32-19-A9-ED-10-9A-9F",
+          "../../../FSD/Content/_ModBPs/HUD_speed.uexp": "A0-B0-79-4C-60-A3-94-D4",
+          "../../../FSD/Content/_ModBPs/Mod020.uexp": "F8-BA-75-3F-B8-97-EB-65",
           "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1E-90-65-97-04-D7-A0-4C"
         }
       }
