@@ -122,3 +122,13 @@ Fixed crash introduced in H6.
 **Description:**  
 **Requires the mod loader.**  
 Adds a button in the mod manager menu that will instantly load you back into the spacerig.
+
+## Teleport Players - v1.0
+**Authors:** Our Lord And Savior Gabe Newell  
+**DRG Version:** U32 - U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2150cd21143880937fc606749166271f504ca23d/Quality%20of%20Life/Time%20saving/Teleport%20Players%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+**Requires the BP Mod Manager**  
+Allows you to teleport to various parts of the space rig, ranging from notable locations to various exterior spots.  Can be used to teleport to specific classes or teleport them to you either on a per class basis or all players at once.  I originally made this to fix people who get bugged out in certain circumstances; use at your own discretion.  
+Preview: https://discord.com/channels/676880716142739467/732650220214681600/831056622066466868

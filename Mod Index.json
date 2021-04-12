@@ -10404,6 +10404,48 @@
       }
     ]
   },
+  "teleportplayers": {
+    "DisplayName": "Teleport Players",
+    "Version": "1.0",
+    "DrgVersion": "U32 - U34",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "**Requires the BP Mod Manager**\nAllows you to teleport to various parts of the space rig, ranging from notable locations to various exterior spots.  Can be used to teleport to specific classes or teleport them to you either on a per class basis or all players at once.  I originally made this to fix people who get bugged out in certain circumstances; use at your own discretion.\nPreview: https://discord.com/channels/676880716142739467/732650220214681600/831056622066466868",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2150cd21143880937fc606749166271f504ca23d/Quality%20of%20Life/Time%20saving/Teleport%20Players%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Teleport Players - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Driller.uasset": "5F-D6-D8-1B-E8-23-29-F6",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Engineer.uasset": "E5-02-B3-27-CA-CB-5A-BB",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Gunner.uasset": "97-E7-7C-4D-1B-1C-E7-A0",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Scout.uasset": "20-35-8C-77-02-A3-6B-45",
+          "../../../FSD/Content/_ModBPs/Deep_Dive.uasset": "10-3F-C3-02-D4-A6-9F-EF",
+          "../../../FSD/Content/_ModBPs/GenericHero.uasset": "8A-D1-CB-4A-79-9F-9F-68",
+          "../../../FSD/Content/_ModBPs/Mission_Start.uasset": "0E-05-A5-9E-96-4A-61-C1",
+          "../../../FSD/Content/_ModBPs/Mod045.uasset": "C2-FF-09-2A-8C-F1-AE-AE",
+          "../../../FSD/Content/_ModBPs/Promotion.uasset": "B9-30-F4-95-D1-8B-A5-0A",
+          "../../../FSD/Content/_ModBPs/TeleportPlayersUI.uasset": "63-F5-93-8F-DF-CB-D0-1C",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Driller.uexp": "8C-16-87-3B-A6-4D-D9-24",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Engineer.uexp": "4D-C3-33-3A-FD-34-2B-96",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Gunner.uexp": "AE-67-8A-B3-7E-66-07-83",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Scout.uexp": "B9-C7-E5-39-98-DC-9E-85",
+          "../../../FSD/Content/_ModBPs/Deep_Dive.uexp": "B6-01-F3-6A-FD-44-BC-8F",
+          "../../../FSD/Content/_ModBPs/GenericHero.uexp": "03-0F-AD-66-DF-85-C3-CF",
+          "../../../FSD/Content/_ModBPs/Mission_Start.uexp": "1B-A6-B1-2F-B3-7B-55-98",
+          "../../../FSD/Content/_ModBPs/Mod045.uexp": "A8-97-09-84-F0-E7-A5-65",
+          "../../../FSD/Content/_ModBPs/Promotion.uexp": "7F-D6-37-B7-DB-24-02-69",
+          "../../../FSD/Content/_ModBPs/TeleportPlayersUI.uexp": "1A-CE-CB-A8-4F-50-01-07",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Driller.ubulk": "2D-FE-26-DB-03-C5-9C-56",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Engineer.ubulk": "8D-73-5B-02-23-B7-0F-56",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Gunner.ubulk": "2F-72-38-A0-B0-4A-91-F3",
+          "../../../FSD/Content/_ModBPs/Class_Icon_Without_Outline_Scout.ubulk": "93-F2-E8-BE-44-73-5C-AB"
+        }
+      }
+    ]
+  },
   "thickplatforms": {
     "DisplayName": "Thick Platforms",
     "Version": "1.0",
