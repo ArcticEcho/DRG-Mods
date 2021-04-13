@@ -65,13 +65,16 @@ Adds "It was at this moment he knew" line to a leech grabbing sound.
 **Description:**  
 In case you need to hear why to shoot them.
 
-## Mission Control Blah Blah Blah - v1.0
+## Mission Control Blah Blah Blah - v1.1
 **Authors:** Pacagma  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b01bdd316e9c26350807beadbdfbe164c3d250cb/Audio/NPC/Mission%20Control%20Blah%20Blah%20Blah%20-%20V1.0.zip)  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f10d901280ce507eda92935ebb1b8c871ab2b77c/Audio/NPC/Mission%20Control%20Blah%20Blah%20Blah%20-%20V1.1.zip)  
 
 **Description:**  
 Replaces all the mission control lines with blahblahblah, i also wanna say thanks to @TommyGun for the unused voice lines!
+
+**Update v1.1 Changelog:**  
+- Updated to U34
 
 ## Molly R2D2 - v1
 **Authors:** Kraeus  
