@@ -132,3 +132,13 @@ Adds a button in the mod manager menu that will instantly load you back into the
 **Requires the BP Mod Manager**  
 Allows you to teleport to various parts of the space rig, ranging from notable locations to various exterior spots.  Can be used to teleport to specific classes or teleport them to you either on a per class basis or all players at once.  I originally made this to fix people who get bugged out in certain circumstances; use at your own discretion.  
 Preview: https://discord.com/channels/676880716142739467/732650220214681600/831056622066466868
+
+## Teleport Players With Sound - v1.0
+**Authors:** Our Lord And Savior Gabe Newell  
+**DRG Version:** U32 - U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5d5385410815fdeac72ac01dff5802c699a7def3/Quality%20of%20Life/Time%20saving/Teleport%20Players%20With%20Sound%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+**Requires the BP Mod Manager**  
+Same thing as the Teleport Players mod, but it plays Wormhole teleporting sounds upon button use.  This means that there is about a 2.4 second delay between each teleport.  
+Preview(s): https://discord.com/channels/676880716142739467/732650220214681600/831349665881915402

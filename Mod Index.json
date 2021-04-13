@@ -10446,6 +10446,50 @@
       }
     ]
   },
+  "teleportplayerswithsound": {
+    "DisplayName": "Teleport Players With Sound",
+    "Version": "1.0",
+    "DrgVersion": "U32 - U34",
+    "AuthorIds": [
+      146392394328178690
+    ],
+    "Description": "**Requires the BP Mod Manager**\nSame thing as the Teleport Players mod, but it plays Wormhole teleporting sounds upon button use.  This means that there is about a 2.4 second delay between each teleport.\nPreview(s): https://discord.com/channels/676880716142739467/732650220214681600/831349665881915402",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5d5385410815fdeac72ac01dff5802c699a7def3/Quality%20of%20Life/Time%20saving/Teleport%20Players%20With%20Sound%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Teleport Players With Sound - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod045.uasset": "08-DB-EB-10-C1-A9-AE-C5",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Driller.uasset": "56-05-72-AB-45-D5-EF-93",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Engineer.uasset": "7F-5B-34-60-3A-9D-7B-7C",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Gunner.uasset": "8F-BC-0F-3B-D6-BA-B8-3B",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Scout.uasset": "E5-14-1D-65-CA-38-A1-76",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Deep_Dive.uasset": "12-E3-C9-37-69-08-C0-E3",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/GenericHero.uasset": "B6-00-5E-59-38-06-2F-70",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Mission_Start.uasset": "64-7A-E5-24-88-5C-F8-5E",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Promotion.uasset": "00-62-BF-D0-3D-D2-F5-23",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/TeleportPlayersUI.uasset": "42-3E-DA-A3-7B-8D-F8-06",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Wormhole.uasset": "F9-A5-16-A2-7B-9C-F1-EC",
+          "../../../FSD/Content/_ModBPs/Mod045.uexp": "8E-EB-F5-F8-60-34-98-8E",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Driller.uexp": "24-32-A6-65-F2-6B-AC-BC",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Engineer.uexp": "C1-21-CF-F1-39-27-9E-82",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Gunner.uexp": "A1-0C-6C-86-83-C1-9D-51",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Scout.uexp": "54-76-E3-26-6C-AE-6A-3C",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Deep_Dive.uexp": "DF-4D-AF-4E-94-95-22-45",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/GenericHero.uexp": "68-B7-25-69-2A-DD-99-FD",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Mission_Start.uexp": "F6-36-7B-7B-AA-D7-14-36",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Promotion.uexp": "5B-95-25-0C-14-F0-E8-B6",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/TeleportPlayersUI.uexp": "F2-71-EB-2D-77-D5-F3-3D",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Wormhole.uexp": "15-4E-3F-79-E6-EC-65-E7",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Driller.ubulk": "2D-FE-26-DB-03-C5-9C-56",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Engineer.ubulk": "8D-73-5B-02-23-B7-0F-56",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Gunner.ubulk": "2F-72-38-A0-B0-4A-91-F3",
+          "../../../FSD/Content/_ModBPs/Teleport_Players/Class_Icon_Without_Outline_Scout.ubulk": "93-F2-E8-BE-44-73-5C-AB"
+        }
+      }
+    ]
+  },
   "thickplatforms": {
     "DisplayName": "Thick Platforms",
     "Version": "1.0",
