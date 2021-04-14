@@ -6,6 +6,8 @@ Managed by our bot, Karl Jr.
 
 ## How to install
 
+### Update 33 and older
+
 Simply drop the mod pak file into: `...\Deep Rock Galactic\FSD\Content\Paks`
 
 You can easily locate your game installation path using steam:
