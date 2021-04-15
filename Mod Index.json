@@ -10510,6 +10510,31 @@
       }
     ]
   },
+  "thinnerdrumwalls": {
+    "DisplayName": "Thinner Drum Walls",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "**Make sure to follow new installation methods, unzip this into the correct folder and make sure you are in Experimental U34 **Meat Shields mod, Makes the Thinned Drum Walls OC for Leadstorm affect Cooling Rate more. \n--Cooldown Rate 0.5 > 1.5.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f21582b83638e34ca0df174e670fac943f393e25/Gameplay/Unbalanced/Weapons/Thinner%20Drum%20Walls%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "Thinner Drum Walls - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_CoolingRate_Gatling.uexp": "F9-23-8C-37-FA-09-AD-C4"
+        }
+      },
+      {
+        "PakFileName": "Thinner Drum Walls - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_CoolingRate_Gatling.uexp": "F9-23-8C-37-FA-09-AD-C4"
+        }
+      }
+    ]
+  },
   "timecontrol": {
     "DisplayName": "Time Control",
     "Version": "1.1",

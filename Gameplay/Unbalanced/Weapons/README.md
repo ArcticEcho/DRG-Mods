@@ -480,6 +480,15 @@ But wait! There's more! Your trusty Sentry Gun has also been upgraded to hurl ax
 **Description:**  
 The radiation field left by fatboy rounds no longer affects players OR Doretta
 
+## Thinner Drum Walls - v1.0
+**Authors:** Shrub_Daddy  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f21582b83638e34ca0df174e670fac943f393e25/Gameplay/Unbalanced/Weapons/Thinner%20Drum%20Walls%20-%20V1.0.zip)  
+
+**Description:**  
+**Make sure to follow new installation methods, unzip this into the correct folder and make sure you are in Experimental U34 **Meat Shields mod, Makes the Thinned Drum Walls OC for Leadstorm affect Cooling Rate more.   
+--Cooldown Rate 0.5 > 1.5.
+
 ## Ultimate Flamethrower - v1.0
 **Authors:** Smelly Gritz  
 **DRG Version:** Update 33, Hotifx 10  
