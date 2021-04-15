@@ -69,6 +69,14 @@ Added list of music
 **Description:**  
 Replaces the End Screen music with Drip Fortress 😎 also Credit to Mihkel Macaroni for the original song.
 
+## FNF JukeBox - v1.0
+**Authors:** Zegastion  
+**DRG Version:** Update 33-34  
+**Download Link:** [Download](https://drive.google.com/file/d/1bjM4HQR-RpfcONCDRoffDavZ2STxdq8e/view?usp=sharing) (third-party host)  
+
+**Description:**  
+Replaces all JukeBox songs with Friday Night Funkin' Music, including few mods (and memes)
+
 ## Kids Crate - v1
 **Authors:** Kraeus  
 **DRG Version:** Update 33  

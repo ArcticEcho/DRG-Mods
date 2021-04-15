@@ -3989,6 +3989,18 @@
       }
     ]
   },
+  "fnfjukebox": {
+    "DisplayName": "FNF JukeBox",
+    "Version": "1.0",
+    "DrgVersion": "Update 33-34",
+    "AuthorIds": [
+      328873920994344980
+    ],
+    "Description": "Replaces all JukeBox songs with Friday Night Funkin' Music, including few mods (and memes)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://drive.google.com/file/d/1bjM4HQR-RpfcONCDRoffDavZ2STxdq8e/view?usp=sharing",
+    "Paks": null
+  },
   "fuelcanisterpickupradius": {
     "DisplayName": "Fuel Canister Pickup Radius",
     "Version": "1.0",
