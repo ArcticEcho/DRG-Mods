@@ -2236,6 +2236,36 @@
       }
     ]
   },
+  "classiconbarrel": {
+    "DisplayName": "Class Icon Barrel",
+    "Version": "1.0",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      149217063154614272
+    ],
+    "Description": "Replaces the HUD Class Icons to be color based barrels. Become what you were born to be!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5025129bffbf0ae63fab21cb033d214b70e0c7e0/Visual/Textures%20%26%20Icons/Class%20Icon%20Barrel%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "ClassIconBarrel",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Driller.uasset": "35-71-2D-F2-0F-77-4A-E4",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Engineer.uasset": "03-88-A0-F4-67-48-98-A3",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.uasset": "26-09-26-B0-14-E6-6E-5E",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Scout.uasset": "45-2D-F2-56-73-65-B2-1B",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Driller.uexp": "55-50-99-7D-16-CE-4E-01",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Engineer.uexp": "D0-9E-40-86-52-8D-8B-A7",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.uexp": "AA-0F-BA-B9-92-9C-6F-95",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Scout.uexp": "A5-7A-0C-41-12-2D-2A-EE",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Driller.ubulk": "63-E4-2E-E9-7C-B5-C4-AD",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Engineer.ubulk": "43-99-18-07-CF-8B-A6-FD",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.ubulk": "8D-BE-2C-6F-15-E0-20-2D",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Scout.ubulk": "AE-97-EF-AE-57-44-9B-71"
+        }
+      }
+    ]
+  },
   "classiconsdefault": {
     "DisplayName": "Class Icons Default",
     "Version": "1.0",

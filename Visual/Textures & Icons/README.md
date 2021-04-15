@@ -26,6 +26,14 @@ Example: Gunner Mk5 paintjob on Scale Brigade armor.
 https://discord.com/channels/676880716142739467/732650220214681600/819878197533081640  
 **Note**: This mod does ***not*** unlock any DLC exclusive skins & paintjobs. You must own the appropriate DLC in order to use DLC exclusive items.
 
+## Class Icon Barrel - v1.0
+**Authors:** SirVerex  
+**DRG Version:** U33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5025129bffbf0ae63fab21cb033d214b70e0c7e0/Visual/Textures%20%26%20Icons/Class%20Icon%20Barrel%20-%20V1.0.zip)  
+
+**Description:**  
+Replaces the HUD Class Icons to be color based barrels. Become what you were born to be!
+
 ## Class Icons Default - v1.0
 **Authors:** mino  
 **DRG Version:** U33 H9  
