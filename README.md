@@ -43,6 +43,7 @@ You can easily locate your game installation path using steam:
  - **[Swiggity Grabbers](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#swiggity-grabbers---v10)** by Lithobraker ([download](https://github.com/ArcticEcho/DRG-Mods/raw/3891045dde8a110db3ab3f7f4b060429ccf2d5b1/Audio/NPC/Swiggity%20Grabbers%20-%20V1.0%20_P.pak))
 
 ## [Audio/Other](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other)
+ - **[HL1 Footsteps](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other/README.md#hl1-footsteps---v10)** by Zegastion ([download](https://github.com/ArcticEcho/DRG-Mods/raw/25f135e27b4925f63529aefb89bf99d545e2eb57/Audio/Other/HL1%20Footsteps%20-%20V1.0.zip))
  - **[Metal Gear Alert Heightened Senses](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other/README.md#metal-gear-alert-heightened-senses---v1)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/7e2a85f66bef685ebeefda9314fc22724c064028/Audio/Other/Metal%20Gear%20Alert%20Heightened%20Senses%20-%20V1%20_P.pak))
 
 ## [Audio/Voicelines](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines)
