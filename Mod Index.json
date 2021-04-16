@@ -10301,6 +10301,29 @@
       }
     ]
   },
+  "superplatformer": {
+    "DisplayName": "Super Platformer",
+    "Version": "1.0",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      506899406776303616
+    ],
+    "Description": "The platform gun has been upgraded with a fast rate of fire and 250 max ammo capacity. Platforms are much thicker but with a smaller width.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7abe31214ced63e180625d8518fc9abbe7897f57/Gameplay/Unbalanced/Tools%20%26%20Gear/Super%20Platformer%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "Super Platformer",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/PRJ_PlatformMaker.uasset": "C1-1D-7F-6E-7D-DC-8E-0D",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/PRJ_PlatformMaker.uexp.bak": "B6-AC-8F-F8-9D-F0-16-AF",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset": "9B-68-B9-F3-B5-D3-89-24",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/PRJ_PlatformMaker.uexp": "CD-80-AF-B6-48-A9-01-E2",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uexp": "A8-D7-30-9E-F6-9C-23-BF"
+        }
+      }
+    ]
+  },
   "supersonicsentry": {
     "DisplayName": "SupersonicSentry",
     "Version": "1.01",

@@ -130,6 +130,14 @@ Inspired by toothpaste gun from @Our Lord And Savior Gabe Newell , Makes platfor
 Full changelog for showing undisplayed changes can be seen in this message in mod preview:  
 https://discordapp.com/channels/676880716142739467/732650220214681600/762558222732230686
 
+## Super Platformer - v1.0
+**Authors:** GoldBl4d3  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7abe31214ced63e180625d8518fc9abbe7897f57/Gameplay/Unbalanced/Tools%20%26%20Gear/Super%20Platformer%20-%20V1.0.zip)  
+
+**Description:**  
+The platform gun has been upgraded with a fast rate of fire and 250 max ammo capacity. Platforms are much thicker but with a smaller width.
+
 ## Thick Platforms - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
