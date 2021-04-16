@@ -2174,6 +2174,26 @@
       }
     ]
   },
+  "bulkpowershift": {
+    "DisplayName": "Bulk Power Shift",
+    "Version": "1",
+    "DrgVersion": "U33",
+    "AuthorIds": [
+      252291709927555072
+    ],
+    "Description": "Reduces the damage of the bulk death explosion from 20000 to 3000, while increasing the damage of its normal attack from 80 to 534. The decreased death explosion damage will still one-shot a doretta section and players (although they might survive in the escape pod more reliably now). The purpose of this mod is to offset the fact that exploding a bulk on a dreadnought no longer requires any timing. It also makes bulks a little more intimidating while they're alive.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/67616c9e65256fe72d17bcbb5b50f05bf433f704/Gameplay/Gamemodes/Alternative%20playstyles/Bulk%20Power%20Shift%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Bulk Power Shift - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank.uasset": "AA-08-65-D2-7A-F8-07-F3",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank.uexp": "9A-61-AA-6D-94-A7-F5-24"
+        }
+      }
+    ]
+  },
   "bulldogm1ksound": {
     "DisplayName": "Bulldog M1K Sound",
     "Version": "1.0",
