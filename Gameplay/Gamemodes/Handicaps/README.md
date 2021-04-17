@@ -39,6 +39,14 @@ Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are
 **Description:**  
 Turns the mutator anomaly 'Critical Weakness' into the opposite. Instead of increasing the damage to weakpoints by 5x from the usual 2x or 3x it turns the spots into hardened shells which only take 0.5x damage. This makes it possible to have two negative mutators at once as it still counts as anomaly not a warning. It also doesn't increase the payout it just the challenge. Refer to the DRG wiki how this mutator usual works and which parts are affected on which creature: https://deeprockgalactic.fandom.com/wiki/Mutators#Critical_Weakness & https://deeprockgalactic.fandom.com/wiki/Creatures . This works only as host but for everyone who joins (no mod manager / not blueprinted).
 
+## Ludicrous Enemy Cap 240 - v1
+**Authors:** Rauliken  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a084c31fcbe4fe49c220b732d7b04860ad3270aa/Gameplay/Gamemodes/Handicaps/Ludicrous%20Enemy%20Cap%20240%20-%20V1.zip)  
+
+**Description:**  
+Increases the normal enemy cap from 60->240 and swarmer cap from 60->240. Use this if the Custom Enemy Cap mod is not updated.
+
 ## No Reviving - v2
 **Authors:** Shrub_Daddy  
 **DRG Version:** 33  

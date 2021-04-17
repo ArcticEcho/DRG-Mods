@@ -6721,6 +6721,26 @@
       }
     ]
   },
+  "ludicrousenemycap240": {
+    "DisplayName": "Ludicrous Enemy Cap 240",
+    "Version": "1",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      275695993574522881
+    ],
+    "Description": "Increases the normal enemy cap from 60->240 and swarmer cap from 60->240. Use this if the Custom Enemy Cap mod is not updated.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a084c31fcbe4fe49c220b732d7b04860ad3270aa/Gameplay/Gamemodes/Handicaps/Ludicrous%20Enemy%20Cap%20240%20-%20V1.zip",
+    "Paks": [
+      {
+        "PakFileName": "LudicrousEnemyCap240",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Game/BP_GameMode.uasset": "0A-42-7F-80-78-BE-87-78",
+          "../../../FSD/Content/Game/BP_GameMode.uexp": "EE-41-14-A2-D3-FF-EA-A0"
+        }
+      }
+    ]
+  },
   "m1kgarand": {
     "DisplayName": "M1K Garand",
     "Version": "2.0",
