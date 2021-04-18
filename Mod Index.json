@@ -9473,55 +9473,6 @@
       }
     ]
   },
-  "samsreloadbar": {
-    "DisplayName": "SamsReloadBar",
-    "Version": "0.7.2",
-    "DrgVersion": "U33H10",
-    "AuthorIds": [
-      276091282542297089
-    ],
-    "Description": "**Requires mod loader**\nA HUD element to show how far along your gun is in reloading. Check out my github for more info [here.](https://github.com/samamstar/SamsReloadBar/)",
-    "LastUpdateChangelog": "Remembered to actually include the changes from 0.7.1 this time (thanks <@!88687704232951808> !)",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/368db10bac4475b5fca2ef645c8b91d28a0e49d8/Quality%20of%20Life/HUD/SamsReloadBar%20-%20V0.7.2%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "SamsReloadBar - V0.7.2",
-        "CookedFileHashes": {
-          "../../../FSD/Content/_modBPs/Mod042.uasset": "68-C7-8A-2F-72-3B-9A-E5",
-          "../../../FSD/Content/_modBPs/SamsMods/SamsBase/Main.uasset": "81-C9-63-0E-56-0A-E0-7C",
-          "../../../FSD/Content/_modBPs/SamsMods/SamsBase/SamsModsMain.uasset": "72-FC-85-B8-4A-10-34-13",
-          "../../../FSD/Content/_modBPs/SamsMods/SamsBase/TEST.uasset": "5D-1B-08-1D-4E-43-E1-BC",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/AllWeapons.uasset": "64-A0-AD-45-07-A4-CB-1F",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/DebugUI.uasset": "16-3A-F1-01-96-CD-61-0B",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/DynamicUIElements/DynamicMessage.uasset": "D0-08-AD-9B-BE-0E-DA-45",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/DynamicUIElements/DynamicModifierCheckbox.uasset": "88-BA-5F-8D-C0-B6-8B-59",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/MessageUI.uasset": "D0-D8-01-55-DC-47-A9-AE",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/ReloadBarData.uasset": "35-80-96-D5-F2-18-CC-D9",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/ReloadBarUI.uasset": "D0-D4-E8-A8-B2-B4-EA-C1",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/SettingsUI.uasset": "1A-51-72-85-4C-8B-F3-9B",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/Textures/BarBorder.uasset": "2E-ED-7D-54-2F-00-BD-EC",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/Textures/BarFill.uasset": "5B-AF-B7-AA-98-62-D6-F6",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/WeaponData.uasset": "88-CB-77-45-3D-79-F1-46",
-          "../../../FSD/Content/_modBPs/Mod042.uexp": "00-CA-90-05-FA-18-56-6E",
-          "../../../FSD/Content/_modBPs/SamsMods/SamsBase/Main.uexp": "EB-AA-10-D9-07-6C-C1-37",
-          "../../../FSD/Content/_modBPs/SamsMods/SamsBase/SamsModsMain.uexp": "9D-1E-3B-2B-01-67-6A-6D",
-          "../../../FSD/Content/_modBPs/SamsMods/SamsBase/TEST.uexp": "B4-A2-14-39-A5-9E-4F-FB",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/AllWeapons.uexp": "25-84-90-A2-01-AA-63-8C",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/DebugUI.uexp": "B9-AB-DC-53-13-54-D4-69",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/DynamicUIElements/DynamicMessage.uexp": "BC-BB-D4-4B-20-34-8C-04",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/DynamicUIElements/DynamicModifierCheckbox.uexp": "FB-04-D5-34-42-8E-43-0B",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/MessageUI.uexp": "F0-11-A1-B4-9B-98-23-A2",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/ReloadBarData.uexp": "80-EB-31-43-61-87-71-6B",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/ReloadBarUI.uexp": "39-9A-8F-B8-B3-BF-EF-53",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/SettingsUI.uexp": "29-7A-A8-BF-FC-67-3E-F2",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/Textures/BarBorder.uexp": "A9-C3-8E-8F-91-24-52-D1",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/Textures/BarFill.uexp": "EB-9F-D1-2B-B4-D2-70-36",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/WeaponData.uexp": "D0-34-87-1C-53-C1-C6-68",
-          "../../../FSD/Content/_modBPs/SamsReloadBar/Textures/BarBorder.ubulk": "E9-B0-AE-2E-D5-C2-63-21"
-        }
-      }
-    ]
-  },
   "scoutforbugplanet": {
     "DisplayName": "Scout for Bug Planet",
     "Version": "1",

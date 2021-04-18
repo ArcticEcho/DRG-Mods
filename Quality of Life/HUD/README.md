@@ -46,18 +46,6 @@ Adds a small mission timer to the top of the screen. Also acts as a deep dive st
 **Description:**  
 Displays real weapon stats (ammo, magazine, and rate of fire) for the "lead storm" powered minigun and zhukov nuk17. Works in the loadout menu as well as the first person ammo counters.
 
-## SamsReloadBar - v0.7.2
-**Authors:** Samamstar  
-**DRG Version:** U33H10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/368db10bac4475b5fca2ef645c8b91d28a0e49d8/Quality%20of%20Life/HUD/SamsReloadBar%20-%20V0.7.2%20_P.pak)  
-
-**Description:**  
-**Requires mod loader**  
-A HUD element to show how far along your gun is in reloading. Check out my github for more info [here.](https://github.com/samamstar/SamsReloadBar/)
-
-**Update v0.7.2 Changelog:**  
-Remembered to actually include the changes from 0.7.1 this time (thanks @Elythnwaen !)
-
 ## Show Events - v1.1.1
 **Authors:** flynoob  
 **DRG Version:** Update 33, Hotfix 10  
