@@ -523,6 +523,19 @@ Notes: **Recallable Minigun Turrets** is a mod made by @Our Lord And Savior Gabe
 This mod was made up keeping in mind the @Sesselpots's Bug Planet Constant Conflict mod gameplay, so it works pretty good killing large hordes of grunts, if you use it in vanilla Hazards this mod will be extremely OP  
 Handle with caution, you can accidentally kill teammates while using this, so you should never forget to recall your turrets to deactivate the electric arc
 
+## Ultra Propellant (Unstable Hyper Propellant) - v1
+**Authors:** Sephiasus  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/36629e0173881ed5cded0f44a73a8388f872639d/Gameplay/Unbalanced/Weapons/Ultra%20Propellant%20%28Unstable%20Hyper%20Propellant%29%20-%20V1%20_P.pak)  
+
+**Description:**  
+Transforms the Hyper Propellant OC into a One Shot Beast!  
+Projectile Speed: 350% -> 1000%  
+Ammo: -2 -> 2  
+Radius -50 -> -20  
+Damage: Now multiplied by 1000 (One Shot to rule em' all)  
+Recoil: Greatly increased
+
 ## UnnerfedElephantRounds - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  

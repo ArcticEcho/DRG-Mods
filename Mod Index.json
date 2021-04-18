@@ -10989,6 +10989,36 @@
       }
     ]
   },
+  "ultrapropellantunstablehyperpropellant": {
+    "DisplayName": "Ultra Propellant (Unstable Hyper Propellant)",
+    "Version": "1",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      229330150142115842
+    ],
+    "Description": "Transforms the Hyper Propellant OC into a One Shot Beast!\nProjectile Speed: 350% -> 1000%\nAmmo: -2 -> 2\nRadius -50 -> -20\nDamage: Now multiplied by 1000 (One Shot to rule em' all)\nRecoil: Greatly increased",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/36629e0173881ed5cded0f44a73a8388f872639d/Gameplay/Unbalanced/Weapons/Ultra%20Propellant%20%28Unstable%20Hyper%20Propellant%29%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Ultra Propellant (Unstable Hyper Propellant) - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_CrazyProjectileSpeed_PGL.uasset": "A0-1F-E8-40-26-EB-74-B5",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Ammo-2_PGL.uasset": "74-D7-56-4B-A4-DE-E0-A8",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Radius-50_PGL.uasset": "CD-E1-E7-1A-6B-5E-68-14",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Special_Disintegration.uasset": "59-C5-2A-D6-97-29-F0-7D",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Special_HyperRecoil.uasset": "CF-42-26-9B-C1-F1-9A-3A",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Special_HyperRecoil_Mass.uasset": "9C-2B-BB-7F-99-39-7F-7C",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_CrazyProjectileSpeed_PGL.uexp": "12-58-7C-6F-D8-6F-A6-D6",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Ammo-2_PGL.uexp": "83-47-07-43-B4-A1-B9-0E",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Radius-50_PGL.uexp": "A9-90-8C-3A-7F-C0-DD-CB",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Special_Disintegration.uexp": "3E-31-F1-2E-4D-D2-36-32",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Special_HyperRecoil.uexp": "C5-EA-C6-21-30-F4-6A-73",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Special_HyperRecoil_Mass.uexp": "EE-BB-7D-8D-11-AC-87-99"
+        }
+      }
+    ]
+  },
   "unnerfedelephantrounds": {
     "DisplayName": "UnnerfedElephantRounds",
     "Version": "1.01",
