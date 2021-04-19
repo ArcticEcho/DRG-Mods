@@ -128,13 +128,16 @@ Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Ga
 **Update v1.2 Changelog:**  
 Updated for Update 34.
 
-## Shrek LURE - v1.0
+## Shrek LURE - v1.1
 **Authors:** Lithobraker  
-**DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e8d911c49675a57ca1aceb3ad30c5c187b7c6736/Audio/Weapons/Shrek%20LURE%20-%20V1.0%20_P.pak)  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/58378e9860473ebc66533b99a0d164507dd44dc1/Audio/Weapons/Shrek%20LURE%20-%20V1.1.zip)  
 
 **Description:**  
 Inspired by someone calling the LURE holograms 'Shreks'. Lure the bugs in for the slaughter with the memetastic All-Star, complete with standard-issue flossing green ogre! Just don't tell Management... Preview: https://streamable.com/dlfvx4
+
+**Update v1.1 Changelog:**  
+Updated for Update 34.
 
 ## Subata Glock 17 - v1.0
 **Authors:** Demellion Dismal  

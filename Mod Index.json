@@ -9552,17 +9552,17 @@
   },
   "shreklure": {
     "DisplayName": "Shrek LURE",
-    "Version": "1.0",
-    "DrgVersion": "Update 33, Hotfix 10",
+    "Version": "1.1",
+    "DrgVersion": "Update 34",
     "AuthorIds": [
       123942120330362882
     ],
     "Description": "Inspired by someone calling the LURE holograms 'Shreks'. Lure the bugs in for the slaughter with the memetastic All-Star, complete with standard-issue flossing green ogre! Just don't tell Management... Preview: https://streamable.com/dlfvx4",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e8d911c49675a57ca1aceb3ad30c5c187b7c6736/Audio/Weapons/Shrek%20LURE%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Updated for Update 34.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/58378e9860473ebc66533b99a0d164507dd44dc1/Audio/Weapons/Shrek%20LURE%20-%20V1.1.zip",
     "Paks": [
       {
-        "PakFileName": "Shrek LURE - V1.0",
+        "PakFileName": "ShrekLure",
         "CookedFileHashes": {
           "../../../FSD/Content/_CustomSounds/lurestar_1.uasset": "C9-D5-5E-E3-49-3B-D1-C9",
           "../../../FSD/Content/_CustomSounds/lurestar_10.uasset": "6D-06-A5-A1-3E-01-95-9E",
