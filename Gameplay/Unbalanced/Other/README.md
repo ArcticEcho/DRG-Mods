@@ -120,6 +120,27 @@ Basically doubles the radius of the triangulation events in the salvage mission,
 --Cryo rockets now carve out a 4.5m area on impact because why not.  
 --All upgrades have been upgraded to make them better and incentivize build specialty.
 
+## Limitedly Better Bosco - v1.0
+**Authors:** haxwithaxe  
+**DRG Version:** Update 33  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/dc9ff1840e2423e7a0e7eed1e9a78f630cf68b58/Gameplay/Unbalanced/Other/Limitedly%20Better%20Bosco%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Slightly improved Bosco mod for Deep Rock Galactic based on Better Bosco and Infinitely Better Bosco.  
+* 11 revives.  
+* Digs like a driller.  
+  * Mining Expert mod supercharges digging speed.  
+* Better light.  
+* Carries faster.  
+* Roughly the same DPS as stock Bosco.  
+  * Increased attack rate (handles things like swarmers slightly better).  
+  * Decreased base damage.  
+  * Armor breaking (not the upgrade) is the same as stock.  
+  * The Damage upgrade makes DPS closer to Better Bosco.  
+* Minimum of 3 rockets.  
+* Larger engagement range.  
+* Decreased response time (targeting, grabber/leech rescue, etc).
+
 ## Supply Pods Keep Grab Progress - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  

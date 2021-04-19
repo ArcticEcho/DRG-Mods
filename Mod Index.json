@@ -5910,6 +5910,64 @@
       }
     ]
   },
+  "limitedlybetterbosco": {
+    "DisplayName": "Limitedly Better Bosco",
+    "Version": "1.0",
+    "DrgVersion": "Update 33",
+    "AuthorIds": [
+      312969692421554176
+    ],
+    "Description": "Slightly improved Bosco mod for Deep Rock Galactic based on Better Bosco and Infinitely Better Bosco.\n* 11 revives.\n* Digs like a driller.\n  * Mining Expert mod supercharges digging speed.\n* Better light.\n* Carries faster.\n* Roughly the same DPS as stock Bosco.\n  * Increased attack rate (handles things like swarmers slightly better).\n  * Decreased base damage.\n  * Armor breaking (not the upgrade) is the same as stock.\n  * The Damage upgrade makes DPS closer to Better Bosco.\n* Minimum of 3 rockets.\n* Larger engagement range.\n* Decreased response time (targeting, grabber/leech rescue, etc).",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/dc9ff1840e2423e7a0e7eed1e9a78f630cf68b58/Gameplay/Unbalanced/Other/Limitedly%20Better%20Bosco%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Limitedly Better Bosco - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Drone/AIC_BoscoController.uasset": "BD-8A-41-E7-09-3D-C2-E6",
+          "../../../FSD/Content/GameElements/Drone/BA_CryoGrenade.uasset": "AD-C1-DF-9E-36-EC-2B-FC",
+          "../../../FSD/Content/GameElements/Drone/BA_Rocket.uasset": "58-02-8A-2B-91-26-E6-8B",
+          "../../../FSD/Content/GameElements/Drone/BP_Bosco.uasset": "8A-33-30-EC-55-09-CD-C9",
+          "../../../FSD/Content/GameElements/Drone/BP_Bosco_Rocket_Frag.uasset": "4B-B3-7A-73-D3-FE-36-80",
+          "../../../FSD/Content/GameElements/Drone/BP_Bosco_Rocket_Ice.uasset": "AD-4E-DF-76-1F-75-E4-2A",
+          "../../../FSD/Content/GameElements/Drone/BP_BoscoAbillityProjectile.uasset": "FD-7F-03-CA-8E-5C-7E-B6",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_CryoGrenadeAbillity.uasset": "54-3D-48-B3-83-D0-DA-C9",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_ElectricDamage.uasset": "A4-24-0C-0A-F6-DC-B9-9F",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_ExtraAbillityCharge.uasset": "87-C3-03-08-36-5A-82-3D",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_ExtraRevive.uasset": "67-C5-B5-CD-2C-93-2A-73",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_ExtraRevive_2.uasset": "2F-9B-89-6A-C9-05-8E-33",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_FasterRecharge.uasset": "C3-83-89-3C-99-8E-24-B5",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_LightRadius.uasset": "ED-45-B9-71-F8-4E-A5-2A",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_MiningSpeed.uasset": "AD-13-03-42-93-CD-5F-12",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_MissileAbillity.uasset": "AF-36-82-12-90-29-09-E8",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_PrimaryDamage.uasset": "FB-74-98-2B-9F-6C-E5-5E",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_SAAOE.uasset": "21-05-A2-78-C8-80-38-CC",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_SAArmorBreak.uasset": "2F-51-CE-F7-D7-BD-7B-2A",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_SAFear.uasset": "47-39-13-91-33-D4-69-2E",
+          "../../../FSD/Content/GameElements/Drone/AIC_BoscoController.uexp": "73-46-A2-AE-4B-BF-97-5A",
+          "../../../FSD/Content/GameElements/Drone/BA_CryoGrenade.uexp": "87-38-8C-BE-43-EC-9B-E2",
+          "../../../FSD/Content/GameElements/Drone/BA_Rocket.uexp": "88-E3-E7-0D-D1-4D-0C-90",
+          "../../../FSD/Content/GameElements/Drone/BP_Bosco.uexp": "47-60-6A-FC-0F-86-A2-CD",
+          "../../../FSD/Content/GameElements/Drone/BP_Bosco_Rocket_Frag.uexp": "49-12-AD-26-A4-CB-98-81",
+          "../../../FSD/Content/GameElements/Drone/BP_Bosco_Rocket_Ice.uexp": "90-1E-A1-E6-9C-A0-B6-42",
+          "../../../FSD/Content/GameElements/Drone/BP_BoscoAbillityProjectile.uexp": "49-AF-41-6E-3C-AF-07-DC",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_CryoGrenadeAbillity.uexp": "DB-A3-B2-4B-3D-9C-C1-0D",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_ElectricDamage.uexp": "EA-AB-01-D8-15-36-6D-5D",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_ExtraAbillityCharge.uexp": "A0-9B-3B-A1-DD-94-82-DD",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_ExtraRevive.uexp": "BE-1E-77-2A-8C-14-A4-EB",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_ExtraRevive_2.uexp": "0D-D4-A0-8F-EB-20-24-A7",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_FasterRecharge.uexp": "B3-48-83-21-FE-09-8A-24",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_LightRadius.uexp": "50-96-8C-B3-87-17-32-A2",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_MiningSpeed.uexp": "D4-10-EE-5C-0D-0A-D1-07",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_MissileAbillity.uexp": "A5-AE-34-79-81-65-7F-53",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_PrimaryDamage.uexp": "0C-70-C2-B2-33-10-2D-0D",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_SAAOE.uexp": "8C-45-E6-C8-D4-C8-2B-29",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_SAArmorBreak.uexp": "B5-1A-C1-AE-F8-4C-EC-AC",
+          "../../../FSD/Content/GameElements/Drone/Upgrades/UPG_Bosco_SAFear.uexp": "AA-AF-BA-D1-97-8C-01-70"
+        }
+      }
+    ]
+  },
   "lloydtakealligot": {
     "DisplayName": "Lloyd Take All I Got",
     "Version": "0",
