@@ -4,25 +4,6 @@ Unbalanced changes to tools and gear.
 
 <!-- mod list -->
 
-## Bucky Boy Bosco - v1.0
-**Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c8fa3cffdeebb8391ea097bb044ae9835b29842c/Gameplay/Unbalanced/Tools%20%26%20Gear/Bucky%20Boy%20Bosco%20-%20V1.0%20_P.pak)  
-
-**Description:**  
---Tripled Bosco's upgradeable mining speed 1.0 > 3.0  
---Tripled Bosco's max acceleration 900.0 > 2700.0  
---Tripled Bosco's max pawnSpeed 450.0 > 1350.0  
---Increased Bosco's carrying speed 275.0 > 825.0  
---Increased Bosco's carrying acceleration 400.0 > 1200.0  
---Increased Bosco's mining radius 105.0 > 155.0  
---Doubled Bosco's fire rate 10.0 > 20.0  
---Doubled Bosco's minimum shot burst 5 > 10  
---Doubled Bosco's maximum shot burst 12 > 24  
---Doubled Bosco's rotation speed 5.0 > 10.0  
---Doubled Bosco's max revives 2 > 4  
---Doubled Bosco's light intensity 3000.0 > 6000.0 / 10.0 > 30.0
-
 ## Extended Armor Mineral Capacity (20) - v1.0
 **Authors:** BrewBreuw  
 **DRG Version:** Update 32/33  
