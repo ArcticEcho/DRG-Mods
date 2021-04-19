@@ -22,22 +22,6 @@ Cryo Cannon:
 Decrease Cold Damage (Temmperature) from 8 to 7  
 Gear Mod T4B: Increase Cold Damage (Temperature) from 1 to 2
 
-## BBP (Big Balance Patch) - v1.7
-**Authors:** GreyHound  
-**DRG Version:** U33 Hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/af7827651b0d5ea6689e898c1ee834d9f63804f6/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.7.zip)  
-
-**Description:**  
-Pretty much overhauls your entire DRG gameplay experience. The changelog is too long to post here, so it has been included in the zip file. Also features a PDF changelog option.  
-Notes:   
-1. Changes will fully work only if the lobby host has the mod installed, otherwise any damage changes will be ignored and set to vanilla.  
-2. Do not use it with any mods that alter the weapons' base values (ammo, damage etc.); perks and grenades have been altered as well, so are utility tools and armor mods. I'm not responsible for your crashes should you choose to ignore this;)  
-    This mod includes a rework of the PGL, extensive changes to Zhukovs/Subata/Warthog/Autocannon/Breach Cutter and buffs to underperforming OCs/weapons/perks/grenades along with nerfs to overperforming ones.  
-    Note on shield generator changes: there is currently a bug where the duration upgrades apply twice. In order to "fix" this, I halved them so the values actually match what's written in the files. This is a temporary solution and will be reverted once GSG fixes the issue.
-
-**Update v1.7 Changelog:**  
-included in the doc/pdf with entries under (v1.7) in bold or underlined/bolded in case it was an update to an earlier change.
-
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  
