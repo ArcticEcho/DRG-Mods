@@ -50,14 +50,6 @@ Makes 8 of the special beers effects last longer
 -**Underhill Deluxe** Duration 30s > 300s  
 -**Underhill Deluxe** Scale 0.5x > 0.37x
 
-## Disco Fever! - v1.0
-**Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3c0e3669560418544dbb3d0f9db6bd0b94d40f0b/Gameplay/Misc/Disco%20Fever%21%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Drinking a Blackreach Blonde will make you dance for 5 hours, or until you drink a Leaf Lover or DIE
-
 ## Escort mission flying rocks reduced health - v33.2.0
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 2  
