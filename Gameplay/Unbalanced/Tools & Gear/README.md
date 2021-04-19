@@ -64,14 +64,6 @@ A spiritual placeholder mod for @Our Lord And Savior Gabe Newell 's Fuster Cluck
 **Description:**  
 Makes "Fall Damage + Bug Repellent" platforms sticky goo from fungus bogs.
 
-## Max Level Drill - v1.0
-**Authors:** Chibba  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2c1e5b182e28655549cfb959788beba4bbbd9c8c/Gameplay/Unbalanced/Tools%20%26%20Gear/Max%20Level%20Drill%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Set the three Drill parameter (x,y,z) to max
-
 ## Minigun Turrets - v1.1
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 9  
