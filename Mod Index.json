@@ -4040,26 +4040,6 @@
       }
     ]
   },
-  "fullmetalscout": {
-    "DisplayName": "Fullmetal Scout",
-    "Version": "1.0",
-    "DrgVersion": "U 33, HF 2",
-    "AuthorIds": [
-      156386896866574336
-    ],
-    "Description": "A heavily armed Scout, no balance changes, only the Scout Loadout now includes the primaries Minigun, Cryo and secondaries PGL, Autocannon also IFG -> Axe, Pheremones -> Lure",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/98d8dfc45083f818667e9981d4fb03834d786c70/Gameplay/Unbalanced/Weapons/Fullmetal%20Scout%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Fullmetal Scout - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Character/InventoryLists/BP_ScoutInventory.uasset": "0A-56-93-50-04-5E-A4-A1",
-          "../../../FSD/Content/Character/InventoryLists/BP_ScoutInventory.uexp": "0E-D3-A4-3B-35-C8-9D-23"
-        }
-      }
-    ]
-  },
   "fustercluckjr": {
     "DisplayName": "Fuster Cluck Jr",
     "Version": "1.01",

@@ -198,14 +198,6 @@ Note:  Please set the “prevent latejoin character duplication” option to TRU
 **Update v3.51 Changelog:**  
 Adjusted some values so that now the flare rifle can one shot grunts to the head. Updated Readme Slightly
 
-## Fullmetal Scout - v1.0
-**Authors:** Chibba  
-**DRG Version:** U 33, HF 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/98d8dfc45083f818667e9981d4fb03834d786c70/Gameplay/Unbalanced/Weapons/Fullmetal%20Scout%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-A heavily armed Scout, no balance changes, only the Scout Loadout now includes the primaries Minigun, Cryo and secondaries PGL, Autocannon also IFG -> Axe, Pheremones -> Lure
-
 ## Grenade Rework - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 3  
