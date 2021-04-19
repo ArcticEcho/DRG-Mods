@@ -111,16 +111,16 @@ Download Link None
 **Description:**  
 Like putting tribals on a car.
 
-## Pingy M1000 - v1.1
+## Pingy M1000 - v1.2
 **Authors:** Lithobraker  
-**DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8c3979cbbeea41023d291accb85611bc240fdb8c/Audio/Weapons/Pingy%20M1000%20-%20V1.1%20_P.pak)  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/72f2879a7fc9c90bb037275412cd7f57936e058d/Audio/Weapons/Pingy%20M1000%20-%20V1.2.zip)  
 
 **Description:**  
 Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Garand ping. It also replaces the firing sounds with ones that are a mixture of samples from Call of Duty: World At War, Team Fortress 2, and Counter-Strike: Global Offensive. Let me know if you want a version that just replaces the ping. Preview: https://streamable.com/p6juhr
 
-**Update v1.1 Changelog:**  
-Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.
+**Update v1.2 Changelog:**  
+Updated for Update 34.
 
 ## Shrek LURE - v1.0
 **Authors:** Lithobraker  

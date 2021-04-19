@@ -8915,17 +8915,17 @@
   },
   "pingym1000": {
     "DisplayName": "Pingy M1000",
-    "Version": "1.1",
-    "DrgVersion": "Update 33, Hotfix 10",
+    "Version": "1.2",
+    "DrgVersion": "Update 34",
     "AuthorIds": [
       123942120330362882
     ],
     "Description": "Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Garand ping. It also replaces the firing sounds with ones that are a mixture of samples from Call of Duty: World At War, Team Fortress 2, and Counter-Strike: Global Offensive. Let me know if you want a version that just replaces the ping. Preview: https://streamable.com/p6juhr",
-    "LastUpdateChangelog": "Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8c3979cbbeea41023d291accb85611bc240fdb8c/Audio/Weapons/Pingy%20M1000%20-%20V1.1%20_P.pak",
+    "LastUpdateChangelog": "Updated for Update 34.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/72f2879a7fc9c90bb037275412cd7f57936e058d/Audio/Weapons/Pingy%20M1000%20-%20V1.2.zip",
     "Paks": [
       {
-        "PakFileName": "Pingy M1000 - V1.1",
+        "PakFileName": "PingyM1000",
         "CookedFileHashes": {
           "../../../FSD/Content/_CustomSounds/Boltaction_1.uasset": "09-49-51-51-7C-23-2E-A1",
           "../../../FSD/Content/_CustomSounds/Boltaction_Charged_1.uasset": "FF-E8-33-19-9C-F3-96-82",
