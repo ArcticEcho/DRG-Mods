@@ -72,16 +72,16 @@ Replaces the Subata 120's firing sound and reload sounds with those of the M6D M
 **Description:**  
 Replaces the Lead Storm Minigun's firing and spin-up sounds. The firing loop is a modified sound effect from City of Heroes, meanwhile the spin-up is sourced from the Giant Heavy Robot spin-up sound from Team Fortress 2. Preview: https://streamable.com/hpbzpz
 
-## HL1 HD Bulldog - v1.1
+## HL1 HD Bulldog - v1.2
 **Authors:** Lithobraker  
-**DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f8bc5bf6790ed2d4c250d8d406d597acf976d66f/Audio/Weapons/HL1%20HD%20Bulldog%20-%20V1.1%20_P.pak)  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/db589267e41116ce39fd9a25239521c312fc8381/Audio/Weapons/HL1%20HD%20Bulldog%20-%20V1.2.zip)  
 
 **Description:**  
 Replaces the Bulldog's firing sounds with HD versions of the .357 Revolver from Half-Life. Preview: https://streamable.com/46htod
 
-**Update v1.1 Changelog:**  
-Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.
+**Update v1.2 Changelog:**  
+Updated for Update 34.
 
 ## Kaboomstick - v1.1
 **Authors:** Lithobraker  
