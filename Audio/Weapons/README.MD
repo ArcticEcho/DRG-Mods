@@ -64,13 +64,16 @@ Changes the engineers grenade launcher shooting and reloading sound to the M79 s
 **Description:**  
 Replaces the Subata 120's firing sound and reload sounds with those of the M6D Magnum from Halo: Combat Evolved. Preview: https://streamable.com/zn8fm2
 
-## Heavy Lead Storm - v1.0
+## Heavy Lead Storm - v1.1
 **Authors:** Lithobraker  
-**DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d668a576cb3f03630e1d58bd89f144b08c1b0ca8/Audio/Weapons/Heavy%20Lead%20Storm%20-%20V1.0%20_P.pak)  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e7a9bfb65708e2e3ab9c9d05758143a40467e3dd/Audio/Weapons/Heavy%20Lead%20Storm%20-%20V1.1.zip)  
 
 **Description:**  
 Replaces the Lead Storm Minigun's firing and spin-up sounds. The firing loop is a modified sound effect from City of Heroes, meanwhile the spin-up is sourced from the Giant Heavy Robot spin-up sound from Team Fortress 2. Preview: https://streamable.com/hpbzpz
+
+**Update v1.1 Changelog:**  
+Updated for Update 34.
 
 ## HL1 HD Bulldog - v1.2
 **Authors:** Lithobraker  
