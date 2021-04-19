@@ -11131,26 +11131,6 @@
       }
     ]
   },
-  "vampiresatchelcharge": {
-    "DisplayName": "Vampire Satchel Charge",
-    "Version": "1.0",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      156386896866574336
-    ],
-    "Description": "changes the damage type of the Satchel Charge to physical (melee) damage, therefore allowing it to proc Vampire and also (theoretically) deal massive damage to Glyphid Dreadnought since it ignores their 40% Explosive Resistance",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/53b2975b079255794de3b06c5ee6ec485aa8b247/Gameplay/Unbalanced/Tools%20%26%20Gear/Vampire%20Satchel%20Charge%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Vampire Satchel Charge - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/DetPack/BP_DetPack_Charge.uasset": "F8-AD-7A-07-42-38-E8-7F",
-          "../../../FSD/Content/WeaponsNTools/DetPack/BP_DetPack_Charge.uexp": "F3-35-68-21-3D-2C-A8-75"
-        }
-      }
-    ]
-  },
   "warmerswarmers": {
     "DisplayName": "Warmer Swarmers",
     "Version": "1",
