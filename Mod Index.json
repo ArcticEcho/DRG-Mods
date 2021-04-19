@@ -7763,27 +7763,6 @@
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9ed28a5e7f8cfa6b0d58d2a24f1e611e6820ce9b/Framework/Music%20Control%20-%20V1.0.zip",
     "Paks": []
   },
-  "neurotoxinpayloadbuff": {
-    "DisplayName": "Neurotoxin Payload Buff",
-    "Version": "1.0",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      712926827911446548
-    ],
-    "Description": "[Changes the Neurotoxin Payload OC for the Autocannon]\n--Increased the chance to entox enemies from 30% to 100%",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/71a7bac9d4e787a662677bd95a5cacd689d2fc3f/Gameplay/Unbalanced/Weapons/Neurotoxin%20Payload%20Buff%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Neurotoxin Payload Buff - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/Autocannon/Overclocks/OC_BonusesAndPenalties/OC_Bonus_NeuroToxinAoE_Autocannon.uexp.bak": "ED-B5-2D-58-C6-65-5C-D6",
-          "../../../FSD/Content/WeaponsNTools/Autocannon/Overclocks/OC_BonusesAndPenalties/OC_Bonus_NeuroToxinAoE_Autocannon.uexp": "00-49-EB-24-11-0A-0E-17",
-          "../../../FSD/Content/WeaponsNTools/WPN_Pickaxe.uexp": "35-F0-64-AD-8E-C9-D4-E5"
-        }
-      }
-    ]
-  },
   "nochokingsoundonlowoxygen": {
     "DisplayName": "No Choking Sound on Low Oxygen",
     "Version": "1.0",

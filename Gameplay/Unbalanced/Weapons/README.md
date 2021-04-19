@@ -309,15 +309,6 @@ Changes Bullet Hell Overclock for the Gunner Minigun
 -As Host: Affects only your own Minigun  
 -As Client: Affects only your own Minigun
 
-## Neurotoxin Payload Buff - v1.0
-**Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/71a7bac9d4e787a662677bd95a5cacd689d2fc3f/Gameplay/Unbalanced/Weapons/Neurotoxin%20Payload%20Buff%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-[Changes the Neurotoxin Payload OC for the Autocannon]  
---Increased the chance to entox enemies from 30% to 100%
-
 ## Pepega Gunner - v2.2
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 33, Hotfix 7  
