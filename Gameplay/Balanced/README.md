@@ -42,6 +42,14 @@ gemini system ammo increased 100 > 200
 --Reduces time to detonate to 0.5 seconds after throwing.  
 --Increased throw velocity to give it some range before detonating.
 
+## LMG Rebalance - v0.0
+**Authors:** Drillboy Jenkins  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c4311337c24d05e3096ba4bf3d8eda6a73dbc3bf/Gameplay/Balanced/LMG%20Rebalance%20-%20V0.0.zip)  
+
+**Description:**  
+Engie's sentry rebalance based on damage splitting. Buffs MkII and makes Defender System not so important to pick. Addresses issues of T1 and T4. (1) Buffs MkI total damage, nerfs Gemini RoF.  (2) Slight baseline buff that makes Hawkeye better while Defender gets a compensating nerf. (3) Details in changelog.txt in the mod's folder.
+
 ## Lootsplosion - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  

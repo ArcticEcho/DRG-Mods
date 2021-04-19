@@ -5951,6 +5951,44 @@
       }
     ]
   },
+  "lmgrebalance": {
+    "DisplayName": "LMG Rebalance",
+    "Version": "0.0",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      550333619940622359
+    ],
+    "Description": "Engie's sentry rebalance based on damage splitting. Buffs MkII and makes Defender System not so important to pick. Addresses issues of T1 and T4. (1) Buffs MkI total damage, nerfs Gemini RoF.  (2) Slight baseline buff that makes Hawkeye better while Defender gets a compensating nerf. (3) Details in changelog.txt in the mod's folder.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c4311337c24d05e3096ba4bf3d8eda6a73dbc3bf/Gameplay/Balanced/LMG%20Rebalance%20-%20V0.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "LMG_Rebalance",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Redeployable.uasset": "A6-A7-D0-88-F4-16-0B-0B",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/Changelog.txt": "EB-48-0B-05-94-74-CE-18",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/ReadMe.txt": "13-31-EF-97-14-6B-37-39",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_D_Damage.uasset": "9F-D2-89-3A-4B-3A-FF-44",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_TotalAmmo.uasset": "68-C8-4A-08-AE-F7-D0-4E",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_A_Damage.uasset": "45-9B-2E-C9-C9-94-EA-50",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_B_ReloadSpeed.uasset": "26-BE-19-15-79-C1-8B-20",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_B_TotalAmmo.uasset": "A5-DE-60-0A-96-39-EF-DB",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_C_StaggerStun.uasset": "59-15-B9-B5-5C-E1-29-F0",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_C_TurretCapacity.uasset": "10-7C-E2-86-B7-1E-A4-9C",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/WPN_RecallableSentryGun.uasset": "BF-52-1E-8F-89-0B-85-09",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Redeployable.uexp": "00-3F-D2-58-B3-B8-DE-14",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_D_Damage.uexp": "86-E6-60-23-E6-CC-27-79",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_EFFECT_SentryGun_TotalAmmo.uexp": "64-6D-B4-A0-B5-1F-04-A1",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_A_Damage.uexp": "C3-D6-67-A1-8B-7E-76-7B",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_B_ReloadSpeed.uexp": "F1-A1-F6-34-95-F0-11-E2",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_B_TotalAmmo.uexp": "8F-3D-0E-68-DF-53-23-D0",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_C_StaggerStun.uexp": "14-6E-FA-AE-D5-A2-4E-41",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/UPG_SentryGun_C_TurretCapacity.uexp": "3D-0E-C4-1B-BE-34-81-BA",
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/WPN_RecallableSentryGun.uexp": "83-A0-A2-B6-D1-83-9E-59"
+        }
+      }
+    ]
+  },
   "lootbugpettingvoice": {
     "DisplayName": "Lootbug Petting Voice",
     "Version": "1.0",
