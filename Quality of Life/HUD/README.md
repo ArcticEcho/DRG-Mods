@@ -38,14 +38,6 @@ Adds a small mission timer to the top of the screen. Also acts as a deep dive st
 - Added an option to show fractions of a second.  
  - Reworked the internal HUD handling to allow compatibility with other mods.
 
-## RealWeaponStats_U33H6 - v0
-**Authors:** Shattered  
-**DRG Version:** 0  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/836ff189301bec11a5d797430255685b70ed2cc5/Quality%20of%20Life/HUD/RealWeaponStats_U33H6%20-%20V0%20_P.pak)  
-
-**Description:**  
-Displays real weapon stats (ammo, magazine, and rate of fire) for the "lead storm" powered minigun and zhukov nuk17. Works in the loadout menu as well as the first person ammo counters.
-
 ## Show Events - v1.1.1
 **Authors:** flynoob  
 **DRG Version:** Update 33, Hotfix 10  
