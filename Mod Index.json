@@ -6148,17 +6148,17 @@
   },
   "kaboomstick": {
     "DisplayName": "Kaboomstick",
-    "Version": "1.1",
-    "DrgVersion": "Update 33, Hotfix 10",
+    "Version": "1.2",
+    "DrgVersion": "Update 34",
     "AuthorIds": [
       123942120330362882
     ],
     "Description": "Replaces the Jury-Rigged Boomstick's firing sounds with the Sawed-Off from Counter-Strike: Global Offensive. Preview: https://streamable.com/8xnjyu",
-    "LastUpdateChangelog": "Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6df9843aa482761207b0355612fe6064b7847d3c/Audio/Weapons/Kaboomstick%20-%20V1.1%20_P.pak",
+    "LastUpdateChangelog": "Updated for Update 34.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5c990c2773010f614344b53009a9b7dbc917985c/Audio/Weapons/Kaboomstick%20-%20V1.2.zip",
     "Paks": [
       {
-        "PakFileName": "Kaboomstick - V1.1",
+        "PakFileName": "Kaboomstick",
         "CookedFileHashes": {
           "../../../FSD/Content/_CustomSounds/Sawedoff_1.uasset": "B4-68-84-C9-D2-B0-75-25",
           "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsSingle.uasset": "38-93-3F-C3-07-50-F8-DD",

@@ -83,16 +83,16 @@ Replaces the Bulldog's firing sounds with HD versions of the .357 Revolver from 
 **Update v1.2 Changelog:**  
 Updated for Update 34.
 
-## Kaboomstick - v1.1
+## Kaboomstick - v1.2
 **Authors:** Lithobraker  
-**DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6df9843aa482761207b0355612fe6064b7847d3c/Audio/Weapons/Kaboomstick%20-%20V1.1%20_P.pak)  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5c990c2773010f614344b53009a9b7dbc917985c/Audio/Weapons/Kaboomstick%20-%20V1.2.zip)  
 
 **Description:**  
 Replaces the Jury-Rigged Boomstick's firing sounds with the Sawed-Off from Counter-Strike: Global Offensive. Preview: https://streamable.com/8xnjyu
 
-**Update v1.1 Changelog:**  
-Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.
+**Update v1.2 Changelog:**  
+Updated for Update 34.
 
 ## M1K Garand - v2.0
 **Authors:** Demellion Dismal  
