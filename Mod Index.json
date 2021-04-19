@@ -11129,17 +11129,17 @@
   },
   "warthogpunch": {
     "DisplayName": "Warthog Punch",
-    "Version": "1.1",
-    "DrgVersion": "Update 33, Hotfix 10",
+    "Version": "1.2",
+    "DrgVersion": "Update 34",
     "AuthorIds": [
       123942120330362882
     ],
     "Description": "Replaces the Warthog's firing sounds with those of the XM1014 from Counter-Strike: Global Offensive. Never played it myself, but these sounds have KICK! Preview: https://streamable.com/2hohct",
-    "LastUpdateChangelog": "Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0f8a121c6ccac433644944d94552757af4029eed/Audio/Weapons/Warthog%20Punch%20-%20V1.1%20_P.pak",
+    "LastUpdateChangelog": "Updated for Update 34.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/250b12d0d86594dc101d929e7baf12faf7039e04/Audio/Weapons/Warthog%20Punch%20-%20V1.2.zip",
     "Paks": [
       {
-        "PakFileName": "Warthog Punch - V1.1",
+        "PakFileName": "WarthogPunch",
         "CookedFileHashes": {
           "../../../FSD/Content/_CustomSounds/CombatShotgun_1.uasset": "A2-E6-F0-73-E7-7E-06-EB",
           "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsSingle.uasset": "82-FC-18-59-B7-A2-EA-0D",

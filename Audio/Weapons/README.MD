@@ -139,13 +139,13 @@ Inspired by someone calling the LURE holograms 'Shreks'. Lure the bugs in for th
 Replaces Subata sounds with Glock 17 sounds  
 Download Link None
 
-## Warthog Punch - v1.1
+## Warthog Punch - v1.2
 **Authors:** Lithobraker  
-**DRG Version:** Update 33, Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0f8a121c6ccac433644944d94552757af4029eed/Audio/Weapons/Warthog%20Punch%20-%20V1.1%20_P.pak)  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/250b12d0d86594dc101d929e7baf12faf7039e04/Audio/Weapons/Warthog%20Punch%20-%20V1.2.zip)  
 
 **Description:**  
 Replaces the Warthog's firing sounds with those of the XM1014 from Counter-Strike: Global Offensive. Never played it myself, but these sounds have KICK! Preview: https://streamable.com/2hohct
 
-**Update v1.1 Changelog:**  
-Fixed the mod not obeying game volume settings, tweaked sound volume, and replaced the multiple sound files being used for pitch variance with a pitch modulator instead.
+**Update v1.2 Changelog:**  
+Updated for Update 34.
