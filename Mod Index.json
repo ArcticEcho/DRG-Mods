@@ -6540,56 +6540,6 @@
       }
     ]
   },
-  "legendaryhoarder": {
-    "DisplayName": "Legendary Hoarder",
-    "Version": "1.0",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      360816319722946560
-    ],
-    "Description": "--Removes all these useless sandwich storage slots, allowing you to double up on all your weapon ammo!",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b731accc001a3f71f945db4114434d4464114c2b/Gameplay/Unbalanced/Weapons/Legendary%20Hoarder%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Legendary Hoarder - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uasset": "4A-44-3D-22-1E-8B-F4-88",
-          "../../../FSD/Content/WeaponsNTools/Autocannon/WPN_Autocannon.uasset": "8B-12-47-2E-36-40-64-7E",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uasset": "2A-53-DA-F6-4D-32-52-0B",
-          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/WPN_BurstPistol.uasset": "26-4F-07-25-F9-82-03-F1",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uasset": "90-DF-78-CE-0E-10-00-92",
-          "../../../FSD/Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uasset": "6C-98-B4-9E-CE-4F-6E-9E",
-          "../../../FSD/Content/WeaponsNTools/Cryospray/WPN_Cryospray.uasset": "D7-20-5C-16-72-71-75-08",
-          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uasset": "4A-11-94-F6-56-75-B7-6F",
-          "../../../FSD/Content/WeaponsNTools/FlameThrower/WPN_FlameThrower.uasset": "FE-D6-1D-25-7F-6D-98-5D",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset": "3F-19-F1-A7-5A-D8-EC-42",
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/WPN_GrenadeLauncher.uasset": "CE-BA-3D-C5-FB-62-C0-37",
-          "../../../FSD/Content/WeaponsNTools/LineCutter/WPN_LineCutter.uasset": "2F-98-B5-C1-45-DE-FB-F8",
-          "../../../FSD/Content/WeaponsNTools/Pistol/WPN_Pistol_A.uasset": "09-35-1E-88-61-2D-67-81",
-          "../../../FSD/Content/WeaponsNTools/Revolver/WPN_Revolver.uasset": "6A-9D-48-B4-9A-C9-6B-F3",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uasset": "7B-72-CE-35-9D-EC-C7-69",
-          "../../../FSD/Content/WeaponsNTools/SMG/WPN_SMG_OneHand.uasset": "5B-24-FE-02-31-14-80-54",
-          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uexp": "A1-5B-64-5F-C7-3E-43-03",
-          "../../../FSD/Content/WeaponsNTools/Autocannon/WPN_Autocannon.uexp": "89-A9-1D-CA-16-03-86-36",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uexp": "35-2A-4F-A1-C6-77-B9-0C",
-          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/WPN_BurstPistol.uexp": "12-69-47-F5-40-2C-96-EA",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uexp": "E5-EE-1E-46-4F-BE-FE-04",
-          "../../../FSD/Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uexp": "94-DE-D7-91-8C-A4-BB-4A",
-          "../../../FSD/Content/WeaponsNTools/Cryospray/WPN_Cryospray.uexp": "4A-8B-1B-24-D3-7C-CF-54",
-          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uexp": "7D-C6-88-9C-3B-83-F2-93",
-          "../../../FSD/Content/WeaponsNTools/FlameThrower/WPN_FlameThrower.uexp": "DD-C0-EC-64-22-A4-40-41",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "7C-9D-33-BC-6B-9F-21-A1",
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/WPN_GrenadeLauncher.uexp": "22-CF-9F-F8-96-46-55-90",
-          "../../../FSD/Content/WeaponsNTools/LineCutter/WPN_LineCutter.uexp": "7E-24-A7-9E-0B-4D-67-90",
-          "../../../FSD/Content/WeaponsNTools/Pistol/WPN_Pistol_A.uexp": "CB-BB-23-29-70-0B-06-3E",
-          "../../../FSD/Content/WeaponsNTools/Revolver/WPN_Revolver.uexp": "C2-AD-02-B6-55-53-55-AD",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uexp": "C0-DB-01-AB-89-0A-3C-67",
-          "../../../FSD/Content/WeaponsNTools/SMG/WPN_SMG_OneHand.uexp": "11-0F-7B-37-DA-29-2B-06"
-        }
-      }
-    ]
-  },
   "lettherebelight": {
     "DisplayName": "Let There Be Light",
     "Version": "1.0",

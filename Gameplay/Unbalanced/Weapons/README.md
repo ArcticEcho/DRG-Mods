@@ -265,14 +265,6 @@ Found a better solution for issue with T5.2 Max Ammo upgrade
 - As a host, the upgrade will affect everyone using the EPC  
 - As a client, this mod will not affect the projectile speed, but there will be a slight desync where the projectile looks faster for a brief period.
 
-## Legendary Hoarder - v1.0
-**Authors:** GreyHound  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b731accc001a3f71f945db4114434d4464114c2b/Gameplay/Unbalanced/Weapons/Legendary%20Hoarder%20-%20V1.0%20_P.pak)  
-
-**Description:**  
---Removes all these useless sandwich storage slots, allowing you to double up on all your weapon ammo!
-
 ## MagicGK2 - v1.0
 **Authors:** BongoSkaggs  
 **DRG Version:** U33 H5  
