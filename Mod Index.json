@@ -2914,26 +2914,6 @@
       }
     ]
   },
-  "escortrocknerf": {
-    "DisplayName": "Escort Rock Nerf",
-    "Version": "1.0",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      712926827911446548
-    ],
-    "Description": "For the hyperspawn mods\n--Ommeran Rock Attack Rocks have half health",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/421474b2fa5859af8712e3b60ea2a3ddd6066610/Gameplay/Unbalanced/Other/Escort%20Rock%20Nerf%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Escort Rock Nerf - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uasset": "9E-DB-E5-EA-4C-85-75-EE",
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "AE-45-04-DC-25-D0-AA-E3"
-        }
-      }
-    ]
-  },
   "experimentalfatboycharger": {
     "DisplayName": "Experimental Fatboy Charger",
     "Version": "1.01",

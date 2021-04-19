@@ -85,15 +85,6 @@ Unbalanced mods that don't belong in the other categories.
 **Description:**  
 Basically doubles the radius of the triangulation events in the salvage mission, although visuals do NOT update to their proper size.
 
-## Escort Rock Nerf - v1.0
-**Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/421474b2fa5859af8712e3b60ea2a3ddd6066610/Gameplay/Unbalanced/Other/Escort%20Rock%20Nerf%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-For the hyperspawn mods  
---Ommeran Rock Attack Rocks have half health
-
 ## Faster Deposit - v1.0
 **Authors:** Sesselpots  
 **DRG Version:** Update 33  
