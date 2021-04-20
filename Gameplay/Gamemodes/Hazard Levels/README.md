@@ -84,17 +84,20 @@ This mod is for making things difficult while waiting for joiners, testing 4man 
 --This includes enemy count, health, and damage.   
 --Get the experience of playing in the main discord while freeing up your field medic perk slot!
 
-## Hazard 5.5 - v1.0
+## Hazard 5.5 - v2.0
 **Authors:** Ike  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/44a4cc454f95bea8e70efcc505a6599e764b8c73/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205.5%20-%20V1.0%20_P.pak)  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ad703a74651333d89182765d145de2b384036b50/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205.5%20-%20V2.0%20_P.pak)  
 
 **Description:**  
 --Replaces the hazard 5 file, and is not compatible with other mods that do the same.  
 --Sets the values to what they are in Hazard 5.5 the last stage of the EDD  
 --Compared to Haz5 this means slightly increased enemy speed and damage, as well as more fall damage.  
---Should show Haz5.5 in game.  
+--Shows Haz5.5 in game.  
 --Per request to add some challenge to viewer spawns since enemy amount isn't affected but enemy stats are.
+
+**Update v2.0 Changelog:**  
+Updated for U34
 
 ## Hazard 6 - v4.0
 **Authors:** Ike  
