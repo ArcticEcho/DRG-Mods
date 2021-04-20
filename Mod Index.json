@@ -6119,6 +6119,26 @@
       }
     ]
   },
+  "m1ku34debuff": {
+    "DisplayName": "M1K U34 Debuff",
+    "Version": "0.0",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      550333619940622359
+    ],
+    "Description": "DOMNT BUFF M1K PLIZ.\nCore idea is to keep base dmg 50 and weakspots bonus 10% base and +25% with T4 (mod moves it to T2).\n- Literally reuses M1K base weapon from U33.\n- Implements AB revival mod tierswitch (T2 and T4 actually are mirrored).\nhttps://discord.com/channels/676880716142739467/732650220214681600/834202026953932821",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4b92e6e0d2a1994158821f104cd0b4a21d81c5e7/Gameplay/Balanced/M1K%20U34%20Debuff%20-%20V0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "M1K U34 Debuff - V0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uasset": "CD-3B-A3-F2-CE-CE-85-15",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uexp": "21-96-AD-20-B2-D9-E5-E6"
+        }
+      }
+    ]
+  },
   "magicgk2": {
     "DisplayName": "MagicGK2",
     "Version": "1.0",
