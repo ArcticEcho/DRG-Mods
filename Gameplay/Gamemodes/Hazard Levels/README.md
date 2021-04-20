@@ -96,26 +96,26 @@ This mod is for making things difficult while waiting for joiners, testing 4man 
 --Should show Haz5.5 in game.  
 --Per request to add some challenge to viewer spawns since enemy amount isn't affected but enemy stats are.
 
-## Hazard 6 - v3.5
+## Hazard 6 - v4.0
 **Authors:** Ike  
-**DRG Version:** Update 33 Hotfix 11  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b4c027e017f40e99f2d635dfd4aa8049d99e6dd3/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V3.5%20_P.pak)  
+**DRG Version:** Update 34 Exp  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e96c78677a48d09759022cbf2e6e27cb7002a1a5/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V4.0%20_P.pak)  
 
 **Description:**  
-This comprehensive Hazard 6 Mod  
+This is a comprehensive Hazard 6 Mod  
 --This replaces the Hazard 5 file so it isn't compatible with other mods that do the same  
 --The in-game and steam/discord status will update to say Hazard 6. Rewards multiplier is set to 166%.  
 --The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing  
 --In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up.   
 --This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate.   
---Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up.   
---Changes since V2.0 include:  
--Special enemies like spitters and swarmers have an easier time spawning  
--Enemies do a little more damage to make scaling more consistent with base game hazards and counteract the difficulty reduction from special enemy spawn frequency  
--There is much more variance mission to mission in all difficulty elements
+--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up.
 
-**Update v3.5 Changelog:**  
-corrected doretta file for hotfix (again)
+**Update v4.0 Changelog:**  
+--Changes since V3.0 include:  
+-Figured out how to increase the spawn table allowing all types of disruptive enemies to spawn without preventing special spawns.  
+-Toned down some of the variance on stationary strength and enemy diversity  
+-Slightly increased enemy damage scaling and medium enemy health to keep it parallel to Haz4->5  
+-Can't figure out how to get elites to spawn more often for now...
 
 ## Hazard 6 Carry - v3.5
 **Authors:** Ike  
