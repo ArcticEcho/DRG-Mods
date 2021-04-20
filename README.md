@@ -165,7 +165,6 @@ You can easily locate your game installation path using steam:
  - **[UnnerfedThorns](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Unbalanced/Perks/README.md#unnerfedthorns---v101)** by BongoSkaggs ([download](https://github.com/ArcticEcho/DRG-Mods/raw/6fce342ee5ec29378503c23331714643e71eeb01/Gameplay/Unbalanced/Perks/UnnerfedThorns%20-%20V1.01%20_P.pak))
 
 ## [Gameplay/Unbalanced/Resources & Progression](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Unbalanced/Resources%20%26%20Progression)
- - **[Double Treasures](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Unbalanced/Resources%20%26%20Progression/README.md#double-treasures---v1)** by Sephiasus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/b750e2b240a642c5448e78fc0f0d0d410b7526d0/Gameplay/Unbalanced/Resources%20%26%20Progression/Double%20Treasures%20-%20V1%20_P.pak))
  - **[Guaranteed Machine Events](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Unbalanced/Resources%20%26%20Progression/README.md#guaranteed-machine-events---v10)** by Our Lord And Savior Gabe Newell ([download](https://github.com/ArcticEcho/DRG-Mods/raw/5d5fd07ff425c81d9bc5de6f2a9472f72abda92b/Gameplay/Unbalanced/Resources%20%26%20Progression/Guaranteed%20Machine%20Events%20-%20V1.0%20_P.pak))
 
 ## [Gameplay/Unbalanced/Tools & Gear](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Unbalanced/Tools%20%26%20Gear)
