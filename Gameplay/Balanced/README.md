@@ -60,17 +60,20 @@ Engie's sentry rebalance based on damage splitting. Buffs MkII and makes Defende
 --Lootbugs now multiply resources that they eat by 3x and get new eating targets much faster.  
 --Seems to prevent them from dropping loot on death since you ring them dry through torture.
 
-## M1K U34 Debuff - v0.0
+## M1K U34 Debuff - v0.1
 **Authors:** Drillboy Jenkins  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4b92e6e0d2a1994158821f104cd0b4a21d81c5e7/Gameplay/Balanced/M1K%20U34%20Debuff%20-%20V0.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/17b009aca440f9fe63188f0d9de7c11eaf8a0a2b/Gameplay/Balanced/M1K%20U34%20Debuff%20-%20V0.1%20_P.pak)  
 
 **Description:**  
-DOMNT BUFF M1K PLIZ.  
-Core idea is to keep base dmg 50 and weakspots bonus 10% base and +25% with T4 (mod moves it to T2).  
-- Literally reuses M1K base weapon from U33.  
-- Implements AB revival mod tierswitch (T2 and T4 actually are mirrored).  
-https://discord.com/channels/676880716142739467/732650220214681600/834202026953932821
+DOMNT BUFF M1K PLIZ!  
+Brings baseline M1K stats back to U33 ones. The only change vs U33 is the deserved AB tierswitch.  
+- ~~Steals~~ Reuses base weapon from U33.  
+- Implements AB moving from T4 to T2 in struggles to survive.
+
+**Update v0.1 Changelog:**  
+- Used brand new modding technique to move AB to T2 instead of mirroring T2 and T4.  
+- Fixes T4.B was not buffed back to +25% as in U33.
 
 ## SupersonicSentry - v1.01
 **Authors:** BongoSkaggs  
