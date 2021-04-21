@@ -67,8 +67,9 @@ Engie's sentry rebalance based on damage splitting. Buffs MkII and makes Defende
 
 **Description:**  
 DOMNT BUFF M1K PLIZ!  
+https://discord.com/channels/676880716142739467/732650220214681600/834374631816691762  
 Brings baseline M1K stats back to U33 ones. The only change vs U33 is the deserved AB tierswitch.  
-- ~~Steals~~ Reuses base weapon from U33.  
+- Steals Reuses base weapon from U33.  
 - Implements AB moving from T4 to T2 in struggles to survive.
 
 **Update v0.1 Changelog:**  

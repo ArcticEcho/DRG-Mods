@@ -6126,7 +6126,7 @@
     "AuthorIds": [
       550333619940622359
     ],
-    "Description": "DOMNT BUFF M1K PLIZ!\nBrings baseline M1K stats back to U33 ones. The only change vs U33 is the deserved AB tierswitch.\n- ~~Steals~~ Reuses base weapon from U33.\n- Implements AB moving from T4 to T2 in struggles to survive.",
+    "Description": "DOMNT BUFF M1K PLIZ!\nhttps://discord.com/channels/676880716142739467/732650220214681600/834374631816691762\nBrings baseline M1K stats back to U33 ones. The only change vs U33 is the deserved AB tierswitch.\n- Steals Reuses base weapon from U33.\n- Implements AB moving from T4 to T2 in struggles to survive.",
     "LastUpdateChangelog": "- Used brand new modding technique to move AB to T2 instead of mirroring T2 and T4.\n- Fixes T4.B was not buffed back to +25% as in U33.",
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/17b009aca440f9fe63188f0d9de7c11eaf8a0a2b/Gameplay/Balanced/M1K%20U34%20Debuff%20-%20V0.1%20_P.pak",
     "Paks": [
