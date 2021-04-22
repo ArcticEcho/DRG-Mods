@@ -12,20 +12,6 @@ Changes to the hazard files that can make them harder or more crazy but fun.
 **Description:**  
 100% chance to encounter Korlok, BETC and Crassus Detonator in a mission preset.
 
-## Bug Hill - v1.0
-**Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/239a27472386c6658dcd17546c684cded36c626c/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Hill%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Bug Hill is a Hazard 2 mod that swarms you with grunts.  
---Hazard 2 changed  
---Low enemy diversity  
---Compared to the original Hazard 2, this one has faster, stronger, better grunts  
---Map seed can roll huge waves of macteras or spitters, be prepared  
---Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks  
---Higher enemy cap and lower nitra cost recommended
-
 ## Bug Planet - v1.0
 **Authors:** Sesselpots  
 **DRG Version:** Update 33  
