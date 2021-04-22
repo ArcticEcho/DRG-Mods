@@ -3097,14 +3097,14 @@
   },
   "fatmanocfatboyoverclock": {
     "DisplayName": "Fat Man OC (Fatboy Overclock)",
-    "Version": "3.2",
-    "DrgVersion": "Update 33",
+    "Version": "3.4",
+    "DrgVersion": "U34",
     "AuthorIds": [
       229330150142115842
     ],
     "Description": "A mod that changes the Fat Boy OC to a \"real-er\" nuke\n[Changed Fat Boy OC for Deepcore 40MM PGL]\n--Changed ammo penalty to 0.2 (Default 3 shots, 4 with both ammo Modifikations)\n--Increased Damage modifier from 4x to 1000x\n--Increased AoE damage from +1 to +10 (be glad it is only +10)\n--Changed Projectile Velocity from 0.7 to 1.5\n--Increased Carve Size from 700 to 3000\n--Changed Carve Squeeze changed from 2.0 to 1.0 (big sphere)\n--Radiation damage increased for all bugs from 25 to 300\n--Radiation tick speed for bugs changed from  0.75-1.25 to 0.1-0.2\n--Radiation radius increased from ~300 to 1100\n--Radiation duration increased from 15 to 99,9\n--Radiation Particles now glow slightly brighter and have a bigger circle\n--! Now with better Carve Radius in Ver3 !",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8bf137bbcce38b1cd135866e96fdd8b140b30ac9/Gameplay/Unbalanced/Weapons/Fat%20Man%20OC%20%28Fatboy%20Overclock%29%20-%20V3.2%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/34afa2c6c08655de399f123ca5e43aec73d8b83c/Gameplay/Unbalanced/Weapons/Fat%20Man%20OC%20%28Fatboy%20Overclock%29%20-%20V3.4%20_P.pak",
     "Paks": [
       {
         "PakFileName": "Fat Man OC - V3",
