@@ -24,3 +24,16 @@ Removes the "Profanity" from about 75 Voicelines by clipping or changing them to
 
 **Description:**  
 Bringing Martial Arts to Hoxxes.
+
+## Rock and Stone PLUS: A Salute Mod - v.9
+**Authors:** Kraeus  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e49701d9738238661ec431f8594bb131eeb12724/Audio/Voicelines/Rock%20And%20Stone%20PLUS%20A%20Salute%20Mod%20-%20V.9%20_P.pak)  
+
+**Description:**  
+Adds about 130 other voicelines from elsewhere in the game to the salutes.  
+Old voice lines still play 50% to not dilute "Rock and Stone"!  
+No subtitles. Works with my No Profanity Mod.  
+**Sample:** https://discord.com/channels/676880716142739467/732650220214681600/834533356157927474  
+**Issues:** Mod uses random cues so two players may not hear the same voiceline.  
+I'll be doing a volume and attenuation pass later. DM me any issues or voiceline suggestions.
