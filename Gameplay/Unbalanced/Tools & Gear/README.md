@@ -121,15 +121,18 @@ Preview: https://discordapp.com/channels/676880716142739467/732650220214681600/7
 --Build pillars and bridges easily, especially with no delay on platform building so you can truly do parkour!  
 Preview: https://discordapp.com/channels/676880716142739467/732650220214681600/762946862755217419
 
-## Upgraded Drills - v1.0
+## Upgraded Drills - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b212bc7fcee87d3ef54e3b5f14a1c14cb2e9a52c/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Drills%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c3d6848b3c969abdb8f1ef994799546ffff29aa3/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Drills%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 --Drills max fuel changed from 38.0 to 60.0  
 --Drills mining rate changed from 1.5 to 2.7  
 --Tier 1 movement speed upgrade (Hardened Tips) & tier 3 movement speed upgrade (Supercharged Motor) Increased to match mining rate - 0.1 > 0.5
+
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## Upgraded Flare Gun - v1.0
 **Authors:** Sesselpots  
