@@ -41,19 +41,20 @@
   },
   "160nitrasupplydrops": {
     "DisplayName": "160 Nitra Supply Drops",
-    "Version": "1.0",
-    "DrgVersion": "Update 33",
+    "Version": "1.34",
+    "DrgVersion": "34.0",
     "AuthorIds": [
       712926827911446548
     ],
     "Description": "[HOST ONLY EFFECT]\n--Changed supply drop cost to 160 Nitra",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f0a2c56c00a8ab5ead851b32a06b4d5541cc3d00/Gameplay/Unbalanced/Other/160%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Updated Version Number",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3c22f23c3daed5698b108f1e8c914c24763b13bb/Gameplay/Unbalanced/Other/160%20Nitra%20Supply%20Drops%20-%20V1.34%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "160 Nitra Supply Drops - V1.0",
+        "PakFileName": "160 Nitra Supply Drops - V1.34",
         "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "DD-13-0D-78-BA-20-68-8C"
+          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uasset": "6E-00-20-92-58-71-97-E3",
+          "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "54-90-BC-3E-DD-80-F3-BA"
         }
       }
     ]

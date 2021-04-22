@@ -4,14 +4,17 @@ Unbalanced mods that don't belong in the other categories.
 
 <!-- mod list -->
 
-## 160 Nitra Supply Drops - v1.0
+## 160 Nitra Supply Drops - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f0a2c56c00a8ab5ead851b32a06b4d5541cc3d00/Gameplay/Unbalanced/Other/160%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3c22f23c3daed5698b108f1e8c914c24763b13bb/Gameplay/Unbalanced/Other/160%20Nitra%20Supply%20Drops%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 [HOST ONLY EFFECT]  
 --Changed supply drop cost to 160 Nitra
+
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## 40 Nitra Supply Drops - v1.0
 **Authors:** Sesselpots  
