@@ -28,10 +28,10 @@ Includes both versions of No More Dollar Store Flashlights and Laser Sight but w
 **Description:**  
 -Increases duration of laser pointer waypoint from 20s to 5 mins. Client side mod.
 
-## Molly Respects Boundaries - v1.01
+## Molly Respects Boundaries - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/255245e65fcccff02edaf037ce68b1758c7a356f/Quality%20of%20Life/Other/Molly%20Respects%20Boundaries%20-%20V1.01%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5b67f2ab6f768b114497edc40a3890a6b755cf89/Quality%20of%20Life/Other/Molly%20Respects%20Boundaries%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 Thanks to @Ike for the original, this is an update of his mod.  
@@ -39,8 +39,8 @@ Thanks to @Ike for the original, this is an update of his mod.
 --This mod changes that distance to 55 meters to prevent Molly from getting in your way when you may be backing up from a fight, but if you forget to call her she won’t stay in a completely different room.   
 --This mod will only apply to the lobby if the host has it.
 
-**Update v1.01 Changelog:**  
-From 75 meters to 55
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## Reduced Neurotoxin Cloud Opacity - v1.0
 **Authors:** ArcticEcho  
