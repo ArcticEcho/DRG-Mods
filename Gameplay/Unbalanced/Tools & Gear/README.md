@@ -172,14 +172,17 @@ Set two of the three Drill parameter (x,z) to max, left y out for better drill c
 **Update v1.34 Changelog:**  
 Updated Version Number
 
-## Upgraded Platform Gun - v1.0
+## Upgraded Platform Gun - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7e3234d1a793de4fc2a779c2afbe5cff3054b626/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Platform%20Gun%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/41b9568a37459e77952dfa7d83777513a4ec19cf/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Platform%20Gun%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 --Platform Gun clip-size increased from 4 to 6  
 --Platform Gun ammo increased from 16 to 32
+
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## Upgraded Zipline - v1.0
 **Authors:** Sesselpots  
