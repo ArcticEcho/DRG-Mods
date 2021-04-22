@@ -309,29 +309,6 @@ Changes Bullet Hell Overclock for the Gunner Minigun
 -As Host: Affects only your own Minigun  
 -As Client: Affects only your own Minigun
 
-## Pepega Gunner - v2.2
-**Authors:** Shrub_Daddy  
-**DRG Version:** Update 33, Hotfix 7  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e391291b0e556fbc378ddb98695605251a8074fa/Gameplay/Unbalanced/Weapons/Pepega%20Gunner%20-%20V2.2%20_P.pak)  
-
-**Description:**  
-Makes the Gunners Leadstorm super op, **please do not use if you are not host, and remember to tell people you are playing modded**  
-99999 Ammo  
-2000 rps  
-1 Bullet Per Shot  
-No Recoil  
-No Spread  
-~6x Cooldown speed  
-No carve  
-0.15s Overheat Duration  
-1x Movement Speed (leadstorm will still make 0x)  
-200% Armor Breaking  
-200% Weakpoint Dmg.  
-100% Stun chance (leadstorm will still make 0%)
-
-**Update v2.2 Changelog:**  
-Updated for Hotfix 7, added stun chance.
-
 ## RJ2500 Compound - v1.1
 **Authors:** Shrub_Daddy  
 **DRG Version:** U33, HF 10  
