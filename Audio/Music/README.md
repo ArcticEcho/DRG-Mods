@@ -88,7 +88,7 @@ Preview -> https://discord.com/channels/676880716142739467/732650220214681600/80
 
 ## Kraeus's Crazy Jukebox - v1
 **Authors:** Kraeus  
-**DRG Version:** Update 33  
+**DRG Version:** Update 34  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/fa0a8b53454dfe375fe94a3320a9355a4fa94952/Audio/Music/Kraeus%27s%20Crazy%20Jukebox%20-%20V1%20_P.pak)  
 
 **Description:**  
