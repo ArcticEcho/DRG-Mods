@@ -28,14 +28,17 @@ Updated Version Number
 **Update v1.34 Changelog:**  
 Updated Version Number
 
-## 50 Nitra Supply Drops - v1.0
+## 50 Nitra Supply Drops - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/29bfb01ee91e658aa283d6051e93c99e8e63909b/Gameplay/Unbalanced/Other/50%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/cec279679e689fc2edfe708392e5f2f8fd3e41f2/Gameplay/Unbalanced/Other/50%20Nitra%20Supply%20Drops%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 [HOST ONLY EFFECT]  
 --Changed supply drop cost to 50 Nitra
+
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## 60 Nitra Supply Drops - v1.0
 **Authors:** Sesselpots  
