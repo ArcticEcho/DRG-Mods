@@ -115,7 +115,7 @@ Full song list: https://docs.google.com/uc?export=download&id=1-9RHJvp4q2qhAebDx
 
 ## Quiet Space Rig - v1
 **Authors:** Kraeus  
-**DRG Version:** Update 33  
+**DRG Version:** Update 34  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ccfe539bc436d9a43aaed84fe50bfc3eda55955e/Audio/Music/Quiet%20Space%20Rig%20-%20V1%20_P.pak)  
 
 **Description:**  
