@@ -17,13 +17,16 @@ Mods that add new ways to experience combat, etc.
 --Is not recommended to use with massive terrain carving mods like Fustercluck Bulks due to likelihood of crashing.  
 Preview: https://discord.com/channels/676880716142739467/732650220214681600/809682139460141090
 
-## Bulk Power Shift - v1
+## Bulk Power Shift - v1.1
 **Authors:** Potatolaser  
 **DRG Version:** U33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/67616c9e65256fe72d17bcbb5b50f05bf433f704/Gameplay/Gamemodes/Alternative%20playstyles/Bulk%20Power%20Shift%20-%20V1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c6b296a445a7f5e59d695a190cad5b991261e721/Gameplay/Gamemodes/Alternative%20playstyles/Bulk%20Power%20Shift%20-%20V1.1.zip)  
 
 **Description:**  
-Reduces the damage of the bulk death explosion from 20000 to 3000, while increasing the damage of its normal attack from 80 to 534. The decreased death explosion damage will still one-shot a doretta section and players (although they might survive in the escape pod more reliably now). The purpose of this mod is to offset the fact that exploding a bulk on a dreadnought no longer requires any timing. It also makes bulks a little more intimidating while they're alive.
+Reduces the damage of the bulk death explosion from 20,000 to 3,000, while increasing the damage of its normal attack from 80 to 534 (that last part's optional). The decreased death explosion damage will still one-shot a doretta section and players (although they might survive in the escape pod more reliably now). The purpose of this mod is to offset the fact that exploding a bulk on a dreadnought no longer requires any timing. Now includes a version without the normal attack damage boost, as the reduced death explosion damage already doesn't help dwarves in most situations.
+
+**Update v1.1 Changelog:**  
+Added a version of the mod without an attack boost.
 
 ## Deep Dives Have Double Resources - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
