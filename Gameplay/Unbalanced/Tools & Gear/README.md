@@ -184,13 +184,16 @@ Updated Version Number
 **Update v1.34 Changelog:**  
 Updated Version Number
 
-## Upgraded Zipline - v1.0
+## Upgraded Zipline - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f1b71de1f0cc428ed881dadeb670bd93ac347def/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Zipline%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/453d77865b4009007991011af18ff2d69034e5b9/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Zipline%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 --Zipline Gun max distance increased from 30 Meters (3000.0) to 450 Meters (45000.0)  
 --Zipline Gun max ammo increased from 3 to 5  
 --Zipline Gun max angle increase from 30° (30.0) to 85° (85.0)  
 --Zipline Gun max speed doubled (1.0 to 2.0)
+
+**Update v1.34 Changelog:**  
+Updated Version Number
