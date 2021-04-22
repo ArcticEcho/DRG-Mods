@@ -77,10 +77,10 @@ Replaces the End Screen music with Drip Fortress 😎 also Credit to Mihkel Maca
 **Description:**  
 Replaces all JukeBox songs with Friday Night Funkin' Music, including few mods (and memes)
 
-## Kids Crate - v1
+## Kids Cargo Crate - v1
 **Authors:** Kraeus  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1c4d4706984255b0d4ece682fbf3037a720aebd4/Audio/Music/Kids%20Crate%20-%20V1%20_P.pak)  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/58486ba9cc4dbb2c6d1a9c583faa6762c39e22c3/Audio/Music/Kids%20Cargo%20Crate%20-%20V1%20_P.pak)  
 
 **Description:**  
 Replaces Discovery Music (opening a crate or finding a pack) – with the Jimco Drums and Kids saying “Holy Shit” from the credits of WKUK.  
