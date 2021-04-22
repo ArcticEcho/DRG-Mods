@@ -76,13 +76,16 @@ Unbalanced mods that don't belong in the other categories.
 **Description:**  
 Basically doubles the radius of the triangulation events in the salvage mission, although visuals do NOT update to their proper size.
 
-## Faster Deposit - v1.0
+## Faster Deposit - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/06f685ebfec0294a8ca9aa1a9a8d349df26a30c7/Gameplay/Unbalanced/Other/Faster%20Deposit%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/77d3b1c8197392129fa31ed5dbb5f5fc753af453/Gameplay/Unbalanced/Other/Faster%20Deposit%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 --Deposit speed increased from 1.0 > 5.0
+
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## Faster Mining - v1.0
 **Authors:** BrewBreuw  
