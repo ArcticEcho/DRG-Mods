@@ -147,13 +147,16 @@ Updated Version Number
 **Update v1.34 Changelog:**  
 Updated Version Number
 
-## Upgraded Grapple Gun - v1.0
+## Upgraded Grapple Gun - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/42a69fadaa1da85c4213393da57ba6767f4772e6/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Grapple%20Gun%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c4dd5f7928952a4803bb3daeea6444b01224dd16/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Grapple%20Gun%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 --Grapple Gun range upgrades increased from 5 Meters (500.0) to 20 Meters (2000.0)
+
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## Upgraded Max Level Drills - v1.0
 **Authors:** Sesselpots, Chibba  
