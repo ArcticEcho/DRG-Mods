@@ -40,14 +40,17 @@ Updated Version Number
 **Update v1.34 Changelog:**  
 Updated Version Number
 
-## 60 Nitra Supply Drops - v1.0
+## 60 Nitra Supply Drops - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/bd0ecba54f261ca9eb2d3c233eba2aa1f3fcc9bb/Gameplay/Unbalanced/Other/60%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/025c85e40f9f756f38f3d5cb606beb98d123498a/Gameplay/Unbalanced/Other/60%20Nitra%20Supply%20Drops%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 [HOST ONLY EFFECT]  
 --Changed supply drop cost to 60 Nitra
+
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## Better Bosco - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
