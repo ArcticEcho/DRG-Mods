@@ -7738,14 +7738,14 @@
   },
   "noprofanitymod": {
     "DisplayName": "No Profanity Mod",
-    "Version": ".9",
+    "Version": ".9.1",
     "DrgVersion": "Update 34",
     "AuthorIds": [
       418874899868942336
     ],
     "Description": "Removes the \"Profanity\" from about 75 Voicelines by clipping or changing them to other appropriate voice lines from the game. -Including \"Die like your mother!\" which now says \"Karl would approve of this!\" Should be family friendly now. Let me know if I missed anything! No subtitles \"yet\" and some lines might be quieter until a volume pass is done. AS REQUESTED.",
     "LastUpdateChangelog": "Moved folder locations to match Update 34.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ec4dc9e80d12b2e30fa9ba5dab5ba51edf3ef380/Audio/Voicelines/No%20Profanity%20Mod%20-%20V.9%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a43b5953e73b91f64ecdbd257bfe418bbf8c2d8b/Audio/Voicelines/No%20Profanity%20Mod%20-%20V.9.1%20_P.pak",
     "Paks": [
       {
         "PakFileName": "No Profanity Mod - V.9",

@@ -48,7 +48,7 @@ You can easily locate your game installation path using steam:
 
 ## [Audio/Voicelines](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines)
  - **[Da fossa are attacking](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines/README.md#da-fossa-are-attacking---v05)** by CouchDiabetic ([download](https://github.com/ArcticEcho/DRG-Mods/raw/497f56bca78a1fdc7f971e2612f2af47f969e012/Audio/Voicelines/Da%20Fossa%20Are%20Attacking%20-%20V0.5.zip))
- - **[No Profanity Mod](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines/README.md#no-profanity-mod---v9)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/ec4dc9e80d12b2e30fa9ba5dab5ba51edf3ef380/Audio/Voicelines/No%20Profanity%20Mod%20-%20V.9%20_P.pak))
+ - **[No Profanity Mod](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines/README.md#no-profanity-mod---v91)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/a43b5953e73b91f64ecdbd257bfe418bbf8c2d8b/Audio/Voicelines/No%20Profanity%20Mod%20-%20V.9.1%20_P.pak))
  - **[Pickaxe Powermove Bruce Lee](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines/README.md#pickaxe-powermove-bruce-lee---v10)** by mino ([download](https://github.com/ArcticEcho/DRG-Mods/raw/e80cb5f92766f86ab2afda5a4da10377cfe7d177/Audio/Voicelines/Pickaxe%20Powermove%20Bruce%20Lee%20-%20V1.0%20_P.pak))
  - **[Rock and Stone PLUS: A Salute Mod](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Voicelines/README.md#rock-and-stone-plus-a-salute-mod---v9)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/e49701d9738238661ec431f8594bb131eeb12724/Audio/Voicelines/Rock%20And%20Stone%20PLUS%20A%20Salute%20Mod%20-%20V.9%20_P.pak))
 

@@ -9,15 +9,15 @@ Changes to dwarf and mission control audio
 **Description:**  
 When a wave attacks, mission control will get on the intercom and scream, “DA FOSSA!  DA FOSSA ARE ATTACKING!  RUN FOR YOUR LIVES!”  Audio clip taken from the first Madagascar movie.  In-game text has been changed to match as well.
 
-## No Profanity Mod - v.9
+## No Profanity Mod - v.9.1
 **Authors:** Kraeus  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ec4dc9e80d12b2e30fa9ba5dab5ba51edf3ef380/Audio/Voicelines/No%20Profanity%20Mod%20-%20V.9%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a43b5953e73b91f64ecdbd257bfe418bbf8c2d8b/Audio/Voicelines/No%20Profanity%20Mod%20-%20V.9.1%20_P.pak)  
 
 **Description:**  
 Removes the "Profanity" from about 75 Voicelines by clipping or changing them to other appropriate voice lines from the game. -Including "Die like your mother!" which now says "Karl would approve of this!" Should be family friendly now. Let me know if I missed anything! No subtitles "yet" and some lines might be quieter until a volume pass is done. AS REQUESTED.
 
-**Update v.9 Changelog:**  
+**Update v.9.1 Changelog:**  
 Moved folder locations to match Update 34.
 
 ## Pickaxe Powermove Bruce Lee - v1.0
