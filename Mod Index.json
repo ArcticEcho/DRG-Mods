@@ -10060,17 +10060,17 @@
   },
   "upgradedflaregun": {
     "DisplayName": "Upgraded Flare Gun",
-    "Version": "1.0",
-    "DrgVersion": "Update 33",
+    "Version": "1.34",
+    "DrgVersion": "34.0",
     "AuthorIds": [
       712926827911446548
     ],
     "Description": "--Flare Gun max ammo increased from 12 to 24\n--Flare Gun Clip Size increased from 3 to 5\n--Flare Gun Duration upgrades increased from 15 seconds (15.0) to 5 minutes (300.0)",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9cc559e93a3982423835d6d43c45b17215f47c1a/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Flare%20Gun%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Updated Version Number",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d9816c84035c8fc562a9880d741aa558faea1742/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Flare%20Gun%20-%20V1.34%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Upgraded Flare Gun - V1.0",
+        "PakFileName": "Upgraded Flare Gun - V1.34",
         "CookedFileHashes": {
           "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_A_Duration.uasset": "66-F2-6B-EB-08-AD-68-37",
           "../../../FSD/Content/WeaponsNTools/FlareGun/UPG_FlareGun_C_Duration_2.uasset": "CC-BB-22-93-A7-F4-B1-54",

@@ -134,15 +134,18 @@ Preview: https://discordapp.com/channels/676880716142739467/732650220214681600/7
 **Update v1.34 Changelog:**  
 Updated Version Number
 
-## Upgraded Flare Gun - v1.0
+## Upgraded Flare Gun - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9cc559e93a3982423835d6d43c45b17215f47c1a/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Flare%20Gun%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d9816c84035c8fc562a9880d741aa558faea1742/Gameplay/Unbalanced/Tools%20%26%20Gear/Upgraded%20Flare%20Gun%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 --Flare Gun max ammo increased from 12 to 24  
 --Flare Gun Clip Size increased from 3 to 5  
 --Flare Gun Duration upgrades increased from 15 seconds (15.0) to 5 minutes (300.0)
+
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## Upgraded Grapple Gun - v1.0
 **Authors:** Sesselpots  
