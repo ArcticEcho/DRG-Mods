@@ -413,16 +413,19 @@ But wait! There's more! Your trusty Sentry Gun has also been upgraded to hurl ax
 - Updated for U33.  
 - Thanks to @imdead for helping me make this mod
 
-## Spinning Doom - v1.0
+## Spinning Doom - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/fd8b32709e0a76584e8c5d5d5a954788f6e24cac/Gameplay/Unbalanced/Weapons/Spinning%20Doom%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e5b1a428ae76047ec0b6d97ea1d7ce0fc12752b8/Gameplay/Unbalanced/Weapons/Spinning%20Doom%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 [Spinning Death OC for Breach Cutter Buff]  
 --Increased clip-size value from 0.3 to 0.5 (Allows a default of 2 clip-size)  
 --Changed ammo penalty from 0.5 (Half ammo gone) to 1.0 (No ammo gone)  
 --Increased lifetime value from 2.5 (7.5 seconds) to 5.0 (15 seconds)
+
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## Tactical Nukes - v1
 **Authors:** Shrub_Daddy  
