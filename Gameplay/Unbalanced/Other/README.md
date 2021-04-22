@@ -4,15 +4,6 @@ Unbalanced mods that don't belong in the other categories.
 
 <!-- mod list -->
 
-## 0 Nitra Supply Drops - v1.0
-**Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1c77ae5b4aa8cde12a2fb606cf3b6fea160fd274/Gameplay/Unbalanced/Other/0%20Nitra%20Supply%20Drops%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-[HOST ONLY EFFECT - Need at least 0.00(repeating of course) 1 Nitra to call in]  
---Changed supply drop cost to 0 Nitra
-
 ## 160 Nitra Supply Drops - v1.0
 **Authors:** Sesselpots  
 **DRG Version:** Update 33  
