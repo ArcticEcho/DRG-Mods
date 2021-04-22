@@ -6173,20 +6173,20 @@
   },
   "minigunbullet": {
     "DisplayName": "Minigun Bullet",
-    "Version": "1.0",
-    "DrgVersion": "Update 33",
+    "Version": "1.34",
+    "DrgVersion": "34.0",
     "AuthorIds": [
       712926827911446548
     ],
     "Description": "--Changed the shot cost of the Minigun from 2 bullets when fired to 1",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e418a9bfbfdeafefd2d85dc098aae80ff8b7e76f/Gameplay/Unbalanced/Weapons/Minigun%20Bullet%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Updated Version Number",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c18f3251fa86baccf9cd989cef311e4bce190246/Gameplay/Unbalanced/Weapons/Minigun%20Bullet%20-%20V1.34%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Minigun Bullet - V1.0",
+        "PakFileName": "Minigun Bullet - V1.34",
         "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset": "3F-19-F1-A7-5A-D8-EC-42",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "21-42-F6-33-8E-BD-C5-85"
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset": "8E-BB-06-0F-16-CE-C3-02",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "C7-CE-FE-7E-2C-B7-86-57"
         }
       }
     ]

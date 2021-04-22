@@ -288,13 +288,16 @@ Changes Minigun Base Ammo Stats
 -As Host: Affects only your own Minigun  
 -As Client: Affects only your own Minigun
 
-## Minigun Bullet - v1.0
+## Minigun Bullet - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e418a9bfbfdeafefd2d85dc098aae80ff8b7e76f/Gameplay/Unbalanced/Weapons/Minigun%20Bullet%20-%20V1.0%20_P.pak)  
+**DRG Version:** 34.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c18f3251fa86baccf9cd989cef311e4bce190246/Gameplay/Unbalanced/Weapons/Minigun%20Bullet%20-%20V1.34%20_P.pak)  
 
 **Description:**  
 --Changed the shot cost of the Minigun from 2 bullets when fired to 1
+
+**Update v1.34 Changelog:**  
+Updated Version Number
 
 ## Minigun Ricochet Bullet Hell OC Buff V2 - v2.0
 **Authors:** Tristus  
