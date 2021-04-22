@@ -24,19 +24,6 @@ Unbalanced changes to tools and gear.
 - As a host, will affect anyone using this armor upgrade in your game.  
 - As a client, this mod has no effect.
 
-## Fuster Cluck Jr - v1.01
-**Authors:** Sesselpots, Our Lord And Savior Gabe Newell  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1dd37bffc5bec99d8deab1d01ea531a97cc4c711/Gameplay/Unbalanced/Tools%20%26%20Gear/Fuster%20Cluck%20Jr%20-%20V1.01%20_P.pak)  
-
-**Description:**  
-A spiritual placeholder mod for @Our Lord And Savior Gabe Newell 's Fuster Cluck mod  
---Bulk Detonators have 24 bomblets at death that carve a large area of terrain
-
-**Update v1.01 Changelog:**  
---Reduced Ideal Spawn Size from 2 back to 1  
---Reduced Max Spawn Count from 4 back to 1
-
 ## Goo Plats - v1
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 33, Hotfix 3  
