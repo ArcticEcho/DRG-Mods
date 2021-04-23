@@ -3292,25 +3292,6 @@
       }
     ]
   },
-  "gooplats": {
-    "DisplayName": "Goo Plats",
-    "Version": "1",
-    "DrgVersion": "Update 33, Hotfix 3",
-    "AuthorIds": [
-      350019378189828097
-    ],
-    "Description": "Makes \"Fall Damage + Bug Repellent\" platforms sticky goo from fungus bogs.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e1ab9b6e9fe8b66d483ab54dcb498273c4b56044/Gameplay/Unbalanced/Tools%20%26%20Gear/Goo%20Plats%20-%20V1%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Goo Plats - V1",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/PlatformGun/PRJ_PlatformMaker.uasset": "83-18-CA-09-BC-88-30-9D"
-        }
-      }
-    ]
-  },
   "grenadelauncherm79mp1": {
     "DisplayName": "Grenade Launcher M79 MP1",
     "Version": "1.0",
