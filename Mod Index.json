@@ -10195,58 +10195,6 @@
       }
     ]
   },
-  "twitchintegration": {
-    "DisplayName": "Twitch Integration",
-    "Version": "2.0.3",
-    "DrgVersion": "Update 33",
-    "AuthorIds": [
-      506899406776303616
-    ],
-    "Description": "Set up channel rewards so your twitch viewers can spawn a variety of enemies, power ups... inside a mission.\nFind the set up guide in <#799404622682390599> and an icon pack in <#799404647340048392>.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/830dd532a073f14f66f5416f2a678e849e572faf/Framework/Twitch%20Integration%20-%20V2.0.3.zip",
-    "Paks": [
-      {
-        "PakFileName": "TwitchIntegrationU33",
-        "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Audio/0001997.uasset": "27-52-43-8F-26-EE-5D-3B",
-          "../../../FSD/Content/_ModBPs/Audio/NewSoundConcurrency.uasset": "7F-34-F9-B2-2D-3D-40-33",
-          "../../../FSD/Content/_ModBPs/ExtraSearchDirection.uasset": "28-7C-1B-18-58-07-40-59",
-          "../../../FSD/Content/_ModBPs/MineheadLocationGenerator.uasset": "4F-BD-10-55-52-F1-56-39",
-          "../../../FSD/Content/_ModBPs/Mod010.uasset": "31-11-2A-BD-31-7E-D7-35",
-          "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "6F-E7-21-3F-B6-41-8B-23",
-          "../../../FSD/Content/_ModBPs/RandomGroundLocation.uasset": "05-3A-95-2B-B0-84-C1-8D",
-          "../../../FSD/Content/_ModBPs/RandomWorldTransformV4.uasset": "6F-C8-C5-D9-51-D4-DD-7A",
-          "../../../FSD/Content/_ModBPs/SaveGames/ClientQueueSaveGame.uasset": "F9-AA-AA-24-9A-80-69-42",
-          "../../../FSD/Content/_ModBPs/SaveGames/UserSettingsSaveGame.uasset": "79-C1-31-21-CF-BD-8A-98",
-          "../../../FSD/Content/_ModBPs/UI/Assets/OrangeColorImage.uasset": "8E-70-BF-2E-51-FE-18-1D",
-          "../../../FSD/Content/_ModBPs/UI/Assets/YellowColorImage.uasset": "98-B0-6A-58-4F-2E-DA-2E",
-          "../../../FSD/Content/_ModBPs/UI/BP_ActorNameplate.uasset": "BA-91-59-E1-92-11-19-43",
-          "../../../FSD/Content/_ModBPs/UI/UI_ActorNameplate.uasset": "6B-83-81-E5-D9-DD-D5-5B",
-          "../../../FSD/Content/_ModBPs/UI/UI_Menu.uasset": "EF-DC-E3-23-B4-D3-D5-23",
-          "../../../FSD/Content/_ModBPs/UI/UI_Notification.uasset": "32-E7-FD-1F-63-23-A9-88",
-          "../../../FSD/Content/_ModBPs/UI/UI_Splash.uasset": "F2-06-7D-3F-35-C3-BA-5B",
-          "../../../FSD/Content/_ModBPs/Audio/0001997.uexp": "2F-B5-95-5B-11-0A-2C-C9",
-          "../../../FSD/Content/_ModBPs/Audio/NewSoundConcurrency.uexp": "BF-2E-3A-43-3E-37-CA-D3",
-          "../../../FSD/Content/_ModBPs/ExtraSearchDirection.uexp": "67-E0-64-B7-64-57-CA-F6",
-          "../../../FSD/Content/_ModBPs/MineheadLocationGenerator.uexp": "6A-0E-23-4B-E0-BC-40-96",
-          "../../../FSD/Content/_ModBPs/Mod010.uexp": "D3-EF-64-57-30-50-9E-A8",
-          "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1E-90-65-97-04-D7-A0-4C",
-          "../../../FSD/Content/_ModBPs/RandomGroundLocation.uexp": "86-BE-51-0A-7E-23-14-96",
-          "../../../FSD/Content/_ModBPs/RandomWorldTransformV4.uexp": "21-22-31-0B-DB-D3-A3-B0",
-          "../../../FSD/Content/_ModBPs/SaveGames/ClientQueueSaveGame.uexp": "BD-A0-5A-D9-03-DF-B4-FF",
-          "../../../FSD/Content/_ModBPs/SaveGames/UserSettingsSaveGame.uexp": "F3-73-F0-A7-1C-05-00-E2",
-          "../../../FSD/Content/_ModBPs/UI/Assets/OrangeColorImage.uexp": "64-95-74-30-BF-47-4B-A5",
-          "../../../FSD/Content/_ModBPs/UI/Assets/YellowColorImage.uexp": "D2-AF-72-CB-D7-6D-07-BB",
-          "../../../FSD/Content/_ModBPs/UI/BP_ActorNameplate.uexp": "3C-D4-D5-20-E6-D9-27-0D",
-          "../../../FSD/Content/_ModBPs/UI/UI_ActorNameplate.uexp": "6F-90-83-8D-6C-CE-D3-2D",
-          "../../../FSD/Content/_ModBPs/UI/UI_Menu.uexp": "47-49-34-87-9C-AC-02-B8",
-          "../../../FSD/Content/_ModBPs/UI/UI_Notification.uexp": "18-6C-24-9E-5B-E8-04-5F",
-          "../../../FSD/Content/_ModBPs/UI/UI_Splash.uexp": "3D-4E-A0-86-5E-49-67-03"
-        }
-      }
-    ]
-  },
   "ultimateflamethrower": {
     "DisplayName": "Ultimate Flamethrower",
     "Version": "1.0",

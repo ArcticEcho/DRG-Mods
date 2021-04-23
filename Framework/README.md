@@ -24,12 +24,3 @@ Loads BluePrint mods into the game and provides a simple UI for managing them. P
 
 **Description:**  
 A re-created base class tree of sound classes and submixes used by music mods.
-
-## Twitch Integration - v2.0.3
-**Authors:** GoldBl4d3  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/830dd532a073f14f66f5416f2a678e849e572faf/Framework/Twitch%20Integration%20-%20V2.0.3.zip)  
-
-**Description:**  
-Set up channel rewards so your twitch viewers can spawn a variety of enemies, power ups... inside a mission.  
-Find the set up guide in #modding-guides (discord channel) and an icon pack in #modding-tools (discord channel).

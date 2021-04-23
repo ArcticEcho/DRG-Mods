@@ -73,7 +73,6 @@ You can easily locate your game installation path using steam:
 ## [Framework](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework)
  - **[BP Mod Manager](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#bp-mod-manager---v43)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/440b16704a5e2e627bb93009c9afc73e29841bad/Framework/BP%20Mod%20Manager%20-%20V4.3%20_P.pak))
  - **[Music Control](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#music-control---v10)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/9ed28a5e7f8cfa6b0d58d2a24f1e611e6820ce9b/Framework/Music%20Control%20-%20V1.0.zip))
- - **[Twitch Integration](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#twitch-integration---v203)** by GoldBl4d3 ([download](https://github.com/ArcticEcho/DRG-Mods/raw/830dd532a073f14f66f5416f2a678e849e572faf/Framework/Twitch%20Integration%20-%20V2.0.3.zip))
 
 ## [Gameplay/Balanced](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Balanced)
  - **[Disposable Sentry](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Balanced/README.md#disposable-sentry---v12)** by TommyGun ([download](https://github.com/ArcticEcho/DRG-Mods/raw/764c0b59d8380baf0b66be75a52cc62807816a36/Gameplay/Balanced/Disposable%20Sentry%20-%20V1.2%20_P.pak))
