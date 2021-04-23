@@ -4,17 +4,17 @@ Mods that can be tweaked in-game.
 
 <!-- mod list -->
 
-## Custom Enemy Cap - v2.4
+## Custom Enemy Cap - v2.5
 **Authors:** ArcticEcho  
-**DRG Version:** Update 33, Hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/59892184c65aa70a653e7ee5eec7344ed936d896/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.4%20_P.pak)  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d356a9e1c684a3dcea10f8b120f361ed7529f1da/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.5%20_P.pak)  
 
 **Description:**  
 **Requires the mod loader.**  
 Lets you control the global enemy cap, and can optionally lower the cap depending on your FPS. Only works as the host.
 
-**Update v2.4 Changelog:**  
-- Added an option to display an enemy counter on the HUD.
+**Update v2.5 Changelog:**  
+Fixed for U34.
 
 ## Custom Waves - v1.4
 **Authors:** ArcticEcho  
