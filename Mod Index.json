@@ -6044,6 +6044,28 @@
       }
     ]
   },
+  "minigunbthrurebalance": {
+    "DisplayName": "Minigun B-Thru Rebalance",
+    "Version": "0.0",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      550333619940622359
+    ],
+    "Description": "A mod adressing minigun mod tree balance issues, namely accuracy, blow-through and magnetic bearings mods. Puts 3 strongest mods (+15% damage @ max accuracy, accuracy and b-thru) into one tier, giving one penetration for baseline weapon. It accepts fact that you will always pick blow-through at T3 but only lets pick one of two other vanilla nobrainers or extra blowthrough. Also buffs magnetic bearings effect to give a reason for its existence. https://discord.com/channels/676880716142739467/732650220214681600/835268920473681970\n- Added 1 penetration to base weapon.\n- Buffed Magnetic Bearings Spin-Down Time: +1s -> +4s.\n- Swapped T1.B RoF and T3.B Stagger.\n- Swapped T1.C Accuracy and T4.B Spin-Up Time.\n- Swapped T3.C Blowthrough and T4.C Magnetic Bearings.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2c0a057c814ca8fb3128f5ebf0545b02ffb4587f/Gameplay/Balanced/Minigun%20B-Thru%20Rebalance%20-%20V0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Minigun B-Thru Rebalance - V0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_D_SpindownTime_Effect.uasset": "21-D8-BA-0D-99-B7-41-5D",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset": "31-A5-52-5B-4E-89-4A-88",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_D_SpindownTime_Effect.uexp": "AD-4F-D4-B6-8D-D4-C6-AC",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "3A-18-FB-D7-EB-2A-78-47"
+        }
+      }
+    ]
+  },
   "minigunbullet": {
     "DisplayName": "Minigun Bullet",
     "Version": "1.34",

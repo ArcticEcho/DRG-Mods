@@ -76,6 +76,19 @@ Brings baseline M1K stats back to U33 ones. The only change vs U33 is the deserv
 - Used brand new modding technique to move AB to T2 instead of mirroring T2 and T4.  
 - Fixes T4.B was not buffed back to +25% as in U33.
 
+## Minigun B-Thru Rebalance - v0.0
+**Authors:** Drillboy Jenkins  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2c0a057c814ca8fb3128f5ebf0545b02ffb4587f/Gameplay/Balanced/Minigun%20B-Thru%20Rebalance%20-%20V0.0%20_P.pak)  
+
+**Description:**  
+A mod adressing minigun mod tree balance issues, namely accuracy, blow-through and magnetic bearings mods. Puts 3 strongest mods (+15% damage @ max accuracy, accuracy and b-thru) into one tier, giving one penetration for baseline weapon. It accepts fact that you will always pick blow-through at T3 but only lets pick one of two other vanilla nobrainers or extra blowthrough. Also buffs magnetic bearings effect to give a reason for its existence. https://discord.com/channels/676880716142739467/732650220214681600/835268920473681970  
+- Added 1 penetration to base weapon.  
+- Buffed Magnetic Bearings Spin-Down Time: +1s -> +4s.  
+- Swapped T1.B RoF and T3.B Stagger.  
+- Swapped T1.C Accuracy and T4.B Spin-Up Time.  
+- Swapped T3.C Blowthrough and T4.C Magnetic Bearings.
+
 ## SupersonicSentry - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
