@@ -58,14 +58,6 @@ Buffs the dreadnoughts! There's a lot of general changes like a bit more health,
 **Update v3 Changelog:**  
 Lacerator flamethrower damage boost, Arbalest freeze mines radius boost, damage mines time-to-explode shortened (and they also make you slightly colder). Carve Hiveguard has larger damage aoe, Speed Hiveguard has significantly more bite damage. Both hiveguard’s three fleshy bits are now significantly more resistant to explosives. OG dread has optional variants for the eggshot: lots of aoe range vs lots of damage. Shell health is also set to vanilla (possible desync issues otherwise), base hp increased slightly. Sentinels are slightly faster and their goo is slower with a larger radius and time. Made all dreadnoughts a little harder to freeze, the twins a little more so. Removed ElimWaves from the zip as it may be broken right now. Full changes available in patch notes.
 
-## ElimWaves - v1.7
-**Authors:** Potatolaser  
-**DRG Version:** Update 33, hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a6e4329ce73a401007ba96ad8d5e57895e578e96/Gameplay/Gamemodes/Alternative%20playstyles/ElimWaves%20-%20V1.7%20_P.pak)  
-
-**Description:**  
-This mod adds back "random enemy spawns" during dreadnought fights! GSG removed these in hotfix 4, but I personally disagree with that decision. Adds back that excitement so elimination missions don't get stale so quickly. Version 1.7 takes up less space than previous ones and is less likely to conflict with stuff.
-
 ## Health For Shields Compilation - v1.0
 **Authors:** Our Lord And Savior Gabe Newell, NaturalBornCamper  
 **DRG Version:** Update 33, Hotfix 4  
