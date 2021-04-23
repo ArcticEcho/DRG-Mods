@@ -1519,25 +1519,6 @@
       }
     ]
   },
-  "candyvanleeches": {
-    "DisplayName": "Candy Van Leeches",
-    "Version": "1",
-    "DrgVersion": "Update 33. Hotfix 10",
-    "AuthorIds": [
-      350019378189828097
-    ],
-    "Description": "Makes Cave Leeches move insanely fast\n-- Instant grabbing\n-- 200 Meter grab distance\n-- No delay\n-- No lowering you down if it's killed\nNote that this makes leeches incredibly unfair as they will yoink you before you can even shoot them likely\nWhy did I make this? Cause why not?",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e917397a5c6a776c47b296a6c9255144d8d8f255/Gameplay/Gamemodes/Handicaps/Candy%20Van%20Leeches%20-%20V1%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Candy Van Leeches - V1",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Enemies/CaveLeech/ENE_CaveLeech.uexp": "06-31-31-B5-17-CB-BD-26"
-        }
-      }
-    ]
-  },
   "caveleechclusterfuck": {
     "DisplayName": "Cave Leech Clusterfuck",
     "Version": "1.0",
