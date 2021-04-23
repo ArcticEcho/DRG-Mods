@@ -44,20 +44,19 @@ Deep Dives will now spawn an abundant amount of resources.  The resource veins o
 **Description:**  
 Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.
 
-## Dreadnought Buffs - v2.21
+## Dreadnought Buffs - v3
 **Authors:** Potatolaser  
-**DRG Version:** U33, hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7057a69cfd0e3113bde8b9a4ca05e447936b2764/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V2.21.zip)  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/040d5c28d751b258d88d60af8600a1dc8d68fcd2/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.zip)  
 
 **Description:**  
-Buffs the dreadnoughts! There's a lot of general changes like a bit more health, damage, and speed; but the Big Ones are:  
-OG DREAD- Faster fireballs, larger aoe slam radius, eggshots can zap you and spawn more swarmers.  
-HIVEGUARD- Slower sentinal goo, faster turn radius. Two versions with lots of fireball carve *OR* movespeed  
-TWINS- Mines explode sooner and the arbalest's attacks can freeze you, rockwave attack has more knockback.  
-(full list of changes in the zip file)
+Buffs the dreadnoughts! There's a lot of general changes like a bit more health, damage, speed, knockback, and they’re slightly harder to freeze; but the Big Ones are:  
+**OG DREAD**- Faster fireballs, larger aoe slam radius, eggshots spawn extra swarmers, zap you, and have a large aoe OR damage upgrade  
+**HIVEGUARD**- Slower sentinel goo, faster turn radius. Two versions with lots of fireball carve and aoe radius OR movespeed and bite damage  
+**TWINS**- Rockwave attack knockback boost, arbalest mines make you really cold really quickly OR they explode really quickly and damage you
 
-**Update v2.21 Changelog:**  
-Updated readme to include the old names of the mods
+**Update v3 Changelog:**  
+Lacerator flamethrower damage boost, Arbalest freeze mines radius boost, damage mines time-to-explode shortened (and they also make you slightly colder). Carve Hiveguard has larger damage aoe, Speed Hiveguard has significantly more bite damage. Both hiveguard’s three fleshy bits are now significantly more resistant to explosives. OG dread has optional variants for the eggshot: lots of aoe range vs lots of damage. Shell health is also set to vanilla (possible desync issues otherwise), base hp increased slightly. Sentinels are slightly faster and their goo is slower with a larger radius and time. Made all dreadnoughts a little harder to freeze, the twins a little more so. Removed ElimWaves from the zip as it may be broken right now. Full changes available in patch notes.
 
 ## ElimWaves - v1.7
 **Authors:** Potatolaser  
