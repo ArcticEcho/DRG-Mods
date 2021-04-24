@@ -59,3 +59,11 @@ Removes all voice lines which occur every five seconds after born ready triggers
 
 **Description:**  
 Mutes the sound of the blinking poles which molly leaves behind when going for the droppod. Especially helpful when you play viewer spawns with multi molly as option.
+
+## Sound QoL - v1.2
+**Authors:** GreyHound  
+**DRG Version:** 34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/099daee890b5dcdd835fdd838bbf2f049455cd79/Quality%20of%20Life/Sound%20muting/Sound%20QoL%20-%20V1.2%20_P.pak)  
+
+**Description:**  
+this removes two annoying sounds: the Vampire suction sound that triggers every time you kill an enemy and BET-C's "waiting for repair" sound.
