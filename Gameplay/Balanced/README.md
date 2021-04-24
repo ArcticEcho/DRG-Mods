@@ -120,10 +120,10 @@ A mod adressing minigun mod tree balance issues, namely accuracy, blow-through a
 - Swapped T1.C Accuracy and T4.B Spin-Up Time.  
 - Swapped T3.C Blowthrough and T4.C Magnetic Bearings.
 
-## Shurikens - v2.0
+## Shurikens - v2.1
 **Authors:** Ike  
 **DRG Version:** 34 H1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/fa4fa85b95c802d0638b61b5dcdeefc1f25d35e4/Gameplay/Balanced/Shurikens%20-%20V2.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d0d0884508c87d272164a035522d07ceadbcb65b/Gameplay/Balanced/Shurikens%20-%20V2.1%20_P.pak)  
 
 **Description:**  
 This converts the gunner's sticky grenade into an armor piercing shuriken.  
@@ -134,6 +134,9 @@ This converts the gunner's sticky grenade into an armor piercing shuriken.
 --The projectile and explosion no longer causes fear.  
 --The projectile does 275 direct damage. This will penetrate armor.  
 --The host must have this mod for it to be applied.
+
+**Update v2.1 Changelog:**  
+bugfix
 
 ## SupersonicSentry - v1.02
 **Authors:** BongoSkaggs  
