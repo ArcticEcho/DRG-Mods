@@ -2617,6 +2617,26 @@
       }
     ]
   },
+  "excavationgrenade": {
+    "DisplayName": "Excavation Grenade",
+    "Version": "2.0",
+    "DrgVersion": "34 H1",
+    "AuthorIds": [
+      189954203664252928
+    ],
+    "Description": "Happy to see buffs to the HE grenade, this is an update to an old version that I made to give the grenade a more distinct identity and provide an alternative to TCF. Mineral physics from U34 still apply to this.\n--Damage is reduced to 20.\n--Carve diameter is tripled.\n--The fuse is reduced from 1.7 seconds to .5 seconds.\n--Throw speed is increased by 50%.\n--Grenade count is increased to 8.\n--This allows you to mine minerals or clear terrain easily, but it still works to clear up groups of swarmers or jellies with minimal risk of friendly fire.\n--Mod Demonstration (outdated physics)->https://www.youtube.com/watch?v=NaACo-2Io3o&ab_channel=AGlyphidisFineToo\n--This mod will only apply to the lobby if the host has it.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ad52b909dacc017c532a8f1cf14a2ed604680d3d/Gameplay/Balanced/Excavation%20Grenade%20-%20V2.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Excavation Grenade - V2.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Grenades/HighExplosive/Grenade_HighExplosive.uexp": "9F-24-A5-A6-B2-97-7F-08",
+          "../../../FSD/Content/WeaponsNTools/Grenades/ITM_Grenade_Base.uexp": "15-F6-10-B6-9A-F6-4D-92"
+        }
+      }
+    ]
+  },
   "experimentalfatboycharger": {
     "DisplayName": "Experimental Fatboy Charger",
     "Version": "1.01",

@@ -47,6 +47,22 @@ damage 4 > 5.5
 mk2 upgrade damage decreased 5 > 4  
 gemini system ammo increased 100 > 200
 
+## Excavation Grenade - v2.0
+**Authors:** Ike  
+**DRG Version:** 34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ad52b909dacc017c532a8f1cf14a2ed604680d3d/Gameplay/Balanced/Excavation%20Grenade%20-%20V2.0%20_P.pak)  
+
+**Description:**  
+Happy to see buffs to the HE grenade, this is an update to an old version that I made to give the grenade a more distinct identity and provide an alternative to TCF. Mineral physics from U34 still apply to this.  
+--Damage is reduced to 20.  
+--Carve diameter is tripled.  
+--The fuse is reduced from 1.7 seconds to .5 seconds.  
+--Throw speed is increased by 50%.  
+--Grenade count is increased to 8.  
+--This allows you to mine minerals or clear terrain easily, but it still works to clear up groups of swarmers or jellies with minimal risk of friendly fire.  
+--Mod Demonstration (outdated physics)->https://www.youtube.com/watch?v=NaACo-2Io3o&ab_channel=AGlyphidisFineToo  
+--This mod will only apply to the lobby if the host has it.
+
 ## HE Grenade Carve - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
