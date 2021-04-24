@@ -4,6 +4,21 @@ Mods attempting to balance stuff that performs worse than normal.
 
 <!-- mod list -->
 
+## Airburst Grenade - v2.0
+**Authors:** Ike  
+**DRG Version:** 34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a685b9a215d97a2016bc26963ae6992a7e1ce0a3/Gameplay/Balanced/Airburst%20Grenade%20-%20V2.0%20_P.pak)  
+
+**Description:**  
+Happy to see buffs to the HE grenade, this is an update to an old version thatI made to give the grenade a more distinct identity.  
+--Damage falloff is minimal.  
+--Damage radius is reduced by .3 meters.  
+--The fuse is reduced from 1.7 seconds to .5 seconds.  
+--Throw speed is increased by 50%.  
+--This makes it an on demand explosive damage weapon to compete with axes. It has just enough to one shot mactera spawns and slashers so it's great for those.  
+--Mod Demonstration->https://www.youtube.com/watch?v=RK-TSBKpmTQ&ab_channel=AGlyphidisFineToo  
+--This mod will only apply to the lobby if the host has it.
+
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  

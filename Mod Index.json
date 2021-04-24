@@ -411,6 +411,26 @@
       }
     ]
   },
+  "airburstgrenade": {
+    "DisplayName": "Airburst Grenade",
+    "Version": "2.0",
+    "DrgVersion": "34 H1",
+    "AuthorIds": [
+      189954203664252928
+    ],
+    "Description": "Happy to see buffs to the HE grenade, this is an update to an old version thatI made to give the grenade a more distinct identity.\n--Damage falloff is minimal.\n--Damage radius is reduced by .3 meters.\n--The fuse is reduced from 1.7 seconds to .5 seconds.\n--Throw speed is increased by 50%.\n--This makes it an on demand explosive damage weapon to compete with axes. It has just enough to one shot mactera spawns and slashers so it's great for those.\n--Mod Demonstration->https://www.youtube.com/watch?v=RK-TSBKpmTQ&ab_channel=AGlyphidisFineToo\n--This mod will only apply to the lobby if the host has it.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a685b9a215d97a2016bc26963ae6992a7e1ce0a3/Gameplay/Balanced/Airburst%20Grenade%20-%20V2.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Airburst Grenade - V2.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Grenades/HighExplosive/Grenade_HighExplosive.uexp": "5C-F5-A9-54-6D-DA-7A-B1",
+          "../../../FSD/Content/WeaponsNTools/Grenades/ITM_Grenade_Base.uexp": "15-F6-10-B6-9A-F6-4D-92"
+        }
+      }
+    ]
+  },
   "alternativeassaultrifle": {
     "DisplayName": "Alternative Assault Rifle",
     "Version": "3.0",
