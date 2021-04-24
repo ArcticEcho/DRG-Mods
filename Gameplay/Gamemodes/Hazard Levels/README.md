@@ -121,25 +121,25 @@ This is a comprehensive Hazard 6 Mod
 **Update v3.5 Changelog:**  
 corrected doretta file for hotfix (again)
 
-## Hazard 7 - v3.5
+## Hazard 7 - v4.0
 **Authors:** Ike  
-**DRG Version:** Update 33 Hotfix 11  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e73bcd2bd914b7a443838d80777b6955979dd90c/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V3.5%20_P.pak)  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d8bc433ad916765526c2b816f26044eb6ecdeb2d/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V4.0%20_P.pak)  
 
 **Description:**  
 This is a comprehensive Hazard 7 Mod  
 --This replaces the Hazard 5 file so it isn't compatible with other mods that do the same  
 --The in-game and steam/discord status will update to say Hazard 7. Rewards multiplier is set to 200%.  
 --The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing  
---In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up.   
---This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate.   
---Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will spend 80 nitra to drop resupplies, and their Doretta UI will be messed up.   
+--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up.  
+--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate.  
+--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz7' on their steam/discord status message, they will need but not spend 80 nitra to drop resupplies, and their Doretta UI will be messed up.  
 --Beating this is possible, and using other buffs is cheating, but I would recommend staying inside the drop pod at the start of refinery missions.  
 --Works well with expanded enemy cap mods.  
- --For changes from V2.0 see Haz6
+--For changes from V3.0 see Haz6
 
-**Update v3.5 Changelog:**  
-corrected doretta file for hotfix (again)
+**Update v4.0 Changelog:**  
+Updated for U34.
 
 ## Hell's trial ground（The first half of the article） - v1.0
 **Authors:** lpap  
