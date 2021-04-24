@@ -83,17 +83,6 @@ Made it so this mod no longer requires LOCRES to look fancy
 **Description:**  
 --Makes the time to start a mission in multiplayer or solo 1 second, allowing you to just make it to your seat!
 
-## Lloyd Take All I Got L! - v0
-**Authors:** Bebe  
-**DRG Version:** Update 33, Anniversary  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/090bf3f4976dbb17fc3159c8f0edf0a18be246c8/Quality%20of%20Life/Time%20saving/Lloyd%20Take%20All%20I%20Got%20L%21%20-%20V0%20_P.pak)  
-
-**Description:**  
-What even can you buy with 5 coins?  
-Increased Lloyd tip to 500, erased tip cooldown entirely  
-\-------------------------------  
-This is EN LOCRES modified version, will conflict with any mod that changes EN LOCRES
-
 ## NotSoBrokenSupplyPod - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
