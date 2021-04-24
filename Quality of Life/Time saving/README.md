@@ -103,10 +103,10 @@ This is EN LOCRES modified version, will conflict with any mod that changes EN L
 -Reduces repair time of broken resupplies found in Salvage missions from 20s to 3s.  
 -Increases chance of repaired supply pod working from 50% to 67%.
 
-## SpeedyEscort - v1.03
+## SpeedyEscort - v1.04
 **Authors:** BongoSkaggs  
-**DRG Version:** U33 H6  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3e8d7769effaeb2114b99cdd90f63b8237949d87/Quality%20of%20Life/Time%20saving/SpeedyEscort%20-%20V1.03%20_P.pak)  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8f4d56bab1c11badadbb29862a51c399e8b4c6fd/Quality%20of%20Life/Time%20saving/SpeedyEscort%20-%20V1.04%20_P.pak)  
 
 **Description:**  
 -Increases Doretta's mining speed by 66% (From 0.6 to 1.0)  
@@ -114,8 +114,8 @@ This is EN LOCRES modified version, will conflict with any mod that changes EN L
 -Increases Doretta's movement speed while being attacked by 20%. (From 1.0 to 1.2)  
 -Host mod.
 
-**Update v1.03 Changelog:**  
-Fixed crash introduced in H6.
+**Update v1.04 Changelog:**  
+Updated for U34
 
 ## Take Me Home - v1.0
 **Authors:** ArcticEcho  

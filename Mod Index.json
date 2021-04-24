@@ -9398,20 +9398,20 @@
   },
   "speedyescort": {
     "DisplayName": "SpeedyEscort",
-    "Version": "1.03",
-    "DrgVersion": "U33 H6",
+    "Version": "1.04",
+    "DrgVersion": "U34 H1",
     "AuthorIds": [
       243195324594782210
     ],
     "Description": "-Increases Doretta's mining speed by 66% (From 0.6 to 1.0)\n-Increases Doretta's top movement speed when encouraged by dwarven hugs by 20%. (From 1.0 to 1.2)\n-Increases Doretta's movement speed while being attacked by 20%. (From 1.0 to 1.2)\n-Host mod.",
-    "LastUpdateChangelog": "Fixed crash introduced in H6.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3e8d7769effaeb2114b99cdd90f63b8237949d87/Quality%20of%20Life/Time%20saving/SpeedyEscort%20-%20V1.03%20_P.pak",
+    "LastUpdateChangelog": "Updated for U34",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8f4d56bab1c11badadbb29862a51c399e8b4c6fd/Quality%20of%20Life/Time%20saving/SpeedyEscort%20-%20V1.04%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "SpeedyEscort - V1.03",
+        "PakFileName": "SpeedyEscort - V1.04",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/Objectives/Escort/AIC_EscortMule.uexp": "DC-79-94-62-38-A4-34-17",
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortGarage.uexp": "71-A0-42-0A-BB-12-3E-F2"
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortGarage.uexp": "7C-5D-17-ED-97-EA-21-15"
         }
       }
     ]
