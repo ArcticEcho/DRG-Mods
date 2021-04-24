@@ -7508,6 +7508,30 @@
       }
     ]
   },
+  "moreflares": {
+    "DisplayName": "More flares",
+    "Version": "1",
+    "DrgVersion": "Update 34, Hotfix 1",
+    "AuthorIds": [
+      614293792907853825
+    ],
+    "Description": "Adds 6 flares instead of 4, and these ones recharges in half of the time",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/320e0888f2fd8c8dd1370f07627a6bf2f1dd3a6f/Gameplay/Unbalanced/Tools%20%26%20Gear/More%20Flares%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "More Flares - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Flares/ITM_BaseFlare.uasset": "AC-F7-0E-54-75-B8-70-2C",
+          "../../../FSD/Content/WeaponsNTools/Flares/ITM_Flare_Large.uasset": "F6-02-D1-64-3D-0E-4F-46",
+          "../../../FSD/Content/WeaponsNTools/Flares/ITM_Flare_Small.uasset": "62-38-64-1F-45-A7-CF-15",
+          "../../../FSD/Content/WeaponsNTools/Flares/ITM_BaseFlare.uexp": "FC-1A-CB-3A-BF-3E-E7-6C",
+          "../../../FSD/Content/WeaponsNTools/Flares/ITM_Flare_Large.uexp": "08-1A-2F-73-54-8D-9A-7A",
+          "../../../FSD/Content/WeaponsNTools/Flares/ITM_Flare_Small.uexp": "0E-5A-AE-71-29-AB-C6-C5"
+        }
+      }
+    ]
+  },
   "morefov": {
     "DisplayName": "More FOV",
     "Version": "1.2",

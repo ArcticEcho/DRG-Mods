@@ -39,6 +39,14 @@ Unbalanced changes to tools and gear.
 **Update v1.1 Changelog:**  
 Increased base carried ammo to 1000 from 500, increased range from 10 to 15, reduced Gemini ammo from 1500 to 1000, reduced MK2 mag size to 1000 from 1500, increased stun chance to 15% from 10%, increased mag size upgrade to 1000 from 500, increased Defender cone size to 70 from 50.
 
+## More flares - v1
+**Authors:** PastoSeco14  
+**DRG Version:** Update 34, Hotfix 1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/320e0888f2fd8c8dd1370f07627a6bf2f1dd3a6f/Gameplay/Unbalanced/Tools%20%26%20Gear/More%20Flares%20-%20V1%20_P.pak)  
+
+**Description:**  
+Adds 6 flares instead of 4, and these ones recharges in half of the time
+
 ## Recallable Minigun Turrets - v1.2
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 9  
