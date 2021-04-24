@@ -91,21 +91,22 @@ Engie's sentry rebalance based on damage splitting. Buffs MkII and makes Defende
 --Lootbugs now multiply resources that they eat by 3x and get new eating targets much faster.  
 --Seems to prevent them from dropping loot on death since you ring them dry through torture.
 
-## M1K Done Properly - v0.1
+## M1K Done Properly - v1.0
 **Authors:** Drillboy Jenkins  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ec528c5deef619089bcf46cd1735eb8433ff10c1/Gameplay/Balanced/M1K%20Done%20Properly%20-%20V0.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f84033500e9304a54d1a8e43f2d0d62143ac74dd/Gameplay/Balanced/M1K%20Done%20Properly%20-%20V1.0%20_P.pak)  
 
 **Description:**  
-DOMNT BUFF M1K PLIZ!  
-https://discord.com/channels/676880716142739467/732650220214681600/834374631816691762  
-Brings baseline M1K stats back to U33 ones. The only change vs U33 is the deserved AB tierswitch.  
-- Steals Reuses base weapon from U33.  
-- Implements AB moving from T4 to T2 in struggles to survive.
+For those who don't understand what tf happened with M1K in U34. Cancels base damage buff, weakpoint bonus changes. Buffs T5 Killing Machine as a bonus. https://discord.com/channels/676880716142739467/732650220214681600/835581143385505894  
+- Baseline damage: 55 -> 50.  
+- Baseline crit bonus: 0%  ->10%.  
+- Moved AB mod: T2 -> T3.  
+- T4 Weakpoint: +20% -> +25%.  
+- T5 Reload Boost On Kill: 0.75s -> 1.5s.
 
-**Update v0.1 Changelog:**  
-- Used brand new modding technique to move AB to T2 instead of mirroring T2 and T4.  
-- Fixes T4.B was not buffed back to +25% as in U33.
+**Update v1.0 Changelog:**  
+- Moved AB from T2 to T3.  
+- Buffed T5 Reload Boost On Kill 0.75s -> 1.5s.
 
 ## Minigun B-Thru Rebalance - v0.0
 **Authors:** Drillboy Jenkins  
