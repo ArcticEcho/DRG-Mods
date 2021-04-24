@@ -44,13 +44,16 @@ Updated for U34
 **Description:**  
 --Makes the barrel dispenser spawn a new barrel as soon as you kick the current one, good for trying to get that achievement.
 
-## FastMachineStart - v1.01
+## FastMachineStart - v1.02
 **Authors:** BongoSkaggs  
-**DRG Version:** U33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7be8c145295f1a3f29703d493837f74f80afd2c5/Quality%20of%20Life/Time%20saving/FastMachineStart%20-%20V1.01%20_P.pak)  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f89441f7726e9860ed0e8ef92e375240252f8056/Quality%20of%20Life/Time%20saving/FastMachineStart%20-%20V1.02%20_P.pak)  
 
 **Description:**  
 -Reduces use time on machine event buttons from 5 seconds to 2 seconds.
+
+**Update v1.02 Changelog:**  
+Updated for U34.
 
 ## Instant Land - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
