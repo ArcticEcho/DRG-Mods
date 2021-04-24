@@ -59,16 +59,19 @@ This replaces Hazard 1 with Hazard 0, which is intended for picture taking and t
 --There are a couple exceptions: swarmer nests can spawn 1 or 2 and non-enemy hazards like crystals still exist.  
 --Lower rewards for completion.
 
-## Hazard 5 Carry - v3.0
+## Hazard 5 Carry - v3.1
 **Authors:** Ike  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/806573623d5ab702f3fd4363188cb31ad5552c0f/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205%20Carry%20-%20V3.0%20_P.pak)  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/781ba002b143babc7a58049e200f829e84dd1662/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205%20Carry%20-%20V3.1%20_P.pak)  
 
 **Description:**  
-This mod is for making things difficult while waiting for joiners, testing 4man breakpoints, or just adding difficulty without touching base game properties.   
---Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player lobby regardless of player count  
---This includes enemy count, health, and damage.   
+This mod is for making things difficult while waiting for joiners, testing 4-man breakpoints, or just adding difficulty without touching base game properties.  
+--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player lobby regardless of player count.  
+--This includes enemy count, health, and damage.  
 --Get the experience of playing in the main discord while freeing up your field medic perk slot!
+
+**Update v3.1 Changelog:**  
+Updated for U34.
 
 ## Hazard 5.5 - v2.0
 **Authors:** Ike  
