@@ -109,18 +109,6 @@ This is a comprehensive Hazard 6 Mod
 -Slightly increased enemy damage scaling and medium enemy health to keep it parallel to Haz4->5  
 -Can't figure out how to get elites to spawn more often for now...
 
-## Hazard 6 Carry - v3.5
-**Authors:** Ike  
-**DRG Version:** Update 33 Hotfix 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e7e80be9d7ac99c3cec2b92e77522d7dc28b83c0/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20Carry%20-%20V3.5%20_P.pak)  
-
-**Description:**  
---Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player Hazard 6 lobby regardless of player count  
---This includes enemy count, health, and damage.
-
-**Update v3.5 Changelog:**  
-corrected doretta file for hotfix (again)
-
 ## Hazard 7 - v4.0
 **Authors:** Ike  
 **DRG Version:** U34 H1  
