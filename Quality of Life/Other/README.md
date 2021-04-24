@@ -42,6 +42,16 @@ Thanks to @Ike for the original, this is an update of his mod.
 **Update v1.34 Changelog:**  
 Updated Version Number
 
+## Obedient Molly - v2.0
+**Authors:** Ike  
+**DRG Version:** 34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/56932c0dadb567ec3f59a5e176cfaf0f7c5f357b/Quality%20of%20Life/Other/Obedient%20Molly%20-%20V2.0%20_P.pak)  
+
+**Description:**  
+--In the base game when all players move more than 20 meters away from Molly, she moves to the location of the last player that left that radius.  
+--This mod changes that distance to 1000 meters to prevent Molly from moving unless called. Check out the 'respects boundaries mod' for a shorter distance,  
+--This mod will only apply to the lobby if the host has it.
+
 ## Reduced Neurotoxin Cloud Opacity - v1.0
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33, Hotfix 8  
