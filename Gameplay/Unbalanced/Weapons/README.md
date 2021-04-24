@@ -220,40 +220,42 @@ Changes grenade stats, carried amount and the way you use them.
 --**Cryo Grenades** freeze anything in 1 hit, including yourself and your allies, hold 3.  
 --**IFG** slow makes enemies move at 25% speed, take 70% more damage, last 20s, hold 3.
 
-## High Quality GK2 - v1.02
+## High Quality GK2 - v1.1
 **Authors:** BongoSkaggs  
-**DRG Version:** U33, H9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/206ea3720a7afa42a263e18a5a1d19e1026efbca/Gameplay/Unbalanced/Weapons/High%20Quality%20GK2%20-%20V1.02%20_P.pak)  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c75a370d781cf6dc6bee7efca68417286da1b19d/Gameplay/Unbalanced/Weapons/High%20Quality%20GK2%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Adjustments to make the GK2 less bland.  
 Base weapon changes.  
--Increased base RoF from 7 to 14.  
+-Increased base RoF from 7 to 12.25.  
 -Increased base magazine size from 25 to 35.  
+-Increased base max ammo from 375 to 385.  
+-Increased base stun chance from 10% to 20%.  
+-Removed weakpoint requirement from stun.  
 Upgrade changes.  
--T1.2 RoF upgrade increased from +2 to +4.  
+-T1.2 RoF upgrade increased from +2 to +3.5.  
 -T2.1 Damage upgrade increased from +2 to +3.  
 -T2.2 Max Ammo upgrade decreased from +100 to +75.  
 -T3.2 Damage upgrade increased from +1 to +2.  
 -T3.3 Magazine Size upgrade increased from +10 to +15.  
 -T4.1 Weakspot Damage upgrade swapped with T5 upgrade 'Battle Frenzy.'  
--T4.3 RoF upgrade increased from +2 to +4.  
+-T4.3 RoF upgrade increased from +2 to +3.5.  
 -T5.1 upgrade 'Battle Frenzy' swapped with T4.1 Weakspot Damage.  
--T5.2 upgrade 'Battle Cool' replaced with +75 Max Ammo upgrade  
+-T5.3 upgrade 'Stun' replaced with +75 Max Ammo upgrade.  
 Overclock changes.  
 -Compact Ammo magazine size bonus increased from +5 to +10.  
--Gas Rerouting RoF bonus increased from +1 to +2.  
--Overclocked Firing Mechanism RoF bonus increased from +3 to +6.  
+-Gas Rerouting RoF bonus increased from +1 to +1.75.  
+-Overclocked Firing Mechanism RoF bonus increased from +3 to +5.25.  
 -Bullets of Mercy magazine size penalty increased from -5 to -15.  
--AI Stability Engine RoF penalty increased from -2 to -4.  
+-AI Stability Engine RoF penalty increased from -2 to -3.5.  
 -AI Stability Engine damage penalty increased from -2 to -3.  
--Electrifying Reload damage penalty reduced from -3 to 0.  
--Electrifying Reload magazine size penalty increased from -5 to -15.  
+-Electrifying Reload magazine size penalty increased from -5 to -15. (Shares a file with Bullets of Mercy)  
 These adjustments dramatically improve the GK2s DPS output, bringing it much closer to the M1000, while retaining its middling sustained fire capabilities.  
-Additionally the vertical recoil of the weapon becomes much more significant. Which improves the gunplay along with providing players a potential reason to give a damn about accuracy upgrades & OCs.
+Additionally the vertical recoil of the weapon becomes much more significant. Improving the gunplay along with providing players a potential reason to give a damn about accuracy upgrades & OCs.
 
-**Update v1.02 Changelog:**  
-Found a better solution for issue with T5.2 Max Ammo upgrade
+**Update v1.1 Changelog:**  
+Updated for U34.
 
 ## Hitscan EPC - v1.0
 **Authors:** BrewBreuw  
