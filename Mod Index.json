@@ -10238,19 +10238,18 @@
   },
   "unnerfedelephantrounds": {
     "DisplayName": "UnnerfedElephantRounds",
-    "Version": "1.01",
-    "DrgVersion": "U33",
+    "Version": "1.02",
+    "DrgVersion": "U34 H1",
     "AuthorIds": [
       243195324594782210
     ],
     "Description": "-Removes increased recoil recovery malus.\n-Restores max ammo penalty to -12 instead of -13.\n-Restores number of chambers to 4 from 3.\n-Removes reload speed increase penalty. (This also affects Six Shooter.)\n-Client side mod.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/748de442e6048f7b4573c12a1fac4d254edf6e21/Gameplay/Unbalanced/Weapons/UnnerfedElephantRounds%20-%20V1.01%20_P.pak",
+    "LastUpdateChangelog": "Updated for U34.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/dcab18d192cd06bcdaaa6beacca443c9137d86b3/Gameplay/Unbalanced/Weapons/UnnerfedElephantRounds%20-%20V1.02%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "UnnerfedElephantRounds - V1.01",
+        "PakFileName": "UnnerfedElephantRounds - V1.02",
         "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Ammo12.uexp": "6A-55-07-F2-15-04-B6-C7",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Penalty_ClipSize_Revolver.uexp": "B3-0E-7F-02-52-6A-F5-F8",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Penalty_RecoilRecovery_Revolver.uexp": "20-EA-14-39-2B-4C-2F-B6",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Penalty_ReloadTime_Revolver.uexp": "F0-E9-9C-4E-42-31-72-F3"

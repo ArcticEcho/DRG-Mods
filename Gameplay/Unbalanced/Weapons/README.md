@@ -496,10 +496,10 @@ Radius -50 -> -20
 Damage: Now multiplied by 1000 (One Shot to rule em' all)  
 Recoil: Greatly increased
 
-## UnnerfedElephantRounds - v1.01
+## UnnerfedElephantRounds - v1.02
 **Authors:** BongoSkaggs  
-**DRG Version:** U33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/748de442e6048f7b4573c12a1fac4d254edf6e21/Gameplay/Unbalanced/Weapons/UnnerfedElephantRounds%20-%20V1.01%20_P.pak)  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/dcab18d192cd06bcdaaa6beacca443c9137d86b3/Gameplay/Unbalanced/Weapons/UnnerfedElephantRounds%20-%20V1.02%20_P.pak)  
 
 **Description:**  
 -Removes increased recoil recovery malus.  
@@ -507,6 +507,9 @@ Recoil: Greatly increased
 -Restores number of chambers to 4 from 3.  
 -Removes reload speed increase penalty. (This also affects Six Shooter.)  
 -Client side mod.
+
+**Update v1.02 Changelog:**  
+Updated for U34.
 
 ## ZiplineGun Speed, Ammo and Angle Buffed - v1.0
 **Authors:** Tristus  
