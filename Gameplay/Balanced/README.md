@@ -89,12 +89,15 @@ A mod adressing minigun mod tree balance issues, namely accuracy, blow-through a
 - Swapped T1.C Accuracy and T4.B Spin-Up Time.  
 - Swapped T3.C Blowthrough and T4.C Magnetic Bearings.
 
-## SupersonicSentry - v1.01
+## SupersonicSentry - v1.02
 **Authors:** BongoSkaggs  
-**DRG Version:** U33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/34d993a84c72420c0c26a4def38ce96ff0e6d0b7/Gameplay/Balanced/SupersonicSentry%20-%20V1.01%20_P.pak)  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/10078d5d50e2c35a536865e0c25b55c992063bdc/Gameplay/Balanced/SupersonicSentry%20-%20V1.02%20_P.pak)  
 
 **Description:**  
 -Increases sentry turret return flight speed from 20m/s to 60m/s.  
 -Reduces sentry deconstruction time from 1s to 0.33s.  
 -Host mod.
+
+**Update v1.02 Changelog:**  
+Updated for U34.
