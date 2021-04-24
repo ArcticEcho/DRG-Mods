@@ -5095,20 +5095,20 @@
   },
   "increasedtip": {
     "DisplayName": "Increased tip",
-    "Version": "1",
+    "Version": "1.1",
     "DrgVersion": "U34E",
     "AuthorIds": [
       387909475924967426
     ],
     "Description": "Increases tip amount to 500",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/60d549b174cf78cc6e3bea90b3dda673fbdee277/Quality%20of%20Life/Time%20saving/Increased%20Tip%20-%20V1%20_P.pak",
+    "LastUpdateChangelog": "Made it so this mod no longer requires LOCRES to look fancy",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5cdf89628836def779d7241f31e94127b856952d/Quality%20of%20Life/Time%20saving/Increased%20Tip%20-%20V1.1.zip",
     "Paks": [
       {
-        "PakFileName": "Lloyd Take All I Got - V0",
+        "PakFileName": "IncreasedTip",
         "CookedFileHashes": {
-          "../../../FSD/Content/Art/Environments/SpaceRig/TipMachine/BP_TIpJar_Base_Blueprint.uasset": "88-A2-6B-5C-8E-49-E3-48",
-          "../../../FSD/Content/Art/Environments/SpaceRig/TipMachine/BP_TIpJar_Base_Blueprint.uexp": "37-79-41-46-F8-D1-89-D5"
+          "../../../FSD/Content/Art/Environments/SpaceRig/TipMachine/BP_TIpJar_Base_Blueprint.uasset": "E8-1F-FE-4C-12-67-05-85",
+          "../../../FSD/Content/Art/Environments/SpaceRig/TipMachine/BP_TIpJar_Base_Blueprint.uexp": "29-10-20-02-A8-F8-68-9B"
         }
       }
     ]

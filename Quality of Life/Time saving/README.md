@@ -55,13 +55,16 @@ Updated for U34
 **Update v1.02 Changelog:**  
 Updated for U34.
 
-## Increased tip - v1
+## Increased tip - v1.1
 **Authors:** Bebe  
 **DRG Version:** U34E  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/60d549b174cf78cc6e3bea90b3dda673fbdee277/Quality%20of%20Life/Time%20saving/Increased%20Tip%20-%20V1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5cdf89628836def779d7241f31e94127b856952d/Quality%20of%20Life/Time%20saving/Increased%20Tip%20-%20V1.1.zip)  
 
 **Description:**  
 Increases tip amount to 500
+
+**Update v1.1 Changelog:**  
+Made it so this mod no longer requires LOCRES to look fancy
 
 ## Instant Land - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
