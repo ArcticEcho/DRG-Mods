@@ -20,18 +20,21 @@ Lets you place up to 10 different waypoints to track routes and points of intere
 **Description:**  
 Tired of having all the wealth but no option to buy happiness? Let me hear your saying "I ain't farming gold anymore" one more time.
 
-## BetterMiningLaser - v1.01
+## BetterMiningLaser - v1.02
 **Authors:** BongoSkaggs  
-**DRG Version:** U33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/94dda9ee619022b3e269e3eeaa3ba0c6730586c8/Quality%20of%20Life/Improved%20mechanics/BetterMiningLaser%20-%20V1.01%20_P.pak)  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2662be35c209daf8fee6025700bd5867617c808f/Quality%20of%20Life/Improved%20mechanics/BetterMiningLaser%20-%20V1.02%20_P.pak)  
 
 **Description:**  
 -Increases escort fuel canister laser range from 4m to 25m.  
 -Reduces melting time from 0.45s to 0.1s.  
 -All but removes vacuum delay on picking up loose chunks of oil shale.  
--Increases amount of oil shale mined by 140%.  
--Removes 15% fuel canister carrying movement penalty.  
+-Dramatically increases amount of oil shale mined.  
+-Removes 15% fuel canister carrying movement penalty & allows sprinting.  
 -Client side mod.
+
+**Update v1.02 Changelog:**  
+Updated for U34.
 
 ## Dash Perk Suicide Preventer - v33.2.0
 **Authors:** NaturalBornCamper  
