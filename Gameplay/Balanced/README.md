@@ -91,10 +91,10 @@ Engie's sentry rebalance based on damage splitting. Buffs MkII and makes Defende
 --Lootbugs now multiply resources that they eat by 3x and get new eating targets much faster.  
 --Seems to prevent them from dropping loot on death since you ring them dry through torture.
 
-## M1K U34 Debuff - v0.1
+## M1K Done Properly - v0.1
 **Authors:** Drillboy Jenkins  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/17b009aca440f9fe63188f0d9de7c11eaf8a0a2b/Gameplay/Balanced/M1K%20U34%20Debuff%20-%20V0.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ec528c5deef619089bcf46cd1735eb8433ff10c1/Gameplay/Balanced/M1K%20Done%20Properly%20-%20V0.1%20_P.pak)  
 
 **Description:**  
 DOMNT BUFF M1K PLIZ!  
