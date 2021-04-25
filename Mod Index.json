@@ -1850,20 +1850,19 @@
   },
   "dashperksuicidepreventer": {
     "DisplayName": "Dash Perk Suicide Preventer",
-    "Version": "33.2.0",
-    "DrgVersion": "Update 33, Hotfix 2",
+    "Version": "34.1.0",
+    "DrgVersion": "34.1",
     "AuthorIds": [
       306800962432008193
     ],
     "Description": "Created this mod for me as I was tired of accidentally activating Dash next to\na pit, hurling me to my death, or just not having it recharged when actually\nneeded as it was previously triggered by accident.\n----------------------------------------------------------------\n--Makes the Dash activation window 0.2 seconds \"shift\" key double taps instead 0.4 seconds\n----------------------------------------------------------------\nNote: Incompatible with the \"No more Dollar Store flashlights\" mod as they both change the same file, message me if you want both",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9d5c082acda1f7b274cb84ec6b249d9de1ad908f/Quality%20of%20Life/Improved%20mechanics/Dash%20Perk%20Suicide%20Preventer%20-%20V33.2.0%20_P.pak",
+    "LastUpdateChangelog": "Updated for DRG 34.1",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e6d0fd2faa330ad583d6ec4ef9f311daea57bb3e/Quality%20of%20Life/Improved%20mechanics/Dash%20Perk%20Suicide%20Preventer%20-%20V34.1.0.zip",
     "Paks": [
       {
-        "PakFileName": "Dash Perk Suicide Preventer - V33.2.0",
+        "PakFileName": "Dash Perk Suicide Preventer 34.1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/Character/BP_PlayerCharacter.uasset": "09-18-44-BD-A9-61-0A-B1",
-          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "F6-89-72-5A-C3-09-D7-A3"
+          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "01-1B-D0-8D-7C-8D-7B-CF"
         }
       }
     ]

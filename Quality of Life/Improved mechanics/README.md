@@ -36,10 +36,10 @@ Tired of having all the wealth but no option to buy happiness? Let me hear your 
 **Update v1.02 Changelog:**  
 Updated for U34.
 
-## Dash Perk Suicide Preventer - v33.2.0
+## Dash Perk Suicide Preventer - v34.1.0
 **Authors:** NaturalBornCamper  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9d5c082acda1f7b274cb84ec6b249d9de1ad908f/Quality%20of%20Life/Improved%20mechanics/Dash%20Perk%20Suicide%20Preventer%20-%20V33.2.0%20_P.pak)  
+**DRG Version:** 34.1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e6d0fd2faa330ad583d6ec4ef9f311daea57bb3e/Quality%20of%20Life/Improved%20mechanics/Dash%20Perk%20Suicide%20Preventer%20-%20V34.1.0.zip)  
 
 **Description:**  
 Created this mod for me as I was tired of accidentally activating Dash next to  
@@ -49,6 +49,9 @@ needed as it was previously triggered by accident.
 --Makes the Dash activation window 0.2 seconds "shift" key double taps instead 0.4 seconds  
 \----------------------------------------------------------------  
 Note: Incompatible with the "No more Dollar Store flashlights" mod as they both change the same file, message me if you want both
+
+**Update v34.1.0 Changelog:**  
+Updated for DRG 34.1
 
 ## Disabled Treasures - v1
 **Authors:** Sephiasus  
