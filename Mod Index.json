@@ -2585,33 +2585,30 @@
   },
   "escortmissionflyingrocksreducedhealth": {
     "DisplayName": "Escort mission flying rocks reduced health",
-    "Version": "33.2.0",
-    "DrgVersion": "Update 33, Hotfix 2",
+    "Version": "34.1.0",
+    "DrgVersion": "34.1",
     "AuthorIds": [
       306800962432008193
     ],
     "Description": "No, this is not a cheat, I just decided not to bundle it with other mods anymore to reduce confusion.\nThis is a sub-mod, to use with the mods Starship Troopers, Bug planet, increased enemy spawn where the amount of flying rocks during the second stage of Escort missions can be overwhelming.\n----------------------------------------------------------------\n--Variation 0.5 has 50% health\n--Variation 0.35 has 35% health\n--Variation 0.25 has 25% health\n----------------------------------------------------------------",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/86733ac3d947271d77ac7ffc233ea5f213421a2d/Gameplay/Misc/Escort%20Mission%20Flying%20Rocks%20Reduced%20Health%20-%20V33.2.0.zip",
+    "LastUpdateChangelog": "Updated for DRG 34.1",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2c8ab4ce40266bff5f15ce5933356ca2a08cd2a5/Gameplay/Misc/Escort%20Mission%20Flying%20Rocks%20Reduced%20Health%20-%20V34.1.0.zip",
     "Paks": [
       {
-        "PakFileName": "flying_rock_0.25_health_33.2.0",
+        "PakFileName": "Escort mission flying rocks reduced health 25% 34.1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uasset": "9E-DB-E5-EA-4C-85-75-EE",
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "78-1B-6E-67-16-DB-C2-3A"
+          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "66-ED-87-DA-2C-BF-7A-A7"
         }
       },
       {
-        "PakFileName": "flying_rock_0.35_health_33.2.0",
+        "PakFileName": "Escort mission flying rocks reduced health 35% 34.1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uasset": "9E-DB-E5-EA-4C-85-75-EE",
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "40-20-2E-6E-AD-36-D2-F8"
+          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "90-C9-D8-39-07-70-49-36"
         }
       },
       {
-        "PakFileName": "flying_rock_0.5_health_33.2.0",
+        "PakFileName": "Escort mission flying rocks reduced health 50% 34.1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uasset": "9E-DB-E5-EA-4C-85-75-EE",
           "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/ENE_FlyingSmartRock.uexp": "AE-45-04-DC-25-D0-AA-E3"
         }
       }

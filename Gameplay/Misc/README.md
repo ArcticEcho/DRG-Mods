@@ -50,10 +50,10 @@ Makes 8 of the special beers effects last longer
 -**Underhill Deluxe** Duration 30s > 300s  
 -**Underhill Deluxe** Scale 0.5x > 0.37x
 
-## Escort mission flying rocks reduced health - v33.2.0
+## Escort mission flying rocks reduced health - v34.1.0
 **Authors:** NaturalBornCamper  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/86733ac3d947271d77ac7ffc233ea5f213421a2d/Gameplay/Misc/Escort%20Mission%20Flying%20Rocks%20Reduced%20Health%20-%20V33.2.0.zip)  
+**DRG Version:** 34.1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2c8ab4ce40266bff5f15ce5933356ca2a08cd2a5/Gameplay/Misc/Escort%20Mission%20Flying%20Rocks%20Reduced%20Health%20-%20V34.1.0.zip)  
 
 **Description:**  
 No, this is not a cheat, I just decided not to bundle it with other mods anymore to reduce confusion.  
@@ -63,6 +63,9 @@ This is a sub-mod, to use with the mods Starship Troopers, Bug planet, increased
 --Variation 0.35 has 35% health  
 --Variation 0.25 has 25% health  
 \----------------------------------------------------------------
+
+**Update v34.1.0 Changelog:**  
+Updated for DRG 34.1
 
 ## Fabulously Fast Lootbugs - v1
 **Authors:** Sephiasus  
