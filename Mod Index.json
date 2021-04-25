@@ -5048,27 +5048,25 @@
   },
   "improveddorettaarmor": {
     "DisplayName": "Improved Doretta Armor",
-    "Version": "33.9.1",
-    "DrgVersion": "Update 33, Hotfix 9",
+    "Version": "34.1.0",
+    "DrgVersion": "34.1",
     "AuthorIds": [
       306800962432008193
     ],
     "Description": "Management finally invested and replaced Doretta's wet paper armor\nThis is not for cheating, it's a sub mod specifically made for high hazard mods, like Starship Troopers, Bug Planet and 1.5x/2x enemies (But incompatible with Haz6/7), where Doretta missions can be nearly impossible with the huge amount of flying rocks and enemies keeping you busy from defending her.\nIt basically gives Doretta 50%/75% damage resistance over all enemy attacks, so her health won't go down as fast if you took a babysitting break to mine nitra and can't make it back in time.\n-------------------------------------------------------\n--Only host needs the mod, will not break the Doretta health UI on clients\n--I did not change the friendly fire damage or environmental damage as it seems balanced\n--Gives Doretta 50% or 75% Enemy damage resistance, according to the variation you use\n--I recommend using 50% on Starship Troopers\n--I recommend using 75% on Starship Troopers Elite",
-    "LastUpdateChangelog": "Adds the 75% variation",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/31eda765d9244e445d2e2a9f27defdc19ec7f316/Gameplay/Misc/Improved%20Doretta%20Armor%20-%20V33.9.1.zip",
+    "LastUpdateChangelog": "Updated for DRG 34.1",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d92874798a7f2a6ed234cc5472670583e8aa9fe6/Gameplay/Misc/Improved%20Doretta%20Armor%20-%20V34.1.0.zip",
     "Paks": [
       {
-        "PakFileName": "improved_doretta_armor_0.5_33.9.0",
+        "PakFileName": "Improved Doretta Armor (50% Resistance) 34.1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uasset": "97-0A-91-ED-1A-06-66-A3",
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "4D-D2-7D-21-09-E7-3A-F7"
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "B9-C6-17-66-12-DA-14-38"
         }
       },
       {
-        "PakFileName": "improved_doretta_armor_0.75_33.9.0",
+        "PakFileName": "Improved Doretta Armor (75% Resistance) 34.1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uasset": "97-0A-91-ED-1A-06-66-A3",
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "B4-2C-15-EE-8C-DE-22-5E"
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "DE-B8-BD-AF-5F-BE-A9-A3"
         }
       }
     ]

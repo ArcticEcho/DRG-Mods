@@ -86,10 +86,10 @@ No more needing to re-consider repairing BET-C or not on shield disruption missi
 --Friendly BET-C bombs do 0 damage on dwarves  
 \----------------------------------------------------------------
 
-## Improved Doretta Armor - v33.9.1
+## Improved Doretta Armor - v34.1.0
 **Authors:** NaturalBornCamper  
-**DRG Version:** Update 33, Hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/31eda765d9244e445d2e2a9f27defdc19ec7f316/Gameplay/Misc/Improved%20Doretta%20Armor%20-%20V33.9.1.zip)  
+**DRG Version:** 34.1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d92874798a7f2a6ed234cc5472670583e8aa9fe6/Gameplay/Misc/Improved%20Doretta%20Armor%20-%20V34.1.0.zip)  
 
 **Description:**  
 Management finally invested and replaced Doretta's wet paper armor  
@@ -102,8 +102,8 @@ It basically gives Doretta 50%/75% damage resistance over all enemy attacks, so 
 --I recommend using 50% on Starship Troopers  
 --I recommend using 75% on Starship Troopers Elite
 
-**Update v33.9.1 Changelog:**  
-Adds the 75% variation
+**Update v34.1.0 Changelog:**  
+Updated for DRG 34.1
 
 ## Leaf Lover Begone - v1
 **Authors:** Shrub_Daddy  
