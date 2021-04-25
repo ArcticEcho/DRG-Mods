@@ -7607,27 +7607,31 @@
   },
   "nomoredollarstoreflashlights": {
     "DisplayName": "No more Dollar Store flashlights",
-    "Version": "33.2.2",
-    "DrgVersion": "Update 33, Hotfix 2",
+    "Version": "34.1.0",
+    "DrgVersion": "34.1",
     "AuthorIds": [
       306800962432008193
     ],
     "Description": "Increases flashlight range so you don't need to have your nose against the wall to see the minerals there\n----------------------------------------------------------------\n--Variation 2x has twice the range\n--Variation 3x has thrice the range\n--See Preview: https://discord.com/channels/676880716142739467/732650220214681600/784327494596689920\n----------------------------------------------------------------\nNote: Incompatible with the \"Dash Perk Suicide Preventer\" mod as they both change the same file, message me if you want both",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/83973b6b7fee95cc2c8cb577fe9bc64bac524626/Quality%20of%20Life/Improved%20mechanics/No%20More%20Dollar%20Store%20Flashlights%20-%20V33.2.2.zip",
+    "LastUpdateChangelog": "Updated for DRG 34.1, includes 5x version as requested",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/352fa5f4b5f0bdfcf6eb1e25b7b4e890ef8d4a79/Quality%20of%20Life/Improved%20mechanics/No%20More%20Dollar%20Store%20Flashlights%20-%20V34.1.0.zip",
     "Paks": [
       {
-        "PakFileName": "2x_flashlight_33.2.2",
+        "PakFileName": "No more Dollar Store flashlights 2x 34.1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/Character/BP_PlayerCharacter.uasset": "09-18-44-BD-A9-61-0A-B1",
-          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "D4-29-6B-99-5D-AB-13-0E"
+          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "64-76-8C-3E-59-B0-60-F0"
         }
       },
       {
-        "PakFileName": "3x_flashlight_33.2.2",
+        "PakFileName": "No more Dollar Store flashlights 3x 34.1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/Character/BP_PlayerCharacter.uasset": "09-18-44-BD-A9-61-0A-B1",
-          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "7C-25-E8-1C-0B-AE-6F-A3"
+          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "AD-F8-A0-F7-FD-82-D0-97"
+        }
+      },
+      {
+        "PakFileName": "No more Dollar Store flashlights 5x 34.1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "EB-49-89-40-0D-00-15-0C"
         }
       }
     ]

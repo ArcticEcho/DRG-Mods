@@ -83,10 +83,10 @@ Increases the pickup sphere radius for gunk seeds to make them more on par with 
 **Description:**  
 Lets you destroy dry thorn tumble and bough cone.
 
-## No more Dollar Store flashlights - v33.2.2
+## No more Dollar Store flashlights - v34.1.0
 **Authors:** NaturalBornCamper  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/83973b6b7fee95cc2c8cb577fe9bc64bac524626/Quality%20of%20Life/Improved%20mechanics/No%20More%20Dollar%20Store%20Flashlights%20-%20V33.2.2.zip)  
+**DRG Version:** 34.1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/352fa5f4b5f0bdfcf6eb1e25b7b4e890ef8d4a79/Quality%20of%20Life/Improved%20mechanics/No%20More%20Dollar%20Store%20Flashlights%20-%20V34.1.0.zip)  
 
 **Description:**  
 Increases flashlight range so you don't need to have your nose against the wall to see the minerals there  
@@ -96,3 +96,6 @@ Increases flashlight range so you don't need to have your nose against the wall 
 --See Preview: https://discord.com/channels/676880716142739467/732650220214681600/784327494596689920  
 \----------------------------------------------------------------  
 Note: Incompatible with the "Dash Perk Suicide Preventer" mod as they both change the same file, message me if you want both
+
+**Update v34.1.0 Changelog:**  
+Updated for DRG 34.1, includes 5x version as requested
