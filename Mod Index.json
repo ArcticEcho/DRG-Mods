@@ -3246,19 +3246,18 @@
   },
   "goodoldbetcexe": {
     "DisplayName": "Good Old Bet-C.exe",
-    "Version": "33.2.0",
-    "DrgVersion": "Update 33, Hotfix 2",
+    "Version": "34.1.0",
+    "DrgVersion": "34.1",
     "AuthorIds": [
       306800962432008193
     ],
     "Description": "Prevents friendly BET-C from hurling bombs in your face and taking out your shield.\nBasically uses Left 4 Dead AI principles; if not smart enough to avoid hitting you,\nthen at least it won't damage you. Just like good old times before update 20-something.\nNo more needing to re-consider repairing BET-C or not on shield disruption missions. \n----------------------------------------------------------------\n--Friendly BET-C bombs do 0 damage on dwarves\n----------------------------------------------------------------",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b76ccc71de1d2cfc5ceaf69fa73bca1e70a287f6/Gameplay/Misc/Good%20Old%20Bet-C.exe%20-%20V33.2.0%20_P.pak",
+    "LastUpdateChangelog": "Updated for DRG 34.1",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/febf0fa4f2f3bcf708a54660a39afa49572d144a/Gameplay/Misc/Good%20Old%20Bet-C.exe%20-%20V34.1.0.zip",
     "Paks": [
       {
-        "PakFileName": "Good Old Bet-C.exe - V33.2.0",
+        "PakFileName": "Good Old Bet-C.exe 34.1.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/Enemies/MuleInfected/PRJ_FriendlyInfectedMuleGrenade.uasset": "92-FF-45-06-C6-E0-93-2D",
           "../../../FSD/Content/Enemies/MuleInfected/PRJ_FriendlyInfectedMuleGrenade.uexp": "52-DF-70-57-BF-0F-71-A3"
         }
       }

@@ -75,10 +75,10 @@ Updated for DRG 34.1
 **Description:**  
 Increases the Lootbug Speed tremendously  (25.0 to 1000.0) but they still rest normally. Also looks really funny
 
-## Good Old Bet-C.exe - v33.2.0
+## Good Old Bet-C.exe - v34.1.0
 **Authors:** NaturalBornCamper  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b76ccc71de1d2cfc5ceaf69fa73bca1e70a287f6/Gameplay/Misc/Good%20Old%20Bet-C.exe%20-%20V33.2.0%20_P.pak)  
+**DRG Version:** 34.1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/febf0fa4f2f3bcf708a54660a39afa49572d144a/Gameplay/Misc/Good%20Old%20Bet-C.exe%20-%20V34.1.0.zip)  
 
 **Description:**  
 Prevents friendly BET-C from hurling bombs in your face and taking out your shield.  
@@ -88,6 +88,9 @@ No more needing to re-consider repairing BET-C or not on shield disruption missi
 \----------------------------------------------------------------  
 --Friendly BET-C bombs do 0 damage on dwarves  
 \----------------------------------------------------------------
+
+**Update v34.1.0 Changelog:**  
+Updated for DRG 34.1
 
 ## Improved Doretta Armor - v34.1.0
 **Authors:** NaturalBornCamper  
