@@ -7644,6 +7644,31 @@
       }
     ]
   },
+  "nomoredollarstoreflashlightsdashperksuicidepreventer": {
+    "DisplayName": "No more Dollar Store flashlights - Dash perk suicide preventer",
+    "Version": "34.1.0",
+    "DrgVersion": "34.1",
+    "AuthorIds": [
+      306800962432008193
+    ],
+    "Description": "Merges mods \"No more Dollar Store flashlights\" and \"Dash perk suicide preventer\" which are mutually incompatible since they modify the same file.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3c07dc3479a0b712cff74ad50e1d54209ef95ef5/Quality%20of%20Life/Improved%20mechanics/No%20More%20Dollar%20Store%20Flashlights%20-%20Dash%20Perk%20Suicide%20Preventer%20-%20V34.1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "No more Dollar Store flashlights 2x - Dash Perk Suicide Preventer 34.1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "72-DB-55-0B-BB-97-61-60"
+        }
+      },
+      {
+        "PakFileName": "No more Dollar Store flashlights 3x - Dash Perk Suicide Preventer 34.1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "53-67-11-24-CB-64-52-A4"
+        }
+      }
+    ]
+  },
   "noprofanitymod": {
     "DisplayName": "No Profanity Mod",
     "Version": ".9.1",

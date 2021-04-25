@@ -102,3 +102,11 @@ Note: Incompatible with the "Dash Perk Suicide Preventer" mod as they both chang
 
 **Update v34.1.0 Changelog:**  
 Updated for DRG 34.1, includes 5x version as requested
+
+## No more Dollar Store flashlights - Dash perk suicide preventer - v34.1.0
+**Authors:** NaturalBornCamper  
+**DRG Version:** 34.1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3c07dc3479a0b712cff74ad50e1d54209ef95ef5/Quality%20of%20Life/Improved%20mechanics/No%20More%20Dollar%20Store%20Flashlights%20-%20Dash%20Perk%20Suicide%20Preventer%20-%20V34.1.0.zip)  
+
+**Description:**  
+Merges mods "No more Dollar Store flashlights" and "Dash perk suicide preventer" which are mutually incompatible since they modify the same file.
