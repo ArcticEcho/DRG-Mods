@@ -44,10 +44,10 @@ Deep Dives will now spawn an abundant amount of resources.  The resource veins o
 **Description:**  
 Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.
 
-## Dreadnought Buffs - v3.1
+## Dreadnought Buffs - v3.2
 **Authors:** Potatolaser  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/45b2669ee99d51841043d1ff31225637e40022f0/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.1.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9cdf9cf7677a21cf982127d5b388f33be442b48a/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.2.zip)  
 
 **Description:**  
 Buffs the dreadnoughts! There's a lot of general changes like a bit more health, damage, speed, knockback, and they’re slightly harder to freeze; but the Big Ones are:  
@@ -55,8 +55,8 @@ Buffs the dreadnoughts! There's a lot of general changes like a bit more health,
 **HIVEGUARD**- Slower sentinel goo, faster turn radius. Two versions with lots of fireball carve and aoe radius OR movespeed and bite damage  
 **TWINS**- Rockwave attack knockback boost, arbalest mines make you really cold really quickly OR they explode really quickly and damage you
 
-**Update v3.1 Changelog:**  
-Hiveguard carve damage aoe should be a little more forgiving now. Uploaded the right version of NoIce (woops), the arbalest mines should now do slightly less damage and have slightly more time until detonation. The Hiveguard should warm up faster. Sentinel goo time reduced back to 20 seconds. Speed hiveguard may or may not have a larger bite radius.
+**Update v3.2 Changelog:**  
+Added EX options. Now you can have a Hiveguard that’s speedy *and* makes big craters!
 
 ## Health For Shields Compilation - v1.0
 **Authors:** Our Lord And Savior Gabe Newell, NaturalBornCamper  
