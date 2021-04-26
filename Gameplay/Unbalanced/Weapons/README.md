@@ -4,6 +4,14 @@ Unbalanced changes to guns and grenades.
 
 <!-- mod list -->
 
+## 10 Detonator (C4) Packs - v4-26-2021
+**Authors:** briannnuhhh  
+**DRG Version:** u34 h1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6343ea3bf09cbecb05f37e0953677c112e92fb67/Gameplay/Unbalanced/Weapons/10%20Detonator%20%28C4%29%20Packs%20-%20V4-26-2021%20_P.pak)  
+
+**Description:**  
+Sets the base ammo for Driller's C4 to 10
+
 ## 100% Chance Electrocution - v1.0
 **Authors:** PastoSeco14  
 **DRG Version:** Update 33, Hotfix 10  

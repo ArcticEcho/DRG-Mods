@@ -19,6 +19,25 @@
       }
     ]
   },
+  "10detonatorc4packs": {
+    "DisplayName": "10 Detonator (C4) Packs",
+    "Version": "4-26-2021",
+    "DrgVersion": "u34 h1",
+    "AuthorIds": [
+      424427883348623362
+    ],
+    "Description": "Sets the base ammo for Driller's C4 to 10",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6343ea3bf09cbecb05f37e0953677c112e92fb67/Gameplay/Unbalanced/Weapons/10%20Detonator%20%28C4%29%20Packs%20-%20V4-26-2021%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "10 Detonator (C4) Packs - V4-26-2021",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/DetPack/WPN_DetPack_Detonator_Driller.uexp": "85-D9-78-8C-20-52-89-4D"
+        }
+      }
+    ]
+  },
   "10waypoints": {
     "DisplayName": "10 Waypoints",
     "Version": "1.0",
