@@ -3037,6 +3037,48 @@
       }
     ]
   },
+  "fastforging": {
+    "DisplayName": "Fast Forging",
+    "Version": "4-26-2021",
+    "DrgVersion": "u34 h1",
+    "AuthorIds": [
+      385384075168448513
+    ],
+    "Description": "Forge your overclocks much faster. Now with 50% less demonic possession! I made this from scratch, and I don't remember who made the original mod.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ffb187af496e0928fe4e1c39fcbfccb6d19b9b70/Quality%20of%20Life/Time%20saving/Fast%20Forging%20-%20V4-26-2021%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Fast Forging - V4-26-2021",
+        "CookedFileHashes": {
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_B_Montage.uasset": "3E-F6-39-15-86-E1-A9-78",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_End_A.uasset": "03-3A-13-5A-0C-40-19-51",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_Idle_Break_A.uasset": "87-D2-17-A5-9D-DC-91-12",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_Idle_Break_B.uasset": "1E-59-CD-DD-C8-8D-E0-08",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_Idle_Loop_A.uasset": "9D-3D-63-07-D9-C5-8B-AF",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_Loop_B.uasset": "0F-BF-D7-82-F8-0E-CE-70",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_Start_A.uasset": "89-E6-6A-C2-CC-D9-9A-BF",
+          "../../../FSD/Content/CharacterStructure/Forge/Anim_Forge_B_Montage.uasset": "B3-37-A7-8B-DB-22-E9-B0",
+          "../../../FSD/Content/CharacterStructure/Forge/Anim_Forge_End_A.uasset": "B5-5F-EF-0F-E8-60-9D-4A",
+          "../../../FSD/Content/CharacterStructure/Forge/Anim_Forge_Idle_Montage.uasset": "1F-E2-31-6B-AC-00-BE-27",
+          "../../../FSD/Content/CharacterStructure/Forge/Anim_Forge_Loop_A.uasset": "B7-45-2E-59-9B-16-8D-D1",
+          "../../../FSD/Content/CharacterStructure/Forge/Anim_Forge_Loop_B.uasset": "50-FC-59-06-06-61-5B-EA",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_B_Montage.uexp": "57-56-68-2E-ED-C8-D7-AF",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_End_A.uexp": "8C-30-E2-D2-03-77-DE-FD",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_Idle_Break_A.uexp": "D8-B8-84-B4-6B-9C-17-A5",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_Idle_Break_B.uexp": "1E-6F-3A-07-57-79-BA-59",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_Idle_Loop_A.uexp": "0E-79-64-CD-67-31-7C-A1",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_Loop_B.uexp": "AC-FB-09-45-CE-AC-B9-8A",
+          "../../../FSD/Content/CharacterStructure/Forge/3P_Forge_Start_A.uexp": "FA-75-3A-05-D2-0B-0B-F2",
+          "../../../FSD/Content/CharacterStructure/Forge/Anim_Forge_B_Montage.uexp": "38-2C-09-D3-18-3C-E4-E1",
+          "../../../FSD/Content/CharacterStructure/Forge/Anim_Forge_End_A.uexp": "1E-CC-ED-90-4C-11-A0-7E",
+          "../../../FSD/Content/CharacterStructure/Forge/Anim_Forge_Idle_Montage.uexp": "07-89-6D-3A-8E-F6-1B-4C",
+          "../../../FSD/Content/CharacterStructure/Forge/Anim_Forge_Loop_A.uexp": "94-A4-48-A4-16-76-AE-3F",
+          "../../../FSD/Content/CharacterStructure/Forge/Anim_Forge_Loop_B.uexp": "29-CE-F9-53-46-EE-33-64"
+        }
+      }
+    ]
+  },
   "fastmachinestart": {
     "DisplayName": "FastMachineStart",
     "Version": "1.02",

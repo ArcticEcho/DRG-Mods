@@ -44,6 +44,14 @@ Updated for U34
 **Description:**  
 --Makes the barrel dispenser spawn a new barrel as soon as you kick the current one, good for trying to get that achievement.
 
+## Fast Forging - v4-26-2021
+**Authors:** Shattered  
+**DRG Version:** u34 h1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ffb187af496e0928fe4e1c39fcbfccb6d19b9b70/Quality%20of%20Life/Time%20saving/Fast%20Forging%20-%20V4-26-2021%20_P.pak)  
+
+**Description:**  
+Forge your overclocks much faster. Now with 50% less demonic possession! I made this from scratch, and I don't remember who made the original mod.
+
 ## FastMachineStart - v1.02
 **Authors:** BongoSkaggs  
 **DRG Version:** U34 H1  
