@@ -147,14 +147,6 @@ Slightly improved Bosco mod for Deep Rock Galactic based on Better Bosco and Inf
 * Larger engagement range.  
 * Decreased response time (targeting, grabber/leech rescue, etc).
 
-## Power Creep - v4-25-2021
-**Authors:** Shattered, Rauliken  
-**DRG Version:** u34 h1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4f16345e96f8071d887bb71fc7ca27fc2c292718/Gameplay/Unbalanced/Other/Power%20Creep%20-%20V4-25-2021%20_P.pak)  
-
-**Description:**  
-Forge your overclocks much faster. Now with 50% less demonic possession! I made this from scratch, but @Rauliken made the original mod.
-
 ## Supply Pods Keep Grab Progress - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
