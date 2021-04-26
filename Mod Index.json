@@ -8247,24 +8247,24 @@
   },
   "quarterdeathduration": {
     "DisplayName": "Quarter Death Duration",
-    "Version": "1.3",
-    "DrgVersion": "Update 33, Hotfix 5",
+    "Version": "1.4",
+    "DrgVersion": "U34, HF 1",
     "AuthorIds": [
       350019378189828097
     ],
-    "Description": "Sets the ragdoll duration for the majority of Glyphids to ≤5 seconds, except for enemies who have death effects. [Warden, Menace, Acid, and Web have 5 seconds] [Grunts (all types) have 3 seconds] [Exploders and Praets have 7 seconds] [Dets and Dreads are unchanged]",
-    "LastUpdateChangelog": "Updated for HF 5",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3127c44faad3511abdcd071399090eea949f155f/Quality%20of%20Life/Graphics%20%26%20Performance/Quarter%20Death%20Duration%20-%20V1.3%20_P.pak",
+    "Description": "Sets the ragdoll duration for most Glyphids to ≤5 seconds, except for enemies who have death effects. \n[Warden, Menace, Acid, and Web have 5 seconds] \n[Grunts (all) have 3 seconds] \n[Exploders, Praets, and Oppressors have 7 seconds] \n[Dets and Dreads are unchanged]",
+    "LastUpdateChangelog": "Updated for U34, HF 1",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a9a5d7746a087b400898a5deb60001869373c0c5/Quality%20of%20Life/Graphics%20%26%20Performance/Quarter%20Death%20Duration%20-%20V1.4%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Quarter Death Duration - V1.3",
+        "PakFileName": "Quarter Death Duration - V1.4",
         "CookedFileHashes": {
           "../../../FSD/Content/Enemies/Spider/Buffer/ENE_Spider_Buffer.uexp": "2F-FC-AA-6F-85-3D-E5-A5",
           "../../../FSD/Content/Enemies/Spider/Exploder/ENE_Spider_Exploding.uexp": "00-1F-49-5B-AF-89-19-B5",
           "../../../FSD/Content/Enemies/Spider/Grunt/ENE_Spider_Grunt_Base.uexp": "3C-BD-61-96-2D-48-F9-0B",
           "../../../FSD/Content/Enemies/Spider/RapidShooter/ENE_Spider_RapidShooter.uexp": "AE-00-31-BB-05-B0-A3-2B",
           "../../../FSD/Content/Enemies/Spider/Shooter/ENE_Spider_Shooter.uexp": "2A-4A-2D-6C-14-20-07-79",
-          "../../../FSD/Content/Enemies/Spider/Spitter/ENE_Spider_Spitter.uexp": "39-A3-34-4A-74-81-C3-7A",
+          "../../../FSD/Content/Enemies/Spider/Spitter/ENE_Spider_Spitter.uexp": "03-90-81-18-7F-BF-B0-01",
           "../../../FSD/Content/Enemies/Spider/Tank/ENE_Spider_Tank_Base.uexp": "66-EC-03-B8-1C-BD-09-4C"
         }
       }
