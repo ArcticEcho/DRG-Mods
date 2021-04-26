@@ -7612,6 +7612,25 @@
       }
     ]
   },
+  "morefatboynukes": {
+    "DisplayName": "More Fatboy Nukes",
+    "Version": "4-26-2021",
+    "DrgVersion": "u34 h1",
+    "AuthorIds": [
+      424427883348623362
+    ],
+    "Description": "The Fatboy OC now has an 2x ammo bonus, instead of an ammo penalty. I highly suggest using the compatible mod 'Tactical Nukes' or your teammates will hate you.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e7d39611e3dbd7c804ef9650734e3e6c3284fd3f/Gameplay/Unbalanced/Weapons/More%20Fatboy%20Nukes%20-%20V4-26-2021%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "More Fatboy Nukes - V4-26-2021",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Ammo-80p_PGL.uexp": "6B-40-50-60-B4-12-81-49"
+        }
+      }
+    ]
+  },
   "moreflares": {
     "DisplayName": "More flares",
     "Version": "1",

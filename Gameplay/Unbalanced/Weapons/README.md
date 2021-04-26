@@ -322,6 +322,14 @@ Changes Bullet Hell Overclock for the Gunner Minigun
 -As Host: Affects only your own Minigun  
 -As Client: Affects only your own Minigun
 
+## More Fatboy Nukes - v4-26-2021
+**Authors:** briannnuhhh  
+**DRG Version:** u34 h1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e7d39611e3dbd7c804ef9650734e3e6c3284fd3f/Gameplay/Unbalanced/Weapons/More%20Fatboy%20Nukes%20-%20V4-26-2021%20_P.pak)  
+
+**Description:**  
+The Fatboy OC now has an 2x ammo bonus, instead of an ammo penalty. I highly suggest using the compatible mod 'Tactical Nukes' or your teammates will hate you.
+
 ## Power Creep - v4-25-2021
 **Authors:** Shattered  
 **DRG Version:** u34 h1  
