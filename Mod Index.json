@@ -8292,9 +8292,10 @@
     "Version": "4-25-2021",
     "DrgVersion": "u34 h1",
     "AuthorIds": [
-      385384075168448513
+      385384075168448513,
+      275695993574522881
     ],
-    "Description": "A \"balance\" mod that changes perks and weapons. Change list: https://bit.ly/3tSB68l",
+    "Description": "Forge your overclocks much faster. Now with 50% less demonic possession! I made this from scratch, but <@!275695993574522881> made the original mod.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4f16345e96f8071d887bb71fc7ca27fc2c292718/Gameplay/Unbalanced/Other/Power%20Creep%20-%20V4-25-2021%20_P.pak",
     "Paks": [
