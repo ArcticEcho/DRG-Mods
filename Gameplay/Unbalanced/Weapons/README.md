@@ -314,6 +314,14 @@ Changes Bullet Hell Overclock for the Gunner Minigun
 -As Host: Affects only your own Minigun  
 -As Client: Affects only your own Minigun
 
+## Power Creep - v4-25-2021
+**Authors:** Shattered  
+**DRG Version:** u34 h1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/815ef4d568e93c9c9b99a0044e7270c68ccb596c/Gameplay/Unbalanced/Weapons/Power%20Creep%20-%20V4-25-2021%20_P.pak)  
+
+**Description:**  
+A "balanced" mod that changes perks and weapons.
+
 ## RJ2500 Compound - v1.1
 **Authors:** Shrub_Daddy  
 **DRG Version:** U33, HF 10  
