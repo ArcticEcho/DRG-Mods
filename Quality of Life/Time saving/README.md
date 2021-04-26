@@ -45,7 +45,7 @@ Updated for U34
 --Makes the barrel dispenser spawn a new barrel as soon as you kick the current one, good for trying to get that achievement.
 
 ## Fast Forging - v4-26-2021
-**Authors:** Shattered  
+**Authors:** Shattered, Rauliken  
 **DRG Version:** u34 h1  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ffb187af496e0928fe4e1c39fcbfccb6d19b9b70/Quality%20of%20Life/Time%20saving/Fast%20Forging%20-%20V4-26-2021%20_P.pak)  
 
