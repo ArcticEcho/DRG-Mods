@@ -338,6 +338,15 @@ The Fatboy OC now has an 2x ammo bonus, instead of an ammo penalty. I highly sug
 **Description:**  
 Bring along 1200 fuel for Driller's flamethrower
 
+## NoMoreSubataRSI - v1.0
+**Authors:** BongoSkaggs  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/403a637e058e15c2837b8f0ced67ccc4a6bd58be/Gameplay/Unbalanced/Weapons/NoMoreSubataRSI%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Just gives the Subata fully automatic fire. Now you can avoid RSI without the need to use a shitty bandaid OC or a macro!  
+Huge, massive thanks to @Drillboy Jenkins  for all their help.
+
 ## Power Creep - v4-25-2021
 **Authors:** Shattered  
 **DRG Version:** u34 h1  

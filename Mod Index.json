@@ -7826,6 +7826,26 @@
       }
     ]
   },
+  "nomoresubatarsi": {
+    "DisplayName": "NoMoreSubataRSI",
+    "Version": "1.0",
+    "DrgVersion": "U34 H1",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "Just gives the Subata fully automatic fire. Now you can avoid RSI without the need to use a shitty bandaid OC or a macro!\n\nHuge, massive thanks to <@!550333619940622359>  for all their help.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/403a637e058e15c2837b8f0ced67ccc4a6bd58be/Gameplay/Unbalanced/Weapons/NoMoreSubataRSI%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "NoMoreSubataRSI - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Pistol/WPN_Pistol_A.uasset": "29-76-02-6D-B6-C3-83-CF",
+          "../../../FSD/Content/WeaponsNTools/Pistol/WPN_Pistol_A.uexp": "8C-91-27-29-E1-5B-D6-1E"
+        }
+      }
+    ]
+  },
   "noprofanitymod": {
     "DisplayName": "No Profanity Mod",
     "Version": ".9.1",
