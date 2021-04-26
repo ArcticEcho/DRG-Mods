@@ -50,7 +50,7 @@ Updated for U34
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ffb187af496e0928fe4e1c39fcbfccb6d19b9b70/Quality%20of%20Life/Time%20saving/Fast%20Forging%20-%20V4-26-2021%20_P.pak)  
 
 **Description:**  
-Forge your overclocks much faster. Now with 50% less demonic possession! I made this from scratch, and I don't remember who made the original mod.
+Forge your overclocks much faster. Now with 50% less demonic possession! @Shattered made this from scratch, but @Rauliken made the original mod.
 
 ## FastMachineStart - v1.02
 **Authors:** BongoSkaggs  
