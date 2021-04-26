@@ -330,6 +330,14 @@ Changes Bullet Hell Overclock for the Gunner Minigun
 **Description:**  
 The Fatboy OC now has an 2x ammo bonus, instead of an ammo penalty. I highly suggest using the compatible mod 'Tactical Nukes' or your teammates will hate you.
 
+## More Flamethrower Ammo - v4-26-2021
+**Authors:** briannnuhhh  
+**DRG Version:** u34 h1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6ee7e1d012378ff7633fd5471fccb2cdbad6534b/Gameplay/Unbalanced/Weapons/More%20Flamethrower%20Ammo%20-%20V4-26-2021%20_P.pak)  
+
+**Description:**  
+Bring along 1200 fuel for Driller's flamethrower
+
 ## Power Creep - v4-25-2021
 **Authors:** Shattered  
 **DRG Version:** u34 h1  
