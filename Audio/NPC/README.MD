@@ -87,7 +87,7 @@ Preview -> https://discord.com/channels/676880716142739467/732650220214681600/80
 
 ## Shining Lloyd - v1
 **Authors:** Kraeus  
-**DRG Version:** Update 33  
+**DRG Version:** Update 34 Hotfix 2  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2e07ee80662a345bfdeb1bce8f683f61d82d84e3/Audio/NPC/Shining%20Lloyd%20-%20V1%20_P.pak)  
 
 **Description:**  
