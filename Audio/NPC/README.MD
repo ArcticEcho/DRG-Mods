@@ -33,7 +33,7 @@ Replaces cave angel's idle sounds with verbalase's beatboxing
 
 ## Hiveguard Scream Grunt - v1.0
 **Authors:** Kraeus  
-**DRG Version:** Update 33, Hotfix 9  
+**DRG Version:** Update 34 Hotfix 2  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/07622eda6d77f72af8fd6d8c20fe3c5579829aac/Audio/NPC/Hiveguard%20Scream%20Grunt%20-%20V1.0%20_P.pak)  
 
 **Description:**  
