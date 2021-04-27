@@ -99,7 +99,7 @@ Preview -> https://discord.com/channels/676880716142739467/732650220214681600/80
 
 ## Kraeus's Crazy Tunes! - v2.0
 **Authors:** Kraeus  
-**DRG Version:** Update 33  
+**DRG Version:** Update 34 Hotfix 2  
 **Download Link:** [Download](https://drive.google.com/file/d/10IP-zik_WQfzrjm5p5QZqjoi-oEhsXgm/view?usp=sharing) (third-party host)  
 
 **Description:**  
