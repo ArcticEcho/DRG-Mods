@@ -356,13 +356,16 @@ Bring along 1200 fuel for Driller's flamethrower
 Just gives the Subata fully automatic fire. Now you can avoid RSI without the need to use a shitty bandaid OC or a macro!  
 Huge, massive thanks to @Drillboy Jenkins  for all their help.
 
-## Power Creep - v4-25-2021
+## Power Creep - v4-27-2021
 **Authors:** Shattered  
 **DRG Version:** u34 h1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/815ef4d568e93c9c9b99a0044e7270c68ccb596c/Gameplay/Unbalanced/Weapons/Power%20Creep%20-%20V4-25-2021%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6ab00204dd367070d74924db2a0e2583a2b6ea5a/Gameplay/Unbalanced/Weapons/Power%20Creep%20-%20V4-27-2021%20_P.pak)  
 
 **Description:**  
-A "balanced" mod that changes perks and weapons. Change list: https://bit.ly/3tSB68l
+A "balanced" mod that changes perks and weapons to create more build options. Credit to @BongoSkaggs for their "NoMoreSubataRSI" mod, which makes the Subata 120 fully automatic. Change list: https://bit.ly/3aEM3CR
+
+**Update v4-27-2021 Changelog:**  
+Finished perk changes (for now), removed the dash nerf, made a few more weapon changes.
 
 ## RJ2500 Compound - v1.1
 **Authors:** Shrub_Daddy  
