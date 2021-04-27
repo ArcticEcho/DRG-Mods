@@ -275,6 +275,15 @@ Updated for U34.
 - As a host, the upgrade will affect everyone using the EPC  
 - As a client, this mod will not affect the projectile speed, but there will be a slight desync where the projectile looks faster for a brief period.
 
+## HotterBullets - v1.0
+**Authors:** BongoSkaggs  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d73a12410fff456f3f5fb97260824ad6e98a9eaf/Gameplay/Unbalanced/Weapons/HotterBullets%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Adjusts the minigun's T5.3 upgrade 'Hot Bullets' to work regardless of heat level.   
+Special thanks to @ppstac2 for their assistance.
+
 ## MagicGK2 - v1.0
 **Authors:** BongoSkaggs  
 **DRG Version:** U33 H5  
