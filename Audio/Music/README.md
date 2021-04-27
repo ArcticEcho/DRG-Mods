@@ -123,7 +123,7 @@ Replaces the Ambient Song in the Space Rig with Space Noise and Star Trek sounds
 
 ## Starship Troopers OST Music Replacement - v0.9
 **Authors:** Kraeus  
-**DRG Version:** Update 33. Hotfix 10  
+**DRG Version:** Update 34 Hotfix 2  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6a58073e5c3a5e111d4114fa1ad78a8d04d1230f/Audio/Music/Starship%20Troopers%20OST%20Music%20Replacement%20-%20V0.9%20_P.pak)  
 
 **Description:**  
