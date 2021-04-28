@@ -1067,24 +1067,24 @@
   },
   "beastmasterbuff": {
     "DisplayName": "BeastMaster Buff",
-    "Version": "1.1",
-    "DrgVersion": "Update 33, hotfix 2",
+    "Version": "1.2",
+    "DrgVersion": "U34",
     "AuthorIds": [
       252291709927555072
     ],
-    "Description": "Buffs the beastmaster perk. Since Steeve is kinda fragile on haz 6+, and you can still accidentally tame while reviving. In haz 5-ish or above, slasher steeve will last around 1.5 minutes or less in constant combat.\nCooldown 5 > 3 minutes (must be host to take effect)\nTaming time 0.75 > 0.1 seconds (don't need to be host) \nSteeve Speed 1.15 > 1.28 (probably need to be host)",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/562737c5ae0d8a9e10e679d68e7818db048bc87d/Gameplay/Unbalanced/Perks/BeastMaster%20Buff%20-%20V1.1%20_P.pak",
+    "Description": "Buffs the beastmaster perk, since the Steeves are kinda fragile, and you can *still* accidentally tame while holding ‘e’ on anything else. In haz 5-ish or above, slasher steeve will last around 1.5 minutes or less in constant combat.\nCooldown 300 > 165 seconds (must be host to take effect)\nTaming time 0.75 > 0.1 seconds (don't need to be host)\nSteeve Speed 1.15 > 1.28 (probably need to be host)",
+    "LastUpdateChangelog": "Updated files. Cooldown is now 2 minutes and 45 seconds from the previous 3 minutes.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2b8963edbe9310fc67218f54f7cae446d1e12384/Gameplay/Unbalanced/Perks/BeastMaster%20Buff%20-%20V1.2%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "BeastMaster Buff - V1.1",
+        "PakFileName": "BeastMaster Buff - V1.2",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/KPI/Perks/BeastMaster/BP_BeastMaster.uasset": "D4-A6-58-A1-F3-DC-18-2F",
+          "../../../FSD/Content/GameElements/KPI/Perks/BeastMaster/BP_BeastMaster.uasset": "54-C5-61-C7-5D-11-EC-9E",
           "../../../FSD/Content/GameElements/KPI/Perks/BeastMaster/STE_BeastMaster.uasset": "75-87-61-F8-35-74-57-74",
-          "../../../FSD/Content/GameElements/KPI/Perks/PERK_BeastMaster.uasset": "29-DA-C0-A0-03-AC-29-3E",
-          "../../../FSD/Content/GameElements/KPI/Perks/BeastMaster/BP_BeastMaster.uexp": "D5-45-CE-EB-01-46-B0-31",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_BeastMaster.uasset": "8E-C5-70-7A-DD-2E-87-00",
+          "../../../FSD/Content/GameElements/KPI/Perks/BeastMaster/BP_BeastMaster.uexp": "42-8C-C5-CC-4C-2E-A0-00",
           "../../../FSD/Content/GameElements/KPI/Perks/BeastMaster/STE_BeastMaster.uexp": "5F-72-25-51-9F-40-2C-DA",
-          "../../../FSD/Content/GameElements/KPI/Perks/PERK_BeastMaster.uexp": "62-CB-CE-C1-55-4B-A7-9C"
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_BeastMaster.uexp": "8E-99-1B-AC-39-65-DA-70"
         }
       }
     ]

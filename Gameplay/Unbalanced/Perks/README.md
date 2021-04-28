@@ -4,16 +4,19 @@ Unbalanced changes to active and passive perks.
 
 <!-- mod list -->
 
-## BeastMaster Buff - v1.1
+## BeastMaster Buff - v1.2
 **Authors:** Potatolaser  
-**DRG Version:** Update 33, hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/562737c5ae0d8a9e10e679d68e7818db048bc87d/Gameplay/Unbalanced/Perks/BeastMaster%20Buff%20-%20V1.1%20_P.pak)  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2b8963edbe9310fc67218f54f7cae446d1e12384/Gameplay/Unbalanced/Perks/BeastMaster%20Buff%20-%20V1.2%20_P.pak)  
 
 **Description:**  
-Buffs the beastmaster perk. Since Steeve is kinda fragile on haz 6+, and you can still accidentally tame while reviving. In haz 5-ish or above, slasher steeve will last around 1.5 minutes or less in constant combat.  
-Cooldown 5 > 3 minutes (must be host to take effect)  
-Taming time 0.75 > 0.1 seconds (don't need to be host)   
+Buffs the beastmaster perk, since the Steeves are kinda fragile, and you can *still* accidentally tame while holding ‘e’ on anything else. In haz 5-ish or above, slasher steeve will last around 1.5 minutes or less in constant combat.  
+Cooldown 300 > 165 seconds (must be host to take effect)  
+Taming time 0.75 > 0.1 seconds (don't need to be host)  
 Steeve Speed 1.15 > 1.28 (probably need to be host)
+
+**Update v1.2 Changelog:**  
+Updated files. Cooldown is now 2 minutes and 45 seconds from the previous 3 minutes.
 
 ## Incredibly Overpowered Perks - v1
 **Authors:** Sephiasus  
