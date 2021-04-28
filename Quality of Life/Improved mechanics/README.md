@@ -70,22 +70,23 @@ Sets the Chance for Cargo Crates and Lost packs to generate to 0
 **Description:**  
 A modpack including my Floodlight, LaserGlow, and PowerBoots mods, along with combinations thereof.   
 All the below mods include the Dash Suicide Prevention and increased Air Control tweaks built-in.   
-**Pick one .pak only!**  
+Pick one .pak only!  
 \-------  
-**Floodlight**  
+Floodlight  
 Increases the reach(5x), and intensity (1.5x) of the flashlight.  
 Balanced Mod  
 \-------  
-**LaserGlow**  
-My best interpretation of the "Laser Sight" mod by @Our Lord And Savior Gabe Newell, updated for u34 h2. Made by request.   
+LaserGlow  
+My best interpretation of the "Laser Sight" mod by @Banagement, updated for u34 h2. Made by request.   
 Balanced Mod  
 \-------  
-**PowerBoots**  
+PowerBoots  
 PowerBoots increases your base walk/run speed, and the height of your jump - allowing you to spend your perks elsewhere.   
 The bonus does stack with the speed related perks, so if you choose to combine them you can be sent flying - use at your own risk!   
 Two versions of this mod are included, depending on your lighting preference:  
 PowerBoots & Floodlight  
 PowerBoots & LaserGlow  
+**Unbalanced Mod**  
 \-------
 
 ## Fuel Canister Pickup Radius - v1.0
