@@ -21,14 +21,6 @@ Adds options for controlling fog and lights (client-side). Volumetric fog requir
 **Description:**  
 Replaces your flashlight with a laser pointer and gives your nearby surroundings a soft red glow.
 
-## LaserSight with Air Control & Dash Suicide Prevention - v1.3421
-**Authors:** briannnuhhh, Our Lord And Savior Gabe Newell  
-**DRG Version:** u34 h2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/26cb1a3dcb28b7a680b960a19c4c08ab1c9faa0e/Visual/Lighting/LaserSight%20With%20Air%20Control%20%26%20Dash%20Suicide%20Prevention%20-%20V1.3421%20_P.pak)  
-
-**Description:**  
-My best interpretation of the mod "Laser Sight" by @Our Lord And Savior Gabe Newell, made by request & updated for u34 h2. Also includes increased Air Control and the Dash Suicide Prevention tweak.
-
 ## Let There Be Light - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
