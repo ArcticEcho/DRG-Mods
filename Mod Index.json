@@ -8404,6 +8404,25 @@
       }
     ]
   },
+  "powerbootswithfloodlight": {
+    "DisplayName": "PowerBoots (With Floodlight)",
+    "Version": "4-27-2021",
+    "DrgVersion": "u34 h2",
+    "AuthorIds": [
+      424427883348623362
+    ],
+    "Description": "You've got a brighter light, now you need a pair of PowerBoots! Walk & Run faster, and your jump is boosted! The speed bonus stacks with the speed boost perk(s), and can send you flying - use at your own risk!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/30893e3065d8cc82805967745da2465d70d0eae2/Gameplay/Unbalanced/Other/PowerBoots%20%28With%20Floodlight%29%20-%20V4-27-2021%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "PowerBoots (With Floodlight) - V4-27-2021",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "B3-0B-E2-E2-C8-B8-0A-D5"
+        }
+      }
+    ]
+  },
   "powercreep": {
     "DisplayName": "Power Creep",
     "Version": "4-27-2021",
