@@ -62,6 +62,32 @@ Updated for DRG 34.1
 Sets the Chance for Cargo Crates and Lost packs to generate to 0  
 --Ah those pesky Treasures blocking my cave and disrupting my Mining Mission, if only there was a way to get rid of them -Probably Nobody--
 
+## Floodlight, LaserGlow, PowerBoots - v4-28-2021
+**Authors:** briannnuhhh  
+**DRG Version:** Update 34 Hotfix 2  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/eff5a25311439b83f09029f3eddd1908fe5676cf/Quality%20of%20Life/Improved%20mechanics/Floodlight%2C%20LaserGlow%2C%20PowerBoots%20-%20V4-28-2021.zip)  
+
+**Description:**  
+A modpack including my Floodlight, LaserGlow, and PowerBoots mods, along with combinations thereof.   
+All the below mods include the Dash Suicide Prevention and increased Air Control tweaks built-in.   
+**Pick one .pak only!**  
+\-------  
+**Floodlight**  
+Increases the reach(5x), and intensity (1.5x) of the flashlight.  
+Balanced Mod  
+\-------  
+**LaserGlow**  
+My best interpretation of the "Laser Sight" mod by @Our Lord And Savior Gabe Newell, updated for u34 h2. Made by request.   
+Balanced Mod  
+\-------  
+**PowerBoots**  
+PowerBoots increases your base walk/run speed, and the height of your jump - allowing you to spend your perks elsewhere.   
+The bonus does stack with the speed related perks, so if you choose to combine them you can be sent flying - use at your own risk!   
+Two versions of this mod are included, depending on your lighting preference:  
+PowerBoots & Floodlight  
+PowerBoots & LaserGlow  
+\-------
+
 ## Fuel Canister Pickup Radius - v1.0
 **Authors:** mino  
 **DRG Version:** U33 H10  
