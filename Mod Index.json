@@ -5808,25 +5808,6 @@
       }
     ]
   },
-  "lasersightwithpowerboots": {
-    "DisplayName": "LaserSight with PowerBoots",
-    "Version": "1.3422",
-    "DrgVersion": "u34 h2",
-    "AuthorIds": [
-      424427883348623362
-    ],
-    "Description": "Walk & Run faster, along with a boosted jump! Includes an updated version of LaserSight (or my best approximation), increased Air Control, and the \"Dash Suicide Prevention\" tweak.\nThe speed bonus stacks with the speed boost & dash perks and can send you flying - use at your own risk!\nMade by request",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/aa39b0c2a41333de4b54dcb1d99e63bfe111c47d/Gameplay/Unbalanced/Other/LaserSight%20With%20PowerBoots%20-%20V1.3422%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "LaserSight With PowerBoots - V1.3422",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "A2-0F-04-FC-10-D0-C6-2B"
-        }
-      }
-    ]
-  },
   "leafloverbegone": {
     "DisplayName": "Leaf Lover Begone",
     "Version": "1",
