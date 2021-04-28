@@ -1008,6 +1008,32 @@
       }
     ]
   },
+  "banananade": {
+    "DisplayName": "Banana-nade",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      149217063154614272
+    ],
+    "Description": "Turn your cluster grenades into combustible fruit! No bananas were harmed in the making, bugs may be.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f8612ff1a80fe54c52afc7de7e318495b882def9/Visual/3D%20Model%20Replacement/Hats/Banana-nade%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "Banana-nade",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Banananade.uasset": "2E-DC-59-44-94-3C-4C-81",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_G.uasset": "CA-29-13-49-2D-22-B5-9F",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_G_Cluster.uasset": "9E-9C-73-C3-2D-4E-00-7F",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_G_Loadout_Stick.uasset": "DB-7C-91-3E-3B-9E-07-DD",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Banananade.uexp": "6B-0A-DC-30-AC-B7-5D-7D",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_G.uexp": "A0-64-04-3D-54-E5-B1-84",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_G_Cluster.uexp": "B7-18-45-EE-6E-A8-F1-BA",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_G_Loadout_Stick.uexp": "18-D1-53-89-B6-BF-33-AF"
+        }
+      }
+    ]
+  },
   "barleyforsale": {
     "DisplayName": "Barley for Sale",
     "Version": "1.0",

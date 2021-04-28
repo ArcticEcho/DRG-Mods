@@ -293,6 +293,9 @@ You can easily locate your game installation path using steam:
  - **[Teleport Players](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Time%20saving/README.md#teleport-players---v10)** by Our Lord And Savior Gabe Newell ([download](https://github.com/ArcticEcho/DRG-Mods/raw/2150cd21143880937fc606749166271f504ca23d/Quality%20of%20Life/Time%20saving/Teleport%20Players%20-%20V1.0%20_P.pak))
  - **[Teleport Players With Sound](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Time%20saving/README.md#teleport-players-with-sound---v10)** by Our Lord And Savior Gabe Newell ([download](https://github.com/ArcticEcho/DRG-Mods/raw/5d5385410815fdeac72ac01dff5802c699a7def3/Quality%20of%20Life/Time%20saving/Teleport%20Players%20With%20Sound%20-%20V1.0%20_P.pak))
 
+## [Visual/3D Model Replacement/Hats](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats)
+ - **[Banana-nade](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats/README.md#banana-nade---v10)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f8612ff1a80fe54c52afc7de7e318495b882def9/Visual/3D%20Model%20Replacement/Hats/Banana-nade%20-%20V1.0.zip))
+
 ## [Visual/Lighting](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Lighting)
  - **[Advanced Darkness](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Lighting/README.md#advanced-darkness---v26)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/468f5264cd8fcf45469ed1e855809acbdb754eed/Visual/Lighting/Advanced%20Darkness%20-%20V2.6%20_P.pak))
  - **[Laser Sight](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Lighting/README.md#laser-sight---v11)** by Our Lord And Savior Gabe Newell ([download](https://github.com/ArcticEcho/DRG-Mods/raw/2edfe7e190d7dd38743031ab2c020fa67e8599a0/Visual/Lighting/Laser%20Sight%20-%20V1.1%20_P.pak))
