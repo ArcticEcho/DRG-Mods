@@ -3320,25 +3320,6 @@
       }
     ]
   },
-  "floodlightbetterflashlight": {
-    "DisplayName": "Floodlight - Better Flashlight",
-    "Version": "1.3422",
-    "DrgVersion": "u34 h2",
-    "AuthorIds": [
-      424427883348623362
-    ],
-    "Description": "Turn your rinky dink flashlight into a floodlight! Increases the flashlight's reach (5x) & intensity (1.5x). Also increases Air Control, and includes the \"Dash Suicide Prevention\" adjustment.",
-    "LastUpdateChangelog": "1.3422 - increased attenuation to even 5x",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ef99b1b5dc51fda811ea927322f60d2dafc5608b/Quality%20of%20Life/Improved%20mechanics/Floodlight%20-%20Better%20Flashlight%20-%20V1.3422%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Floodlight - Better Flashlight - V1.3422",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "5E-21-B7-F2-64-A4-BC-55"
-        }
-      }
-    ]
-  },
   "fnfjukebox": {
     "DisplayName": "FNF JukeBox",
     "Version": "1.0",
