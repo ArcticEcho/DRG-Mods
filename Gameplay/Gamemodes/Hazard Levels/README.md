@@ -59,6 +59,14 @@ This replaces Hazard 1 with Hazard 0, which is intended for picture taking and t
 --There are a couple exceptions: swarmer nests can spawn 1 or 2 and non-enemy hazards like crystals still exist.  
 --Lower rewards for completion.
 
+## Hazard 4.5 to 5.5 - v1.0
+**Authors:** Ike  
+**DRG Version:** Update 34 Hotfix 2  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4dc990f927bd386a1bc79310067bad7e51f082d0/Gameplay/Gamemodes/Hazard%20Levels/Hazard%204.5%20To%205.5%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the Hazard 4.5 file (first stage of EDD) with Hazard 5.5 values. This was done at the request of @who even to provide the stat buffs of Haz5.5 to viewer spawns throughout the EDD.
+
 ## Hazard 5 Carry - v3.1
 **Authors:** Ike  
 **DRG Version:** U34 H1  

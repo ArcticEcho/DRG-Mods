@@ -3642,6 +3642,25 @@
       }
     ]
   },
+  "hazard45to55": {
+    "DisplayName": "Hazard 4.5 to 5.5",
+    "Version": "1.0",
+    "DrgVersion": "Update 34 Hotfix 2",
+    "AuthorIds": [
+      189954203664252928
+    ],
+    "Description": "Replaces the Hazard 4.5 file (first stage of EDD) with Hazard 5.5 values. This was done at the request of <@!222801778083627008> to provide the stat buffs of Haz5.5 to viewer spawns throughout the EDD.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4dc990f927bd386a1bc79310067bad7e51f082d0/Gameplay/Gamemodes/Hazard%20Levels/Hazard%204.5%20To%205.5%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Hazard 4.5 To 5.5 - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "D8-BE-62-89-F2-67-0B-A9"
+        }
+      }
+    ]
+  },
   "hazard55": {
     "DisplayName": "Hazard 5.5",
     "Version": "2.0",
