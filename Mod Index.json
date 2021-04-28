@@ -8424,25 +8424,6 @@
       }
     ]
   },
-  "powerbootswithfloodlight": {
-    "DisplayName": "PowerBoots (With Floodlight)",
-    "Version": "1.3422",
-    "DrgVersion": "u34 h2",
-    "AuthorIds": [
-      424427883348623362
-    ],
-    "Description": "Description: Walk & Run faster, along with a boosted jump! Includes a brighter flashlight, increased Air Control, and the \"Dash Suicide Prevention\" tweak.\nThe speed bonus stacks with the speed boost & dash perks and can send you flying - use at your own risk!",
-    "LastUpdateChangelog": "1.3422 - included the \"Dash Suicide Prevention\" tweak.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/598cd617b2aaccf155e92182bf4c2aa1fa5a9924/Gameplay/Unbalanced/Other/PowerBoots%20%28With%20Floodlight%29%20-%20V1.3422%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "PowerBoots (With Floodlight) - V1.3422",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "E8-67-55-79-D1-75-FF-1D"
-        }
-      }
-    ]
-  },
   "powercreep": {
     "DisplayName": "Power Creep",
     "Version": "4-28-2021",
