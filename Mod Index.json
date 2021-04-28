@@ -5282,6 +5282,38 @@
       }
     ]
   },
+  "impactclub": {
+    "DisplayName": "Impact Club",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      149217063154614272
+    ],
+    "Description": "Bonk! Return to monkey with this primitive weapon. Send those glyphids to horny jail! (Replaces Impact Axe)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7fd75612976fb0ab7a1b06e2dd9576b73145ebc4/Visual/3D%20Model%20Replacement/Hats/Impact%20Club%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "BonkGrenade",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Clubgrenade.uasset": "59-06-D6-93-EF-FD-70-B1",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Clubgrenade_1.uasset": "C0-A0-81-B4-26-DF-D0-9D",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Clubgrenade_2.uasset": "DC-7A-25-0E-FC-C4-EA-37",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N.uasset": "CB-07-43-93-A6-BD-A2-F2",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N2.uasset": "F2-86-F0-75-95-0D-DF-25",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N_Loadout_StickAXE.uasset": "EB-A1-57-2B-28-BD-90-C1",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N_Thrown.uasset": "CF-9D-5B-84-F8-4A-3E-2D",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Clubgrenade.uexp": "55-87-BF-80-3B-78-E9-48",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Clubgrenade_1.uexp": "41-82-69-61-53-11-5C-D6",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Clubgrenade_2.uexp": "B4-B3-88-A9-DE-30-E2-21",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N.uexp": "EE-75-37-FC-15-82-69-B3",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N2.uexp": "0D-D1-32-31-E0-65-88-F4",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N_Loadout_StickAXE.uexp": "16-D8-94-46-28-77-97-4A",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N_Thrown.uexp": "35-9A-3D-34-52-43-C6-EF"
+        }
+      }
+    ]
+  },
   "improveddorettaarmor": {
     "DisplayName": "Improved Doretta Armor",
     "Version": "34.1.0",
