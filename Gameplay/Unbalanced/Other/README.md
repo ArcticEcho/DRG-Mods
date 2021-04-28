@@ -126,6 +126,16 @@ Updated Version Number
 --Cryo rockets now carve out a 4.5m area on impact because why not.  
 --All upgrades have been upgraded to make them better and incentivize build specialty.
 
+## LaserSight with PowerBoots - v1.3422
+**Authors:** briannnuhhh  
+**DRG Version:** u34 h2  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/aa39b0c2a41333de4b54dcb1d99e63bfe111c47d/Gameplay/Unbalanced/Other/LaserSight%20With%20PowerBoots%20-%20V1.3422%20_P.pak)  
+
+**Description:**  
+Walk & Run faster, along with a boosted jump! Includes an updated version of LaserSight (or my best approximation), increased Air Control, and the "Dash Suicide Prevention" tweak.  
+The speed bonus stacks with the speed boost & dash perks and can send you flying - use at your own risk!  
+Made by request
+
 ## Limitedly Better Bosco - v1.0
 **Authors:** haxwithaxe  
 **DRG Version:** Update 33  
