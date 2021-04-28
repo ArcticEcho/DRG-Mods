@@ -7866,6 +7866,25 @@
       }
     ]
   },
+  "nofalldamage": {
+    "DisplayName": "No Fall Damage",
+    "Version": "1.3421",
+    "DrgVersion": "Update 34 Hotfix 2",
+    "AuthorIds": [
+      424427883348623362
+    ],
+    "Description": "Exactly what it says on the tin. No damage from falling. A great combo with PowerBoots.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/08badcd608746e33f31e2faa7e9afca8e7a682f3/Gameplay/Unbalanced/Other/No%20Fall%20Damage%20-%20V1.3421%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "No Fall Damage - V1.3421",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/States/BP_FallingState.uexp": "58-B4-A9-38-32-BA-6A-12"
+        }
+      }
+    ]
+  },
   "nomoredollarstoreflashlights": {
     "DisplayName": "No more Dollar Store flashlights",
     "Version": "34.1.0",

@@ -147,6 +147,14 @@ Slightly improved Bosco mod for Deep Rock Galactic based on Better Bosco and Inf
 * Larger engagement range.  
 * Decreased response time (targeting, grabber/leech rescue, etc).
 
+## No Fall Damage - v1.3421
+**Authors:** briannnuhhh  
+**DRG Version:** Update 34 Hotfix 2  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/08badcd608746e33f31e2faa7e9afca8e7a682f3/Gameplay/Unbalanced/Other/No%20Fall%20Damage%20-%20V1.3421%20_P.pak)  
+
+**Description:**  
+Exactly what it says on the tin. No damage from falling. A great combo with PowerBoots.
+
 ## Supply Pods Keep Grab Progress - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
