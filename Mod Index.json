@@ -2050,6 +2050,26 @@
       }
     ]
   },
+  "doitalldriller": {
+    "DisplayName": "Do-It-All Driller",
+    "Version": "1.0",
+    "DrgVersion": "u34 h2",
+    "AuthorIds": [
+      229250848583057409
+    ],
+    "Description": "Adds Scout's grappling gun as a secondary weapon option and Engineer's platform gun as a class tool option.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/782d615a79e23ef0865ee73ba43b6793e15118a1/Gameplay/Unbalanced/Tools%20%26%20Gear/Do-It-All%20Driller%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Do-It-All Driller - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/InventoryLists/BP_DrillerInventory.uasset": "45-9E-29-5D-B3-89-F9-08",
+          "../../../FSD/Content/Character/InventoryLists/BP_DrillerInventory.uexp": "8E-6C-AC-A5-DA-1B-91-A4"
+        }
+      }
+    ]
+  },
   "dontpetsteeve": {
     "DisplayName": "Don't Pet Steeve",
     "Version": "1.1",

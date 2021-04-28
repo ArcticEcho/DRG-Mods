@@ -4,6 +4,14 @@ Unbalanced changes to tools and gear.
 
 <!-- mod list -->
 
+## Do-It-All Driller - v1.0
+**Authors:** psyneur  
+**DRG Version:** u34 h2  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/782d615a79e23ef0865ee73ba43b6793e15118a1/Gameplay/Unbalanced/Tools%20%26%20Gear/Do-It-All%20Driller%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Adds Scout's grappling gun as a secondary weapon option and Engineer's platform gun as a class tool option.
+
 ## Extended Armor Mineral Capacity (20) - v1.0
 **Authors:** BrewBreuw  
 **DRG Version:** Update 32/33  
