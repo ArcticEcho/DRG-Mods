@@ -62,16 +62,16 @@ Updated for DRG 34.1
 Sets the Chance for Cargo Crates and Lost packs to generate to 0  
 --Ah those pesky Treasures blocking my cave and disrupting my Mining Mission, if only there was a way to get rid of them -Probably Nobody--
 
-## Floodlight - Better Flashlight - v1.3421
+## Floodlight - Better Flashlight - v1.3422
 **Authors:** briannnuhhh  
 **DRG Version:** u34 h2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/390de6c7ac554cbb071bef014e919df597732637/Quality%20of%20Life/Improved%20mechanics/Floodlight%20-%20Better%20Flashlight%20-%20V1.3421%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ef99b1b5dc51fda811ea927322f60d2dafc5608b/Quality%20of%20Life/Improved%20mechanics/Floodlight%20-%20Better%20Flashlight%20-%20V1.3422%20_P.pak)  
 
 **Description:**  
-Turn your rinky dink flashlight into a floodlight! Increases the flashlight's reach (5x) & intensity (1.5x). Also increases Air Control, and the "Dash Suicide Prevention" adjustment.
+Turn your rinky dink flashlight into a floodlight! Increases the flashlight's reach (5x) & intensity (1.5x). Also increases Air Control, and includes the "Dash Suicide Prevention" adjustment.
 
-**Update v1.3421 Changelog:**  
-1.3421 - Added dash suicide prevention adjustment
+**Update v1.3422 Changelog:**  
+1.3422 - increased attenuation to even 5x
 
 ## Fuel Canister Pickup Radius - v1.0
 **Authors:** mino  
