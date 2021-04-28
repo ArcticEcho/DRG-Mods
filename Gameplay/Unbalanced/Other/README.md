@@ -147,13 +147,17 @@ Slightly improved Bosco mod for Deep Rock Galactic based on Better Bosco and Inf
 * Larger engagement range.  
 * Decreased response time (targeting, grabber/leech rescue, etc).
 
-## PowerBoots (With Floodlight) - v4-27-2021
+## PowerBoots (With Floodlight) - v1.3422
 **Authors:** briannnuhhh  
 **DRG Version:** u34 h2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/30893e3065d8cc82805967745da2465d70d0eae2/Gameplay/Unbalanced/Other/PowerBoots%20%28With%20Floodlight%29%20-%20V4-27-2021%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/598cd617b2aaccf155e92182bf4c2aa1fa5a9924/Gameplay/Unbalanced/Other/PowerBoots%20%28With%20Floodlight%29%20-%20V1.3422%20_P.pak)  
 
 **Description:**  
-You've got a brighter light, now you need a pair of PowerBoots! Walk & Run faster, and your jump is boosted! The speed bonus stacks with the speed boost perk(s), and can send you flying - use at your own risk!
+Description: Walk & Run faster, along with a boosted jump! Includes a brighter flashlight, increased Air Control, and the "Dash Suicide Prevention" tweak.  
+The speed bonus stacks with the speed boost & dash perks and can send you flying - use at your own risk!
+
+**Update v1.3422 Changelog:**  
+1.3422 - included the "Dash Suicide Prevention" tweak.
 
 ## Supply Pods Keep Grab Progress - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
