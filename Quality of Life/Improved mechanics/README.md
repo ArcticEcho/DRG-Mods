@@ -62,10 +62,10 @@ Updated for DRG 34.1
 Sets the Chance for Cargo Crates and Lost packs to generate to 0  
 --Ah those pesky Treasures blocking my cave and disrupting my Mining Mission, if only there was a way to get rid of them -Probably Nobody--
 
-## Floodlight, LaserGlow, PowerBoots - v4-28-2021
+## Floodlight - Better Flashlight, LaserGlow, PowerBoots - v4-28-2021
 **Authors:** briannnuhhh  
 **DRG Version:** Update 34 Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/eff5a25311439b83f09029f3eddd1908fe5676cf/Quality%20of%20Life/Improved%20mechanics/Floodlight%2C%20LaserGlow%2C%20PowerBoots%20-%20V4-28-2021.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0ae4ca9f043887bb9ac8155172b04620ede7339d/Quality%20of%20Life/Improved%20mechanics/Floodlight%20-%20Better%20Flashlight%2C%20LaserGlow%2C%20PowerBoots%20-%20V4-28-2021.zip)  
 
 **Description:**  
 A modpack including my Floodlight, LaserGlow, and PowerBoots mods, along with combinations thereof.   

@@ -3320,8 +3320,8 @@
       }
     ]
   },
-  "floodlightlaserglowpowerboots": {
-    "DisplayName": "Floodlight, LaserGlow, PowerBoots",
+  "floodlightbetterflashlightlaserglowpowerboots": {
+    "DisplayName": "Floodlight - Better Flashlight, LaserGlow, PowerBoots",
     "Version": "4-28-2021",
     "DrgVersion": "Update 34 Hotfix 2",
     "AuthorIds": [
@@ -3329,7 +3329,7 @@
     ],
     "Description": "A modpack including my Floodlight, LaserGlow, and PowerBoots mods, along with combinations thereof. \n\nAll the below mods include the Dash Suicide Prevention and increased Air Control tweaks built-in. \n\nPick one .pak only!\n-------\n\nFloodlight\nIncreases the reach(5x), and intensity (1.5x) of the flashlight.\n\nBalanced Mod\n-------\n\nLaserGlow\nMy best interpretation of the \"Laser Sight\" mod by @Banagement, updated for u34 h2. Made by request. \n\nBalanced Mod\n-------\n\nPowerBoots\nPowerBoots increases your base walk/run speed, and the height of your jump - allowing you to spend your perks elsewhere. \n\nThe bonus does stack with the speed related perks, so if you choose to combine them you can be sent flying - use at your own risk! \n\nTwo versions of this mod are included, depending on your lighting preference:\nPowerBoots & Floodlight\nPowerBoots & LaserGlow\n**Unbalanced Mod**\n-------",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/eff5a25311439b83f09029f3eddd1908fe5676cf/Quality%20of%20Life/Improved%20mechanics/Floodlight%2C%20LaserGlow%2C%20PowerBoots%20-%20V4-28-2021.zip",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0ae4ca9f043887bb9ac8155172b04620ede7339d/Quality%20of%20Life/Improved%20mechanics/Floodlight%20-%20Better%20Flashlight%2C%20LaserGlow%2C%20PowerBoots%20-%20V4-28-2021.zip",
     "Paks": [
       {
         "PakFileName": "Floodlight V1.3422",
