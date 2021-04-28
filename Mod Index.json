@@ -3300,6 +3300,25 @@
       }
     ]
   },
+  "floodlightbetterflashlight": {
+    "DisplayName": "Floodlight - Better Flashlight",
+    "Version": "4-27-2021",
+    "DrgVersion": "u34 h2",
+    "AuthorIds": [
+      424427883348623362
+    ],
+    "Description": "Turn your rinky dink flashlight into a floodlight! Increases the flashlight's reach & intensity. Also increases AirControl.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/21df529f2a3490216d73a55448a90e1dbe6cbb35/Quality%20of%20Life/Improved%20mechanics/Floodlight%20-%20Better%20Flashlight%20-%20V4-27-2021%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Floodlight - Better Flashlight - V4-27-2021",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/BP_PlayerCharacter.uexp": "B4-AF-7A-40-B2-47-81-0B"
+        }
+      }
+    ]
+  },
   "fnfjukebox": {
     "DisplayName": "FNF JukeBox",
     "Version": "1.0",
