@@ -7848,6 +7848,25 @@
       }
     ]
   },
+  "moreshields": {
+    "DisplayName": "More Shields",
+    "Version": "1.3421",
+    "DrgVersion": "Update 34 Hotfix 2",
+    "AuthorIds": [
+      424427883348623362
+    ],
+    "Description": "Allows the Gunner to place two shields at a time, shortens the shield recharge time, and provides more recharges (ammo). Host only mod.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9830499c8100069945a20c96bf39b44a114bee95/Gameplay/Unbalanced/Tools%20%26%20Gear/More%20Shields%20-%20V1.3421%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "More Shields - V1.3421",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/ShieldGenerator/WPN_ShieldRegeneratorItem.uexp": "BD-59-2B-4A-56-E8-F9-FB"
+        }
+      }
+    ]
+  },
   "musiccontrol": {
     "DisplayName": "Music Control",
     "Version": "1.0",

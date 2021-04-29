@@ -55,6 +55,14 @@ Increased base carried ammo to 1000 from 500, increased range from 10 to 15, red
 **Description:**  
 Adds 6 flares instead of 4, and these ones recharges in half of the time
 
+## More Shields - v1.3421
+**Authors:** briannnuhhh  
+**DRG Version:** Update 34 Hotfix 2  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9830499c8100069945a20c96bf39b44a114bee95/Gameplay/Unbalanced/Tools%20%26%20Gear/More%20Shields%20-%20V1.3421%20_P.pak)  
+
+**Description:**  
+Allows the Gunner to place two shields at a time, shortens the shield recharge time, and provides more recharges (ammo). Host only mod.
+
 ## Recallable Minigun Turrets - v1.2
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 9  
