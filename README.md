@@ -297,6 +297,7 @@ You can easily locate your game installation path using steam:
 ## [Visual/3D Model Replacement/Hats](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats)
  - **[Banana-nade](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats/README.md#banana-nade---v10)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f8612ff1a80fe54c52afc7de7e318495b882def9/Visual/3D%20Model%20Replacement/Hats/Banana-nade%20-%20V1.0.zip))
  - **[Impact Club](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats/README.md#impact-club---v10)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/7fd75612976fb0ab7a1b06e2dd9576b73145ebc4/Visual/3D%20Model%20Replacement/Hats/Impact%20Club%20-%20V1.0.zip))
+ - **[Lemonnade](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats/README.md#lemonnade---v10)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/56c4e32a1f9cc11041a925eaa2eb7de6ab83ef8b/Visual/3D%20Model%20Replacement/Hats/Lemonnade%20-%20V1.0.zip))
 
 ## [Visual/Lighting](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Lighting)
  - **[Advanced Darkness](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Lighting/README.md#advanced-darkness---v26)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/468f5264cd8fcf45469ed1e855809acbdb754eed/Visual/Lighting/Advanced%20Darkness%20-%20V2.6%20_P.pak))

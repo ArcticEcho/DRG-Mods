@@ -5948,6 +5948,32 @@
       }
     ]
   },
+  "lemonnade": {
+    "DisplayName": "Lemonnade",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      149217063154614272
+    ],
+    "Description": "Replaces the Incendiary with sour fury! Suggested by <@!243195324594782210>",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/56c4e32a1f9cc11041a925eaa2eb7de6ab83ef8b/Visual/3D%20Model%20Replacement/Hats/Lemonnade%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "Lemonnade",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Lemonnade.uasset": "AD-CD-7E-13-C4-7D-AB-6D",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Lemonnade_1.uasset": "FE-B8-6A-0D-37-D3-0E-71",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_H.uasset": "17-85-01-82-3C-61-A5-D0",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_H_Loadout_Stick.uasset": "23-76-4F-46-DF-CC-51-30",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Lemonnade.uexp": "23-2E-08-93-04-E8-0E-12",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Lemonnade_1.uexp": "3F-DB-E8-97-34-A0-7F-AD",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_H.uexp": "2C-81-5D-F7-49-B3-C5-1D",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_H_Loadout_Stick.uexp": "09-7E-0F-64-1D-DF-99-3C"
+        }
+      }
+    ]
+  },
   "lettherebelight": {
     "DisplayName": "Let There Be Light",
     "Version": "1.0",
