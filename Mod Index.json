@@ -10210,30 +10210,30 @@
   },
   "starshiptrooperselite": {
     "DisplayName": "Starship Troopers Elite",
-    "Version": "34.1.0",
+    "Version": "34.3.0",
     "DrgVersion": "34.1",
     "AuthorIds": [
       306800962432008193
     ],
     "Description": "FOR VETERANS OF MY REGULAR STARSHIP TROOPERS MOD, this mod triples the spawn size so expect to be swimming in bugs if you don't kill fast enough.\nFurthermore, regular Haz5 swarms vary a lot and some maps can have very little spawns. That won't happen with this mod, spawns will always be between 90% and 100% of the max seed value.\nThis means you will always have intense maps so you need to stay ahead of your ammo and prioritize nitra!!\nThe enemies still have Haz4 specifications (speed, damage, resistance, ..) as regular Starship Troopers, but everything else is Haz5 (friendly fire, fall damage, etc)\nI HIGHLY recommend using the mod that improves doretta armor so you can focus on enemies instead of babysitting a drill.\nPoint Extraction (1-4 dwarves): https://youtu.be/Yyp_PEo3xdI\nElimination (3 dwarves): https://youtu.be/r63D2Lm3HQw\nEgg hunt (2-3 dwarves): https://youtu.be/YpNsQN9zkrI\nSalvage (4 dwarves): https://youtu.be/-X4jcD_yJrQ\nSalvage (2 dwarves): https://youtu.be/6Rcwf1xIqig\nRefinery (3-4 dwarves): https://youtu.be/baSFK-lYZ3k\nRefinery (3 dwarves): https://youtu.be/fY4M1g16Iqo\nMorkite (2 dwarves): https://youtu.be/R9bZczjiCRA\n-------\n--Triples the swarm sizes of Haz5 enemies (200% on single player)\n--150% XP bonus\n--Added a delay before first announced swarm to let you get some nitra first\n--All waves will be massive, regular Starship Troopers vacation is over\n--Replaces Haz 4.5, 5, 5.5 (Includes EDD). Only the host needs the mod\n--IMPORTANT: Use EITHER the \"400_cap\" file ALONE or the regular file along with ArcticEcho's \"Custom Cap\" mod (using 400 enemies, 200 swarmers)\n-------\nNOTES:\n-You should use the mod to reduce Escort mission's flying rocks' health to 25%\n-You should use the mod to improve Doretta's damage resistance by 75%\n-You should use the mod to make resupplies cost 50 nitra",
-    "LastUpdateChangelog": "Updated for DRG 34.1",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a397a89496f0ecff321497eaf2096348b618df86/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20Elite%20-%20V34.1.0.zip",
+    "LastUpdateChangelog": "Updated for DRG 34.3's Elite changes",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/426520a3533b768fee4714accb793c821a4be00a/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20Elite%20-%20V34.3.0.zip",
     "Paks": [
       {
-        "PakFileName": "Starship Troopers ELITE - 400 cap 34.1.0",
+        "PakFileName": "Starship Troopers ELITE - 400 cap 34.3.0",
         "CookedFileHashes": {
           "../../../FSD/Content/Game/BP_GameMode.uexp": "3B-DF-61-57-5F-62-7B-85",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "E4-15-36-12-65-D8-A3-4B",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "9D-72-BB-58-CC-64-51-4E",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "D1-18-19-21-7A-5B-58-FE"
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "C1-C6-EC-CD-2F-E8-8E-3E",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "F7-7F-B4-E9-1D-2E-7E-06",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "5C-5A-22-97-C0-89-41-13"
         }
       },
       {
-        "PakFileName": "Starship Troopers ELITE 34.1.0",
+        "PakFileName": "Starship Troopers ELITE 34.3.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "E4-15-36-12-65-D8-A3-4B",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "9D-72-BB-58-CC-64-51-4E",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "D1-18-19-21-7A-5B-58-FE"
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "C1-C6-EC-CD-2F-E8-8E-3E",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "F7-7F-B4-E9-1D-2E-7E-06",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "5C-5A-22-97-C0-89-41-13"
         }
       }
     ]

@@ -243,10 +243,10 @@ NOTES:
 **Update v34.3.0 Changelog:**  
 Updated for DRG 34.3's Elite changes
 
-## Starship Troopers Elite - v34.1.0
+## Starship Troopers Elite - v34.3.0
 **Authors:** NaturalBornCamper  
 **DRG Version:** 34.1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a397a89496f0ecff321497eaf2096348b618df86/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20Elite%20-%20V34.1.0.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/426520a3533b768fee4714accb793c821a4be00a/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20Elite%20-%20V34.3.0.zip)  
 
 **Description:**  
 FOR VETERANS OF MY REGULAR STARSHIP TROOPERS MOD, this mod triples the spawn size so expect to be swimming in bugs if you don't kill fast enough.  
@@ -275,5 +275,5 @@ NOTES:
 -You should use the mod to improve Doretta's damage resistance by 75%  
 -You should use the mod to make resupplies cost 50 nitra
 
-**Update v34.1.0 Changelog:**  
-Updated for DRG 34.1
+**Update v34.3.0 Changelog:**  
+Updated for DRG 34.3's Elite changes
