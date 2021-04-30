@@ -37,23 +37,30 @@ NOTES:
 **Update v1.34 Changelog:**  
 Updated for current DRG U34
 
-## Bug Planet - Constant Conflict - v1.0
+## Bug Planet - Constant Conflict - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/48395fd3b94c6ca6919f8181ac46e5644f1b0438/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20Constant%20Conflict%20-%20V1.0%20_P.pak)  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a9a80cfbdc2306f662014c328fee0f25b279fbdc/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20Constant%20Conflict%20-%20V1.34%20_P.pak)  
 
 **Description:**  
-Inspired by the movie Starship Troopers, Hoxxes IV is an ugly planet, a bug planet. Expect large waves of grunts when you walk into their tunnels.  
---Hazard 3, 3.5, 4, 4.5, 5 and 5.5 changed  
+Hoxxes IV is an ugly planet, a bug planet. Expect unrelenting waves of grunts when you walk into their tunnels. Even scouts use zipline tactics in these caves. Shoutout to NaturalBornCamper for big help!  
+--Hazard 2, 3, 3.5, 4, 4.5, 5 and 5.5 changed  
+--Haz 2 modified to have haz 4 health, speed and damage values  
 --The higher the hazard, the more health the grunts have and more damage they do  
---The higher the hazard, the more grunt veterans spawn  
+--Increased veterans spawns  
 --Low enemy diversity  
---Insane Wave Intervals  
+--*Insane* Wave Intervals  
 --Big enemies are slightly weaker, its mostly about surviving the grunt waves  
---Large enemy count  
+--Massive enemy waves  
 --Map seed can roll huge waves of macteras or spitters, be prepared  
---Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks  
-A Custom Enemy Cap mod is recommended, I use a cap of 150. Lower ammo cost also recommended.
+\-------------------  
+NOTES:  
+-Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health by 50%  
+-You should use the mod to improve Doretta's damage resistance  
+-I recommend a resupply mod if you're having ammo problems
+
+**Update v1.34 Changelog:**  
+Updated for current DRG U34
 
 ## Hazard 0: Creative - v1.0
 **Authors:** Ike  
