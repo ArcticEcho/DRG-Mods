@@ -12,23 +12,30 @@ Changes to the hazard files that can make them harder or more crazy but fun.
 **Description:**  
 100% chance to encounter Korlok, BETC and Crassus Detonator in a mission preset.
 
-## Bug Planet - v1.0
+## Bug Planet - v1.34
 **Authors:** Sesselpots  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1f326430dd91b74912ac0cdf58bc9af354e72d1e/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20V1.0%20_P.pak)  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b105d738b6eb663bd61d031e8f76410f25181c58/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20V1.34%20_P.pak)  
 
 **Description:**  
-Inspired by the movie Starship Troopers, Hoxxes IV is an ugly planet, a bug planet. Expect large waves of grunts when you walk into their tunnels.  
---Hazard 3, 3.5, 4, 4.5, 5 and 5.5 changed  
---The higher the hazard, the more health the grunts have and more damage they do  
---The higher the hazard, the more grunt veterans spawn  
+Inspired by the movie Starship Troopers, Hoxxes IV is an ugly planet, a bug planet. Expect large waves of grunts when you walk into their tunnels. Shoutout to NaturalBornCamper for big help!  
+--Hazard 2, 3, 3.5, 4, 4.5, 5 and 5.5 changed  
+--Hazard 2 (Bug Hill) is very diffrent from 3-5.5  
+--Haz 2 modified to have haz 4 health, speed and damage values and faster spawns, but no diversity  
+--The higher the hazard (3-5.5), the more health the grunts have and more damage they do  
+--Increased veterans spawns  
 --Low enemy diversity  
---Wave intervals a little higher than normal  
 --Big enemies are slightly weaker, its mostly about surviving the grunt waves  
---Large enemy count  
+--Massive enemy waves  
 --Map seed can roll huge waves of macteras or spitters, be prepared  
---Massive amount of escort mission phase 2 rocks will spawn, keep Doretta safe and prioritize the rocks  
-A Custom Enemy Cap mod is recommended, I use a cap of 150. Lower ammo cost also recommended.
+\-------------------  
+NOTES:  
+-Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health by 50%  
+-You should use the mod to improve Doretta's damage resistance  
+-I recommend a resupply mod if you're having ammo problems
+
+**Update v1.34 Changelog:**  
+Updated for current DRG U34
 
 ## Bug Planet - Constant Conflict - v1.0
 **Authors:** Sesselpots  
