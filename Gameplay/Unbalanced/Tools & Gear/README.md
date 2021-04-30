@@ -106,6 +106,14 @@ Inspired by toothpaste gun from @Our Lord And Savior Gabe Newell , Makes platfor
 Full changelog for showing undisplayed changes can be seen in this message in mod preview:  
 https://discordapp.com/channels/676880716142739467/732650220214681600/762558222732230686
 
+## SpiderDwarf - Upgraded GrappleGun 1.34.03 - v1.34.03
+**Authors:** zfecal  
+**DRG Version:** Update 34 Hotfix 3  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/213c2278ba6ef9b0a64a96141408680899e99ef5/Gameplay/Unbalanced/Tools%20%26%20Gear/SpiderDwarf%20-%20Upgraded%20GrappleGun%201.34.03%20-%20V1.34.03%20_P.pak)  
+
+**Description:**  
+Allows you to freely move from point to point with the GrappleGun, with zero cooldown. Builds on Sesselpots existing mod (Upgraded Grapple Gun - v1.34)
+
 ## Super Platformer - v1.0
 **Authors:** GoldBl4d3  
 **DRG Version:** Update 34  
