@@ -188,7 +188,7 @@ The two mod packages are the same except for the language translation
 
 ## Larger enemy spawns, for missions and Deep dives (1.5x, 2x, 3x, 4x, 5x) - v34.3.0
 **Authors:** NaturalBornCamper  
-**DRG Version:** 34.1  
+**DRG Version:** 34.3  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0feae94bd9830c3dfe7278f4b3e6a5ed94723709/Gameplay/Gamemodes/Hazard%20Levels/Larger%20Enemy%20Spawns%2C%20For%20Missions%20And%20Deep%20Dives%20%281.5x%2C%202x%2C%203x%2C%C2%A04x%2C%205x%29%20-%20V34.3.0.zip)  
 
 **Description:**  

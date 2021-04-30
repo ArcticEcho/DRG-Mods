@@ -5718,7 +5718,7 @@
   "largerenemyspawnsformissionsanddeepdives15x2x3x4x5x": {
     "DisplayName": "Larger enemy spawns, for missions and Deep dives (1.5x, 2x, 3x, 4x, 5x)",
     "Version": "34.3.0",
-    "DrgVersion": "34.1",
+    "DrgVersion": "34.3",
     "AuthorIds": [
       306800962432008193
     ],
