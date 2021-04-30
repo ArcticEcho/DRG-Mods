@@ -12,6 +12,14 @@ Hat model replacements.
 **Description:**  
 Turn your cluster grenades into combustible fruit! No bananas were harmed in the making, bugs may be.
 
+## Diamond Pickaxe - v1.0
+**Authors:** SirVerex  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/fb342d474944b63961b4746a9f774a06786b2eef/Visual/3D%20Model%20Replacement/Hats/Diamond%20Pickaxe%20-%20V1.0.zip)  
+
+**Description:**  
+Embrace your childhood days (or not) and mine using the strongest material from the hit game Minecraft (Follow the README inside for instructions)
+
 ## Impact Club - v1.0
 **Authors:** SirVerex  
 **DRG Version:** U34  

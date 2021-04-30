@@ -1964,6 +1964,41 @@
       }
     ]
   },
+  "diamondpickaxe": {
+    "DisplayName": "Diamond Pickaxe",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      149217063154614272
+    ],
+    "Description": "Embrace your childhood days (or not) and mine using the strongest material from the hit game Minecraft (Follow the README inside for instructions)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fb342d474944b63961b4746a9f774a06786b2eef/Visual/3D%20Model%20Replacement/Hats/Diamond%20Pickaxe%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "DiamondPickaxe",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_BladeFront_001.uasset": "81-71-93-59-A7-42-BB-B2",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Handle_001.uasset": "A1-AB-47-F7-BB-3B-D0-47",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Head_001.uasset": "A0-A7-B0-E0-7F-E6-E7-64",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Pommel_001.uasset": "9D-8D-20-E1-1D-01-59-08",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Shaft_001.uasset": "F1-81-E6-7D-2A-53-6A-E9",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Skins/diamond_pickaxe.uasset": "B4-C6-E4-C2-44-C8-F1-99",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Skins/M_PickAxe_Gadgeteer.uasset": "92-39-84-9F-69-54-E4-F6",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Skins/Voronoi.uasset": "62-77-48-90-55-39-58-37",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_BladeFront_001.uexp": "9B-60-F1-23-E3-9E-87-EC",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Handle_001.uexp": "2E-4F-E9-54-CF-80-F9-51",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Head_001.uexp": "35-A5-D5-FB-10-B2-B5-4F",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Pommel_001.uexp": "11-5C-89-2B-3C-DF-BE-68",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Shaft_001.uexp": "8E-A4-A6-38-66-E9-0F-0C",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Skins/diamond_pickaxe.uexp": "0C-A3-68-F2-09-5D-37-6C",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Skins/M_PickAxe_Gadgeteer.uexp": "FA-6D-38-A8-DE-CA-6C-C2",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Skins/Voronoi.uexp": "55-3E-6D-F2-CE-14-3F-F6",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Skins/Voronoi.ubulk": "AE-50-66-0E-C4-85-D6-1E"
+        }
+      }
+    ]
+  },
   "diesireadreadnoughbossmusic": {
     "DisplayName": "Dies Irea Dreadnough Boss Music",
     "Version": "2",
