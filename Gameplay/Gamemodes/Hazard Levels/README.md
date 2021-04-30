@@ -186,10 +186,10 @@ This is mod I made with my current understanding of games, you may find it diffi
 This mod May be disabled due to the game's "hotfix", Or I updated it, Please Constant concern discord  
 The two mod packages are the same except for the language translation
 
-## Larger enemy spawns, for missions and Deep dives (1.5x, 2x, 3x, 4x, 5x) - v34.1.0
+## Larger enemy spawns, for missions and Deep dives (1.5x, 2x, 3x, 4x, 5x) - v34.3.0
 **Authors:** NaturalBornCamper  
 **DRG Version:** 34.1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2c95ba6e4a78394fd9d906d63013d9f6b389bc18/Gameplay/Gamemodes/Hazard%20Levels/Larger%20Enemy%20Spawns%2C%20For%20Missions%20And%20Deep%20Dives%20%281.5x%2C%202x%2C%203x%2C%C2%A04x%2C%205x%29%20-%20V34.1.0.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0feae94bd9830c3dfe7278f4b3e6a5ed94723709/Gameplay/Gamemodes/Hazard%20Levels/Larger%20Enemy%20Spawns%2C%20For%20Missions%20And%20Deep%20Dives%20%281.5x%2C%202x%2C%203x%2C%C2%A04x%2C%205x%29%20-%20V34.3.0.zip)  
 
 **Description:**  
 This mods simply make the game spawn more enemies without changing anything else. This means swarms will be larger, nests will shoot more swarmers, nexus will pop more swarmers, etc  
@@ -213,8 +213,8 @@ NOTES:
 -You should use the mod to improve Doretta's damage resistance by 50% (as you will be busy with enemies)  
 -You can use the mod "Cheaper resupplies" with 60 nitra if you're having ammo problems, but 80 is still ok
 
-**Update v34.1.0 Changelog:**  
-Updated for DRG 34.1, includes haz 1 & 2 as requested
+**Update v34.3.0 Changelog:**  
+Updated for DRG 34.3's Elite changes
 
 ## Starship Troopers - v34.1.0
 **Authors:** NaturalBornCamper  
