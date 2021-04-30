@@ -155,14 +155,6 @@ Slightly improved Bosco mod for Deep Rock Galactic based on Better Bosco and Inf
 **Description:**  
 Exactly what it says on the tin. No damage from falling. A great combo with PowerBoots. Host only mod.
 
-## Spawn Menu Beta - v1
-**Authors:** GoldBl4d3  
-**DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b641e41063f7478b7b7c61e45e6c4e1d542bed56/Gameplay/Unbalanced/Other/Spawn%20Menu%20Beta%20-%20V1%20_P.pak)  
-
-**Description:**  
-Conflict test
-
 ## Supply Pods Keep Grab Progress - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
