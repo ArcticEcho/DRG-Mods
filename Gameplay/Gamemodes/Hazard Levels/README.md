@@ -216,10 +216,10 @@ NOTES:
 **Update v34.3.0 Changelog:**  
 Updated for DRG 34.3's Elite changes
 
-## Starship Troopers - v34.1.0
+## Starship Troopers - v34.3.0
 **Authors:** NaturalBornCamper  
 **DRG Version:** 34.1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/69330dfa5cc9c1b82fc0c6081a37103e7035ae9d/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V34.1.0.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/10467ef4dbce9a1f25f48bd7de0de0e2dd2abb87/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20-%20V34.3.0.zip)  
 
 **Description:**  
 For people who don't like Haz5's bullet sponge enemies, but find Haz4 too easy.  
@@ -240,8 +240,8 @@ NOTES:
 -You should use the mod to improve Doretta's damage resistance by 50% (as you will constantly be busy with enemies)  
 -You can use the mod "Cheaper resupplies" with 60 nitra if you're having ammo problems, but 80 is still ok
 
-**Update v34.1.0 Changelog:**  
-Updated for DRG 34.1
+**Update v34.3.0 Changelog:**  
+Updated for DRG 34.3's Elite changes
 
 ## Starship Troopers Elite - v34.1.0
 **Authors:** NaturalBornCamper  
