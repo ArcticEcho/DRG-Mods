@@ -245,7 +245,7 @@ Updated for DRG 34.3's Elite changes
 
 ## Starship Troopers Elite - v34.3.0
 **Authors:** NaturalBornCamper  
-**DRG Version:** 34.1  
+**DRG Version:** 34.3  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/426520a3533b768fee4714accb793c821a4be00a/Gameplay/Gamemodes/Hazard%20Levels/Starship%20Troopers%20Elite%20-%20V34.3.0.zip)  
 
 **Description:**  
