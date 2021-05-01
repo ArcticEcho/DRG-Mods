@@ -72,7 +72,7 @@ You can easily locate your game installation path using steam:
 
 ## [Framework](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework)
  - **[BP Mod Manager](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#bp-mod-manager---v43)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/440b16704a5e2e627bb93009c9afc73e29841bad/Framework/BP%20Mod%20Manager%20-%20V4.3%20_P.pak))
- - **[Music Control](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#music-control---v10)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/9ed28a5e7f8cfa6b0d58d2a24f1e611e6820ce9b/Framework/Music%20Control%20-%20V1.0.zip))
+ - **[Music Control](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#music-control---v11)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/9f8b234d7a2b796bbec62bcdad1ac384f2241010/Framework/Music%20Control%20-%20V1.1.zip))
 
 ## [Gameplay/Balanced](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Balanced)
  - **[Airburst Grenade](https://github.com/ArcticEcho/DRG-Mods/tree/main/Gameplay/Balanced/README.md#airburst-grenade---v20)** by Ike ([download](https://github.com/ArcticEcho/DRG-Mods/raw/a685b9a215d97a2016bc26963ae6992a7e1ce0a3/Gameplay/Balanced/Airburst%20Grenade%20-%20V2.0%20_P.pak))

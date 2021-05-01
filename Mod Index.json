@@ -7934,14 +7934,14 @@
   },
   "musiccontrol": {
     "DisplayName": "Music Control",
-    "Version": "1.0",
-    "DrgVersion": "Update 33",
+    "Version": "1.1",
+    "DrgVersion": "U34+",
     "AuthorIds": [
       199938370338553856
     ],
     "Description": "A re-created base class tree of sound classes and submixes used by music mods.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9ed28a5e7f8cfa6b0d58d2a24f1e611e6820ce9b/Framework/Music%20Control%20-%20V1.0.zip",
+    "LastUpdateChangelog": "Fixed EndWave music overlapping due to U34 changes.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9f8b234d7a2b796bbec62bcdad1ac384f2241010/Framework/Music%20Control%20-%20V1.1.zip",
     "Paks": []
   },
   "nochokingsoundonlowoxygen": {

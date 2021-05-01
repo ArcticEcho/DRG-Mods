@@ -17,10 +17,13 @@ Loads BluePrint mods into the game and provides a simple UI for managing them. P
  - Fixed a bug that would cause the startup notification to silently linger and overlap with other UIs.  
  - Fixed a bug that would reset the scroll position everytime you open the menu.
 
-## Music Control - v1.0
+## Music Control - v1.1
 **Authors:** Demellion Dismal  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9ed28a5e7f8cfa6b0d58d2a24f1e611e6820ce9b/Framework/Music%20Control%20-%20V1.0.zip)  
+**DRG Version:** U34+  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9f8b234d7a2b796bbec62bcdad1ac384f2241010/Framework/Music%20Control%20-%20V1.1.zip)  
 
 **Description:**  
 A re-created base class tree of sound classes and submixes used by music mods.
+
+**Update v1.1 Changelog:**  
+Fixed EndWave music overlapping due to U34 changes.
