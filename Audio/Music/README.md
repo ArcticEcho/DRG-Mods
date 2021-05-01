@@ -20,10 +20,10 @@ Gonna annihilate your whole crew,
 Gonna be squashed by a large crustacea  
 \------------------------------------
 
-## DOOM Music Overhaul - v1.4.1
+## DOOM Music Overhaul - v1.5
 **Authors:** Demellion Dismal  
-**DRG Version:** Update 33 Hotfix 4  
-**Download Link:** [Download](https://mega.nz/file/frZXAAJJ#Qd9o6YG2Abv9kvAn6BY9pIU6qK-T7XhLiDx54DV6dfc) (third-party host)  
+**DRG Version:** U34+  
+**Download Link:** [Download](https://mega.nz/file/vvBxFKLT#EDDLw-GRQn_sIxvX0vIvpb7LIhh-FC7QOx5cZnSFsco) (third-party host)  
 
 **Description:**  
 Replaces in-game music with music from DOOM 2016/Eternal games:  
@@ -58,8 +58,8 @@ Machine Event Music - Andrew Hulshult - Untitled
 Machine Event Music - Andrew Hulshult - On The Hunt  
 Mission Ending Music - Mick Gordon - At Dooms Gate
 
-**Update v1.4.1 Changelog:**  
-Added list of music
+**Update v1.5 Changelog:**  
+Update 34
 
 ## Drip Fortress End Screen - v1.0
 **Authors:** Pacagma  
