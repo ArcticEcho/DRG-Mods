@@ -28,14 +28,6 @@ Reduces the damage of the bulk death explosion from 20,000 to 3,000, while incre
 **Update v1.1 Changelog:**  
 Added a version of the mod without an attack boost.
 
-## Deep Dives Have Resources - v1.0
-**Authors:** Our Lord And Savior Gabe Newell  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/db3df3748dc39156b213cc248c41115d06de793b/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Dives%20Have%20Resources%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.
-
 ## Dreadnought Buffs - v3.3
 **Authors:** Potatolaser  
 **DRG Version:** U34  

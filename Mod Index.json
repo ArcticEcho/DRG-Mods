@@ -1916,30 +1916,6 @@
       }
     ]
   },
-  "deepdiveshaveresources": {
-    "DisplayName": "Deep Dives Have Resources",
-    "Version": "1.0",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      146392394328178690
-    ],
-    "Description": "Deep Dives will now spawn resources.  The resource veins only work for the host but the deposited ones do work for clients.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/db3df3748dc39156b213cc248c41115d06de793b/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Dives%20Have%20Resources%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Deep Dives Have Resources - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Barley.uasset": "13-5F-3D-67-DF-76-DA-D7",
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Barley.uexp": "58-DB-E4-71-AD-85-F4-46",
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Crafting.uasset": "0C-7C-32-54-3E-54-AA-32",
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Crafting.uexp": "71-9B-63-30-78-A5-39-B2",
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Gems.uasset": "23-90-63-57-19-71-AA-8B",
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Gems.uexp": "26-16-AD-72-79-AE-A3-FD"
-        }
-      }
-    ]
-  },
   "diamondpickaxe": {
     "DisplayName": "Diamond Pickaxe",
     "Version": "1.0",
