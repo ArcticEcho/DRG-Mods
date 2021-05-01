@@ -1916,30 +1916,6 @@
       }
     ]
   },
-  "deepdiveshavedoubleresources": {
-    "DisplayName": "Deep Dives Have Double Resources",
-    "Version": "1.0",
-    "DrgVersion": "Update 33, Hotfix 2",
-    "AuthorIds": [
-      146392394328178690
-    ],
-    "Description": "Deep Dives will now spawn an abundant amount of resources.  The resource veins only work for the host but the deposited ones do work for clients.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c230c21f490d649f7616bee6e6a4ac8b08895e04/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Dives%20Have%20Double%20Resources%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Deep Dives Have Double Resources - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Barley.uasset": "13-5F-3D-67-DF-76-DA-D7",
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Barley.uexp": "15-02-28-B3-5F-64-E5-65",
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Crafting.uasset": "0C-7C-32-54-3E-54-AA-32",
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Crafting.uexp": "DC-48-4F-30-CC-C6-8E-59",
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Gems.uasset": "23-90-63-57-19-71-AA-8B",
-          "../../../FSD/Content/GameElements/DeepDives/BaseMutators/DDMUT_Gems.uexp": "AD-DA-53-DC-63-3B-BC-EC"
-        }
-      }
-    ]
-  },
   "deepdiveshaveresources": {
     "DisplayName": "Deep Dives Have Resources",
     "Version": "1.0",

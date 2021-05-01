@@ -28,14 +28,6 @@ Reduces the damage of the bulk death explosion from 20,000 to 3,000, while incre
 **Update v1.1 Changelog:**  
 Added a version of the mod without an attack boost.
 
-## Deep Dives Have Double Resources - v1.0
-**Authors:** Our Lord And Savior Gabe Newell  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c230c21f490d649f7616bee6e6a4ac8b08895e04/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Dives%20Have%20Double%20Resources%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Deep Dives will now spawn an abundant amount of resources.  The resource veins only work for the host but the deposited ones do work for clients.
-
 ## Deep Dives Have Resources - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
