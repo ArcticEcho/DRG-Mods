@@ -8902,6 +8902,26 @@
       }
     ]
   },
+  "rapiditycontrol": {
+    "DisplayName": "Rapidity Control",
+    "Version": "0.0",
+    "DrgVersion": "34.3",
+    "AuthorIds": [
+      550333619940622359
+    ],
+    "Description": "Improves Roll Control BC OC adding it a nerf. A projectile speed nerf. Making it RtS lite and keeping the ability to roll. https://discord.com/channels/676880716142739467/732650220214681600/837974247724941314\n- Adds x0.75 projectile speed penalty from Fat Boy OC to Roll Control OC.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d932f2600da12274bb0711b09229b73f3f230411/Gameplay/Balanced/Rapidity%20Control%20-%20V0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Rapidity Control - V0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_LineCutter_RollControl_C.uasset": "92-B5-CF-CC-40-2E-A6-04",
+          "../../../FSD/Content/WeaponsNTools/LineCutter/Overclocks/OC_LineCutter_RollControl_C.uexp": "4F-A3-3D-3E-6A-1F-1A-68"
+        }
+      }
+    ]
+  },
   "rated18": {
     "DisplayName": "Rated 18+",
     "Version": "1.0",

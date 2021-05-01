@@ -121,6 +121,15 @@ A mod adressing minigun mod tree balance issues, namely accuracy, blow-through a
 - Swapped T1.C Accuracy and T4.B Spin-Up Time.  
 - Swapped T3.C Blowthrough and T4.C Magnetic Bearings.
 
+## Rapidity Control - v0.0
+**Authors:** Drillboy Jenkins  
+**DRG Version:** 34.3  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d932f2600da12274bb0711b09229b73f3f230411/Gameplay/Balanced/Rapidity%20Control%20-%20V0.0%20_P.pak)  
+
+**Description:**  
+Improves Roll Control BC OC adding it a nerf. A projectile speed nerf. Making it RtS lite and keeping the ability to roll. https://discord.com/channels/676880716142739467/732650220214681600/837974247724941314  
+- Adds x0.75 projectile speed penalty from Fat Boy OC to Roll Control OC.
+
 ## Shurikens - v2.1
 **Authors:** Ike  
 **DRG Version:** 34 H1  
