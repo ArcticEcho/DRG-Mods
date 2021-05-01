@@ -7895,20 +7895,20 @@
   },
   "morefov": {
     "DisplayName": "More FOV",
-    "Version": "1.2",
-    "DrgVersion": "Update 33 Hotfix 4",
+    "Version": "1.3",
+    "DrgVersion": "U34+",
     "AuthorIds": [
       199938370338553856
     ],
-    "Description": "Adds ability to change FOV up to 260",
-    "LastUpdateChangelog": "Fixed a Hotfix 4 incompatibility",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9bd26041e9ed7d1a80406b1f88c8ab338f1dd5ea/Quality%20of%20Life/Camera/More%20FOV%20-%20V1.2%20_P.pak",
+    "Description": "Changes the range of the FOV slider. Range is 1 to 240",
+    "LastUpdateChangelog": "Update 34",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d28bd091ca4ff85a80f7ef24c7495b50d2dd9c81/Quality%20of%20Life/Camera/More%20FOV%20-%20V1.3%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "More FOV - V1.2",
+        "PakFileName": "More FOV - V1.3",
         "CookedFileHashes": {
-          "../../../FSD/Content/UI/Menu_Options/Menu_Options.uasset": "FF-B5-4D-52-D7-8E-9D-AA",
-          "../../../FSD/Content/UI/Menu_Options/Menu_Options.uexp": "E9-40-34-7A-20-CA-D0-15"
+          "../../../FSD/Content/UI/Menu_Options/Menu_Options.uasset": "D2-01-3E-7B-7C-15-6D-DE",
+          "../../../FSD/Content/UI/Menu_Options/Menu_Options.uexp": "D1-84-47-80-65-78-F1-BC"
         }
       }
     ]
