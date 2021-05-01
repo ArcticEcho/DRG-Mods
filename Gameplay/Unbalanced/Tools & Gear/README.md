@@ -122,6 +122,14 @@ Allows you to freely move from point to point with the GrappleGun, with zero coo
 **Description:**  
 The platform gun has been upgraded with a fast rate of fire and 250 max ammo capacity. Platforms are much thicker but with a smaller width.
 
+## Super Platformer Lite - v1.0
+**Authors:** GoldBl4d3  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/669117343573f0fd7fe2a82134a60e2fcb55cca8/Gameplay/Unbalanced/Tools%20%26%20Gear/Super%20Platformer%20Lite%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+The platform gun has been upgraded with a fast rate of fire, 120 max ammo, 20 round clip, and no recoil. Platforms are normal sized.
+
 ## Thick Platforms - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  

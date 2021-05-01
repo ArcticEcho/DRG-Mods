@@ -10658,6 +10658,28 @@
       }
     ]
   },
+  "superplatformerlite": {
+    "DisplayName": "Super Platformer Lite",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      506899406776303616
+    ],
+    "Description": "The platform gun has been upgraded with a fast rate of fire, 120 max ammo, 20 round clip, and no recoil. Platforms are normal sized.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/669117343573f0fd7fe2a82134a60e2fcb55cca8/Gameplay/Unbalanced/Tools%20%26%20Gear/Super%20Platformer%20Lite%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Super Platformer Lite - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/PRJ_PlatformMaker.uasset": "31-2E-FF-FE-D5-5A-C0-6C",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset": "6B-3E-AF-88-4A-3E-F5-A3",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/PRJ_PlatformMaker.uexp": "D3-28-9D-15-8A-53-00-59",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uexp": "2B-73-3C-45-B3-AA-7B-27"
+        }
+      }
+    ]
+  },
   "supersonicsentry": {
     "DisplayName": "SupersonicSentry",
     "Version": "1.02",
