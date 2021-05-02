@@ -3436,6 +3436,32 @@
       }
     ]
   },
+  "goldenwrench": {
+    "DisplayName": "Golden Wrench",
+    "Version": "1.0",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      169492441982959616,
+      149217063154614272
+    ],
+    "Description": "Replaces the building hammer with TF 2's golden wrench! (thanks to SirVerex for the texture nodes)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/14bd58c3d8e933cc1547eaf0edc30f8a1a4f5ac7/Visual/3D%20Model%20Replacement/Hats/Golden%20Wrench%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Golden Wrench - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/CharacterStructure/Mallet/SM_Mallet_A.uasset": "1E-0F-26-78-FD-8D-7C-2B",
+          "../../../FSD/Content/CharacterStructure/Mallet/v_wrench_sheet_gold.uasset": "E7-10-04-C2-74-AA-B8-4F",
+          "../../../FSD/Content/CharacterStructure/Mallet/wrench.uasset": "0D-ED-BB-14-9C-EB-DE-03",
+          "../../../FSD/Content/CharacterStructure/Mallet/SM_Mallet_A.uexp": "BB-C9-53-5E-42-DC-75-7F",
+          "../../../FSD/Content/CharacterStructure/Mallet/v_wrench_sheet_gold.uexp": "FF-BF-94-36-19-E1-1A-E1",
+          "../../../FSD/Content/CharacterStructure/Mallet/wrench.uexp": "9A-11-7E-BC-96-97-E4-8D",
+          "../../../FSD/Content/CharacterStructure/Mallet/v_wrench_sheet_gold.ubulk": "C3-F1-D8-7B-EE-49-C2-27"
+        }
+      }
+    ]
+  },
   "goodoldbetcexe": {
     "DisplayName": "Good Old Bet-C.exe",
     "Version": "34.1.0",
