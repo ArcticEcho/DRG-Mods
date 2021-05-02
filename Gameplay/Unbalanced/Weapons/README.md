@@ -358,7 +358,7 @@ Increases the shield bonus offered in the armor modifications.
 Decreases the Power Attack cooldown in the pickaxe modifications.  
 100% chance electrocution for engie SMG  
 Some changes are host only, like C4 & Gunner's shield.  
-Will not be compatible with any other mod that changes weapons or tools.
+Will not be compatible with any other mod that changes weapons or tools. I suggest pairing with "8 Grenades"
 
 ## NoMoreSubataRSI - v1.0
 **Authors:** BongoSkaggs  
