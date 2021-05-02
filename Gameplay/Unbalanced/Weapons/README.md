@@ -347,30 +347,31 @@ The Fatboy OC now has an 2x ammo bonus, instead of an ammo penalty. I highly sug
 **Description:**  
 Bring along 1200 fuel for Driller's flamethrower, along with a larger clip size and slightly faster reload
 
-## More of Everything - v1.3433
+## More of Everything - v1.3434
 **Authors:** briannnuhhh  
 **DRG Version:** Update 34 Hotfix 3  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/053d1fd62960f4ed198f266c96e3a36bb3c8a9ad/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3433%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7030e699b284378eebe8a319bebd53de608792d8/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3434%20_P.pak)  
 
 **Description:**  
 Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff.  
 Other tweaks:  
--Increases the shield bonus offered in the armor modifications.   
+-Increases the shield bonus offered in the armor modifications.  
 -Decreases the Power Attack cooldown in the pickaxe modifications.  
 -100% chance electrocution for engie SMG  
--Scout's Flares last longer  
--Fuel Canister mining laser oil shale pickup range & speed increased  
--Zipline increased range, angle  
--Grapple gun reduced cooldown, increased range  
--Drills, more fuel  
--More shields  
--EPC tuned for mining  
--M1000 tuned for slightly better focus shots (hipfire works great still also)  
+-Scout's Flares: Increased ammo, duration and brightness  
+-Fuel Canister: Mining laser oil shale pickup range & speed increased  
+-Zipline: Increased ammo, range, angle, speed  
+-Grapple gun: Reduced cooldown, increased range  
+-Drills: More fuel, drill faster  
+-Gunner's Shield: More shields, slightly faster recharge  
+-Platform Gun: More platforms, larger platforms with less spawn delay  
+-EPC tuned for mining, with 8m carve  
+-M1000 tuned for slightly better focus shots (to make viable in Constant Conflict type mods)  
 Some changes are host only, like C4 & Gunner's shields.  
-Will not be compatible with any other mod that changes weapons or tools. I suggest pairing with "8 Grenades".
+Will not be compatible with any other mod that changes weapons or tools. I suggest pairing with "8 Grenades", "PowerBoots & Floodlight", and your increased difficulty mod of choice.
 
-**Update v1.3433 Changelog:**  
-1.3433 - Increased size of EPC charged shot terrain carve from 6m to 8m
+**Update v1.3434 Changelog:**  
+1.3434 - Made drills faster
 
 ## NoMoreSubataRSI - v1.0
 **Authors:** BongoSkaggs  

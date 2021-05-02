@@ -8309,17 +8309,17 @@
   },
   "moreofeverything": {
     "DisplayName": "More of Everything",
-    "Version": "1.3433",
+    "Version": "1.3434",
     "DrgVersion": "Update 34 Hotfix 3",
     "AuthorIds": [
       424427883348623362
     ],
-    "Description": "Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff.\n\nOther tweaks:\n-Increases the shield bonus offered in the armor modifications. \n-Decreases the Power Attack cooldown in the pickaxe modifications.\n-100% chance electrocution for engie SMG\n-Scout's Flares last longer\n-Fuel Canister mining laser oil shale pickup range & speed increased\n-Zipline increased range, angle\n-Grapple gun reduced cooldown, increased range\n-Drills, more fuel\n-More shields\n-EPC tuned for mining\n-M1000 tuned for slightly better focus shots (hipfire works great still also)\nSome changes are host only, like C4 & Gunner's shields.\n\nWill not be compatible with any other mod that changes weapons or tools. I suggest pairing with \"8 Grenades\".",
-    "LastUpdateChangelog": "1.3433 - Increased size of EPC charged shot terrain carve from 6m to 8m",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/053d1fd62960f4ed198f266c96e3a36bb3c8a9ad/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3433%20_P.pak",
+    "Description": "Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff.\n\nOther tweaks:\n-Increases the shield bonus offered in the armor modifications.\n-Decreases the Power Attack cooldown in the pickaxe modifications.\n-100% chance electrocution for engie SMG\n-Scout's Flares: Increased ammo, duration and brightness\n-Fuel Canister: Mining laser oil shale pickup range & speed increased\n-Zipline: Increased ammo, range, angle, speed\n-Grapple gun: Reduced cooldown, increased range\n-Drills: More fuel, drill faster\n-Gunner's Shield: More shields, slightly faster recharge\n-Platform Gun: More platforms, larger platforms with less spawn delay\n-EPC tuned for mining, with 8m carve\n-M1000 tuned for slightly better focus shots (to make viable in Constant Conflict type mods)\nSome changes are host only, like C4 & Gunner's shields.\n\nWill not be compatible with any other mod that changes weapons or tools. I suggest pairing with \"8 Grenades\", \"PowerBoots & Floodlight\", and your increased difficulty mod of choice.",
+    "LastUpdateChangelog": "1.3434 - Made drills faster",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7030e699b284378eebe8a319bebd53de608792d8/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3434%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "More Of Everything - V1.3433",
+        "PakFileName": "More Of Everything - V1.3434",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/PawnStats/PST_ReviveSpeed.uasset": "6A-CC-17-B7-02-B4-D0-87",
           "../../../FSD/Content/GameElements/PawnStats/PST_ZipllineSpeed.uasset": "0F-AF-A4-A3-FB-26-3E-AB",
@@ -8354,6 +8354,7 @@
           "../../../FSD/Content/WeaponsNTools/Pickaxe/Gunner/UPG_Pickaxe_Gunner_B_CooldownPA.uasset": "B3-36-4C-20-8D-D4-07-22",
           "../../../FSD/Content/WeaponsNTools/Pickaxe/Scout/UPG_Pickaxe_Scout_B_CooldownPA.uasset": "98-C5-61-98-B2-27-5A-8D",
           "../../../FSD/Content/WeaponsNTools/Pistol/WPN_Pistol_A.uasset": "0A-DA-CC-63-A1-D5-EB-6A",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/PRJ_PlatformMaker.uasset": "C1-1D-7F-6E-7D-DC-8E-0D",
           "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset": "BC-D9-25-91-27-F1-CD-00",
           "../../../FSD/Content/WeaponsNTools/Revolver/WPN_Revolver.uasset": "8A-86-6F-9A-A7-3E-7A-30",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uasset": "08-1A-D9-6F-18-96-87-68",
@@ -8376,10 +8377,10 @@
           "../../../FSD/Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uexp": "D5-AC-DD-CB-35-C2-69-1A",
           "../../../FSD/Content/WeaponsNTools/Cryospray/WPN_Cryospray.uexp": "30-BB-30-6B-F1-38-E2-60",
           "../../../FSD/Content/WeaponsNTools/DetPack/WPN_DetPack_Detonator_Driller.uexp": "85-D9-78-8C-20-52-89-4D",
-          "../../../FSD/Content/WeaponsNTools/Drills/WPN_DoubleDrills.uexp": "07-74-84-47-DF-E8-2F-94",
+          "../../../FSD/Content/WeaponsNTools/Drills/WPN_DoubleDrills.uexp": "3E-4F-74-A9-73-6B-E8-DF",
           "../../../FSD/Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uexp": "CF-7D-68-C0-35-05-53-0D",
           "../../../FSD/Content/WeaponsNTools/Extractor/WPN_OilExtractor.uexp": "4C-E1-A9-63-4C-64-09-FF",
-          "../../../FSD/Content/WeaponsNTools/FlameThrower/WPN_FlameThrower.uexp": "B8-E4-3A-FE-3B-8A-76-9D",
+          "../../../FSD/Content/WeaponsNTools/FlameThrower/WPN_FlameThrower.uexp": "51-63-9B-3D-FA-79-C9-35",
           "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uexp": "E6-B4-AC-C8-14-A9-05-80",
           "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uexp": "92-BD-CC-2E-2B-B7-0C-44",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "3E-82-63-D5-7F-CD-8A-F1",
@@ -8393,12 +8394,13 @@
           "../../../FSD/Content/WeaponsNTools/Pickaxe/Gunner/UPG_Pickaxe_Gunner_B_CooldownPA.uexp": "CD-0F-3C-EB-38-B7-0E-7D",
           "../../../FSD/Content/WeaponsNTools/Pickaxe/Scout/UPG_Pickaxe_Scout_B_CooldownPA.uexp": "0A-1A-2C-31-E6-8C-7B-62",
           "../../../FSD/Content/WeaponsNTools/Pistol/WPN_Pistol_A.uexp": "88-EA-1B-2D-15-43-CA-B8",
-          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uexp": "26-64-D9-24-D1-5A-11-54",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/PRJ_PlatformMaker.uexp": "DB-94-09-5A-0A-0E-FF-CD",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uexp": "2E-7F-F9-BA-25-9D-41-7A",
           "../../../FSD/Content/WeaponsNTools/Revolver/WPN_Revolver.uexp": "83-4C-F3-BC-E1-15-BD-4F",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uexp": "1F-C4-9A-ED-CD-44-76-03",
           "../../../FSD/Content/WeaponsNTools/ShieldGenerator/WPN_ShieldRegeneratorItem.uexp": "49-1E-AA-E6-52-31-E3-1F",
           "../../../FSD/Content/WeaponsNTools/SMG/WPN_SMG_OneHand.uexp": "3D-DC-AE-3D-22-55-01-29",
-          "../../../FSD/Content/WeaponsNTools/ZipLineGun/WPN_ZipLineGun.uexp": "6E-25-D9-24-D4-83-83-46"
+          "../../../FSD/Content/WeaponsNTools/ZipLineGun/WPN_ZipLineGun.uexp": "46-35-79-BE-F8-E2-BD-23"
         }
       }
     ]
