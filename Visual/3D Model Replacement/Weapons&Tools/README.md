@@ -12,6 +12,14 @@ Weapons&Tools model replacements.
 **Description:**  
 Turn your cluster grenades into combustible fruit! No bananas were harmed in the making, bugs may be.
 
+## Diamond Pickaxe - v1.0
+**Authors:** SirVerex  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/494acc50419f6225d8d57c6cad9f764e279feb00/Visual/3D%20Model%20Replacement/Weapons%26Tools/Diamond%20Pickaxe%20-%20V1.0.zip)  
+
+**Description:**  
+Embrace your childhood days (or not) and mine using the strongest material from the hit game Minecraft (Follow the README inside for instructions)
+
 ## Golden Wrench - v1.0
 **Authors:** Pacagma, SirVerex  
 **DRG Version:** Update 34  
