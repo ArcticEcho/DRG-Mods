@@ -35,3 +35,11 @@ Replaces the building hammer with TF 2's golden wrench! (thanks to SirVerex for 
 
 **Description:**  
 Bonk! Return to monkey with this primitive weapon. Send those glyphids to horny jail! (Replaces Impact Axe)
+
+## Lemonnade - v1.0
+**Authors:** SirVerex  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/cec978b3d0b1dcc71f8d7dcf8bd2a4dcd32791c8/Visual/3D%20Model%20Replacement/Weapons%26Tools/Lemonnade%20-%20V1.0.zip)  
+
+**Description:**  
+Replaces the Incendiary with sour fury! Suggested by @BongoSkaggs
