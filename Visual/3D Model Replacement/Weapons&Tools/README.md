@@ -1,6 +1,6 @@
-# Weapon&Tools Model Mods
+# Weapons&Tools Model Mods
 
-Weapon&Tools model replacements.
+Weapons&Tools model replacements.
 
 <!-- mod list -->
 
