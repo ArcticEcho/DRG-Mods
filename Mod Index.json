@@ -8309,17 +8309,17 @@
   },
   "moreofeverything": {
     "DisplayName": "More of Everything",
-    "Version": "1.34321",
+    "Version": "1.3433",
     "DrgVersion": "Update 34 Hotfix 3",
     "AuthorIds": [
       424427883348623362
     ],
     "Description": "Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff.\n\nOther tweaks:\n-Increases the shield bonus offered in the armor modifications. \n-Decreases the Power Attack cooldown in the pickaxe modifications.\n-100% chance electrocution for engie SMG\n-Scout's Flares last longer\n-Fuel Canister mining laser oil shale pickup range & speed increased\n-Zipline increased range, angle\n-Grapple gun reduced cooldown, increased range\n-Drills, more fuel\n-More shields\n-EPC tuned for mining\n-M1000 tuned for slightly better focus shots (hipfire works great still also)\nSome changes are host only, like C4 & Gunner's shields.\n\nWill not be compatible with any other mod that changes weapons or tools. I suggest pairing with \"8 Grenades\".",
-    "LastUpdateChangelog": "1.3432 Updated filename to match correct version #",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e10b0987d255694bfbc73d95ba34817b4fe15791/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.34321%20_P.pak",
+    "LastUpdateChangelog": "1.3433 - Increased size of EPC charged shot terrain carve from 6m to 8m",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/053d1fd62960f4ed198f266c96e3a36bb3c8a9ad/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3433%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "More Of Everything - V1.34321",
+        "PakFileName": "More Of Everything - V1.3433",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/PawnStats/PST_ReviveSpeed.uasset": "6A-CC-17-B7-02-B4-D0-87",
           "../../../FSD/Content/GameElements/PawnStats/PST_ZipllineSpeed.uasset": "0F-AF-A4-A3-FB-26-3E-AB",
@@ -8331,6 +8331,8 @@
           "../../../FSD/Content/WeaponsNTools/Autocannon/WPN_Autocannon.uasset": "E6-49-67-25-32-02-28-EC",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uasset": "DC-E0-1D-9C-A3-EA-6D-17",
           "../../../FSD/Content/WeaponsNTools/BurstFirePistol/WPN_BurstPistol.uasset": "11-D3-0D-8D-68-A9-18-9C",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/PRJ_ChargedBlasterShot.uasset": "40-3E-9C-BA-16-F1-57-66",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/PRJ_NormalBlasterShot.uasset": "B2-9E-D3-18-15-B6-D6-B8",
           "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uasset": "AD-7D-75-54-45-D0-7C-35",
           "../../../FSD/Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uasset": "91-F1-F1-0F-FD-64-32-C0",
           "../../../FSD/Content/WeaponsNTools/Cryospray/WPN_Cryospray.uasset": "7A-0C-5B-CF-F4-60-CC-30",
@@ -8364,11 +8366,13 @@
           "../../../FSD/Content/WeaponsNTools/Armor/EngShieldMods/UPG_Armor_Eng_B_ShieldLarge.uexp": "73-D3-08-A4-83-3E-CF-3E",
           "../../../FSD/Content/WeaponsNTools/Armor/GunnerShieldMods/UPG_Armor_Gunner_B_ShieldLarge.uexp": "41-98-AE-B3-E2-CF-3E-D6",
           "../../../FSD/Content/WeaponsNTools/Armor/ScoutShieldMods/UPG_Armor_Scout_B_ShieldLarge.uexp": "A5-F1-F7-05-ED-19-71-E7",
-          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uexp": "83-7E-01-85-73-30-FE-02",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uexp": "DE-D9-FB-08-DB-68-3D-BB",
           "../../../FSD/Content/WeaponsNTools/Autocannon/WPN_Autocannon.uexp": "5E-0B-74-25-62-87-C3-09",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uexp": "3A-1A-9B-64-D4-68-56-8C",
           "../../../FSD/Content/WeaponsNTools/BurstFirePistol/WPN_BurstPistol.uexp": "CC-5D-CE-D9-6A-2A-5C-E5",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uexp": "E8-38-37-67-B5-63-53-27",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/PRJ_ChargedBlasterShot.uexp": "BA-6E-B0-D4-F5-0D-F2-04",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/PRJ_NormalBlasterShot.uexp": "E6-90-56-05-91-D0-54-76",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uexp": "A0-BA-A5-97-F1-E7-27-A9",
           "../../../FSD/Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uexp": "D5-AC-DD-CB-35-C2-69-1A",
           "../../../FSD/Content/WeaponsNTools/Cryospray/WPN_Cryospray.uexp": "30-BB-30-6B-F1-38-E2-60",
           "../../../FSD/Content/WeaponsNTools/DetPack/WPN_DetPack_Detonator_Driller.uexp": "85-D9-78-8C-20-52-89-4D",
@@ -8391,7 +8395,7 @@
           "../../../FSD/Content/WeaponsNTools/Pistol/WPN_Pistol_A.uexp": "88-EA-1B-2D-15-43-CA-B8",
           "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uexp": "26-64-D9-24-D1-5A-11-54",
           "../../../FSD/Content/WeaponsNTools/Revolver/WPN_Revolver.uexp": "83-4C-F3-BC-E1-15-BD-4F",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uexp": "86-DD-82-E9-D5-57-9F-1D",
+          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uexp": "1F-C4-9A-ED-CD-44-76-03",
           "../../../FSD/Content/WeaponsNTools/ShieldGenerator/WPN_ShieldRegeneratorItem.uexp": "49-1E-AA-E6-52-31-E3-1F",
           "../../../FSD/Content/WeaponsNTools/SMG/WPN_SMG_OneHand.uexp": "3D-DC-AE-3D-22-55-01-29",
           "../../../FSD/Content/WeaponsNTools/ZipLineGun/WPN_ZipLineGun.uexp": "6E-25-D9-24-D4-83-83-46"

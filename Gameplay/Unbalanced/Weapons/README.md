@@ -347,10 +347,10 @@ The Fatboy OC now has an 2x ammo bonus, instead of an ammo penalty. I highly sug
 **Description:**  
 Bring along 1200 fuel for Driller's flamethrower, along with a larger clip size and slightly faster reload
 
-## More of Everything - v1.34321
+## More of Everything - v1.3433
 **Authors:** briannnuhhh  
 **DRG Version:** Update 34 Hotfix 3  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e10b0987d255694bfbc73d95ba34817b4fe15791/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.34321%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/053d1fd62960f4ed198f266c96e3a36bb3c8a9ad/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3433%20_P.pak)  
 
 **Description:**  
 Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff.  
@@ -369,8 +369,8 @@ Other tweaks:
 Some changes are host only, like C4 & Gunner's shields.  
 Will not be compatible with any other mod that changes weapons or tools. I suggest pairing with "8 Grenades".
 
-**Update v1.34321 Changelog:**  
-1.3432 Updated filename to match correct version #
+**Update v1.3433 Changelog:**  
+1.3433 - Increased size of EPC charged shot terrain carve from 6m to 8m
 
 ## NoMoreSubataRSI - v1.0
 **Authors:** BongoSkaggs  
