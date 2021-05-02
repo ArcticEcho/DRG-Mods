@@ -353,9 +353,12 @@ Bring along 1200 fuel for Driller's flamethrower, along with a larger clip size 
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5efc7417729305df23f225af4b1d4d8b8db4f144/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3431%20_P.pak)  
 
 **Description:**  
-Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff.  
-Increases the shield bonus offered in the armor modifications. Decreases the Power Attack cooldown in the pickaxe modifications.    
-100% chance electrocution for engie SMG
+Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff. No other adjustments made to weapon stats, except the EPC has been tuned for mining.  
+Increases the shield bonus offered in the armor modifications.   
+Decreases the Power Attack cooldown in the pickaxe modifications.  
+100% chance electrocution for engie SMG  
+Some changes are host only, like C4 & Gunner's shield.  
+Will not be compatible with any other mod that changes weapons or tools.
 
 ## NoMoreSubataRSI - v1.0
 **Authors:** BongoSkaggs  
