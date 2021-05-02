@@ -299,12 +299,12 @@ You can easily locate your game installation path using steam:
  - **[Teleport Players With Sound](https://github.com/ArcticEcho/DRG-Mods/tree/main/Quality%20of%20Life/Time%20saving/README.md#teleport-players-with-sound---v10)** by Our Lord And Savior Gabe Newell ([download](https://github.com/ArcticEcho/DRG-Mods/raw/5d5385410815fdeac72ac01dff5802c699a7def3/Quality%20of%20Life/Time%20saving/Teleport%20Players%20With%20Sound%20-%20V1.0%20_P.pak))
 
 ## [Visual/3D Model Replacement/Hats](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats)
- - **[Banana-nade](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats/README.md#banana-nade---v10)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f8612ff1a80fe54c52afc7de7e318495b882def9/Visual/3D%20Model%20Replacement/Hats/Banana-nade%20-%20V1.0.zip))
  - **[Diamond Pickaxe](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats/README.md#diamond-pickaxe---v10)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/fb342d474944b63961b4746a9f774a06786b2eef/Visual/3D%20Model%20Replacement/Hats/Diamond%20Pickaxe%20-%20V1.0.zip))
  - **[Impact Club](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats/README.md#impact-club---v10)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/7fd75612976fb0ab7a1b06e2dd9576b73145ebc4/Visual/3D%20Model%20Replacement/Hats/Impact%20Club%20-%20V1.0.zip))
  - **[Lemonnade](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats/README.md#lemonnade---v10)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/56c4e32a1f9cc11041a925eaa2eb7de6ab83ef8b/Visual/3D%20Model%20Replacement/Hats/Lemonnade%20-%20V1.0.zip))
 
 ## [Visual/3D Model Replacement/Weapons&Tools](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Weapons%26Tools)
+ - **[Banana-nade](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Weapons%26Tools/README.md#banana-nade---v10)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/ffcb64c1a309dcd251a5a9e35c480602e6a4be03/Visual/3D%20Model%20Replacement/Weapons%26Tools/Banana-nade%20-%20V1.0.zip))
  - **[Golden Wrench](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Weapons%26Tools/README.md#golden-wrench---v10)** by Pacagma, SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/daf9db633a4fee0004272fe62837d85d6117564e/Visual/3D%20Model%20Replacement/Weapons%26Tools/Golden%20Wrench%20-%20V1.0%20_P.pak))
 
 ## [Visual/Lighting](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Lighting)

@@ -4,6 +4,14 @@ Weapons&Tools model replacements.
 
 <!-- mod list -->
 
+## Banana-nade - v1.0
+**Authors:** SirVerex  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ffcb64c1a309dcd251a5a9e35c480602e6a4be03/Visual/3D%20Model%20Replacement/Weapons%26Tools/Banana-nade%20-%20V1.0.zip)  
+
+**Description:**  
+Turn your cluster grenades into combustible fruit! No bananas were harmed in the making, bugs may be.
+
 ## Golden Wrench - v1.0
 **Authors:** Pacagma, SirVerex  
 **DRG Version:** Update 34  
