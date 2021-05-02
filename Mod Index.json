@@ -8309,17 +8309,17 @@
   },
   "moreofeverything": {
     "DisplayName": "More of Everything",
-    "Version": "1.3431",
+    "Version": "1.3432",
     "DrgVersion": "Update 34 Hotfix 3",
     "AuthorIds": [
       424427883348623362
     ],
-    "Description": "Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff. No other adjustments made to weapon stats, except the EPC has been tuned for mining.\n\nIncreases the shield bonus offered in the armor modifications. \nDecreases the Power Attack cooldown in the pickaxe modifications.\n100% chance electrocution for engie SMG\nSome changes are host only, like C4 & Gunner's shield.\n\nWill not be compatible with any other mod that changes weapons or tools. I suggest pairing with \"8 Grenades\"",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5efc7417729305df23f225af4b1d4d8b8db4f144/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3431%20_P.pak",
+    "Description": "Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff.\n\nOther tweaks:\n-Increases the shield bonus offered in the armor modifications. \n-Decreases the Power Attack cooldown in the pickaxe modifications.\n-100% chance electrocution for engie SMG\n-Scout's Flares last longer\n-Fuel Canister mining laser oil shale pickup range & speed increased\n-Zipline increased range, angle\n-Grapple gun reduced cooldown, increased range\n-Drills, more fuel\n-More shields\n-EPC tuned for mining\n-M1000 tuned for slightly better focus shots (hipfire works great still also)\nSome changes are host only, like C4 & Gunner's shields.\n\nWill not be compatible with any other mod that changes weapons or tools. I suggest pairing with \"8 Grenades\".",
+    "LastUpdateChangelog": "1.3432 - Scout's flares last longer, tuned m1000 for slightly better focus fire",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/643761a9c4b9f4c4b8ab3cc8ea36d214409f10c2/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3432%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "More Of Everything - V1.3431",
+        "PakFileName": "More Of Everything - V1.3432",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/PawnStats/PST_ReviveSpeed.uasset": "6A-CC-17-B7-02-B4-D0-87",
           "../../../FSD/Content/GameElements/PawnStats/PST_ZipllineSpeed.uasset": "0F-AF-A4-A3-FB-26-3E-AB",
@@ -8339,6 +8339,7 @@
           "../../../FSD/Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uasset": "5F-74-9C-C3-64-A8-96-35",
           "../../../FSD/Content/WeaponsNTools/Extractor/WPN_OilExtractor.uasset": "E7-C3-FF-07-12-CA-75-C9",
           "../../../FSD/Content/WeaponsNTools/FlameThrower/WPN_FlameThrower.uasset": "21-F8-33-4F-DA-B6-F3-DF",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uasset": "F3-14-4B-F1-01-ED-66-29",
           "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uasset": "9D-DC-AF-38-91-F8-31-F1",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset": "8E-BB-06-0F-16-CE-C3-02",
           "../../../FSD/Content/WeaponsNTools/GrapplingGun/UPG_GrapplingGun_A_Range.uasset": "B3-C7-F7-92-B8-93-97-C8",
@@ -8365,7 +8366,7 @@
           "../../../FSD/Content/WeaponsNTools/Armor/ScoutShieldMods/UPG_Armor_Scout_B_ShieldLarge.uexp": "A5-F1-F7-05-ED-19-71-E7",
           "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uexp": "83-7E-01-85-73-30-FE-02",
           "../../../FSD/Content/WeaponsNTools/Autocannon/WPN_Autocannon.uexp": "5E-0B-74-25-62-87-C3-09",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uexp": "8F-3C-E7-55-6A-97-70-C0",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uexp": "3A-1A-9B-64-D4-68-56-8C",
           "../../../FSD/Content/WeaponsNTools/BurstFirePistol/WPN_BurstPistol.uexp": "CC-5D-CE-D9-6A-2A-5C-E5",
           "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uexp": "E8-38-37-67-B5-63-53-27",
           "../../../FSD/Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uexp": "D5-AC-DD-CB-35-C2-69-1A",
@@ -8375,6 +8376,7 @@
           "../../../FSD/Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uexp": "CF-7D-68-C0-35-05-53-0D",
           "../../../FSD/Content/WeaponsNTools/Extractor/WPN_OilExtractor.uexp": "4C-E1-A9-63-4C-64-09-FF",
           "../../../FSD/Content/WeaponsNTools/FlameThrower/WPN_FlameThrower.uexp": "B8-E4-3A-FE-3B-8A-76-9D",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01.uexp": "E6-B4-AC-C8-14-A9-05-80",
           "../../../FSD/Content/WeaponsNTools/FlareGun/WPN_FlareGun.uexp": "92-BD-CC-2E-2B-B7-0C-44",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "3E-82-63-D5-7F-CD-8A-F1",
           "../../../FSD/Content/WeaponsNTools/GrapplingGun/UPG_GrapplingGun_A_Range.uexp": "E6-AD-B4-0A-65-0C-0F-24",

@@ -347,18 +347,30 @@ The Fatboy OC now has an 2x ammo bonus, instead of an ammo penalty. I highly sug
 **Description:**  
 Bring along 1200 fuel for Driller's flamethrower, along with a larger clip size and slightly faster reload
 
-## More of Everything - v1.3431
+## More of Everything - v1.3432
 **Authors:** briannnuhhh  
 **DRG Version:** Update 34 Hotfix 3  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5efc7417729305df23f225af4b1d4d8b8db4f144/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3431%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/643761a9c4b9f4c4b8ab3cc8ea36d214409f10c2/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3432%20_P.pak)  
 
 **Description:**  
-Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff. No other adjustments made to weapon stats, except the EPC has been tuned for mining.  
-Increases the shield bonus offered in the armor modifications.   
-Decreases the Power Attack cooldown in the pickaxe modifications.  
-100% chance electrocution for engie SMG  
-Some changes are host only, like C4 & Gunner's shield.  
-Will not be compatible with any other mod that changes weapons or tools. I suggest pairing with "8 Grenades"
+Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff.  
+Other tweaks:  
+-Increases the shield bonus offered in the armor modifications.   
+-Decreases the Power Attack cooldown in the pickaxe modifications.  
+-100% chance electrocution for engie SMG  
+-Scout's Flares last longer  
+-Fuel Canister mining laser oil shale pickup range & speed increased  
+-Zipline increased range, angle  
+-Grapple gun reduced cooldown, increased range  
+-Drills, more fuel  
+-More shields  
+-EPC tuned for mining  
+-M1000 tuned for slightly better focus shots (hipfire works great still also)  
+Some changes are host only, like C4 & Gunner's shields.  
+Will not be compatible with any other mod that changes weapons or tools. I suggest pairing with "8 Grenades".
+
+**Update v1.3432 Changelog:**  
+1.3432 - Scout's flares last longer, tuned m1000 for slightly better focus fire
 
 ## NoMoreSubataRSI - v1.0
 **Authors:** BongoSkaggs  
