@@ -347,6 +347,16 @@ The Fatboy OC now has an 2x ammo bonus, instead of an ammo penalty. I highly sug
 **Description:**  
 Bring along 1200 fuel for Driller's flamethrower, along with a larger clip size and slightly faster reload
 
+## More of Everything - v1.3431
+**Authors:** briannnuhhh  
+**DRG Version:** Update 34 Hotfix 3  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5efc7417729305df23f225af4b1d4d8b8db4f144/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3431%20_P.pak)  
+
+**Description:**  
+Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff.  
+Increases the shield bonus offered in the armor modifications. Decreases the Power Attack cooldown in the pickaxe modifications.    
+100% chance electrocution for engie SMG
+
 ## NoMoreSubataRSI - v1.0
 **Authors:** BongoSkaggs  
 **DRG Version:** U34 H1  
