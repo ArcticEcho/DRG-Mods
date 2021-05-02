@@ -27,3 +27,11 @@ Embrace your childhood days (or not) and mine using the strongest material from 
 
 **Description:**  
 Replaces the building hammer with TF 2's golden wrench! (thanks to SirVerex for the texture nodes)
+
+## Impact Club - v1.0
+**Authors:** SirVerex  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0d7fd4db0c5b044d21127183288b1209ffba4f25/Visual/3D%20Model%20Replacement/Weapons%26Tools/Impact%20Club%20-%20V1.0.zip)  
+
+**Description:**  
+Bonk! Return to monkey with this primitive weapon. Send those glyphids to horny jail! (Replaces Impact Axe)
