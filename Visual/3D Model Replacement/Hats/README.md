@@ -20,14 +20,6 @@ Turn your cluster grenades into combustible fruit! No bananas were harmed in the
 **Description:**  
 Embrace your childhood days (or not) and mine using the strongest material from the hit game Minecraft (Follow the README inside for instructions)
 
-## Golden Wrench - v1.0
-**Authors:** Pacagma, SirVerex  
-**DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/14bd58c3d8e933cc1547eaf0edc30f8a1a4f5ac7/Visual/3D%20Model%20Replacement/Hats/Golden%20Wrench%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Replaces the building hammer with TF 2's golden wrench! (thanks to SirVerex for the texture nodes)
-
 ## Impact Club - v1.0
 **Authors:** SirVerex  
 **DRG Version:** U34  
