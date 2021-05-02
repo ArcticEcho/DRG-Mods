@@ -8309,17 +8309,17 @@
   },
   "moreofeverything": {
     "DisplayName": "More of Everything",
-    "Version": "1.3432",
+    "Version": "1.34321",
     "DrgVersion": "Update 34 Hotfix 3",
     "AuthorIds": [
       424427883348623362
     ],
     "Description": "Bring along double the ammo & double clip size for every weapon in the game. All support tools had their ammo increased or otherwise received a buff.\n\nOther tweaks:\n-Increases the shield bonus offered in the armor modifications. \n-Decreases the Power Attack cooldown in the pickaxe modifications.\n-100% chance electrocution for engie SMG\n-Scout's Flares last longer\n-Fuel Canister mining laser oil shale pickup range & speed increased\n-Zipline increased range, angle\n-Grapple gun reduced cooldown, increased range\n-Drills, more fuel\n-More shields\n-EPC tuned for mining\n-M1000 tuned for slightly better focus shots (hipfire works great still also)\nSome changes are host only, like C4 & Gunner's shields.\n\nWill not be compatible with any other mod that changes weapons or tools. I suggest pairing with \"8 Grenades\".",
-    "LastUpdateChangelog": "1.3432 - Scout's flares last longer, tuned m1000 for slightly better focus fire",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/643761a9c4b9f4c4b8ab3cc8ea36d214409f10c2/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.3432%20_P.pak",
+    "LastUpdateChangelog": "1.3432 Updated filename to match correct version #",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e10b0987d255694bfbc73d95ba34817b4fe15791/Gameplay/Unbalanced/Weapons/More%20Of%20Everything%20-%20V1.34321%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "More Of Everything - V1.3432",
+        "PakFileName": "More Of Everything - V1.34321",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/PawnStats/PST_ReviveSpeed.uasset": "6A-CC-17-B7-02-B4-D0-87",
           "../../../FSD/Content/GameElements/PawnStats/PST_ZipllineSpeed.uasset": "0F-AF-A4-A3-FB-26-3E-AB",
