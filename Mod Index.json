@@ -9453,6 +9453,48 @@
       }
     ]
   },
+  "realweaponstats": {
+    "DisplayName": "Real Weapon Stats",
+    "Version": "5-3-2021",
+    "DrgVersion": "u34 h3",
+    "AuthorIds": [
+      385384075168448513
+    ],
+    "Description": "Displays the real ammo, magazine, and rate of fire for the \"Leadstorm\" Powered Minigun and the Zhukov Nuk17, which is only half of what the fake stats show.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8c6d5d3665eda971e49c00fcf39b31548af577a9/Quality%20of%20Life/Other/Real%20Weapon%20Stats%20-%20V5-3-2021%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Real Weapon Stats - V5-3-2021",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Bonuis_ClipSize15_DualMP.uasset": "75-CC-66-F9-30-F8-C4-99",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Penalty_Ammo-75_DualMP.uasset": "41-71-80-36-89-C1-98-E6",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Penalty_ClipSize-10_DualMP.uasset": "B4-94-B5-D2-BC-30-D9-75",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Penalty_ClipSize-50p_DualMP.uasset": "5A-17-24-16-49-63-C6-40",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/UPG_DualMP_A_Ammo.uasset": "99-E4-C7-1D-7F-36-48-EC",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/UPG_DualMP_B_ClipSize.uasset": "65-EB-A2-90-D3-9B-59-3F",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/UPG_DualMP_D_Ammo_2.uasset": "BC-4B-3B-D1-4C-F7-DF-25",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uasset": "5F-74-9C-C3-64-A8-96-35",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo300_Gatling.uasset": "26-09-C6-B4-66-F6-65-D1",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo_800.uasset": "BF-3A-EB-CA-9E-6A-D6-12",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_B_ClipSize.uasset": "62-80-8F-56-74-D6-12-98",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset": "8E-BB-06-0F-16-CE-C3-02",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Bonuis_ClipSize15_DualMP.uexp": "B0-80-10-38-A0-0D-DC-B7",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Penalty_Ammo-75_DualMP.uexp": "77-36-4B-9D-C4-90-07-67",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Penalty_ClipSize-10_DualMP.uexp": "C8-E7-A1-BB-14-6C-21-6E",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Penalty_ClipSize-50p_DualMP.uexp": "E7-C5-7F-B4-27-AA-59-F5",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/UPG_DualMP_A_Ammo.uexp": "03-28-A3-9F-A5-53-42-9E",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/UPG_DualMP_B_ClipSize.uexp": "9C-9C-AE-EB-F2-A8-5F-59",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/UPG_DualMP_D_Ammo_2.uexp": "A6-AF-6B-56-BE-A5-7B-65",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uexp": "1E-31-82-05-29-81-00-FB",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo300_Gatling.uexp": "DD-DF-24-CD-A0-61-DB-E9",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo_800.uexp": "BE-E7-39-7C-47-A0-37-A3",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_B_ClipSize.uexp": "A0-F2-6F-79-00-43-A4-24",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "60-FC-31-71-03-AC-14-26"
+        }
+      }
+    ]
+  },
   "recallableminigunturrets": {
     "DisplayName": "Recallable Minigun Turrets",
     "Version": "1.2",

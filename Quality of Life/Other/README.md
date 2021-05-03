@@ -52,6 +52,14 @@ Updated Version Number
 --This mod changes that distance to 1000 meters to prevent Molly from moving unless called. Check out the 'respects boundaries mod' for a shorter distance,  
 --This mod will only apply to the lobby if the host has it.
 
+## Real Weapon Stats - v5-3-2021
+**Authors:** Shattered  
+**DRG Version:** u34 h3  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8c6d5d3665eda971e49c00fcf39b31548af577a9/Quality%20of%20Life/Other/Real%20Weapon%20Stats%20-%20V5-3-2021%20_P.pak)  
+
+**Description:**  
+Displays the real ammo, magazine, and rate of fire for the "Leadstorm" Powered Minigun and the Zhukov Nuk17, which is only half of what the fake stats show.
+
 ## Reduced Neurotoxin Cloud Opacity - v1.0
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33, Hotfix 8  
