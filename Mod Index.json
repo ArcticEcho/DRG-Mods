@@ -9549,6 +9549,41 @@
       }
     ]
   },
+  "rgbpickaxeparts": {
+    "DisplayName": "RGB Pickaxe Parts",
+    "Version": "1.0",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      169492441982959616
+    ],
+    "Description": "Changes the glowing bits on the pickaxe with RGB!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b264011b5d927214fcd692e848d882552eb6e17b/Visual/Textures%20%26%20Icons/RGB%20Pickaxe%20Parts%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "RGB Pickaxe Parts - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/15139-colorgrade.uasset": "41-9F-9D-CA-E5-5F-44-AA",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/blade_glow.uasset": "A8-1A-DA-77-11-CE-2C-66",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_BladeFront_005.uasset": "5E-3F-31-49-ED-25-8E-15",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_BladeSpecial_Gadgeteer.uasset": "9F-7C-FC-3D-95-1A-14-BF",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Head_002.uasset": "1B-94-A7-03-D4-38-12-38",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Head_006.uasset": "36-85-5A-2A-DC-26-04-1C",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Head_ReapersClaw.uasset": "17-F2-5A-27-3B-3D-0B-FD",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/WorldGridMaterial.uasset": "2B-1F-AB-AF-9F-95-A9-FF",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/15139-colorgrade.uexp": "FF-EB-60-D3-23-02-52-B0",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/blade_glow.uexp": "97-B6-54-EA-2D-AD-C1-C5",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_BladeFront_005.uexp": "93-13-92-40-68-25-12-7E",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_BladeSpecial_Gadgeteer.uexp": "A4-2B-06-34-A1-5F-74-5C",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Head_002.uexp": "8C-6A-B4-2F-86-FD-FD-C7",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Head_006.uexp": "25-0A-B6-A5-2C-BD-96-78",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/SM_PickAxe_Head_ReapersClaw.uexp": "90-6F-7E-30-39-15-30-82",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/WorldGridMaterial.uexp": "45-D6-BD-65-50-94-A1-29",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/PickAxe_Parts/15139-colorgrade.ubulk": "DA-FE-4C-50-EB-3F-64-CA"
+        }
+      }
+    ]
+  },
   "rj2500compound": {
     "DisplayName": "RJ2500 Compound",
     "Version": "1.1",
