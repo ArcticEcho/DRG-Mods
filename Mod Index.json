@@ -9551,14 +9551,14 @@
   },
   "rgbpickaxeparts": {
     "DisplayName": "RGB Pickaxe Parts",
-    "Version": "1.01",
+    "Version": "1.02",
     "DrgVersion": "Update 34",
     "AuthorIds": [
       169492441982959616
     ],
     "Description": "Changes the glowing bits on the pickaxe with RGB!",
-    "LastUpdateChangelog": "Added Readme text to see how to make this to work in game's graphics.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4ab332f7503978f84a406e801ad99cbb5582b464/Visual/Textures%20%26%20Icons/RGB%20Pickaxe%20Parts%20-%20V1.01%20_P.pak",
+    "LastUpdateChangelog": "Fixed the lighting on Post Processing not working on the highest settings.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f89e95fb0faf28464a69cd33f6c6aee41b8bf72e/Visual/Textures%20%26%20Icons/RGB%20Pickaxe%20Parts%20-%20V1.02%20_P.pak",
     "Paks": [
       {
         "PakFileName": "RGB Pickaxe Parts - V1.0",

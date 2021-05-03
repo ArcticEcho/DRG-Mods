@@ -50,16 +50,16 @@ Changes the class icons to their default pictogram. Yellow with a drill, red wit
 **Description:**  
 Changes the class icons to their true meaning in a pictogram. Yellow with a hand truck (the carry), red with an engine (the motor), green with a crosshair (the terminator) and blue with the hermes foot (the flying monkey).
 
-## RGB Pickaxe Parts - v1.01
+## RGB Pickaxe Parts - v1.02
 **Authors:** Pacagma  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4ab332f7503978f84a406e801ad99cbb5582b464/Visual/Textures%20%26%20Icons/RGB%20Pickaxe%20Parts%20-%20V1.01%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f89e95fb0faf28464a69cd33f6c6aee41b8bf72e/Visual/Textures%20%26%20Icons/RGB%20Pickaxe%20Parts%20-%20V1.02%20_P.pak)  
 
 **Description:**  
 Changes the glowing bits on the pickaxe with RGB!
 
-**Update v1.01 Changelog:**  
-Added Readme text to see how to make this to work in game's graphics.
+**Update v1.02 Changelog:**  
+Fixed the lighting on Post Processing not working on the highest settings.
 
 ## Russian Advanced Localisation - v1.0
 **Authors:** Bebe, Soviya  
