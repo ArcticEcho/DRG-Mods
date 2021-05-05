@@ -9660,6 +9660,18 @@
       }
     ]
   },
+  "rideabledronesoldioswip": {
+    "DisplayName": "Rideable Drone - Sol Dios(WIP)",
+    "Version": "0.1",
+    "DrgVersion": "Update 34 Hotfix 4",
+    "AuthorIds": [
+      832638902120611870
+    ],
+    "Description": "This mod is a prototype version and Blueprint Mod Manager is needed. The information about my mod is long. So please check the nexus mod link to know how to use 🙂https://www.nexusmods.com/deeprockgalactic/mods/18?tab=description",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://mega.nz/file/OLBBHYib#K6IWljKJGn0zSfeOhaR5oW8eWQ2KwjZv5U6vrWOjkDQ",
+    "Paks": null
+  },
   "rj2500compound": {
     "DisplayName": "RJ2500 Compound",
     "Version": "1.1",
