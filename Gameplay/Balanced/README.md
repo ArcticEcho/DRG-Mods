@@ -19,15 +19,18 @@ Happy to see buffs to the HE grenade, this is an update to an old version thatI 
 --Mod Demonstration->https://www.youtube.com/watch?v=RK-TSBKpmTQ&ab_channel=AGlyphidisFineToo  
 --This mod will only apply to the lobby if the host has it.
 
-## BBP (Big Balance Patch) - v1.8
+## BBP (Big Balance Patch) - v1.8.1
 **Authors:** GreyHound  
-**DRG Version:** U34 Hotfix 3  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c81de84092e83f9f7aa24fda891c9a07e45f8e44/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.8.zip)  
+**DRG Version:** U33 Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/80fa75b64e07123a82e71ecb70cce3040d032a7e/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.8.1.zip)  
 
 **Description:**  
 Major overhaul of the game's weapon balance. This includes dozens and dozens of changes to weapons, the mods/OCs, perks, grenades, secondary equipment, armour...  
 Warning: the mod is incompatible with all other balance mods!  
 Changelog is included in the zip file, in docx and pdf variants. I've also included author comments for most of the changes and added a honourable mentions section to the changelog.
+
+**Update v1.8.1 Changelog:**  
+corrected the added info for GK2's Floating Barrel and Gyro Stabilisation (turns out they're both bugged) and buffed Supercooling Chamber's focus shot damage bonus.
 
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  

@@ -1093,17 +1093,17 @@
   },
   "bbpbigbalancepatch": {
     "DisplayName": "BBP (Big Balance Patch)",
-    "Version": "1.8",
-    "DrgVersion": "U34 Hotfix 3",
+    "Version": "1.8.1",
+    "DrgVersion": "U33 Hotfix 4",
     "AuthorIds": [
       360816319722946560
     ],
     "Description": "Major overhaul of the game's weapon balance. This includes dozens and dozens of changes to weapons, the mods/OCs, perks, grenades, secondary equipment, armour...\nWarning: the mod is incompatible with all other balance mods!\nChangelog is included in the zip file, in docx and pdf variants. I've also included author comments for most of the changes and added a honourable mentions section to the changelog.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c81de84092e83f9f7aa24fda891c9a07e45f8e44/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.8.zip",
+    "LastUpdateChangelog": "corrected the added info for GK2's Floating Barrel and Gyro Stabilisation (turns out they're both bugged) and buffed Supercooling Chamber's focus shot damage bonus.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/80fa75b64e07123a82e71ecb70cce3040d032a7e/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.8.1.zip",
     "Paks": [
       {
-        "PakFileName": "BBPv1.8",
+        "PakFileName": "BBPv1.8.1",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/KPI/Perks/BP_ExpertDepositorLogic.uasset": "63-B8-65-70-9A-2A-54-B6",
           "../../../FSD/Content/GameElements/KPI/Perks/BP_ShieldLinkComponent.uasset": "94-E4-BA-8B-86-99-81-5C",
@@ -1152,6 +1152,7 @@
           "../../../FSD/Content/WeaponsNTools/Autocannon/WPN_Autocannon.uasset": "08-77-77-90-30-0F-BD-9C",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo_20.uasset": "CD-25-6E-34-E2-FB-EA-E8",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_ClipSize_2.uasset": "40-C7-71-27-9D-F0-0A-20",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_FocusDamage_200P_M1000.uasset": "72-05-11-04-2F-31-26-56",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_SpreadPerShot2_M1000.uasset": "63-C8-A8-4E-FE-91-0F-5A",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Damage_15_M1000.uasset": "74-32-F8-CC-51-33-5A-3E",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_M1000.uasset": "5E-3D-21-0E-88-BB-12-55",
@@ -1351,6 +1352,7 @@
           "../../../FSD/Content/WeaponsNTools/Autocannon/WPN_Autocannon.uexp": "BB-6B-71-BE-4D-67-EE-13",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo_20.uexp": "65-D7-23-3F-2D-98-FB-58",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_ClipSize_2.uexp": "60-CE-AD-B9-B6-49-9C-16",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_FocusDamage_200P_M1000.uexp": "DD-C2-0C-7D-C7-22-BF-35",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_SpreadPerShot2_M1000.uexp": "66-CD-4C-ED-14-D5-A4-56",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Damage_15_M1000.uexp": "C2-77-35-9E-2D-DC-F1-F9",
           "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_M1000.uexp": "59-A0-26-C0-05-DF-DD-F4",
