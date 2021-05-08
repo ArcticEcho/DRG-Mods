@@ -81,18 +81,19 @@ This replaces Hazard 1 with Hazard 0, which is intended for picture taking and t
 **Description:**  
 Replaces the Hazard 4.5 file (first stage of EDD) with Hazard 5.5 values. This was done at the request of @who even to provide the stat buffs of Haz5.5 to viewer spawns throughout the EDD.
 
-## Hazard 5 Carry - v4.1
+## Hazard 5 Carry - v4.2
 **Authors:** Ike  
-**DRG Version:** U34 H3  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7a559aba364a55db11e1b55e141025e723312674/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205%20Carry%20-%20V4.1%20_P.pak)  
+**DRG Version:** U34 H4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6dccdad597634a102dca59ce5205d203d8961546/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205%20Carry%20-%20V4.2%20_P.pak)  
 
 **Description:**  
-This mod is for making things difficult while waiting for joiners, testing 4-man breakpoints, or just adding difficulty without touching base game properties.  
---Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player lobby regardless of player count.  
---This includes enemy count, health, and damage.  
---Get the experience of playing in the main discord while freeing up your field medic perk slot!
+--Replaces the hazard 5 file, and is not compatible with other mods that do the same.  
+--Sets the values to what they are in Hazard 5.5 the last stage of the EDD  
+--Compared to Haz5 this means slightly increased enemy speed and damage, as well as more fall damage.  
+--Shows Haz5.5 in game.  
+--Per request to add some challenge to viewer spawns since enemy amount isn't affected but enemy stats are.
 
-**Update v4.1 Changelog:**  
+**Update v4.2 Changelog:**  
 Updated for U34 no elite hotfix
 
 ## Hazard 5.5 - v2.0
