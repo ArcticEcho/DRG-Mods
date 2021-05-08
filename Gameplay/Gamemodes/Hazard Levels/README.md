@@ -37,10 +37,10 @@ NOTES:
 **Update v1.34.4 Changelog:**  
 Update for hotfix by NaturalBornCamper
 
-## Bug Planet - Constant Conflict - v1.34
+## Bug Planet - Constant Conflict - v1.34.4
 **Authors:** Sesselpots  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a9a80cfbdc2306f662014c328fee0f25b279fbdc/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20Constant%20Conflict%20-%20V1.34%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/da98d7c76fe12c78b56b0e5106e0ff6bfe717d5a/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20Constant%20Conflict%20-%20V1.34.4%20_P.pak)  
 
 **Description:**  
 Hoxxes IV is an ugly planet, a bug planet. Expect unrelenting waves of grunts when you walk into their tunnels. Even scouts use zipline tactics in these caves. Shoutout to NaturalBornCamper for big help!  
@@ -59,8 +59,8 @@ NOTES:
 -You should use the mod to improve Doretta's damage resistance  
 -I recommend a resupply mod if you're having ammo problems
 
-**Update v1.34 Changelog:**  
-Updated for current DRG U34
+**Update v1.34.4 Changelog:**  
+Update for hotfix by NaturalBornCamper
 
 ## Hazard 0: Creative - v1.0
 **Authors:** Ike  

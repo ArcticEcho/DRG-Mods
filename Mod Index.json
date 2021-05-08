@@ -1913,26 +1913,25 @@
   },
   "bugplanetconstantconflict": {
     "DisplayName": "Bug Planet - Constant Conflict",
-    "Version": "1.34",
+    "Version": "1.34.4",
     "DrgVersion": "U34",
     "AuthorIds": [
       712926827911446548
     ],
     "Description": "Hoxxes IV is an ugly planet, a bug planet. Expect unrelenting waves of grunts when you walk into their tunnels. Even scouts use zipline tactics in these caves. Shoutout to NaturalBornCamper for big help!\n--Hazard 2, 3, 3.5, 4, 4.5, 5 and 5.5 changed\n--Haz 2 modified to have haz 4 health, speed and damage values\n--The higher the hazard, the more health the grunts have and more damage they do\n--Increased veterans spawns\n--Low enemy diversity\n--*Insane* Wave Intervals\n--Big enemies are slightly weaker, its mostly about surviving the grunt waves\n--Massive enemy waves\n--Map seed can roll huge waves of macteras or spitters, be prepared\n-------------------\nNOTES:\n-Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health by 50%\n-You should use the mod to improve Doretta's damage resistance\n-I recommend a resupply mod if you're having ammo problems",
-    "LastUpdateChangelog": "Updated for current DRG U34",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a9a80cfbdc2306f662014c328fee0f25b279fbdc/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20Constant%20Conflict%20-%20V1.34%20_P.pak",
+    "LastUpdateChangelog": "Update for hotfix by NaturalBornCamper",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/da98d7c76fe12c78b56b0e5106e0ff6bfe717d5a/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20Constant%20Conflict%20-%20V1.34.4%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Bug Planet - Constant Conflict - V1.34",
+        "PakFileName": "Bug Planet - Constant Conflict - V1.34.4",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_02_Challenging.uasset": "1A-E6-AC-8E-DC-3F-6C-86",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_03_5_Dangerous.uexp": "92-A3-A3-F6-A0-6A-1B-C7",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "EF-93-B4-A9-7D-59-88-88",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "13-18-0E-17-E9-91-76-D3",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_02_Challenging.uexp": "4B-E1-7A-2D-0B-79-2B-84",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_03_Dangerous.uexp": "6B-0D-74-D4-75-A9-9D-70",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_04_Extreme.uexp": "94-1E-74-EE-D7-2C-F2-CD",
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "75-DF-B8-42-C1-81-22-94"
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_03_5_Dangerous.uexp": "53-65-10-71-C4-F7-37-3D",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_04_5_Extreme.uexp": "E8-54-ED-F4-DF-6A-62-C4",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_DeepDive_Haz_05_5_Lethal.uexp": "5E-C7-1C-77-93-EB-E0-85",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_02_Challenging.uexp": "F6-AD-E2-CD-09-5D-FF-0A",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_03_Dangerous.uexp": "12-75-CB-7D-DB-A5-AB-53",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_04_Extreme.uexp": "F7-92-40-5D-57-4E-AD-AA",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "88-AD-9E-D0-F0-B0-71-D3"
         }
       }
     ]
