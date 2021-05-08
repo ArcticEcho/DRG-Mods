@@ -4141,19 +4141,19 @@
   },
   "hazard5carry": {
     "DisplayName": "Hazard 5 Carry",
-    "Version": "3.1",
-    "DrgVersion": "U34 H1",
+    "Version": "4.1",
+    "DrgVersion": "U34 H3",
     "AuthorIds": [
       189954203664252928
     ],
     "Description": "This mod is for making things difficult while waiting for joiners, testing 4-man breakpoints, or just adding difficulty without touching base game properties.\n--Sets all hazard difficulty factors that scale to player number to what they would be in a 4-player lobby regardless of player count.\n--This includes enemy count, health, and damage.\n--Get the experience of playing in the main discord while freeing up your field medic perk slot!",
-    "LastUpdateChangelog": "Updated for U34.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/781ba002b143babc7a58049e200f829e84dd1662/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205%20Carry%20-%20V3.1%20_P.pak",
+    "LastUpdateChangelog": "Updated for U34 no elite hotfix",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7a559aba364a55db11e1b55e141025e723312674/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205%20Carry%20-%20V4.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Hazard 5 Carry - V3.1",
+        "PakFileName": "Hazard 5 Carry - V4.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "38-A8-D9-2C-F2-41-4E-E6"
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "66-09-88-2E-F1-E4-06-87"
         }
       }
     ]
