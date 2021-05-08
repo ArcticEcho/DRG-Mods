@@ -133,10 +133,10 @@ Update v4.0 Changelog
 **Update v4.2 Changelog:**  
 Had to redo since aoe babies complained about elites and now that section is gone
 
-## Hazard 7 - v4.0
+## Hazard 7 - v4.1
 **Authors:** Ike  
-**DRG Version:** U34 H1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d8bc433ad916765526c2b816f26044eb6ecdeb2d/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V4.0%20_P.pak)  
+**DRG Version:** U34 H4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c2a5ffb7f0fd20340122d84c84ad33cee8b7e3e5/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V4.1%20_P.pak)  
 
 **Description:**  
 This is a comprehensive Hazard 7 Mod  
@@ -150,8 +150,8 @@ This is a comprehensive Hazard 7 Mod
 --Works well with expanded enemy cap mods.  
 --For changes from V3.0 see Haz6
 
-**Update v4.0 Changelog:**  
-Updated for U34.
+**Update v4.1 Changelog:**  
+Updated for hotfix where GSG caved to aoe babies
 
 ## Hell's trial ground（The first half of the article） - v1.0
 **Authors:** lpap  

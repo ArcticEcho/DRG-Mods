@@ -4181,19 +4181,19 @@
   },
   "hazard7": {
     "DisplayName": "Hazard 7",
-    "Version": "4.0",
-    "DrgVersion": "U34 H1",
+    "Version": "4.1",
+    "DrgVersion": "U34 H4",
     "AuthorIds": [
       189954203664252928
     ],
     "Description": "This is a comprehensive Hazard 7 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 7. Rewards multiplier is set to 200%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up.\n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate.\n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz7' on their steam/discord status message, they will need but not spend 80 nitra to drop resupplies, and their Doretta UI will be messed up.\n--Beating this is possible, and using other buffs is cheating, but I would recommend staying inside the drop pod at the start of refinery missions.\n--Works well with expanded enemy cap mods.\n--For changes from V3.0 see Haz6",
-    "LastUpdateChangelog": "Updated for U34.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d8bc433ad916765526c2b816f26044eb6ecdeb2d/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V4.0%20_P.pak",
+    "LastUpdateChangelog": "Updated for hotfix where GSG caved to aoe babies",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c2a5ffb7f0fd20340122d84c84ad33cee8b7e3e5/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V4.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Hazard 7 - V4.0",
+        "PakFileName": "Hazard 7 - V4.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "38-15-D6-C3-19-40-E0-7E",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "66-FE-A0-36-80-B8-FF-3B",
           "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "C1-6A-F2-84-4B-5C-9F-A6",
           "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "76-07-CD-DF-F6-C3-54-01"
         }
