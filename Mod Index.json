@@ -9040,6 +9040,37 @@
       }
     ]
   },
+  "pineappetite": {
+    "DisplayName": "Pine-appetite",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      149217063154614272
+    ],
+    "Description": "Part of the combustible fruit arsenal, this replaces the Sticky Grenade with highly explosive Pineapples.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/86ffbe32d22c69ba6ce302ec15dd7683418198fd/Visual/3D%20Model%20Replacement/Weapons%26Tools/Pine-appetite%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "Pineappetite",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Pineapple.uasset": "08-04-10-08-A5-AE-62-D2",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/MI_Pineapple2.uasset": "52-B9-FC-15-AC-B6-F7-58",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_Q.uasset": "11-F1-88-22-A9-E0-DF-0D",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_Q_Loadout_PineApple.uasset": "B3-98-5A-AA-1C-26-57-72",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_Q_Thrown.uasset": "BD-F7-B9-93-96-0A-B1-E2",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/T_Base001.uasset": "B6-BF-7D-FF-F6-D9-25-C4",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_Pineapple.uexp": "73-BD-04-92-79-2B-71-29",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/MI_Pineapple2.uexp": "08-B3-7B-FB-F3-FA-F8-6E",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_Q.uexp": "55-49-75-A2-75-B2-81-34",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_Q_Loadout_PineApple.uexp": "8C-DF-FF-1B-CD-D4-C8-79",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_Q_Thrown.uexp": "02-D2-77-9F-D5-25-AB-05",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/T_Base001.uexp": "A6-9C-78-65-DF-53-95-D9",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/T_Base001.ubulk": "21-38-EF-E0-8D-1E-04-1E"
+        }
+      }
+    ]
+  },
   "pingym1000": {
     "DisplayName": "Pingy M1000",
     "Version": "1.2",

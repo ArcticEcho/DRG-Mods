@@ -43,3 +43,11 @@ Bonk! Return to monkey with this primitive weapon. Send those glyphids to horny 
 
 **Description:**  
 Replaces the Incendiary with sour fury! Suggested by @BongoSkaggs
+
+## Pine-appetite - v1.0
+**Authors:** SirVerex  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/86ffbe32d22c69ba6ce302ec15dd7683418198fd/Visual/3D%20Model%20Replacement/Weapons%26Tools/Pine-appetite%20-%20V1.0.zip)  
+
+**Description:**  
+Part of the combustible fruit arsenal, this replaces the Sticky Grenade with highly explosive Pineapples.
