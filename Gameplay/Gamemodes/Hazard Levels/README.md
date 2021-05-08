@@ -12,10 +12,10 @@ Changes to the hazard files that can make them harder or more crazy but fun.
 **Description:**  
 100% chance to encounter Korlok, BETC and Crassus Detonator in a mission preset.
 
-## Bug Planet - v1.34
+## Bug Planet - v1.34.4
 **Authors:** Sesselpots  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b105d738b6eb663bd61d031e8f76410f25181c58/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20V1.34%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f7b614a6222dc9dd41cd217bb799204bc4f30652/Gameplay/Gamemodes/Hazard%20Levels/Bug%20Planet%20-%20V1.34.4%20_P.pak)  
 
 **Description:**  
 Inspired by the movie Starship Troopers, Hoxxes IV is an ugly planet, a bug planet. Expect large waves of grunts when you walk into their tunnels. Shoutout to NaturalBornCamper for big help!  
@@ -34,8 +34,8 @@ NOTES:
 -You should use the mod to improve Doretta's damage resistance  
 -I recommend a resupply mod if you're having ammo problems
 
-**Update v1.34 Changelog:**  
-Updated for current DRG U34
+**Update v1.34.4 Changelog:**  
+Update for hotfix by NaturalBornCamper
 
 ## Bug Planet - Constant Conflict - v1.34
 **Authors:** Sesselpots  
