@@ -74,6 +74,14 @@ Updated files. Cooldown is now 2 minutes and 45 seconds from the previous 3 minu
     Vampire:   
          -Increased Health gain from 5 to 50
 
+## Power Creep Perks - v5-9-2021
+**Authors:** Shattered  
+**DRG Version:** u34 h4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6050f8a6139d5571f66ffdf76234e1f313ec368f/Gameplay/Unbalanced/Perks/Power%20Creep%20Perks%20-%20V5-9-2021%20_P.pak)  
+
+**Description:**  
+Only the perk changes from the power creep mod. There will be some incorrect weapon information, but the weapons have not been changed with this mod. Made for @Yarby.
+
 ## UnnerfedThorns - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  

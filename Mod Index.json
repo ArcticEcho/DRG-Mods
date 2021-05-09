@@ -9424,6 +9424,53 @@
       }
     ]
   },
+  "powercreepperks": {
+    "DisplayName": "Power Creep Perks",
+    "Version": "5-9-2021",
+    "DrgVersion": "u34 h4",
+    "AuthorIds": [
+      385384075168448513
+    ],
+    "Description": "Only the perk changes from the power creep mod. There will be some incorrect weapon information, but the weapons have not been changed with this mod. Made for <@!624572402440863744>.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6050f8a6139d5571f66ffdf76234e1f313ec368f/Gameplay/Unbalanced/Perks/Power%20Creep%20Perks%20-%20V5-9-2021%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Power Creep Perks - V5-9-2021",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/KPI/Perks/BP_ShieldLinkComponent.uasset": "94-E4-BA-8B-86-99-81-5C",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_Berzerker.uasset": "D2-5A-1A-75-8A-F2-64-30",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_BornReady.uasset": "4E-4C-AD-06-F3-70-97-31",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_DeepPockets.uasset": "53-D3-83-7F-58-9B-FA-2B",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_DownedBomb.uasset": "31-C2-3B-D3-A5-6B-E0-78",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_ExpertDepositor.uasset": "F6-2D-EF-80-10-C7-4B-A1",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_FieldMedic.uasset": "AA-B3-FF-F7-B2-47-5C-B6",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_FlareThrower.uasset": "13-6E-33-5A-7C-BF-02-A4",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_HeightenedSenses.uasset": "76-93-34-A1-3F-53-A5-AA",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_HoverBoots.uasset": "3A-A6-E1-CF-0A-AA-10-86",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_IronWill.uasset": "86-F2-A4-E9-4C-D4-DF-D7",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_MarathonGuy.uasset": "03-01-70-69-EF-0F-13-77",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_RedSugarRocks.uasset": "2F-3B-64-79-62-C2-4D-EC",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_StrongBack.uasset": "69-DB-BE-02-23-A8-54-A2",
+          "../../../FSD/Content/Localization/Game/en/Game.locres": "AC-47-B6-63-C7-36-08-28",
+          "../../../FSD/Content/GameElements/KPI/Perks/BP_ShieldLinkComponent.uexp": "D8-B5-36-1C-22-1F-77-6F",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_Berzerker.uexp": "C0-C8-0A-2E-5B-68-B2-15",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_BornReady.uexp": "F3-4D-1D-32-66-BE-D7-A1",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_DeepPockets.uexp": "FC-85-6F-81-44-1C-7F-28",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_DownedBomb.uexp": "C8-EE-01-0D-13-76-5A-85",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_ExpertDepositor.uexp": "D1-52-2B-6E-1C-06-F1-AF",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_FieldMedic.uexp": "07-55-A6-4F-62-9B-BB-B6",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_FlareThrower.uexp": "57-C0-25-13-CE-70-11-F4",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_HeightenedSenses.uexp": "B5-B3-86-DE-7A-00-2A-77",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_HoverBoots.uexp": "A5-B8-20-44-4F-18-C4-7B",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_IronWill.uexp": "E8-12-DF-79-6D-87-6B-28",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_MarathonGuy.uexp": "26-F7-BA-D5-1E-2D-A0-A4",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_RedSugarRocks.uexp": "73-92-FD-AF-B7-43-89-09",
+          "../../../FSD/Content/GameElements/KPI/Perks/PERK_StrongBack.uexp": "91-77-7A-4F-76-7E-82-39"
+        }
+      }
+    ]
+  },
   "quarterdeathduration": {
     "DisplayName": "Quarter Death Duration",
     "Version": "1.4",
