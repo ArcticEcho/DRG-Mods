@@ -12060,6 +12060,25 @@
       }
     ]
   },
+  "warthogbreacher": {
+    "DisplayName": "Warthog Breacher",
+    "Version": "1.34",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      712926827911446548
+    ],
+    "Description": "Swapped Tier 1 Overstuffed Magazine Mod on the \"Warthog\" Auto 210 for the Bulldogs Super Blowthrough Rounds, giving the warthog +3 Max Penetration",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/97b94273d2a5f91e6d211545ad7404a5d7f0bf48/Gameplay/Unbalanced/Weapons/Warthog%20Breacher%20-%20V1.34%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Warthog Breacher - V1.34",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uasset": "BB-73-C6-97-8D-EE-81-55"
+        }
+      }
+    ]
+  },
   "warthogpunch": {
     "DisplayName": "Warthog Punch",
     "Version": "1.2",

@@ -598,6 +598,14 @@ Recoil: Greatly increased
 **Update v1.02 Changelog:**  
 Updated for U34.
 
+## Warthog Breacher - v1.34
+**Authors:** Sesselpots  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/97b94273d2a5f91e6d211545ad7404a5d7f0bf48/Gameplay/Unbalanced/Weapons/Warthog%20Breacher%20-%20V1.34%20_P.pak)  
+
+**Description:**  
+Swapped Tier 1 Overstuffed Magazine Mod on the "Warthog" Auto 210 for the Bulldogs Super Blowthrough Rounds, giving the warthog +3 Max Penetration
+
 ## ZiplineGun Speed, Ammo and Angle Buffed - v1.0
 **Authors:** Tristus  
 **DRG Version:** Update 33, Hotfix 2  
