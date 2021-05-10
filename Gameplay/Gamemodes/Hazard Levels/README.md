@@ -95,10 +95,10 @@ This mod is for making things difficult while waiting for joiners, testing 4-man
 **Update v4.3 Changelog:**  
 Updated for U34 no elite hotfix
 
-## Hazard 5.5 - v2.0
+## Hazard 5.5 - v4.3
 **Authors:** Ike  
-**DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ad703a74651333d89182765d145de2b384036b50/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205.5%20-%20V2.0%20_P.pak)  
+**DRG Version:** U34 H4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b0dee95b56b96773430bff9fe7401b28c25e2521/Gameplay/Gamemodes/Hazard%20Levels/Hazard%205.5%20-%20V4.3%20_P.pak)  
 
 **Description:**  
 --Replaces the hazard 5 file, and is not compatible with other mods that do the same.  
@@ -107,8 +107,8 @@ Updated for U34 no elite hotfix
 --Shows Haz5.5 in game.  
 --Per request to add some challenge to viewer spawns since enemy amount isn't affected but enemy stats are.
 
-**Update v2.0 Changelog:**  
-Updated for U34
+**Update v4.3 Changelog:**  
+Updated for U34 no elite hotfix
 
 ## Hazard 6 - v4.2
 **Authors:** Ike  
