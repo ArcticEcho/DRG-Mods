@@ -3852,6 +3852,42 @@
       }
     ]
   },
+  "glowingebonuts": {
+    "DisplayName": "Glowing Ebonuts",
+    "Version": "1.0",
+    "DrgVersion": "Update 34 - Hotfix 4",
+    "AuthorIds": [
+      210694335283331072
+    ],
+    "Description": "Replaces the texture of Ebonuts with the one from Apoca Bloom that emits green light.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4b20578561f1eae0858434d3f3fecf7266eeb191/Quality%20of%20Life/Time%20saving/Glowing%20Ebonuts%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Glowing Ebonuts - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shell_01.uasset": "DA-7B-C6-25-14-A9-45-F8",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shell_02.uasset": "01-BC-28-EB-F5-A7-2E-3A",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shell_03.uasset": "B0-55-AB-41-03-79-0D-5E",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shellBroken_01.uasset": "D1-9A-31-04-58-09-CF-66",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shellBroken_02.uasset": "0E-52-EB-61-BC-78-BD-7C",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shellBroken_03.uasset": "6C-CA-22-52-31-83-FF-6F",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_ShellLilBroken_01.uasset": "2D-B6-08-54-92-30-A3-EB",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_ShellLilBroken_02.uasset": "45-4D-D4-D7-4E-48-9E-CE",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_ShellLilBroken_03.uasset": "A4-27-A8-BF-2A-81-98-3A",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shell_01.uexp": "45-CB-79-43-A8-C4-87-11",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shell_02.uexp": "84-FE-1F-87-0E-E2-81-12",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shell_03.uexp": "F5-13-EE-61-1B-71-17-A8",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shellBroken_01.uexp": "CB-AD-7D-6A-81-6F-57-4E",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shellBroken_02.uexp": "36-D1-0E-DC-92-B5-C1-B1",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_shellBroken_03.uexp": "0B-65-06-DB-86-5E-ED-6B",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_ShellLilBroken_01.uexp": "32-39-4C-73-F3-DE-07-EE",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_ShellLilBroken_02.uexp": "05-C9-E1-AF-81-FA-04-1C",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Ebonut/SM_Ebonut_ShellLilBroken_03.uexp": "35-2A-C4-93-04-2D-0E-A6"
+        }
+      }
+    ]
+  },
   "goldenwrench": {
     "DisplayName": "Golden Wrench",
     "Version": "1.0",

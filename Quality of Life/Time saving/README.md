@@ -63,6 +63,14 @@ Forge your overclocks much faster. Now with 50% less demonic possession! @Shatte
 **Update v1.02 Changelog:**  
 Updated for U34.
 
+## Glowing Ebonuts - v1.0
+**Authors:** Humping Koala  
+**DRG Version:** Update 34 - Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4b20578561f1eae0858434d3f3fecf7266eeb191/Quality%20of%20Life/Time%20saving/Glowing%20Ebonuts%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the texture of Ebonuts with the one from Apoca Bloom that emits green light.
+
 ## Increased tip - v1.1
 **Authors:** Bebe  
 **DRG Version:** U34E  
