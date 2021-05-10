@@ -99,6 +99,14 @@ Made it so this mod no longer requires LOCRES to look fancy
 **Description:**  
 --Makes the time to start a mission in multiplayer or solo 1 second, allowing you to just make it to your seat!
 
+## Lucky Day - v1.0
+**Authors:** Humping Koala  
+**DRG Version:** Update 34 - Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/02c3d107327b63d2bce290654445d4cc9a717b14/Quality%20of%20Life/Time%20saving/Lucky%20Day%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Guarantees spawn of Machine Events, Cargo Crates and Lost Loot Packs on any map.
+
 ## NotSoBrokenSupplyPod - v1.01
 **Authors:** BongoSkaggs  
 **DRG Version:** U33  
