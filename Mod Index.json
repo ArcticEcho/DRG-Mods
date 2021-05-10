@@ -6609,26 +6609,6 @@
       }
     ]
   },
-  "luckyday": {
-    "DisplayName": "Lucky Day",
-    "Version": "1.0",
-    "DrgVersion": "Update 34 - Hotfix 4",
-    "AuthorIds": [
-      210694335283331072
-    ],
-    "Description": "Guarantees spawn of Machine Events, Cargo Crates and Lost Loot Packs on any map.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/02c3d107327b63d2bce290654445d4cc9a717b14/Quality%20of%20Life/Time%20saving/Lucky%20Day%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Lucky Day - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Game/GameData/GD_SpecialEventSettings.uexp": "74-14-A7-A5-DC-75-70-58",
-          "../../../FSD/Content/Game/GameData/GD_TreasureSettings.uexp": "B5-9C-7F-A1-02-ED-A6-4D"
-        }
-      }
-    ]
-  },
   "ludicrousenemycap240": {
     "DisplayName": "Ludicrous Enemy Cap 240",
     "Version": "1",
