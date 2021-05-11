@@ -10692,6 +10692,18 @@
       }
     ]
   },
+  "siirvendmissioncontrol": {
+    "DisplayName": "Siirvend Mission Control",
+    "Version": "1.0",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      230821556320731138
+    ],
+    "Description": "I replaced every Mission Control Line in the game with my voice. Every last one of them. Also replaces the Mission Control picture. I recommend turning your Mission Control volume to 120 or so if you want to hear it better.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://mega.nz/file/Zz5gHKiS#a755hy2Y5vWDMoAYqEYQxxdz__yBOS-S7c0fl95H_rQ",
+    "Paks": null
+  },
   "silentmollybreadcrumbs": {
     "DisplayName": "Silent Molly Breadcrumbs",
     "Version": "1.0",

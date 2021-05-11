@@ -121,6 +121,14 @@ Full song list: https://docs.google.com/uc?export=download&id=1-9RHJvp4q2qhAebDx
 **Description:**  
 Replaces the Ambient Song in the Space Rig with Space Noise and Star Trek sounds to make it quieter.
 
+## Siirvend Mission Control - v1.0
+**Authors:** Siirvend  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://mega.nz/file/Zz5gHKiS#a755hy2Y5vWDMoAYqEYQxxdz__yBOS-S7c0fl95H_rQ) (third-party host)  
+
+**Description:**  
+I replaced every Mission Control Line in the game with my voice. Every last one of them. Also replaces the Mission Control picture. I recommend turning your Mission Control volume to 120 or so if you want to hear it better.
+
 ## Starship Troopers OST Music Replacement - v0.9
 **Authors:** Kraeus  
 **DRG Version:** Update 34 Hotfix 2  
