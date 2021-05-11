@@ -413,6 +413,14 @@ Meatshield's mod, "With these changes, `BCABB + RJ250 Compound` will have same a
 --PGL T1.B Ammo 2 -> 5  
 --PGL T2.C Projectile Speed 180% -> -60%
 
+## Rubber GK2 - v1.34
+**Authors:** Sesselpots  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1646f29f69c3ddb9419d78769604c09ec1a4b6e6/Gameplay/Unbalanced/Weapons/Rubber%20GK2%20-%20V1.34%20_P.pak)  
+
+**Description:**  
+Swapped Homebrew Powder OC on the Deepcore GK2 for the Lead Storms Bullet Hell OC, giving the GK2 the ability to ricochete at the cost of damage and spread
+
 ## Scout for Bug Planet - v1
 **Authors:** PastoSeco14  
 **DRG Version:** U33  
