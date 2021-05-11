@@ -8961,6 +8961,18 @@
       }
     ]
   },
+  "nowthatswhaticallhoxxesgreatesthits": {
+    "DisplayName": "NOW That's What I Call Hoxxes Greatest Hits",
+    "Version": "1.1",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      230821556320731138
+    ],
+    "Description": "This is a full music replacement mod that changes every piece of music in the game to various songs from other games that seek to generally fit the mood of DRG while changing things up. The included soundtracks are Metal Gear Solid 5, Hollow Knight, Jormungand, Gurren Lagann, Death Stranding, Metal Gear Solid 3, Bastion, Girls Frontline and Tangle Tower.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://mega.nz/file/drIjlIaC#pMGmaHoQdKToCkmWLBf215wrPHqdyUWbndiS3iaGdeY",
+    "Paks": null
+  },
   "obedientmolly": {
     "DisplayName": "Obedient Molly",
     "Version": "2.0",
