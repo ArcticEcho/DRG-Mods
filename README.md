@@ -70,6 +70,9 @@ You can easily locate your game installation path using steam:
  - **[Subata Glock 17](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#subata-glock-17---v10)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/0c036d6b1fd956ce9736de80b0a3d9b9a0764ace/Audio/Weapons/Subata%20Glock%2017%20-%20V1.0%20_P.pak))
  - **[Warthog Punch](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#warthog-punch---v12)** by Lithobraker ([download](https://github.com/ArcticEcho/DRG-Mods/raw/250b12d0d86594dc101d929e7baf12faf7039e04/Audio/Weapons/Warthog%20Punch%20-%20V1.2.zip))
 
+## [CE Table](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table)
+ - **[DRG - Fun Table](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table/README.md#drg---fun-table---v10)** by Akira Fudo ([download](https://github.com/ArcticEcho/DRG-Mods/raw/e7f5b102677e18636f541a5d7efc37f90e1e7b52/CE%20Table/DRG%20-%20Fun%20Table%20-%20V1.0.zip))
+
 ## [Framework](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework)
  - **[BP Mod Manager](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#bp-mod-manager---v43)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/440b16704a5e2e627bb93009c9afc73e29841bad/Framework/BP%20Mod%20Manager%20-%20V4.3%20_P.pak))
  - **[Music Control](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#music-control---v11)** by Demellion Dismal ([download](https://github.com/ArcticEcho/DRG-Mods/raw/9f8b234d7a2b796bbec62bcdad1ac384f2241010/Framework/Music%20Control%20-%20V1.1.zip))
