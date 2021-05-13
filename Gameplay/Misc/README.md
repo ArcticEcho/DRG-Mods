@@ -153,10 +153,13 @@ Preview: https://discord.com/channels/676880716142739467/732650220214681600/8086
 **Update v1.1 Changelog:**  
 Fixed the crash caused by hotfix 4.
 
-## Spawn Menu - v1.0
+## Spawn Menu - v1.0.0.1
 **Authors:** GoldBl4d3  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c9908a865b4c73476894691eb5f09f3604a7fbac/Gameplay/Misc/Spawn%20Menu%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/cb649eec79b82f70f23cfcfd6d208132e1a6cf6b/Gameplay/Misc/Spawn%20Menu%20-%20V1.0.0.1%20_P.pak)  
 
 **Description:**  
-Spawn every creature and object in the game. With 330 options to choose from. Can be used to convert enemies into Elite Variants.
+Spawn every creature and object in the game. With 330 options to choose from. Can be used to convert enemies into Elite Variants. Requires BP Mod Manager.
+
+**Update v1.0.0.1 Changelog:**  
+Requires BP Mod Manager.
