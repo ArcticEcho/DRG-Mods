@@ -1509,6 +1509,30 @@
       }
     ]
   },
+  "bbpsubmodsawedoffocs": {
+    "DisplayName": "BBP Submod - Sawed Off OCs",
+    "Version": "1.0",
+    "DrgVersion": "U33 Hotfix 4",
+    "AuthorIds": [
+      360816319722946560
+    ],
+    "Description": "This mod changes Double Barrel into an Unstable OC in function: x1.5 damage per pellet, x2.5 spread (replaces previous effects, no longer shoots two barrels at once). Special Powder is now a Balanced OC in principle as it gains a -2 damage per pellet penalty.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2cebc42b784f2ce9aa3b6f7e929f31164183d535/Gameplay/Balanced/BBP%20Submod%20-%20Sawed%20Off%20OCs%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "BBP Submod - Sawed Off OCs - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Damage_2_SawedOff.uasset": "8D-DB-0B-46-32-44-4C-CF",
+          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Overclocks/OC_SawedOff_DoubleBarrel_C.uasset": "C8-1A-D7-79-91-67-BC-44",
+          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Overclocks/OC_SawedOff_ShotgunJump_C.uasset": "16-9C-E2-05-14-7C-D7-EC",
+          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Damage_2_SawedOff.uexp": "88-A4-F6-4A-15-FB-1D-B9",
+          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Overclocks/OC_SawedOff_DoubleBarrel_C.uexp": "C8-08-82-73-51-BD-62-8D",
+          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Overclocks/OC_SawedOff_ShotgunJump_C.uexp": "5E-EC-DC-C2-85-4C-4B-7C"
+        }
+      }
+    ]
+  },
   "beastmasterbuff": {
     "DisplayName": "BeastMaster Buff",
     "Version": "1.2",
