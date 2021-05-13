@@ -32,13 +32,16 @@ Changelog is included in the zip file, in docx and pdf variants. I've also inclu
 **Update v1.8.1 Changelog:**  
 corrected the added info for GK2's Floating Barrel and Gyro Stabilisation (turns out they're both bugged) and buffed Supercooling Chamber's focus shot damage bonus.
 
-## BBP Submod - Sawed Off OCs - v1.0
+## BBP Submod - Sawed Off OCs - v1.1
 **Authors:** GreyHound  
 **DRG Version:** U33 Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2cebc42b784f2ce9aa3b6f7e929f31164183d535/Gameplay/Balanced/BBP%20Submod%20-%20Sawed%20Off%20OCs%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/aada66406d0300875000c9c006263221d0da7a21/Gameplay/Balanced/BBP%20Submod%20-%20Sawed%20Off%20OCs%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 This mod changes Double Barrel into an Unstable OC in function: x1.5 damage per pellet, x2.5 spread (replaces previous effects, no longer shoots two barrels at once). Special Powder is now a Balanced OC in principle as it gains a -2 damage per pellet penalty.
+
+**Update v1.1 Changelog:**  
+Reworked the penalty files used for the new Double Barrel effect, I can now manually edit them without affecting any other OCs. Damage bonus changed to x1.75, spread penalty reduced to x2.25.
 
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
