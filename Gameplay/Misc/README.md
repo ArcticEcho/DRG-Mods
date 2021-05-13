@@ -159,5 +159,5 @@ Fixed the crash caused by hotfix 4.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c9908a865b4c73476894691eb5f09f3604a7fbac/Gameplay/Misc/Spawn%20Menu%20-%20V1.0%20_P.pak)  
 
 **Description:**  
-**Requires the Mod Loader**
+**Requires the BP Mod Manager**
 Spawn every creature and object in the game. With 330 options to choose from. Can be used to convert enemies into Elite Variants.
