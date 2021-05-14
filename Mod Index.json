@@ -3287,6 +3287,30 @@
       }
     ]
   },
+  "extremefeedmechanismminigunoc": {
+    "DisplayName": "Extreme Feed Mechanism - Minigun OC",
+    "Version": "1.0",
+    "DrgVersion": "U34 Hotfix 4",
+    "AuthorIds": [
+      624572402440863744
+    ],
+    "Description": "An aftermarket mod which pushes the rotary mechanism of the minigun to the extreme. Even the best engine lubricant on Hoxxes has a hard time keeping the excess heat generation in check. (+25 rate of fire and +300% heat generation) This replaces the vector exhaust overclock.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b034d8106531de55ad111ef02788bd9782f62735/Gameplay/Balanced/Extreme%20Feed%20Mechanism%20-%20Minigun%20OC%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Extreme Feed Mechanism - Minigun OC - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_HeatupRate_3x.uasset": "D2-7B-55-BB-78-EC-54-BE",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_RoF_2.uasset": "C3-C0-87-26-2B-D0-BB-B5",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Ammo_B.uasset": "37-F4-DA-23-CE-DD-32-A6",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_HeatupRate_3x.uexp": "CA-CE-00-54-A5-20-AB-FA",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_RoF_2.uexp": "0D-73-27-6C-61-95-A9-D2",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Ammo_B.uexp": "81-65-8D-6C-5B-CD-7C-75"
+        }
+      }
+    ]
+  },
   "fabulouslyfastlootbugs": {
     "DisplayName": "Fabulously Fast Lootbugs",
     "Version": "1",
