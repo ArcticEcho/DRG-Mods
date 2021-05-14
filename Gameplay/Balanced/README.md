@@ -93,7 +93,7 @@ Happy to see buffs to the HE grenade, this is an update to an old version that I
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b034d8106531de55ad111ef02788bd9782f62735/Gameplay/Balanced/Extreme%20Feed%20Mechanism%20-%20Minigun%20OC%20-%20V1.0%20_P.pak)  
 
 **Description:**  
-An aftermarket mod which pushes the rotary mechanism of the minigun to the extreme. Even the best engine lubricant on Hoxxes has a hard time keeping the excess heat generation in check. (+25 rate of fire and +300% heat generation) This replaces the vector exhaust overclock.
+An aftermarket mod which pushes the rotary mechanism of the minigun to the extreme. Even the best engine lubricant on Hoxxes has a hard time keeping the excess heat generation in check. (+25 rate of fire and +300% heat generation) This replaces the Compact Feed Mechanism overclock.
 
 ## HE Grenade Carve - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
