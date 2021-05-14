@@ -95,6 +95,9 @@ Happy to see buffs to the HE grenade, this is an update to an old version that I
 **Description:**  
 An aftermarket mod which pushes the rotary mechanism of the minigun to the extreme. Even the best engine lubricant on Hoxxes has a hard time keeping the excess heat generation in check. (+25 rate of fire and +300% heat generation) This replaces the Compact Feed Mechanism overclock.
 
+**Update v1.0 Changelog:**  
+Fixed description error which said that Exhaust Vectoring was replaced instead of Compact Feed Mechanism.
+
 ## HE Grenade Carve - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
