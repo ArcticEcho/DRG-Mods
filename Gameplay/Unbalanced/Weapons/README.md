@@ -393,6 +393,14 @@ A balance mod that changes some perks and weapons. Credit to @BongoSkaggs for ma
 **Update v5-10-2021 Changelog:**  
 Weapon changes.
 
+## Real Minigun - v1.0
+**Authors:** Yarby  
+**DRG Version:** U34 Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d4391d41b3e2b496e5e49bcefc2881b77a247b8f/Gameplay/Unbalanced/Weapons/Real%20Minigun%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+The base minigun now actually has 2400 ammo and 30 rate of fire. The stats in the game now reflect true values. (Vanilla minigun stats are inflated by 2 times, meaning the vanilla minigun has 1200 ammo and 15 firerate)
+
 ## Rideable Drone - Sol Dios(WIP) - v0.1
 **Authors:** 超絶淫乱雄ドワーフ[JPN]  
 **DRG Version:** Update 34 Hotfix 4  
