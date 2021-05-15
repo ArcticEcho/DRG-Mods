@@ -9603,17 +9603,17 @@
   },
   "prototypecyberneticsminigunoc": {
     "DisplayName": "Prototype Cybernetics (Minigun OC)",
-    "Version": "1.0",
+    "Version": "1.01",
     "DrgVersion": "U34 H4",
     "AuthorIds": [
       624572402440863744
     ],
     "Description": "A prototype leaked from the Deep Rock Robotics Department. This integrated cybernetic solution aims to mitigate the physical strain experienced when handling heavy weaponry; However, this incomplete iteration lacks the AI aim assist which some consider necessary to alleviate the increased bullet spread. This replaces the Exhaust Vectoring overclock. +60% movespeed while using, +300 ammo, +700% spread.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c1abed69748c27237604b5b1043a2c06f58d9ce6/Gameplay/Balanced/Prototype%20Cybernetics%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Buffed movement speed from +60% to +75% to be more viable in Haz 5 and above",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/de6e3fd7c7b3c950c2e6cefa02a1f1eb3b9a6ebe/Gameplay/Balanced/Prototype%20Cybernetics%20%28Minigun%20OC%29%20-%20V1.01%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Prototype Cybernetics (Minigun OC) - V1.0",
+        "PakFileName": "Prototype Cybernetics (Minigun OC) - V1.01",
         "CookedFileHashes": {
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo300_Gatling.uasset": "26-09-C6-B4-66-F6-65-D1",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Accuracy3.uasset": "EB-A3-B4-99-E0-20-44-53",
@@ -9621,7 +9621,7 @@
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_DamageB_B.uasset": "46-54-41-13-16-D5-01-D2",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo300_Gatling.uexp": "1F-A5-81-39-A7-9B-25-01",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Accuracy3.uexp": "1D-94-83-F6-84-63-FA-17",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_MovmentSpeed_2.uexp": "7E-3A-FC-94-43-7B-60-A5",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_MovmentSpeed_2.uexp": "8F-E0-BF-DB-6E-4D-DC-A3",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_DamageB_B.uexp": "59-67-66-42-DF-DD-31-CE"
         }
       }
