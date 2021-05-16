@@ -109,6 +109,7 @@ Description edit
 These high-tech bullets are designed to devastate frozen enemies and convert into cryo-minelets that will super-cool anything that comes close after impacting the terrain. However they don't last forever and the rounds themselves take more space in the drum and deal less direct damage. Additionally, these super-cooled rounds will reduce the heat output of the minigun chamber. This replaces the Bullet Hell overlock.  
 Cryo-minelets deal 4 cold damage and have 0 arming delay  
 x2 damage on frozen enemies  
++0.8 cooling rate  
 -4 damage  
 -400 ammo  
 This mod only works while hosting
