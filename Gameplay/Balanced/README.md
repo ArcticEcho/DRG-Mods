@@ -100,6 +100,18 @@ An aftermarket mod which pushes the rotary mechanism of the minigun to the extre
 **Update v1.0 Changelog:**  
 Description edit
 
+## Freezing Hell (Minigun OC) - v1.0
+**Authors:** Yarby  
+**DRG Version:** 1.0  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/afe9acc949aa7d54e9d0415e91c6c7c273d8489e/Gameplay/Balanced/Freezing%20Hell%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+These high-tech bullets are designed to devastate frozen enemies and convert into cryo-minelets that will super-cool anything that comes close after impacting the terrain. However they don't last forever and the rounds themselves take more space in the drum and deal less direct damage. Additionally, these super-cooled rounds will reduce the heat output of the minigun chamber. This replaces the Bullet Hell overlock.  
+Cryo-minelets deal 4 cold damage and have 0 arming delay  
+x2 damage on frozen enemies  
+-4 damage  
+-400 ammo
+
 ## HE Grenade Carve - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  

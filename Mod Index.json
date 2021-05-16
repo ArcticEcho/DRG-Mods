@@ -3862,6 +3862,40 @@
     "DownloadUrl": "https://drive.google.com/file/d/1bjM4HQR-RpfcONCDRoffDavZ2STxdq8e/view?usp=sharing",
     "Paks": null
   },
+  "freezinghellminigunoc": {
+    "DisplayName": "Freezing Hell (Minigun OC)",
+    "Version": "1.0",
+    "DrgVersion": "1.0",
+    "AuthorIds": [
+      624572402440863744
+    ],
+    "Description": "These high-tech bullets are designed to devastate frozen enemies and convert into cryo-minelets that will super-cool anything that comes close after impacting the terrain. However they don't last forever and the rounds themselves take more space in the drum and deal less direct damage. Additionally, these super-cooled rounds will reduce the heat output of the minigun chamber. This replaces the Bullet Hell overlock.\n\nCryo-minelets deal 4 cold damage and have 0 arming delay\nx2 damage on frozen enemies\n-4 damage\n-400 ammo",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/afe9acc949aa7d54e9d0415e91c6c7c273d8489e/Gameplay/Balanced/Freezing%20Hell%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Freezing Hell (Minigun OC) - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/BP_Zhukov_IceMines2.uasset": "8B-48-00-78-A1-CD-D1-7E",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_CoolingRate_Gatling2.uasset": "37-6F-36-04-84-76-E1-C5",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_CreateBombOnHit_DualMP.uasset": "4D-C7-BC-56-B0-25-47-9A",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_DamageVsFrozenMult_Cryo.uasset": "81-12-38-B2-83-1F-15-62",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/BP_CreateBombOnHit_DualMP.uasset": "A9-75-DA-63-9C-38-E6-2B",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo600_Gatling.uasset": "D2-05-15-4B-3D-F4-24-06",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Damage3.uasset": "59-8E-1A-64-19-20-0B-B4",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Ricochet_U.uasset": "04-8C-EB-4A-B8-AC-05-87",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/BP_Zhukov_IceMines2.uexp": "CD-F7-4A-17-76-9D-28-01",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_CoolingRate_Gatling2.uexp": "23-C3-0F-69-27-9D-AF-FB",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_CreateBombOnHit_DualMP.uexp": "FD-B4-C4-15-6B-89-66-D3",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_DamageVsFrozenMult_Cryo.uexp": "4D-BD-3D-EA-89-72-34-40",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/BP_CreateBombOnHit_DualMP.uexp": "56-1F-5E-7F-B7-31-A7-55",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo600_Gatling.uexp": "FD-65-DD-00-52-EF-E6-CF",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Damage3.uexp": "9B-42-B3-2C-26-41-C9-C9",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Ricochet_U.uexp": "ED-53-2B-49-67-86-ED-35"
+        }
+      }
+    ]
+  },
   "fuelcanisterpickupradius": {
     "DisplayName": "Fuel Canister Pickup Radius",
     "Version": "1.0",
