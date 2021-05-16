@@ -56,7 +56,7 @@ Changes the class icons to their true meaning in a pictogram. Yellow with a hand
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a57d74e83a7f0d036688e1f8971257d1fdbc5d5a/Visual/Textures%20%26%20Icons/MarcusGray%20Posters%20-%20V1.0%20_P.pak)  
 
 **Description:**  
-Replaces the texture of propaganda posters with the **Deep Rock Gals** posters made by *Marcus Gray*.
+Replaces the texture of propaganda posters with the **Deep Rock Gals** posters made by *Marcus Gray*. [Preview](https://discord.com/channels/676880716142739467/712637678881079369/843439869078405180)
 
 **Update v1.0 Changelog:**  
 Replaces the texture of propaganda posters with the **Deep Rock Gals** posters made by *Marcus Gray*. [Preview](https://discord.com/channels/676880716142739467/712637678881079369/843439869078405180)
