@@ -32,6 +32,22 @@ Changelog is included in the zip file, in docx and pdf variants. I've also inclu
 **Update v1.8.1 Changelog:**  
 corrected the added info for GK2's Floating Barrel and Gyro Stabilisation (turns out they're both bugged) and buffed Supercooling Chamber's focus shot damage bonus.
 
+## BBP Submod - Overclock Redesign - v1.0
+**Authors:** GreyHound  
+**DRG Version:** U33 Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4daf582ab3f4964e7517423d859791f518ebec2b/Gameplay/Balanced/BBP%20Submod%20-%20Overclock%20Redesign%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+This mod changes a few specific overclocks that were deemed too bland and boring. Stay tuned, there's more to come.  
+**Zhukovs**: added +1 Blowthrough to *Gas Recycling*.  
+**BRT**:   
+*Experimental Rounds* now adds +30% weakspot damage instead of flat 9 damage;  
+*Compact Mags*: loses all previous bonuses, instead gains +48 mag size, +2 RoF, x1.25 spread per shot and x1.5 spread, codenamed Burst Fire PDW;  
+**Minigun**:   
+*Leadstorm OC* gains +1 Blowthrough instead of +4 damage;  
+*Compact Feed Mechanism* gains +15 RoF and +200% Heat Generation instead of +800 (true 400) and -2 RoF, codenamed Annihilator;  
+**EPC**: *Magnetic Cooling Unit* now adds +5 normal shot damage instead of the x0.75 heat buildup when charged bonus.
+
 ## BBP Submod - Sawed Off OCs - v1.1
 **Authors:** GreyHound  
 **DRG Version:** U33 Hotfix 4  

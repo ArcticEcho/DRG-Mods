@@ -1509,6 +1509,56 @@
       }
     ]
   },
+  "bbpsubmodoverclockredesign": {
+    "DisplayName": "BBP Submod - Overclock Redesign",
+    "Version": "1.0",
+    "DrgVersion": "U33 Hotfix 4",
+    "AuthorIds": [
+      360816319722946560
+    ],
+    "Description": "This mod changes a few specific overclocks that were deemed too bland and boring. Stay tuned, there's more to come.\n**Zhukovs**: added +1 Blowthrough to *Gas Recycling*.\n**BRT**: \n*Experimental Rounds* now adds +30% weakspot damage instead of flat 9 damage;\n*Compact Mags*: loses all previous bonuses, instead gains +48 mag size, +2 RoF, x1.25 spread per shot and x1.5 spread, codenamed Burst Fire PDW;\n**Minigun**: \n*Leadstorm OC* gains +1 Blowthrough instead of +4 damage;\n*Compact Feed Mechanism* gains +15 RoF and +200% Heat Generation instead of +800 (true 400) and -2 RoF, codenamed Annihilator;\n**EPC**: *Magnetic Cooling Unit* now adds +5 normal shot damage instead of the x0.75 heat buildup when charged bonus.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4daf582ab3f4964e7517423d859791f518ebec2b/Gameplay/Balanced/BBP%20Submod%20-%20Overclock%20Redesign%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "BBP Submod - Overclock Redesign - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OC_BRT_AmmoB_B.uasset": "B6-B7-9D-12-E5-B4-88-5E",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OC_BRT_DamageB_B.uasset": "39-E0-E7-6E-7A-51-05-E4",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/Bonus_ClipSizeMed_BRT.uasset": "31-2D-6B-81-FF-6F-11-9F",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/Bonus_RoF_BRT.uasset": "78-0E-EB-43-F3-36-58-41",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/OC_Bonus_WeakpointDMG_BRT.uasset": "0B-43-B8-EA-11-3F-51-8F",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/Penalty_AccuracySM_BRT.uasset": "7F-FB-87-97-8A-9B-56-38",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/Penalty_SpreadPerShot_BRT.uasset": "F4-A1-51-92-E5-A5-6E-6C",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/Overclocks/OC_BonusAndPenalty/OC_Bonus_NormalDamageFlat_EPC.uasset": "C2-7C-D6-F3-B1-4E-7F-80",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/Overclocks/OC_EPC_CoolingRate_C.uasset": "B9-3C-8B-7D-D7-90-24-65",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Bonus_Bthrough_DualMP.uasset": "1C-03-AF-37-B8-44-40-91",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_DualMP_Damage_U.uasset": "C7-22-64-D8-ED-4B-DD-B2",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Bthrough_Gatling.uasset": "22-93-D9-5A-E8-42-D8-D0",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_HeatupRate_3x.uasset": "D2-7B-55-BB-78-EC-54-BE",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_RoF_2.uasset": "C3-C0-87-26-2B-D0-BB-B5",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Ammo_B.uasset": "37-F4-DA-23-CE-DD-32-A6",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Damage_U.uasset": "0A-43-0C-1B-E1-29-77-25",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OC_BRT_AmmoB_B.uexp": "CA-4C-42-5D-4F-40-E6-05",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OC_BRT_DamageB_B.uexp": "CD-31-FE-F2-0D-0E-15-FC",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/Bonus_ClipSizeMed_BRT.uexp": "DC-E6-ED-52-DC-75-C5-01",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/Bonus_RoF_BRT.uexp": "D5-4D-78-CE-34-01-51-7A",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/OC_Bonus_WeakpointDMG_BRT.uexp": "79-06-15-EE-CC-B0-13-02",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/Penalty_AccuracySM_BRT.uexp": "AE-37-DE-A8-E6-79-3A-37",
+          "../../../FSD/Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/Penalty_SpreadPerShot_BRT.uexp": "46-5E-95-7B-08-2F-65-C0",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/Overclocks/OC_BonusAndPenalty/OC_Bonus_NormalDamageFlat_EPC.uexp": "36-CF-C6-2F-EF-3C-C5-33",
+          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/Overclocks/OC_EPC_CoolingRate_C.uexp": "44-AC-5B-CF-99-6E-01-36",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_BonusesAndPenalties/Bonus_Bthrough_DualMP.uexp": "E4-9D-AF-3F-89-2A-BB-A1",
+          "../../../FSD/Content/WeaponsNTools/DualMachinePistols/Overclocks/OC_DualMP_Damage_U.uexp": "D3-C3-1D-92-A8-4D-32-42",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Bthrough_Gatling.uexp": "E4-9D-AF-3F-89-2A-BB-A1",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_HeatupRate_3x.uexp": "D6-79-6A-21-A6-76-62-BD",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_RoF_2.uexp": "B4-6F-E7-9F-1E-64-C3-22",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Ammo_B.uexp": "81-65-8D-6C-5B-CD-7C-75",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Damage_U.uexp": "7D-4A-E7-97-FB-17-F4-A0"
+        }
+      }
+    ]
+  },
   "bbpsubmodsawedoffocs": {
     "DisplayName": "BBP Submod - Sawed Off OCs",
     "Version": "1.1",
