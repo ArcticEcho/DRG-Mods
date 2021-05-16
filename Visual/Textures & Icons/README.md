@@ -58,6 +58,9 @@ Changes the class icons to their true meaning in a pictogram. Yellow with a hand
 **Description:**  
 Replaces the texture of propaganda posters with the **Deep Rock Gals** posters made by *Marcus Gray*.
 
+**Update v1.0 Changelog:**  
+Replaces the texture of propaganda posters with the **Deep Rock Gals** posters made by *Marcus Gray*. [Preview](https://discord.com/channels/676880716142739467/712637678881079369/843439869078405180)
+
 ## RGB Pickaxe Parts - v1.02
 **Authors:** Pacagma  
 **DRG Version:** Update 34  
