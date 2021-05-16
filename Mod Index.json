@@ -6466,6 +6466,38 @@
       }
     ]
   },
+  "leadstormreworkedminigunoc": {
+    "DisplayName": "Lead Storm Reworked (Minigun OC)",
+    "Version": "1.0",
+    "DrgVersion": "U34 H4",
+    "AuthorIds": [
+      624572402440863744
+    ],
+    "Description": "Increased raw damage in exchange for reduction of ammo, stun chance, and weakspot damage. Results in better damage versus armoured enemies.\n\n+10 damage\n-300 ammo\nx0 stun chance\nx0 stun duration\nx0 movement speed\nx0 weakspot damage",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e397b6bc295ebfbd634ced8bdbbd182fd7b47f7c/Gameplay/Balanced/Lead%20Storm%20Reworked%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Lead Storm Reworked (Minigun OC) - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AmmoM300_Gatling.uasset": "92-CC-11-23-9A-AE-1F-C9",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Damage_5.uasset": "CB-4D-74-4E-A6-BF-6F-4F",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_MovmentSpeed_0.uasset": "23-E3-C5-A9-1F-63-88-81",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_NoStagger.uasset": "BC-8C-27-CD-7C-61-F3-06",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_NoStaggerDurration.uasset": "83-55-13-7C-1D-98-75-87",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Penalty_NoWeakspotBonus_DualMP.uasset": "3C-8A-46-3E-A1-66-5D-B4",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Damage_U.uasset": "93-3E-3C-7C-DC-81-47-BC",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AmmoM300_Gatling.uexp": "2D-0A-D3-97-D9-CE-FA-A4",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Damage_5.uexp": "7A-E7-32-6A-95-54-FA-50",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_MovmentSpeed_0.uexp": "2F-79-70-C1-27-52-9A-24",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_NoStagger.uexp": "5E-10-02-7D-15-E2-A9-4E",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_NoStaggerDurration.uexp": "9F-74-EB-E8-26-9D-B4-C3",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Penalty_NoWeakspotBonus_DualMP.uexp": "68-D7-6A-1E-3E-65-18-79",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Damage_U.uexp": "11-48-BE-16-49-65-B6-10"
+        }
+      }
+    ]
+  },
   "leafloverbegone": {
     "DisplayName": "Leaf Lover Begone",
     "Version": "1",

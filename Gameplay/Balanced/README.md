@@ -124,6 +124,20 @@ This mod only works while hosting
 --Reduces time to detonate to 0.5 seconds after throwing.  
 --Increased throw velocity to give it some range before detonating.
 
+## Lead Storm Reworked (Minigun OC) - v1.0
+**Authors:** Yarby  
+**DRG Version:** U34 H4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e397b6bc295ebfbd634ced8bdbbd182fd7b47f7c/Gameplay/Balanced/Lead%20Storm%20Reworked%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Increased raw damage in exchange for reduction of ammo, stun chance, and weakspot damage. Results in better damage versus armoured enemies.  
++10 damage  
+-300 ammo  
+x0 stun chance  
+x0 stun duration  
+x0 movement speed  
+x0 weakspot damage
+
 ## LMG Rebalance - v0.0
 **Authors:** Drillboy Jenkins  
 **DRG Version:** Update 34  
