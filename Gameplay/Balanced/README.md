@@ -162,10 +162,13 @@ A mod adressing minigun mod tree balance issues, namely accuracy, blow-through a
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/de6e3fd7c7b3c950c2e6cefa02a1f1eb3b9a6ebe/Gameplay/Balanced/Prototype%20Cybernetics%20%28Minigun%20OC%29%20-%20V1.01%20_P.pak)  
 
 **Description:**  
-A prototype leaked from the Deep Rock Robotics Department. This integrated cybernetic solution aims to mitigate the physical strain experienced when handling heavy weaponry; However, this incomplete iteration lacks the AI aim assist which some consider necessary to alleviate the increased bullet spread. This replaces the Exhaust Vectoring overclock. +60% movespeed while using, +300 ammo, +700% spread.
+A prototype leaked from the Deep Rock Robotics Department. This integrated cybernetic solution aims to mitigate the physical strain experienced when handling heavy weaponry; However, this incomplete iteration lacks the AI aim assist which some consider necessary to alleviate the increased bullet spread. This replaces the Exhaust Vectoring overclock.   
++60% movespeed while using   
++300 ammo,   
++700% spread.
 
 **Update v1.01 Changelog:**  
-Buffed movement speed from +60% to +75% to be more viable in Haz 5 and above
+Description edit
 
 ## Rapidity Control - v0.0
 **Authors:** Drillboy Jenkins  
