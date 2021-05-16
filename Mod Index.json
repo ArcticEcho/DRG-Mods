@@ -3869,7 +3869,7 @@
     "AuthorIds": [
       624572402440863744
     ],
-    "Description": "These high-tech bullets are designed to devastate frozen enemies and convert into cryo-minelets that will super-cool anything that comes close after impacting the terrain. However they don't last forever and the rounds themselves take more space in the drum and deal less direct damage. Additionally, these super-cooled rounds will reduce the heat output of the minigun chamber. This replaces the Bullet Hell overlock.\n\nCryo-minelets deal 4 cold damage and have 0 arming delay\nx2 damage on frozen enemies\n-4 damage\n-400 ammo",
+    "Description": "These high-tech bullets are designed to devastate frozen enemies and convert into cryo-minelets that will super-cool anything that comes close after impacting the terrain. However they don't last forever and the rounds themselves take more space in the drum and deal less direct damage. Additionally, these super-cooled rounds will reduce the heat output of the minigun chamber. This replaces the Bullet Hell overlock.\n\nCryo-minelets deal 4 cold damage and have 0 arming delay\nx2 damage on frozen enemies\n-4 damage\n-400 ammo\n\nThis mod only works while hosting",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/afe9acc949aa7d54e9d0415e91c6c7c273d8489e/Gameplay/Balanced/Freezing%20Hell%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak",
     "Paks": [

@@ -110,7 +110,8 @@ These high-tech bullets are designed to devastate frozen enemies and convert int
 Cryo-minelets deal 4 cold damage and have 0 arming delay  
 x2 damage on frozen enemies  
 -4 damage  
--400 ammo
+-400 ammo  
+This mod only works while hosting
 
 ## HE Grenade Carve - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
