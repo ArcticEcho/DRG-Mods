@@ -50,6 +50,14 @@ Changes the class icons to their default pictogram. Yellow with a drill, red wit
 **Description:**  
 Changes the class icons to their true meaning in a pictogram. Yellow with a hand truck (the carry), red with an engine (the motor), green with a crosshair (the terminator) and blue with the hermes foot (the flying monkey).
 
+## MarcusGray Posters - v1.0
+**Authors:** Marcus, Humping Koala  
+**DRG Version:** Update 34 - Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a57d74e83a7f0d036688e1f8971257d1fdbc5d5a/Visual/Textures%20%26%20Icons/MarcusGray%20Posters%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the texture of propaganda posters with the **Deep Rock Gals** posters made by *Marcus Gray*.
+
 ## RGB Pickaxe Parts - v1.02
 **Authors:** Pacagma  
 **DRG Version:** Update 34  
