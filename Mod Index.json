@@ -3260,29 +3260,6 @@
       }
     ]
   },
-  "experimentalfatboycharger": {
-    "DisplayName": "Experimental Fatboy Charger",
-    "Version": "1.01",
-    "DrgVersion": "U33 H4",
-    "AuthorIds": [
-      243195324594782210
-    ],
-    "Description": "Upgrades your EPC to mysertiously fire PGL rounds when charged.\nAlso replaces the Persistant Plasma OC with the Fatboy OC.\n\nAdditional changes:\n-Adjusts cost of charged shot from 8 to 40.\n-Adjusts cost reduction on T31 'Improved Charge Efficiency' from -2 to -7.\n\nThese changes limit the possible spam to mimic the PGL's restrictions.",
-    "LastUpdateChangelog": "Fixed an issue that could cause your PGL to shoot axes.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/51f733d5e3c28203bbe9b2274f45300232179e1a/Gameplay/Unbalanced/Weapons/Experimental%20Fatboy%20Charger%20-%20V1.01%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Experimental Fatboy Charger - V1.01",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/Overclocks/OSB_EPC.uasset": "5B-49-0F-ED-75-25-E2-C2",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uasset": "2F-B7-2F-79-E4-8A-22-B4",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/Overclocks/OSB_EPC.uexp": "39-E5-02-82-D0-15-6E-B3",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/UPG_ChargeBlaster_C_ChargeCost.uexp": "BD-FB-A6-B7-E3-F1-AA-E9",
-          "../../../FSD/Content/WeaponsNTools/ChargeBlaster/WPN_ChargeBlaster.uexp": "2C-C9-BB-B5-C6-63-11-B9"
-        }
-      }
-    ]
-  },
   "extendedarmormineralcapacity20": {
     "DisplayName": "Extended Armor Mineral Capacity (20)",
     "Version": "1.0",

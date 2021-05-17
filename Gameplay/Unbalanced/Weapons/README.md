@@ -122,22 +122,6 @@ Changes the normal shooting sound of the M1K to Bulldog and gives it more ammo
 - As a client, this mod has no effect.  
 - Inspired by a similar mod made by GoldBl4d3
 
-## Experimental Fatboy Charger - v1.01
-**Authors:** BongoSkaggs  
-**DRG Version:** U33 H4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/51f733d5e3c28203bbe9b2274f45300232179e1a/Gameplay/Unbalanced/Weapons/Experimental%20Fatboy%20Charger%20-%20V1.01%20_P.pak)  
-
-**Description:**  
-Upgrades your EPC to mysertiously fire PGL rounds when charged.  
-Also replaces the Persistant Plasma OC with the Fatboy OC.  
-Additional changes:  
--Adjusts cost of charged shot from 8 to 40.  
--Adjusts cost reduction on T31 'Improved Charge Efficiency' from -2 to -7.  
-These changes limit the possible spam to mimic the PGL's restrictions.
-
-**Update v1.01 Changelog:**  
-Fixed an issue that could cause your PGL to shoot axes.
-
 ## Extended Luries - v1.0
 **Authors:** PastoSeco14  
 **DRG Version:** Update 33, Hotifx 10  
