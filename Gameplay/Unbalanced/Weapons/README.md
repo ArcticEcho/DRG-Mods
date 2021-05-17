@@ -259,18 +259,6 @@ Updated for U34.
 - As a host, the upgrade will affect everyone using the EPC  
 - As a client, this mod will not affect the projectile speed, but there will be a slight desync where the projectile looks faster for a brief period.
 
-## MagicGK2 - v1.0
-**Authors:** BongoSkaggs  
-**DRG Version:** U33 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/619c7cf8be28ed47202f8b0fb56a069723d3a0db/Gameplay/Unbalanced/Weapons/MagicGK2%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Upgrades the GK2 so it can be more like a better gun, the Bulldog.  
--T3.1 upgrade 'Floating Barrel' changed to 'Glyphid Neurotoxin Coating.'  
--T5.2 upgrade 'Battle Cool' changed to 'Explosive Rounds.'  
--'Homebrew Powder' OC changed to 'Magic Bullets.'  
-__**Warning:**__ Using Magic Bullets without Explosive Rounds will cause you to deal literally 0 damage.
-
 ## Minigun - Hotter Bullets - v1.0
 **Authors:** BongoSkaggs  
 **DRG Version:** U34 H1  

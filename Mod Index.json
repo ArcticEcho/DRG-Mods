@@ -6850,28 +6850,6 @@
       }
     ]
   },
-  "magicgk2": {
-    "DisplayName": "MagicGK2",
-    "Version": "1.0",
-    "DrgVersion": "U33 H5",
-    "AuthorIds": [
-      243195324594782210
-    ],
-    "Description": "Upgrades the GK2 so it can be more like a better gun, the Bulldog.\n\n-T3.1 upgrade 'Floating Barrel' changed to 'Glyphid Neurotoxin Coating.'\n-T5.2 upgrade 'Battle Cool' changed to 'Explosive Rounds.'\n-'Homebrew Powder' OC changed to 'Magic Bullets.'\n\n__**Warning:**__ Using Magic Bullets without Explosive Rounds will cause you to deal literally 0 damage.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/619c7cf8be28ed47202f8b0fb56a069723d3a0db/Gameplay/Unbalanced/Weapons/MagicGK2%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "MagicGK2 - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OSB_AssaultRifle.uasset": "19-29-70-18-0A-ED-DA-3D",
-          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uasset": "D7-47-D6-45-DF-74-29-57",
-          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OSB_AssaultRifle.uexp": "51-18-C5-C4-08-C1-4E-F7",
-          "../../../FSD/Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uexp": "DB-71-11-45-4C-A1-6D-09"
-        }
-      }
-    ]
-  },
   "marcusgrayposters": {
     "DisplayName": "MarcusGray Posters",
     "Version": "1.0",
