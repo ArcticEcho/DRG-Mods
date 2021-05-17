@@ -460,23 +460,6 @@ Changes the returningspeed and dismanlte of the sentrygun
 --Increased MaxBrakingDeceleration 4000 > 12000  
 --Decreased DismantleDuration 1 > 0.5
 
-## SlayerEngi - v1.0
-**Authors:** BongoSkaggs  
-**DRG Version:** U33 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8c3cb8aa4d7bd2243fe56c0d5983ae82e8110a3a/Gameplay/Unbalanced/Weapons/SlayerEngi%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Get your mohawk out of the Wardrobe and dye it red 'cause it's SLAYING TIME.  
-Upgrades the Deepcore 40mm Personal Grenade Launcher to the Deepcore 1000mm Personal Axe Thrower.  
--Increases max ammo from 8 to 16.  
--Increases clip size from 1 to 4  
--'Hyper Propellant' OC ammo penalty increased from -2 to -8 to keep things from being too dumb.  
--'Fatboy' OC ammo penalty removed.   
--'Fatboy' OC AoE radius bonus improved from +1m to +2.6m.   
--'Fatboy' OC projectile velocity penalty removed.   
--Because axes can't irradiate bugs ya know.  
-But wait! There's more! Your trusty Sentry Gun has also been upgraded to hurl axes at your foes when encouraged by the Turret Whip!
-
 ## Slightly Better Scout - v1.0
 **Authors:** BrewBreuw  
 **DRG Version:** Update 33  

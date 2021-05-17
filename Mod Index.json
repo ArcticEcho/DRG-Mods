@@ -10937,33 +10937,6 @@
       }
     ]
   },
-  "slayerengi": {
-    "DisplayName": "SlayerEngi",
-    "Version": "1.0",
-    "DrgVersion": "U33 H5",
-    "AuthorIds": [
-      243195324594782210
-    ],
-    "Description": "Get your mohawk out of the Wardrobe and dye it red 'cause it's SLAYING TIME.\n\nUpgrades the Deepcore 40mm Personal Grenade Launcher to the Deepcore 1000mm Personal Axe Thrower.\n\n-Increases max ammo from 8 to 16.\n-Increases clip size from 1 to 4\n\n-'Hyper Propellant' OC ammo penalty increased from -2 to -8 to keep things from being too dumb.\n-'Fatboy' OC ammo penalty removed. \n-'Fatboy' OC AoE radius bonus improved from +1m to +2.6m. \n-'Fatboy' OC projectile velocity penalty removed. \n-Because axes can't irradiate bugs ya know.\n\nBut wait! There's more! Your trusty Sentry Gun has also been upgraded to hurl axes at your foes when encouraged by the Turret Whip!",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8c3cb8aa4d7bd2243fe56c0d5983ae82e8110a3a/Gameplay/Unbalanced/Weapons/SlayerEngi%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "SlayerEngi - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Ammo-80p_PGL.uexp.bak": "63-D4-73-CF-1E-62-3B-CF",
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/WPN_GrenadeLauncher.uasset": "0C-37-FD-61-E9-FC-9D-57",
-          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Redeployable.uasset": "A2-C1-1E-CC-4A-99-77-AB",
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_Radius_100_PGL.uexp": "70-05-2A-96-6B-C4-25-68",
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Ammo-2_PGL.uexp": "8F-34-19-49-69-1E-93-CC",
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Ammo-80p_PGL.uexp": "60-F9-CF-D3-13-76-40-47",
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_ProjectileSpeed075_PGL.uexp": "7B-22-C4-1F-C9-90-01-FA",
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/WPN_GrenadeLauncher.uexp": "3F-E0-EB-E8-DF-C6-3B-BE",
-          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_Engineer/BP_SentryGun_Redeployable.uexp": "E3-8A-53-5D-D3-77-59-9B"
-        }
-      }
-    ]
-  },
   "slightlybetterscout": {
     "DisplayName": "Slightly Better Scout",
     "Version": "1.0",
