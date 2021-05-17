@@ -275,15 +275,6 @@ Updated for U34.
 - As a host, the upgrade will affect everyone using the EPC  
 - As a client, this mod will not affect the projectile speed, but there will be a slight desync where the projectile looks faster for a brief period.
 
-## HotterBullets - v1.0
-**Authors:** BongoSkaggs  
-**DRG Version:** U34 H1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d73a12410fff456f3f5fb97260824ad6e98a9eaf/Gameplay/Unbalanced/Weapons/HotterBullets%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Adjusts the minigun's T5.3 upgrade 'Hot Bullets' to work regardless of heat level.   
-Special thanks to @ppstac2 for their assistance.
-
 ## MagicGK2 - v1.0
 **Authors:** BongoSkaggs  
 **DRG Version:** U33 H5  
@@ -295,6 +286,15 @@ Upgrades the GK2 so it can be more like a better gun, the Bulldog.
 -T5.2 upgrade 'Battle Cool' changed to 'Explosive Rounds.'  
 -'Homebrew Powder' OC changed to 'Magic Bullets.'  
 __**Warning:**__ Using Magic Bullets without Explosive Rounds will cause you to deal literally 0 damage.
+
+## Minigun - Hotter Bullets - v1.0
+**Authors:** BongoSkaggs  
+**DRG Version:** U34 H1  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/efdb97c28d2e7ad12d7e1640f3b0e2b76a5880a8/Gameplay/Unbalanced/Weapons/Minigun%20-%20Hotter%20Bullets%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Adjusts the minigun's T5.3 upgrade 'Hot Bullets' to work regardless of heat level.   
+Special thanks to @ppstac2 for their assistance.
 
 ## Minigun Base Ammo Buffed - v1.0
 **Authors:** Tristus  

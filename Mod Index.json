@@ -5887,26 +5887,6 @@
       }
     ]
   },
-  "hotterbullets": {
-    "DisplayName": "HotterBullets",
-    "Version": "1.0",
-    "DrgVersion": "U34 H1",
-    "AuthorIds": [
-      243195324594782210
-    ],
-    "Description": "Adjusts the minigun's T5.3 upgrade 'Hot Bullets' to work regardless of heat level. \n\nSpecial thanks to <@!199367621634686976> for their assistance.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d73a12410fff456f3f5fb97260824ad6e98a9eaf/Gameplay/Unbalanced/Weapons/HotterBullets%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "HotterBullets - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_E_HotBullets.uasset": "5A-FA-7A-24-22-1D-23-A2",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_E_HotBullets.uexp": "FC-DF-F9-BC-07-6C-B9-8B"
-        }
-      }
-    ]
-  },
   "impactclub": {
     "DisplayName": "Impact Club",
     "Version": "1.0",
@@ -7048,6 +7028,26 @@
         "CookedFileHashes": {
           "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset": "8E-BB-06-0F-16-CE-C3-02",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/WPN_Gatling.uexp": "C7-CE-FE-7E-2C-B7-86-57"
+        }
+      }
+    ]
+  },
+  "minigunhotterbullets": {
+    "DisplayName": "Minigun - Hotter Bullets",
+    "Version": "1.0",
+    "DrgVersion": "U34 H1",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "Adjusts the minigun's T5.3 upgrade 'Hot Bullets' to work regardless of heat level. \n\nSpecial thanks to <@!199367621634686976> for their assistance.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/efdb97c28d2e7ad12d7e1640f3b0e2b76a5880a8/Gameplay/Unbalanced/Weapons/Minigun%20-%20Hotter%20Bullets%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "HotterBullets - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_E_HotBullets.uasset": "5A-FA-7A-24-22-1D-23-A2",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_E_HotBullets.uexp": "FC-DF-F9-BC-07-6C-B9-8B"
         }
       }
     ]
