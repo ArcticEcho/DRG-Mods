@@ -20,10 +20,10 @@ Lets you place up to 10 different waypoints to track routes and points of intere
 **Description:**  
 Tired of having all the wealth but no option to buy happiness? Let me hear your saying "I ain't farming gold anymore" one more time.
 
-## BetterMiningLaser - v1.02
+## BetterMiningLaser - v1.03
 **Authors:** BongoSkaggs  
-**DRG Version:** U34 H1  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2662be35c209daf8fee6025700bd5867617c808f/Quality%20of%20Life/Improved%20mechanics/BetterMiningLaser%20-%20V1.02%20_P.pak)  
+**DRG Version:** U34, H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/98aab5c6e830ca42a1a6c26f973733409428e518/Quality%20of%20Life/Improved%20mechanics/BetterMiningLaser%20-%20V1.03%20_P.pak)  
 
 **Description:**  
 -Increases escort fuel canister laser range from 4m to 25m.  
@@ -33,8 +33,8 @@ Tired of having all the wealth but no option to buy happiness? Let me hear your 
 -Removes 15% fuel canister carrying movement penalty & allows sprinting.  
 -Client side mod.
 
-**Update v1.02 Changelog:**  
-Updated for U34.
+**Update v1.03 Changelog:**  
+Updated for to fix crash in U34 H5.
 
 ## Dash Perk Suicide Preventer - v34.1.0
 **Authors:** NaturalBornCamper  

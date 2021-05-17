@@ -1777,20 +1777,20 @@
   },
   "bettermininglaser": {
     "DisplayName": "BetterMiningLaser",
-    "Version": "1.02",
-    "DrgVersion": "U34 H1",
+    "Version": "1.03",
+    "DrgVersion": "U34, H5",
     "AuthorIds": [
       243195324594782210
     ],
     "Description": "-Increases escort fuel canister laser range from 4m to 25m.\n-Reduces melting time from 0.45s to 0.1s.\n-All but removes vacuum delay on picking up loose chunks of oil shale.\n-Dramatically increases amount of oil shale mined.\n-Removes 15% fuel canister carrying movement penalty & allows sprinting.\n-Client side mod.",
-    "LastUpdateChangelog": "Updated for U34.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2662be35c209daf8fee6025700bd5867617c808f/Quality%20of%20Life/Improved%20mechanics/BetterMiningLaser%20-%20V1.02%20_P.pak",
+    "LastUpdateChangelog": "Updated for to fix crash in U34 H5.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/98aab5c6e830ca42a1a6c26f973733409428e518/Quality%20of%20Life/Improved%20mechanics/BetterMiningLaser%20-%20V1.03%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "BetterMiningLaser - V1.02",
+        "PakFileName": "BetterMiningLaser - V1.03",
         "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/Extractor/WPN_Extractor.uexp": "0E-4E-E2-A9-AC-81-A0-7A",
-          "../../../FSD/Content/WeaponsNTools/Extractor/WPN_OilExtractor.uexp": "A1-27-D2-7F-0C-56-63-86"
+          "../../../FSD/Content/WeaponsNTools/Extractor/WPN_Extractor.uexp": "E0-8F-2D-A9-A9-9E-16-6F",
+          "../../../FSD/Content/WeaponsNTools/Extractor/WPN_OilExtractor.uexp": "42-27-F8-4D-7E-55-50-25"
         }
       }
     ]
