@@ -2919,6 +2919,18 @@
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a1e1c3cf41e54b3741a579b43ddbdbe07953000e/CE%20Table/DRG%20-%20Fun%20Table%20-%20Steam%20-%20V1.0.zip",
     "Paks": []
   },
+  "drgfuntableuwp": {
+    "DisplayName": "DRG - Fun Table - UWP",
+    "Version": "1.0",
+    "DrgVersion": "Update 34 Hotfix 4",
+    "AuthorIds": [
+      414476320722911253
+    ],
+    "Description": "__Just some fun cheats which allow you for example to dance at any time & place.__\n**Options:**\n`Scout` --> `M1000 Classic` --> `Enable No Gravity On Focus`\n`Scout` --> `M1000 Classic` --> `Change Zoom Scale`\n`Scout` --> `SawedOffShotgun` --> `Enabled Shotgun Jump`\n`Scout` --> `GrapplingHookGun` --> `Instant Grapple Cooldown`\n`Driller` --> `Cryo Cannon` --> `Set Enemies on Fire`\n`Driller` --> `Flamethrower` --> `Freeze Enemies`\n~~`Driller` --> `C4` --> `Increased Det Pack Velocity Scale`~~\n`Perks & Special Abilities` --> `Change Gravity Scale`\n`Perks & Special Abilities` --> `Toggle Unlimited Jumping`\n~~`Common Class` --> `Movement Modifications` --> `Change Running Speed`~~\n~~`Common Class` --> `Movement Modifications` --> `Change Walking Speed`~~\n`Common Class` --> `Movement Modifications` --> `Change Jump Height`\n`Common Class` --> `Unlimited Flares`\n`Funny Mods` --> `Turn Lights Off`\n`Funny Mods` --> `Turn Lights On`\n`Funny Mods` --> `DANCE!`\n`Funny Mods` --> `Select Dance Move`\n`Pointer` --> `UE4` --> `NoClip & Fly`\n`Pointer` --> `InventoryComponent` --> `To much stuff to list it here.`\n\n**In order to use the .CT file you'll need to install Cheat Engine 7.2, then you can run the .CT file just like a .exe.**\n**CE",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/80eb324c77c40295abb7815027b4e20f488c4a0e/CE%20Table/DRG%20-%20Fun%20Table%20-%20UWP%20-%20V1.0.zip",
+    "Paks": []
+  },
   "dripfortressendscreen": {
     "DisplayName": "Drip Fortress End Screen",
     "Version": "1.0",

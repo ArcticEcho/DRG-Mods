@@ -74,6 +74,7 @@ You can easily locate your game installation path using steam:
 
 ## [CE Table](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table)
  - **[DRG - Fun Table - Steam](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table/README.md#drg---fun-table---steam---v10)** by Akira Fudo ([download](https://github.com/ArcticEcho/DRG-Mods/raw/a1e1c3cf41e54b3741a579b43ddbdbe07953000e/CE%20Table/DRG%20-%20Fun%20Table%20-%20Steam%20-%20V1.0.zip))
+ - **[DRG - Fun Table - UWP](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table/README.md#drg---fun-table---uwp---v10)** by Akira Fudo ([download](https://github.com/ArcticEcho/DRG-Mods/raw/80eb324c77c40295abb7815027b4e20f488c4a0e/CE%20Table/DRG%20-%20Fun%20Table%20-%20UWP%20-%20V1.0.zip))
 
 ## [Framework](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework)
  - **[BP Mod Manager](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#bp-mod-manager---v43)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/440b16704a5e2e627bb93009c9afc73e29841bad/Framework/BP%20Mod%20Manager%20-%20V4.3%20_P.pak))
