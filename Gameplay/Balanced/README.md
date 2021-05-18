@@ -32,21 +32,27 @@ Changelog is included in the zip file, in docx and pdf variants. I've also inclu
 **Update v1.8.1 Changelog:**  
 corrected the added info for GK2's Floating Barrel and Gyro Stabilisation (turns out they're both bugged) and buffed Supercooling Chamber's focus shot damage bonus.
 
-## BBP Submod - Overclock Redesign - v1.0
+## BBP Submod - Overclock Redesign - v1.1
 **Authors:** GreyHound  
 **DRG Version:** U33 Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4daf582ab3f4964e7517423d859791f518ebec2b/Gameplay/Balanced/BBP%20Submod%20-%20Overclock%20Redesign%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3e1ea0b70c7e6e44b59bb1edc5493bb4350ec4c9/Gameplay/Balanced/BBP%20Submod%20-%20Overclock%20Redesign%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-This mod changes a few specific overclocks that were deemed too bland and boring. Stay tuned, there's more to come.  
-**Zhukovs**: added +1 Blowthrough to *Gas Recycling*.  
-**BRT**:   
-*Experimental Rounds* now adds +30% weakspot damage instead of flat 9 damage;  
-*Compact Mags*: loses all previous bonuses, instead gains +48 mag size, +2 RoF, x1.25 spread per shot and x1.5 spread, codenamed Burst Fire PDW;  
-**Minigun**:   
-*Leadstorm OC* gains +1 Blowthrough instead of +4 damage;  
-*Compact Feed Mechanism* gains +15 RoF and +200% Heat Generation instead of +800 (true 400) and -2 RoF, codenamed Annihilator;  
-**EPC**: *Magnetic Cooling Unit* now adds +5 normal shot damage instead of the x0.75 heat buildup when charged bonus.
+This mod changes a few specific overclocks that were deemed too bland and boring, or needed spicing up to be actually different from their counterparts. The intention is to get rid of "here's more damage/ammo OC whose penalties can be easily counteracted" and make the OCs actually change the weapon usage somewhat.  
+Zhukovs: added +1 Blowthrough to Gas Recycling.  
+BRT:  
+Experimental Rounds now adds +40% weakspot damage instead of flat 9 damage;  
+Compact Mags: loses all previous bonuses, instead gains +24 mag size, +2 RoF, x1.25 spread per shot and x1.5 spread, codenamed Burst Fire PDW;  
+Minigun:  
+Leadstorm OC gains +1 Blowthrough instead of +4 damage;  
+Compact Feed Mechanism gains +15 RoF and +200% Heat Generation instead of +800 ammo (true 400) and -2 RoF, codenamed Annihilator;  
+EPC: Magnetic Cooling Unit now adds +5 normal shot damage instead of the x0.75 heat buildup when charged bonus.  
+Homebrew Powder: on Bulldog now grants +10 damage, becomes a clean upgrade in principle; on Subata adds +2 damage;   
+Assault Rifle's HP has been reworked into Magnum Rounds: +1 Penetraion, -3 RoF, x1.75 Recoil, -160 Ammo. Unstable OC in principle, Blowthrough doesn't show up on the weapon card but it works;  
+Chain Hit: adds +15 ammo on Subata; adds +8 ammo on Bulldog.
+
+**Update v1.1 Changelog:**  
+added Homebrew Powder/Chain Hit replacements, tweaks to previously changed OCs.
 
 ## BBP Submod - Sawed Off OCs - v1.1
 **Authors:** GreyHound  
