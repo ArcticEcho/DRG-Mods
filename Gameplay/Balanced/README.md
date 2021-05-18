@@ -66,6 +66,16 @@ This mod changes Double Barrel into an Unstable OC in function: x1.5 damage per 
 **Update v1.1 Changelog:**  
 Reworked the penalty files used for the new Double Barrel effect, I can now manually edit them without affecting any other OCs. Damage bonus changed to x1.75, spread penalty reduced to x2.25.
 
+## Cryo Ammo (Minigun OC) - v1.0
+**Authors:** Yarby  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/26610179b15c0f3bd1b070cff00ab674853f1466/Gameplay/Balanced/Cryo%20Ammo%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Converts the cooling capacity of the minigun chamber to store cryo bullets. This replaces the Thin Drummed Walls overclock.  
+Adds ice damage to bullets  
+-1 cooling rate
+
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  
