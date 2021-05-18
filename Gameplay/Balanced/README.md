@@ -32,10 +32,10 @@ Changelog is included in the zip file, in docx and pdf variants. I've also inclu
 **Update v1.8.1 Changelog:**  
 corrected the added info for GK2's Floating Barrel and Gyro Stabilisation (turns out they're both bugged) and buffed Supercooling Chamber's focus shot damage bonus.
 
-## BBP Submod - Overclock Redesign - v1.1
+## BBP Submod - Overclock Redesign - v1.2
 **Authors:** GreyHound  
 **DRG Version:** U33 Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3e1ea0b70c7e6e44b59bb1edc5493bb4350ec4c9/Gameplay/Balanced/BBP%20Submod%20-%20Overclock%20Redesign%20-%20V1.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b7e42966b1040567baaa67481bf3ee48276e6af7/Gameplay/Balanced/BBP%20Submod%20-%20Overclock%20Redesign%20-%20V1.2%20_P.pak)  
 
 **Description:**  
 This mod changes a few specific overclocks that were deemed too bland and boring, or needed spicing up to be actually different from their counterparts. The intention is to get rid of "here's more damage/ammo OC whose penalties can be easily counteracted" and make the OCs actually change the weapon usage somewhat.  
@@ -51,8 +51,9 @@ Homebrew Powder: on Bulldog now grants +10 damage, becomes a clean upgrade in pr
 Assault Rifle's HP has been reworked into Magnum Rounds: +1 Penetraion, -3 RoF, x1.75 Recoil, -160 Ammo. Unstable OC in principle, Blowthrough doesn't show up on the weapon card but it works;  
 Chain Hit: adds +15 ammo on Subata; adds +8 ammo on Bulldog.
 
-**Update v1.1 Changelog:**  
-added Homebrew Powder/Chain Hit replacements, tweaks to previously changed OCs.
+**Update v1.2 Changelog:**  
+added Subata's Oversized Magazine changes (aka Icebreaker): increases the damage bonus vs Frozen to x4.25 (baseline is x3), x0.75 ammo penalty.   
+Leadstorm^2 OC: readded the damage bonus at +2 (vanilla is +4).
 
 ## BBP Submod - Sawed Off OCs - v1.1
 **Authors:** GreyHound  
