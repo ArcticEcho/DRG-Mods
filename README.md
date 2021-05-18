@@ -330,6 +330,7 @@ You can easily locate your game installation path using steam:
 
 ## [Visual/Misc](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc)
  - **[Better Post Processing](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc/README.md#better-post-processing---v13)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/9af05f5ba5645ab336fa03dc6d5712d9fa1a7216/Visual/Misc/Better%20Post%20Processing%20-%20V1.3%20_P.pak))
+ - **[Creepy Eyes Be Gone](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc/README.md#creepy-eyes-be-gone---v10)** by GoldBl4d3 ([download](https://github.com/ArcticEcho/DRG-Mods/raw/157fe28b3c341058803e121522dd64c0f9e27f98/Visual/Misc/Creepy%20Eyes%20Be%20Gone%20-%20V1.0%20_P.pak))
  - **[Fabulous Molly](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc/README.md#fabulous-molly---v21)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/c053433817b2b6a661bdebfcf5ae1e62f2d8c90e/Visual/Misc/Fabulous%20Molly%20-%20V2.1%20_P.pak))
 
 ## [Visual/Textures & Icons](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Textures%20%26%20Icons)

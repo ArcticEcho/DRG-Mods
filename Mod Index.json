@@ -2241,6 +2241,26 @@
       }
     ]
   },
+  "creepyeyesbegone": {
+    "DisplayName": "Creepy Eyes Be Gone",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      506899406776303616
+    ],
+    "Description": "Removes creepy eyes from missions in case you happen to be allergic.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/157fe28b3c341058803e121522dd64c0f9e27f98/Visual/Misc/Creepy%20Eyes%20Be%20Gone%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Creepy Eyes Be Gone - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/LevelElements/RoomObjects/CreepyEyes/BP_CreepyEyes.uasset": "AF-4C-B6-3B-65-33-E2-40",
+          "../../../FSD/Content/LevelElements/RoomObjects/CreepyEyes/BP_CreepyEyes.uexp": "D9-8D-A5-F8-2C-C3-FD-95"
+        }
+      }
+    ]
+  },
   "cryoammominigunoc": {
     "DisplayName": "Cryo Ammo (Minigun OC)",
     "Version": "1.0",
