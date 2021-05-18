@@ -73,7 +73,7 @@ You can easily locate your game installation path using steam:
  - **[Warthog Punch](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Weapons/README.MD#warthog-punch---v12)** by Lithobraker ([download](https://github.com/ArcticEcho/DRG-Mods/raw/250b12d0d86594dc101d929e7baf12faf7039e04/Audio/Weapons/Warthog%20Punch%20-%20V1.2.zip))
 
 ## [CE Table](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table)
- - **[DRG - Fun Table - Steam](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table/README.md#drg---fun-table---steam---v10)** by Akira Fudo ([download](https://github.com/ArcticEcho/DRG-Mods/raw/a1e1c3cf41e54b3741a579b43ddbdbe07953000e/CE%20Table/DRG%20-%20Fun%20Table%20-%20Steam%20-%20V1.0.zip))
+ - **[DRG - Fun Table - Steam](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table/README.md#drg---fun-table---steam---v11)** by Akira Fudo ([download](https://github.com/ArcticEcho/DRG-Mods/raw/4386116ed39bdb57ebcca3a905837f043e32bd14/CE%20Table/DRG%20-%20Fun%20Table%20-%20Steam%20-%20V1.1.zip))
  - **[DRG - Fun Table - UWP](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table/README.md#drg---fun-table---uwp---v10)** by Akira Fudo ([download](https://github.com/ArcticEcho/DRG-Mods/raw/80eb324c77c40295abb7815027b4e20f488c4a0e/CE%20Table/DRG%20-%20Fun%20Table%20-%20UWP%20-%20V1.0.zip))
 
 ## [Framework](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework)

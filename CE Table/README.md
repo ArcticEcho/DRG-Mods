@@ -3,10 +3,10 @@ Cheat Engine tabels.
 
 <!-- mod list -->
 
-## DRG - Fun Table - Steam - v1.0
+## DRG - Fun Table - Steam - v1.1
 **Authors:** Akira Fudo  
-**DRG Version:** Update 34 Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a1e1c3cf41e54b3741a579b43ddbdbe07953000e/CE%20Table/DRG%20-%20Fun%20Table%20-%20Steam%20-%20V1.0.zip)  
+**DRG Version:** Update 34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4386116ed39bdb57ebcca3a905837f043e32bd14/CE%20Table/DRG%20-%20Fun%20Table%20-%20Steam%20-%20V1.1.zip)  
 
 **Description:**  
 __Just some fun cheats which allow you for example to dance at any time & place.__  
@@ -36,8 +36,12 @@ The installer will probably ask you to install also something else, just hit "no
 You can activate the cheats by checking the box on the left side.  
 You can also rightclick on a cheat and create a hotkey.
 
-**Update v1.0 Changelog:**  
-Updated the description.
+**Update v1.1 Changelog:**  
+**Fixed:**  
+`Gunner` --> `Revolver` --> `Set Fear Factor on Kill to 100`  
+`Common Class` --> `Movement Modifications` --> `Change Walking Speed`  
+`Funny Mods` --> `DANCE!`  
+`Funny Mods` --> `Select Dance Move`
 
 ## DRG - Fun Table - UWP - v1.0
 **Authors:** Akira Fudo  

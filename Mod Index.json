@@ -2935,14 +2935,14 @@
   },
   "drgfuntablesteam": {
     "DisplayName": "DRG - Fun Table - Steam",
-    "Version": "1.0",
-    "DrgVersion": "Update 34 Hotfix 4",
+    "Version": "1.1",
+    "DrgVersion": "Update 34 Hotfix 5",
     "AuthorIds": [
       414476320722911253
     ],
     "Description": "__Just some fun cheats which allow you for example to dance at any time & place.__\n**Options:**\n`Scout` --> `M1000 Classic` --> `Enable No Gravity On Focus`\n`Scout` --> `M1000 Classic` --> `Change Zoom Scale`\n`Scout` --> `SawedOffShotgun` --> `Enabled Shotgun Jump`\n`Scout` --> `GrapplingHookGun` --> `Instant Grapple Cooldown`\n`Driller` --> `Cryo Cannon` --> `Set Enemies on Fire`\n`Driller` --> `Flamethrower` --> `Freeze Enemies`\n`Driller` --> `C4` --> `Increased Det Pack Velocity Scale`\n`Perks & Special Abilities` --> `Change Gravity Scale`\n`Perks & Special Abilities` --> `Toggle Unlimited Jumping`\n`Common Class` --> `Movement Modifications` --> `Change Running Speed`\n`Common Class` --> `Movement Modifications` --> `Change Walking Speed`\n`Common Class` --> `Movement Modifications` --> `Change Jump Height`\n`Common Class` --> `Unlimited Flares`\n`Funny Mods` --> `Turn Lights Off`\n`Funny Mods` --> `Turn Lights On`\n`Funny Mods` --> `DANCE!`\n`Funny Mods` --> `Select Dance Move`\n`Pointer` --> `UE4` --> `NoClip & Fly`\n`Pointer` --> `InventoryComponent` --> `To much stuff to list it here.`\n\n**In order to use the .CT file you'll need to install Cheat Engine 7.2, then you can run the .CT file just like a .exe.**\n**CE download link:** https://www.cheatengine.org/downloads.php\nThe installer will probably ask you to install also something else, just hit \"no thanks\".\nYou can activate the cheats by checking the box on the left side.\nYou can also rightclick on a cheat and create a hotkey.",
-    "LastUpdateChangelog": "Updated the description.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a1e1c3cf41e54b3741a579b43ddbdbe07953000e/CE%20Table/DRG%20-%20Fun%20Table%20-%20Steam%20-%20V1.0.zip",
+    "LastUpdateChangelog": "**Fixed:**\n`Gunner` --> `Revolver` --> `Set Fear Factor on Kill to 100`\n`Common Class` --> `Movement Modifications` --> `Change Walking Speed`\n`Funny Mods` --> `DANCE!`\n`Funny Mods` --> `Select Dance Move`",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4386116ed39bdb57ebcca3a905837f043e32bd14/CE%20Table/DRG%20-%20Fun%20Table%20-%20Steam%20-%20V1.1.zip",
     "Paks": []
   },
   "drgfuntableuwp": {
