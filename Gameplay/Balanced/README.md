@@ -274,6 +274,9 @@ x0 stun chance
 +0.5 spinup time  
 Adds chance to make enemies go 'berserk'
 
+**Update v1.0 Changelog:**  
+Value adjustments
+
 ## Shurikens - v2.1
 **Authors:** Ike  
 **DRG Version:** 34 H1  

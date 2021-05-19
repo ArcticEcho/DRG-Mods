@@ -10999,7 +10999,7 @@
       550333619940622359
     ],
     "Description": "Description: Gives a huge raw damage increase on the minigun, but at what cost? This replaces the A Little More Oomph! overclock.\n\n+30 damage\nx0 stun chance\n+0.5 spinup time\nAdds chance to make enemies go 'berserk'",
-    "LastUpdateChangelog": null,
+    "LastUpdateChangelog": "Value adjustments",
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9e0606de3f24bfd72abdcb8a57d48e6e21a2ed52/Gameplay/Balanced/Shallow%20Choice%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak",
     "Paks": [
       {
