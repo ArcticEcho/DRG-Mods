@@ -6750,14 +6750,14 @@
   },
   "lettherebelight": {
     "DisplayName": "Let There Be Light",
-    "Version": "1.0",
-    "DrgVersion": "Update 33, Hotfix 2",
+    "Version": "1.1",
+    "DrgVersion": "Update 34, Hotfix 5",
     "AuthorIds": [
       146392394328178690
     ],
-    "Description": "**Requires the Mod Loader**\n--Adds a toggle for lighting up the map in its entirety, which can be turned on and off through the mod loader.\n--Works as a client regardless of what the host has, does not work for clients even if you are the host.\n--I discovered it by accident and then made it into something useful for screenshots, testing, cheating and whatever else you can come up with.\nPreview: https://discord.com/channels/676880716142739467/732650220214681600/808597725145727006",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c71a2a22861330c4a218872afb0d4f0b7441294f/Visual/Lighting/Let%20There%20Be%20Light%20-%20V1.0%20_P.pak",
+    "Description": "Adds a toggle for lighting up the map in its entirety, which can be turned on and off through the mod loader or by pressing L.\nWorks as a client regardless of what the host has, does not work for clients even if you are the host.\nI discovered it by accident and then made it into something useful for screenshots, testing, cheating and whatever else you can come up with.\nPreview: https://discord.com/channels/676880716142739467/732650220214681600/844496339156336641",
+    "LastUpdateChangelog": "Remade the UI to be more interesting.\nPressing L now toggles the light on and off and does not conflict with the UI method of doing such.\nAdded sounds to mission start to know it is available instead of on each button press because it got annoying.\nImproved performance with new technique (not that it was ever an issue).\nKnown bug: causes character previews not to work in the Space Rig once the mod has been used at all during a session.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cde64f34aadc31687b4607e34ed7bf3297fc1b88/Visual/Lighting/Let%20There%20Be%20Light%20-%20V1.1%20_P.pak",
     "Paks": [
       {
         "PakFileName": "Let There Be Light - V1.0",
