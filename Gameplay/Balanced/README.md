@@ -72,7 +72,7 @@ Reworked the penalty files used for the new Double Barrel effect, I can now manu
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/26610179b15c0f3bd1b070cff00ab674853f1466/Gameplay/Balanced/Cryo%20Ammo%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak)  
 
 **Description:**  
-Converts the cooling capacity of the minigun chamber to store cryo bullets. This replaces the Thin Drummed Walls overclock.  
+Converts the cooling capacity of the minigun chamber to store cryo bullets. This replaces the Thinned Drum Walls overclock.  
 Adds ice damage to bullets  
 -1 cooling rate
 
