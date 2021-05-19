@@ -57,7 +57,7 @@ Leadstorm^2 OC: readded the damage bonus at +2 (vanilla is +4).
 
 ## BBP Submod - Sawed Off OCs - v1.1
 **Authors:** GreyHound  
-**DRG Version:** U33 Hotfix 4  
+**DRG Version:** U34 Hotfix 5  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/aada66406d0300875000c9c006263221d0da7a21/Gameplay/Balanced/BBP%20Submod%20-%20Sawed%20Off%20OCs%20-%20V1.1%20_P.pak)  
 
 **Description:**  
