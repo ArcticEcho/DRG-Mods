@@ -34,7 +34,7 @@ corrected the added info for GK2's Floating Barrel and Gyro Stabilisation (turns
 
 ## BBP Submod - Overclock Redesign - v1.2
 **Authors:** GreyHound  
-**DRG Version:** U33 Hotfix 4  
+**DRG Version:** U34 Hotfix 5  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b7e42966b1040567baaa67481bf3ee48276e6af7/Gameplay/Balanced/BBP%20Submod%20-%20Overclock%20Redesign%20-%20V1.2%20_P.pak)  
 
 **Description:**  
