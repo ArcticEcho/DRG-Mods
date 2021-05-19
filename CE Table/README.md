@@ -33,8 +33,9 @@ __Just some fun scripts which allow you for example to dance at any time & place
 **In order to use the .CT file you'll need to install Cheat Engine 7.2, then you can run the .CT file just like a .exe.**  
 **CE download link:** https://www.cheatengine.org/downloads.php  
 The installer will probably ask you to install also something else, just hit "no thanks".  
-You can activate the cheats by checking the box on the left side.  
-You can also rightclick on a cheat and create a hotkey.
+You can activate the scripts by checking the box on the left side.  
+For pointers instead of checking the box you change the value on the right side.  
+You can also rightclick on a script and create a hotkey.
 
 **Update v1.1 Changelog:**  
 Updated the description.
