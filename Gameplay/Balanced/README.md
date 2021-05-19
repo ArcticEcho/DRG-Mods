@@ -249,7 +249,9 @@ Buffed movespeed from 60% to 75%
 **Description:**  
 Bullets infused with radioactive material. This replaces the Burning Hell overclock.  
 Adds chance to inflict 'Radiation Sickness' to enemies  
--2 rate of fire
+x0 stun chance  
+-2 rate of fire  
+Authors
 
 ## Rapidity Control - v0.0
 **Authors:** Drillboy Jenkins  

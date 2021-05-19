@@ -9947,7 +9947,7 @@
     "AuthorIds": [
       624572402440863744
     ],
-    "Description": "Bullets infused with radioactive material. This replaces the Burning Hell overclock.\n\nAdds chance to inflict 'Radiation Sickness' to enemies\n-2 rate of fire",
+    "Description": "Bullets infused with radioactive material. This replaces the Burning Hell overclock.\n\nAdds chance to inflict 'Radiation Sickness' to enemies\nx0 stun chance\n-2 rate of fire\nAuthors",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b551f460ef76193cb5f3b3368cd58e1b5b0d7b58/Gameplay/Balanced/Radioactive%20Rounds%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak",
     "Paks": [
