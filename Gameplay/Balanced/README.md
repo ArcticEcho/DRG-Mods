@@ -19,6 +19,14 @@ Happy to see buffs to the HE grenade, this is an update to an old version thatI 
 --Mod Demonstration->https://www.youtube.com/watch?v=RK-TSBKpmTQ&ab_channel=AGlyphidisFineToo  
 --This mod will only apply to the lobby if the host has it.
 
+## Alternative Minigun Overclocks - v1.0
+**Authors:** Yarby  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/53da6c38eea5658dbb0feaef2e388063aac9c51b/Gameplay/Balanced/Alternative%20Minigun%20Overclocks%20-%20V1.0.zip)  
+
+**Description:**  
+This mod reworks overclocks for the minigun to increase the diversity of effects, which allows for more varied playstyles. Detailed stats of each overclock is included in the readme file.
+
 ## BBP (Big Balance Patch) - v1.8.1
 **Authors:** GreyHound  
 **DRG Version:** U34 Hotfix 5  
