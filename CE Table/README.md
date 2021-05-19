@@ -9,7 +9,7 @@ Cheat Engine tabels.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4386116ed39bdb57ebcca3a905837f043e32bd14/CE%20Table/DRG%20-%20Fun%20Table%20-%20Steam%20-%20V1.1.zip)  
 
 **Description:**  
-__Just some fun cheats which allow you for example to dance at any time & place.__  
+__Just some fun scripts which allow you for example to dance at any time & place.__  
 **Options:**  
 `Scout` --> `M1000 Classic` --> `Enable No Gravity On Focus`  
 `Scout` --> `M1000 Classic` --> `Change Zoom Scale`  
@@ -37,11 +37,7 @@ You can activate the cheats by checking the box on the left side.
 You can also rightclick on a cheat and create a hotkey.
 
 **Update v1.1 Changelog:**  
-**Fixed:**  
-`Gunner` --> `Revolver` --> `Set Fear Factor on Kill to 100`  
-`Common Class` --> `Movement Modifications` --> `Change Walking Speed`  
-`Funny Mods` --> `DANCE!`  
-`Funny Mods` --> `Select Dance Move`
+Updated the description.
 
 ## DRG - Fun Table - UWP - v1.0
 **Authors:** Akira Fudo  
