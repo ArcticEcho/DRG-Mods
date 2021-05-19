@@ -21,7 +21,7 @@ Happy to see buffs to the HE grenade, this is an update to an old version thatI 
 
 ## BBP (Big Balance Patch) - v1.8.1
 **Authors:** GreyHound  
-**DRG Version:** U33 Hotfix 4  
+**DRG Version:** U34 Hotfix 5  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/80fa75b64e07123a82e71ecb70cce3040d032a7e/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.8.1.zip)  
 
 **Description:**  
