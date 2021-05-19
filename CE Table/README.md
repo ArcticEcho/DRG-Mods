@@ -46,7 +46,7 @@ Updated the description.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/80eb324c77c40295abb7815027b4e20f488c4a0e/CE%20Table/DRG%20-%20Fun%20Table%20-%20UWP%20-%20V1.0.zip)  
 
 **Description:**  
-__Just some fun cheats which allow you for example to dance at any time & place.__  
+__Just some fun scriptswhich allow you for example to dance at any time & place.__  
 **Options:**  
 `Scout` --> `M1000 Classic` --> `Enable No Gravity On Focus`  
 `Scout` --> `M1000 Classic` --> `Change Zoom Scale`  
@@ -68,4 +68,11 @@ __Just some fun cheats which allow you for example to dance at any time & place.
 `Pointer` --> `UE4` --> `NoClip & Fly`  
 `Pointer` --> `InventoryComponent` --> `To much stuff to list it here.`  
 **In order to use the .CT file you'll need to install Cheat Engine 7.2, then you can run the .CT file just like a .exe.**  
-**CE
+**CE download link:** https://www.cheatengine.org/downloads.php  
+The installer will probably ask you to install also something else, just hit "no thanks".  
+You can activate the scripts by checking the box on the left side.  
+For pointers instead of checking the box you change the value on the right side.  
+You can also rightclick on a scripts and create a hotkey.
+
+**Update v1.0 Changelog:**  
+Updated the description.
