@@ -233,6 +233,16 @@ A prototype leaked from the Deep Rock Robotics Department. This integrated cyber
 **Update v1.01 Changelog:**  
 Buffed movespeed from 60% to 75%
 
+## Radioactive Rounds (Minigun OC) - v1.0
+**Authors:** Yarby  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b551f460ef76193cb5f3b3368cd58e1b5b0d7b58/Gameplay/Balanced/Radioactive%20Rounds%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Bullets infused with radioactive material. This replaces the Burning Hell overclock.  
+Adds chance to inflict 'Radiation Sickness' to enemies  
+-2 rate of fire
+
 ## Rapidity Control - v0.0
 **Authors:** Drillboy Jenkins  
 **DRG Version:** 34.3  
