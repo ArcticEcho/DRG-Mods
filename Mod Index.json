@@ -6750,24 +6750,35 @@
   },
   "lettherebelight": {
     "DisplayName": "Let There Be Light",
-    "Version": "1.0",
+    "Version": "1.1",
     "DrgVersion": "Update 34, Hotfix 5",
     "AuthorIds": [
       146392394328178690
     ],
     "Description": "Adds a toggle for lighting up the map in its entirety, which can be turned on and off through the mod loader or by pressing L.\nWorks as a client regardless of what the host has, does not work for clients even if you are the host.\nI discovered it by accident and then made it into something useful for screenshots, testing, cheating and whatever else you can come up with.\nPreview: https://discord.com/channels/676880716142739467/732650220214681600/844496339156336641",
-    "LastUpdateChangelog": "Remade the UI to be more interesting.\nPressing L now toggles the light on and off and does not conflict with the UI method of doing such.\nAdded sounds to mission start to know it is available instead of on each button press because it got annoying.\nImproved performance with new technique (not that it was ever an issue).\nKnown bug: causes character previews not to work in the Space Rig once the mod has been used at all during a session.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8215608b6a88ce82b6b8d8e0ca3ba2e5d77ff27a/Visual/Lighting/Let%20There%20Be%20Light%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Actually updated the file instead of just the description.  Reminder: don't do that at 2 AM next time.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/163a6f39e2b8ee5b41e4edc16fd9e26811f4a6b8/Visual/Lighting/Let%20There%20Be%20Light%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Let There Be Light - V1.0",
+        "PakFileName": "Let There Be Light - V1.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/LetThereBeLightUI.uasset": "14-82-AD-B8-A8-FA-16-D1",
-          "../../../FSD/Content/_ModBPs/Mod040.uasset": "7F-5C-3C-D0-B1-BC-95-44",
-          "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "6F-E7-21-3F-B6-41-8B-23",
-          "../../../FSD/Content/_ModBPs/LetThereBeLightUI.uexp": "41-DE-94-E7-C5-AF-A6-2A",
-          "../../../FSD/Content/_ModBPs/Mod040.uexp": "10-38-47-B3-85-0F-B1-FB",
-          "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1E-90-65-97-04-D7-A0-4C"
+          "../../../FSD/Content/_ModBPs/CarbonRegular_W00_Regular.uasset": "16-AC-26-23-0C-4C-13-3D",
+          "../../../FSD/Content/_ModBPs/CarbonRegular_W00_Regular.ufont": "5A-5F-FB-21-4E-5D-7A-79",
+          "../../../FSD/Content/_ModBPs/CarbonRegular_W00_Regular_Font.uasset": "39-7D-E6-5B-ED-81-EE-AE",
+          "../../../FSD/Content/_ModBPs/Let_There_Be_Light/FlareGunShoot.uasset": "3A-64-E9-E2-4F-F9-63-BE",
+          "../../../FSD/Content/_ModBPs/Let_There_Be_Light/LetThereBeLight.uasset": "13-BA-7F-AF-FF-C5-39-6D",
+          "../../../FSD/Content/_ModBPs/Let_There_Be_Light/LetThereBeLightUI.uasset": "06-E7-52-E1-DA-91-D2-99",
+          "../../../FSD/Content/_ModBPs/Let_There_Be_Light/LightOff.uasset": "D0-91-79-62-F5-E9-0C-A5",
+          "../../../FSD/Content/_ModBPs/Let_There_Be_Light/Scout_Flare.uasset": "8D-95-7B-17-30-E3-0B-CD",
+          "../../../FSD/Content/_ModBPs/Mod040.uasset": "59-99-64-7B-C2-6B-57-52",
+          "../../../FSD/Content/_ModBPs/CarbonRegular_W00_Regular.uexp": "C8-2D-26-57-CC-77-DA-FB",
+          "../../../FSD/Content/_ModBPs/CarbonRegular_W00_Regular_Font.uexp": "66-05-84-EA-61-FC-51-D9",
+          "../../../FSD/Content/_ModBPs/Let_There_Be_Light/FlareGunShoot.uexp": "70-10-08-80-34-B2-7F-16",
+          "../../../FSD/Content/_ModBPs/Let_There_Be_Light/LetThereBeLight.uexp": "00-21-2B-66-FE-6C-51-8B",
+          "../../../FSD/Content/_ModBPs/Let_There_Be_Light/LetThereBeLightUI.uexp": "0A-A3-0D-0F-2F-CE-4C-9A",
+          "../../../FSD/Content/_ModBPs/Let_There_Be_Light/LightOff.uexp": "37-B4-6C-A4-55-D1-FD-78",
+          "../../../FSD/Content/_ModBPs/Let_There_Be_Light/Scout_Flare.uexp": "E9-1C-CE-40-5A-68-81-D1",
+          "../../../FSD/Content/_ModBPs/Mod040.uexp": "AB-F0-AB-CC-CE-7A-D3-8E"
         }
       }
     ]
