@@ -11004,33 +11004,35 @@
   },
   "shallowchoiceminigunoc": {
     "DisplayName": "Shallow Choice (Minigun OC)",
-    "Version": "1.1",
+    "Version": "1.2",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       624572402440863744,
       550333619940622359
     ],
-    "Description": "Description: Gives a huge raw damage increase on the minigun, but at what cost? This replaces the A Little More Oomph! overclock.\n\n+30 damage\nx0 stun chance\n+0.5 spinup time\nAdds chance to make enemies go 'berserk'",
-    "LastUpdateChangelog": "value adjustments",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/88fbc58019ad93bcd00ad088c54ef71664b5fcb7/Gameplay/Balanced/Shallow%20Choice%20%28Minigun%20OC%29%20-%20V1.1%20_P.pak",
+    "Description": "Description: Gives a huge raw damage increase on the minigun, but at what cost? This replaces the A Little More Oomph! overclock.\n\n+23 damage\nx0 stun chance\nx0 movement speed\n+0.5 spinup time\nAdds chance to make enemies go 'berserk'",
+    "LastUpdateChangelog": "Adjusted values",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9308751f462c4834639d6ed49278eeb466d04ec8/Gameplay/Balanced/Shallow%20Choice%20%28Minigun%20OC%29%20-%20V1.2%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Shallow Choice (Minigun OC) - V1.1",
+        "PakFileName": "Shallow Choice (Minigun OC) - V1.2",
         "CookedFileHashes": {
           "../../../FSD/GameElements/PawnAffliction/PAF_PoisonDebuffedEnemies3.uasset": "63-46-22-59-4C-E7-88-09",
           "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_SpinupTime-02_Gatling.uasset": "D3-CD-F9-73-A5-D8-D3-18",
           "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Damage1.uasset": "6C-CF-5E-7B-2D-53-CB-69",
           "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_NeuroToxinAoE_Autocannon2.uasset": "A7-09-39-70-6A-F6-82-B3",
+          "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_MovmentSpeed_0.uasset": "23-E3-C5-A9-1F-63-88-81",
           "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_NoStagger2.uasset": "0A-EB-32-03-87-80-A8-12",
           "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/STE_Revolver_Neurotoxin2.uasset": "B4-51-76-18-F6-10-13-9B",
-          "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_DamageNew_C.uasset": "A3-81-50-1A-DB-94-24-FF",
+          "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_DamageNew_C.uasset": "AF-7B-D5-28-4A-61-1B-A0",
           "../../../FSD/GameElements/PawnAffliction/PAF_PoisonDebuffedEnemies3.uexp": "4B-95-55-60-89-AC-83-BE",
           "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_SpinupTime-02_Gatling.uexp": "C1-33-36-0E-36-AB-94-74",
-          "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Damage1.uexp": "A8-C2-B4-62-B7-AB-FF-E7",
-          "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_NeuroToxinAoE_Autocannon2.uexp": "03-1C-63-5B-BF-83-7E-3F",
+          "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Damage1.uexp": "8F-AB-74-20-8C-A6-C8-C2",
+          "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_NeuroToxinAoE_Autocannon2.uexp": "A6-89-AC-D6-2B-80-70-AF",
+          "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_MovmentSpeed_0.uexp": "2F-79-70-C1-27-52-9A-24",
           "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_NoStagger2.uexp": "5E-10-02-7D-15-E2-A9-4E",
           "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/STE_Revolver_Neurotoxin2.uexp": "AA-96-B1-19-E1-C3-14-6F",
-          "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_DamageNew_C.uexp": "4A-0D-DE-36-79-0D-8F-27"
+          "../../../FSD/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_DamageNew_C.uexp": "8C-57-AE-37-77-49-03-21"
         }
       }
     ]
