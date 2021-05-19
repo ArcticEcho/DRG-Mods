@@ -262,10 +262,10 @@ Authors
 Improves Roll Control BC OC adding it a nerf. A projectile speed nerf. Making it RtS lite and keeping the ability to roll. https://discord.com/channels/676880716142739467/732650220214681600/837974247724941314  
 - Adds x0.75 projectile speed penalty from Fat Boy OC to Roll Control OC.
 
-## Shallow Choice (Minigun OC) - v1.01
+## Shallow Choice (Minigun OC) - v1.1
 **Authors:** Yarby, Drillboy Jenkins  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/100374b1f62e711464c5a2b6106010247fbd5922/Gameplay/Balanced/Shallow%20Choice%20%28Minigun%20OC%29%20-%20V1.01%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/88fbc58019ad93bcd00ad088c54ef71664b5fcb7/Gameplay/Balanced/Shallow%20Choice%20%28Minigun%20OC%29%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Description: Gives a huge raw damage increase on the minigun, but at what cost? This replaces the A Little More Oomph! overclock.  
@@ -274,8 +274,8 @@ x0 stun chance
 +0.5 spinup time  
 Adds chance to make enemies go 'berserk'
 
-**Update v1.01 Changelog:**  
-Value adjustments
+**Update v1.1 Changelog:**  
+value adjustments
 
 ## Shurikens - v2.1
 **Authors:** Ike  
