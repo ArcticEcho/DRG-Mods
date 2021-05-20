@@ -460,6 +460,26 @@ Changes the returningspeed and dismanlte of the sentrygun
 --Increased MaxBrakingDeceleration 4000 > 12000  
 --Decreased DismantleDuration 1 > 0.5
 
+## Shitty M1K and Zhukovs - v1.0
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 34, HF 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/66f346444a2489481568f3dfb6f57e2cf321033d/Gameplay/Unbalanced/Weapons/Shitty%20M1K%20And%20Zhukovs%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+**THIS IS A JOKE MOD**  
+Tired of M1K and Zhukovs being *too* good? Then this is the mod for you!  
+**M1000 changes**  
+--Base RoF from 4 to 0.111  
+--Increased spread  
+--Increased spread recovery time  
+--Hipster OC RoF from 3 to 0.111  
+**Zhukov changes**  
+--Base RoF from 30 to 2  
+--Increased spread  
+--T2.B RoF from 4 to 2  
+--T3.B Accuracy from -60% to +40%  
+--Minimal Magazines RoF from 1 to 0.5
+
 ## Slightly Better Scout - v1.0
 **Authors:** BrewBreuw  
 **DRG Version:** Update 33  
