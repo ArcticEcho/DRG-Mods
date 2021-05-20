@@ -120,6 +120,14 @@ Updated for DRG 34.1
 Makes the rank required to buy a leaf lovers 6,942,069, just so you never buy a Leaf Lovers Special  
 This is a joke mod... or is it?
 
+## No Korlok Spawn - v1.0
+**Authors:** GreyHound  
+**DRG Version:** U34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/05491730f961b554f9bdcb47856eab0c36170a27/Gameplay/Misc/No%20Korlok%20Spawn%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+This mod disables the Korlok Tyrant Weed spawning in your missions.
+
 ## Pointless Low O2 - v1
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 33, Hotfix 6  
