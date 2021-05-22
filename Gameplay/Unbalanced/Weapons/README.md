@@ -373,14 +373,6 @@ Weapon changes.
 **Description:**  
 The base minigun now actually has 2400 ammo and 30 rate of fire. The stats in the game now reflect true values. (Vanilla minigun stats are inflated by 2 times, meaning the vanilla minigun has 1200 ammo and 15 firerate)
 
-## Rideable Drone - Sol Dios(WIP) - v0.1
-**Authors:** 超絶淫乱雄ドワーフ[JPN]  
-**DRG Version:** Update 34 Hotfix 4  
-**Download Link:** [Download](https://mega.nz/file/OLBBHYib#K6IWljKJGn0zSfeOhaR5oW8eWQ2KwjZv5U6vrWOjkDQ) (third-party host)  
-
-**Description:**  
-This mod is a prototype version and Blueprint Mod Manager is needed. The information about my mod is long. So please check the nexus mod link to know how to use 🙂https://www.nexusmods.com/deeprockgalactic/mods/18?tab=description
-
 ## RJ2500 Compound - v1.1
 **Authors:** Shrub_Daddy  
 **DRG Version:** U33, HF 10  
