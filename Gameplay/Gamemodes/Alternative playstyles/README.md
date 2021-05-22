@@ -28,19 +28,20 @@ Reduces the damage of the bulk death explosion from 20,000 to 3,000, while incre
 **Update v1.1 Changelog:**  
 Added a version of the mod without an attack boost.
 
-## Dreadnought Buffs - v3.3
+## Dreadnought Buffs - v3.4
 **Authors:** Potatolaser  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6d3fe89d9ef9e143f38b9edd9401cfc8a078ce23/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.3.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4695eef5c047583c4b08981a1ad46930d41dcfee/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.4.zip)  
 
 **Description:**  
 Buffs the dreadnoughts! There's a lot of general changes like a bit more health, damage, speed, knockback, and they’re slightly harder to freeze; but the Big Ones are:  
 **OG DREAD**- Faster fireballs, larger aoe slam radius, eggshots spawn extra swarmers, zap you, and have a large aoe OR damage upgrade  
 **HIVEGUARD**- Slower sentinel goo, faster turn radius. Two versions with lots of fireball carve and aoe radius OR movespeed and bite damage  
-**TWINS**- Rockwave attack knockback boost, arbalest mines make you really cold really quickly OR they explode really quickly and damage you
+**TWINS**- Rockwave attack knockback boost, arbalest mines make you really cold really quickly OR they explode really quickly and damage you  
+    If you don’t like those OR statements, there are now EX versions that just do all of those things!
 
-**Update v3.3 Changelog:**  
-Updated Hiveguard and Hiveguard EX files so hopefully it doesn’t crash clients who don’t have the mod when it does the rock phase. Also gave the carve hiveguard +1 fireball damage, instead of leaving that value vanilla. Made all the fleshy bits have 0.95 explosive resistance instead of 0.9/0.9/0.95
+**Update v3.4 Changelog:**  
+Made goo slightly less gooey and last slightly less time, probably. Made speed hiveguard’s bite radius more reasonable. Made arbalest mine’s time-to-explode on the damage and EX version slightly more forgiving. Renamed files to be more neat, renamed twin’s files to be more clear (regarding their damage types).
 
 ## Health For Shields Compilation - v1.0
 **Authors:** Our Lord And Savior Gabe Newell, NaturalBornCamper  
