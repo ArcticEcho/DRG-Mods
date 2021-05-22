@@ -4,6 +4,28 @@ Mods that increase the difficulty of things.
 
 <!-- mod list -->
 
+## Buffed-C - v1.3
+**Authors:** Potatolaser  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/acc885ae43c5b5b82df0333e6ca55e10ea340493/Gameplay/Gamemodes/Handicaps/Buffed-C%20-%20V1.3.zip)  
+
+**Description:**  
+Ever fought a Bet-C and thought to yourself, “Man, that sure was a fast “bossfight””. Well now with this mod, BetC might last for more than 30 seconds! Buffed-C has:  
+-more HP (1300 > 2925 per parasite)  
+-faster grenades?  
+-a faster Lock on time (0.25 > 0.2)  
+-can shoot from farther away (2500 > 5000)  
+-fire grenades a bit faster (0.5 > 0.7)  
+-fire *many* grenades faster during special attack (0.5 > 0.1)  
+-and explode grenades slightly sooner (1.5 > 1.4)  
+These changes help Buffed-C do what Bet-C does, but a little better. If these changes don’t sound like they do enough, there’s also the EX version!  
+-special starts sooner (2 > 0.4)  
+-can shoot significantly sooner (0.25 > 0.1)  
+-fires significantly more grenades (0.5 > 1.7)  
+-burst cooldown reduced (0.8 > 0.4)  
+-explode grenades even sooner (1.4 > 1.0)  
+Also includes a few QoL fixes, like repairing Buffed-C in less time (8 > 4) and doing a bit less friendly fire damage (0.08 > 0.02 & 0.05 > 0.02).
+
 ## Cave Leech Clusterfuck - v1.0
 **Authors:** The Inevitable Luke  
 **DRG Version:** Update 33, Hotfix 9  

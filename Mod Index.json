@@ -2112,6 +2112,53 @@
       }
     ]
   },
+  "buffedc": {
+    "DisplayName": "Buffed-C",
+    "Version": "1.3",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      252291709927555072
+    ],
+    "Description": "Ever fought a Bet-C and thought to yourself, “Man, that sure was a fast “bossfight””. Well now with this mod, BetC might last for more than 30 seconds! Buffed-C has:\n-more HP (1300 > 2925 per parasite)\n-faster grenades?\n-a faster Lock on time (0.25 > 0.2)\n-can shoot from farther away (2500 > 5000)\n-fire grenades a bit faster (0.5 > 0.7)\n-fire *many* grenades faster during special attack (0.5 > 0.1)\n-and explode grenades slightly sooner (1.5 > 1.4)\nThese changes help Buffed-C do what Bet-C does, but a little better. If these changes don’t sound like they do enough, there’s also the EX version!\n-special starts sooner (2 > 0.4)\n-can shoot significantly sooner (0.25 > 0.1)\n-fires significantly more grenades (0.5 > 1.7)\n-burst cooldown reduced (0.8 > 0.4)\n-explode grenades even sooner (1.4 > 1.0)\nAlso includes a few QoL fixes, like repairing Buffed-C in less time (8 > 4) and doing a bit less friendly fire damage (0.08 > 0.02 & 0.05 > 0.02).",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/acc885ae43c5b5b82df0333e6ca55e10ea340493/Gameplay/Gamemodes/Handicaps/Buffed-C%20-%20V1.3.zip",
+    "Paks": [
+      {
+        "PakFileName": "BuffedC_V1.3",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/MuleInfected/AIC_InfectedMule.uasset": "5D-1D-BD-FD-33-4D-78-42",
+          "../../../FSD/Content/Enemies/MuleInfected/ED_InfectedMule.uasset": "6C-2E-D4-7B-32-BE-81-AC",
+          "../../../FSD/Content/Enemies/MuleInfected/ENE_InfectedMule.uasset": "D3-E4-9B-A7-2B-7B-43-59",
+          "../../../FSD/Content/Enemies/MuleInfected/Parasite/ENE_Parasite.uasset": "E0-8E-D3-AF-FE-E6-11-AE",
+          "../../../FSD/Content/Enemies/MuleInfected/PRJ_FriendlyInfectedMuleGrenade.uasset": "92-FF-45-06-C6-E0-93-2D",
+          "../../../FSD/Content/Enemies/MuleInfected/PRJ_InfectedMuleGrenade.uasset": "24-4D-86-4C-7A-FE-9B-9F",
+          "../../../FSD/Content/Enemies/MuleInfected/AIC_InfectedMule.uexp": "81-37-D3-C8-59-63-C5-2B",
+          "../../../FSD/Content/Enemies/MuleInfected/ED_InfectedMule.uexp": "CA-FA-7F-A0-53-11-44-20",
+          "../../../FSD/Content/Enemies/MuleInfected/ENE_InfectedMule.uexp": "44-64-DD-00-35-7A-57-05",
+          "../../../FSD/Content/Enemies/MuleInfected/Parasite/ENE_Parasite.uexp": "70-0D-7C-EF-5C-12-31-00",
+          "../../../FSD/Content/Enemies/MuleInfected/PRJ_FriendlyInfectedMuleGrenade.uexp": "A9-AE-23-01-AE-2E-CE-B2",
+          "../../../FSD/Content/Enemies/MuleInfected/PRJ_InfectedMuleGrenade.uexp": "12-C5-AB-58-35-D4-57-D6"
+        }
+      },
+      {
+        "PakFileName": "BuffedC_EX",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/MuleInfected/AIC_InfectedMule.uasset": "5D-1D-BD-FD-33-4D-78-42",
+          "../../../FSD/Content/Enemies/MuleInfected/ED_InfectedMule.uasset": "6C-2E-D4-7B-32-BE-81-AC",
+          "../../../FSD/Content/Enemies/MuleInfected/ENE_InfectedMule.uasset": "D3-E4-9B-A7-2B-7B-43-59",
+          "../../../FSD/Content/Enemies/MuleInfected/Parasite/ENE_Parasite.uasset": "E0-8E-D3-AF-FE-E6-11-AE",
+          "../../../FSD/Content/Enemies/MuleInfected/PRJ_FriendlyInfectedMuleGrenade.uasset": "92-FF-45-06-C6-E0-93-2D",
+          "../../../FSD/Content/Enemies/MuleInfected/PRJ_InfectedMuleGrenade.uasset": "24-4D-86-4C-7A-FE-9B-9F",
+          "../../../FSD/Content/Enemies/MuleInfected/AIC_InfectedMule.uexp": "30-57-86-CE-EA-40-08-66",
+          "../../../FSD/Content/Enemies/MuleInfected/ED_InfectedMule.uexp": "CA-FA-7F-A0-53-11-44-20",
+          "../../../FSD/Content/Enemies/MuleInfected/ENE_InfectedMule.uexp": "93-FF-CF-5D-4A-A7-4E-77",
+          "../../../FSD/Content/Enemies/MuleInfected/Parasite/ENE_Parasite.uexp": "70-0D-7C-EF-5C-12-31-00",
+          "../../../FSD/Content/Enemies/MuleInfected/PRJ_FriendlyInfectedMuleGrenade.uexp": "A9-AE-23-01-AE-2E-CE-B2",
+          "../../../FSD/Content/Enemies/MuleInfected/PRJ_InfectedMuleGrenade.uexp": "4C-3F-88-DB-92-A9-1E-D1"
+        }
+      }
+    ]
+  },
   "bugplanet": {
     "DisplayName": "Bug Planet",
     "Version": "1.34.4",
