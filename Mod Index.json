@@ -6842,7 +6842,7 @@
       146392394328178690
     ],
     "Description": "**Requires the Blueprint Mod Manager**\n‣  Adds a toggle for lighting up the map in its entirety, which can be turned on and off through the BP Mod Manager or by pressing L.\n‣  Works as a client regardless of what the host has, does not work for clients even if you are the host.\n‣  I discovered it by accident and then made it into something useful for screenshots, testing, cheating and whatever else you can come up with.\nPreview: https://discord.com/channels/676880716142739467/732650220214681600/844496339156336641",
-    "LastUpdateChangelog": "Actually updated the file instead of just the description.  Reminder: don't do that at 2 AM next time.",
+    "LastUpdateChangelog": "‣  Improved UI to not be shit.\n‣  Can now toggle light with L.\n‣  Better performance by changing methods.\n‣  Added sounds on mission start to inform of the mod.",
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/163a6f39e2b8ee5b41e4edc16fd9e26811f4a6b8/Visual/Lighting/Let%20There%20Be%20Light%20-%20V1.1%20_P.pak",
     "Paks": [
       {

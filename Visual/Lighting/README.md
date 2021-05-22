@@ -34,4 +34,7 @@ Replaces your flashlight with a laser pointer and gives your nearby surroundings
 Preview: https://discord.com/channels/676880716142739467/732650220214681600/844496339156336641
 
 **Update v1.1 Changelog:**  
-Actually updated the file instead of just the description.  Reminder: don't do that at 2 AM next time.
+‣  Improved UI to not be shit.  
+‣  Can now toggle light with L.  
+‣  Better performance by changing methods.  
+‣  Added sounds on mission start to inform of the mod.
