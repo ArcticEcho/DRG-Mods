@@ -76,6 +76,20 @@ This mod changes Double Barrel into an Unstable OC in function: x1.5 damage per 
 **Update v1.1 Changelog:**  
 Reworked the penalty files used for the new Double Barrel effect, I can now manually edit them without affecting any other OCs. Damage bonus changed to x1.75, spread penalty reduced to x2.25.
 
+## Butter-Knife Ammo OC - v0.0
+**Authors:** Drillboy Jenkins  
+**DRG Version:** U34.X  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b48697eee131bca423ec3a77fe62dba65a63ccf6/Gameplay/Balanced/Butter-Knife%20Ammo%20OC%20-%20V0.0%20_P.pak)  
+
+**Description:**  
+https://discord.com/channels/676880716142739467/732650220214681600/846134254958411796  
+A balancing concept of Armor Breaking OC mod designed for the M1K Done Properly mod. Allows high grunt/nitra output focus-build in exchange for clip size and focus speed.  
+```diff  
++ +71% AB - to get above the 100% threshold  
+- -4 clipsize - any OP OC can get properly downtweaked this way  
+- x0.9 focus speed - small slowdown for efficient focuses  
+```
+
 ## Cryo Ammo (Minigun OC) - v1.0
 **Authors:** Yarby  
 **DRG Version:** U34 H5  
