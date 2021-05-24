@@ -65,17 +65,6 @@ Chain Hit: adds +15 ammo on Subata; adds +8 ammo on Bulldog.
 **Update v1.3 Changelog:**  
 added Just War (crimes) - adds 3 clipsize, a 100% chance to Neurotoxin afflicted targets; in return, AoE damage is reduced by 35 and -1 AoE radius (former Compact Rounds); added Ratling Gun (former Exhaust Vectoring) - inspired by Yarby's design, now adds +40% movement speed, +150 ammo and x3 spread.
 
-## BBP Submod - Sawed Off OCs - v1.1
-**Authors:** GreyHound  
-**DRG Version:** U34 Hotfix 5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/aada66406d0300875000c9c006263221d0da7a21/Gameplay/Balanced/BBP%20Submod%20-%20Sawed%20Off%20OCs%20-%20V1.1%20_P.pak)  
-
-**Description:**  
-This mod changes Double Barrel into an Unstable OC in function: x1.5 damage per pellet, x2.5 spread (replaces previous effects, no longer shoots two barrels at once). Special Powder is now a Balanced OC in principle as it gains a -2 damage per pellet penalty.
-
-**Update v1.1 Changelog:**  
-Reworked the penalty files used for the new Double Barrel effect, I can now manually edit them without affecting any other OCs. Damage bonus changed to x1.75, spread penalty reduced to x2.25.
-
 ## Butter-Knife Ammo OC - v0.0
 **Authors:** Drillboy Jenkins  
 **DRG Version:** U34.X  
