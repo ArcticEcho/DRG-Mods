@@ -7140,25 +7140,27 @@
   },
   "marcusgrayposters": {
     "DisplayName": "MarcusGray Posters",
-    "Version": "1.0",
+    "Version": "1.1",
     "DrgVersion": "Update 34 - Hotfix 5",
     "AuthorIds": [
       281728453353668608,
       210694335283331072
     ],
     "Description": "Replaces the texture of propaganda posters found in Memorial Hall and across the Space Rig with the posters made by *Marcus Gray*. [Preview 1](https://cdn.discordapp.com/attachments/712637678881079369/843439867048624148/20210516134613_1.jpg). [Preview 2](https://cdn.discordapp.com/attachments/712637678881079369/846713570515484702/20210525143408_1.jpg).",
-    "LastUpdateChangelog": "Added **Warden Glyphid Sorceress** poster.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/67fca9077b2972dd4bedf487436d1c81ae050724/Visual/Textures%20%26%20Icons/MarcusGray%20Posters%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Added *Warden Glyphid Sorceress* poster.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2d0a63747ffcf2bf0b139338ac56a97f9d082b4d/Visual/Textures%20%26%20Icons/MarcusGray%20Posters%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "MarcusGray Posters - V1.0",
+        "PakFileName": "MarcusGray Posters - V1.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster01.uasset": "BB-AD-70-9F-F9-20-AC-75",
-          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster02.uasset": "3F-23-FE-6D-FB-47-8C-B8",
-          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster03.uasset": "2E-34-C1-AA-2B-B6-4C-D9",
-          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster01.uexp": "3C-05-92-18-BB-C8-80-62",
-          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster02.uexp": "7B-BE-3B-4D-FD-A5-E5-2F",
-          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster03.uexp": "97-AC-9A-E5-46-DB-44-71"
+          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/OpenAlpha_Poster_300ppi_Without_Text_3508x4961px.uasset": "87-58-63-B8-43-36-D2-91",
+          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster01.uasset": "60-81-8A-E1-85-45-1F-DC",
+          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster02.uasset": "8E-23-63-6A-4D-F0-74-CD",
+          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster03.uasset": "F0-5C-9E-1C-87-A8-8E-23",
+          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/OpenAlpha_Poster_300ppi_Without_Text_3508x4961px.uexp": "70-A1-A0-75-A4-AD-04-E4",
+          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster01.uexp": "81-B3-E9-69-35-FD-D0-AD",
+          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster02.uexp": "B1-8E-FC-D8-66-8B-64-83",
+          "../../../FSD/Content/Art/Environments/SpaceRig/Posters/PropogandaPoster03.uexp": "C7-BC-6D-7A-54-1E-07-8F"
         }
       }
     ]

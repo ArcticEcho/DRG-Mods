@@ -50,16 +50,16 @@ Changes the class icons to their default pictogram. Yellow with a drill, red wit
 **Description:**  
 Changes the class icons to their true meaning in a pictogram. Yellow with a hand truck (the carry), red with an engine (the motor), green with a crosshair (the terminator) and blue with the hermes foot (the flying monkey).
 
-## MarcusGray Posters - v1.0
+## MarcusGray Posters - v1.1
 **Authors:** Marcus, Humping Koala  
 **DRG Version:** Update 34 - Hotfix 5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/67fca9077b2972dd4bedf487436d1c81ae050724/Visual/Textures%20%26%20Icons/MarcusGray%20Posters%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2d0a63747ffcf2bf0b139338ac56a97f9d082b4d/Visual/Textures%20%26%20Icons/MarcusGray%20Posters%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Replaces the texture of propaganda posters found in Memorial Hall and across the Space Rig with the posters made by *Marcus Gray*. [Preview 1](https://cdn.discordapp.com/attachments/712637678881079369/843439867048624148/20210516134613_1.jpg). [Preview 2](https://cdn.discordapp.com/attachments/712637678881079369/846713570515484702/20210525143408_1.jpg).
 
-**Update v1.0 Changelog:**  
-Added **Warden Glyphid Sorceress** poster.
+**Update v1.1 Changelog:**  
+Added *Warden Glyphid Sorceress* poster.
 
 ## RGB Pickaxe Parts - v1.02
 **Authors:** Pacagma  
