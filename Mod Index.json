@@ -2457,30 +2457,6 @@
       }
     ]
   },
-  "cryoammominigunoc": {
-    "DisplayName": "Cryo Ammo (Minigun OC)",
-    "Version": "1.0",
-    "DrgVersion": "U34 H5",
-    "AuthorIds": [
-      624572402440863744
-    ],
-    "Description": "Converts the cooling capacity of the minigun chamber to store cryo bullets. This replaces the Thinned Drum Walls overclock.\n\nAdds ice damage to bullets\n-1 cooling rate",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/26610179b15c0f3bd1b070cff00ab674853f1466/Gameplay/Balanced/Cryo%20Ammo%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Cryo Ammo (Minigun OC) - V1.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_CoolingRate_Gatling.uasset": "35-81-1F-42-0F-79-00-A5",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_AmmoNew_C.uasset": "89-98-16-D6-FA-C5-93-B7",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_E_HotBullets2.uasset": "1F-7C-77-4B-34-B6-49-3B",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_CoolingRate_Gatling.uexp": "F0-B0-A3-92-9B-6D-04-8A",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_AmmoNew_C.uexp": "38-66-E3-EA-B2-B4-FF-D0",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_E_HotBullets2.uexp": "FC-DF-F9-BC-07-6C-B9-8B"
-        }
-      }
-    ]
-  },
   "customenemycap": {
     "DisplayName": "Custom Enemy Cap",
     "Version": "2.5",

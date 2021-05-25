@@ -79,16 +79,6 @@ A balancing concept of Armor Breaking OC mod designed for the M1K Done Properly 
 - x0.9 focus speed - small slowdown for efficient focuses  
 ```
 
-## Cryo Ammo (Minigun OC) - v1.0
-**Authors:** Yarby  
-**DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/26610179b15c0f3bd1b070cff00ab674853f1466/Gameplay/Balanced/Cryo%20Ammo%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak)  
-
-**Description:**  
-Converts the cooling capacity of the minigun chamber to store cryo bullets. This replaces the Thinned Drum Walls overclock.  
-Adds ice damage to bullets  
--1 cooling rate
-
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  
