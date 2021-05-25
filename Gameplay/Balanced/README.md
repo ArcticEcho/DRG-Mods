@@ -252,6 +252,7 @@ Improves Roll Control BC OC adding it a nerf. A projectile speed nerf. Making it
 
 **Description:**  
 WARNING: ALL THE NEW OCs THE MOD ADDS SHOULD BE OBTAINED THE WAY YOU USE(D) TO OBTAIN VANILLA ONES - VIA FORGING!  
+Designed to be used with M1K Done Properly mod.  
 **M1K OCs:**  
 - Butter-Knife Ammo:  
 ```diff  
@@ -264,7 +265,8 @@ WARNING: ALL THE NEW OCs THE MOD ADDS SHOULD BE OBTAINED THE WAY YOU USE(D) TO O
 + x10 Focus Speed  
 - -7 Clip Capacity  
 - -24 Ammo  
-```
+```  
+Update Changelog: Added 8th OC - Capacitor Clips, removed focus speed penalty from BKA's  penalty.
 
 **Update v1.0 Changelog:**  
 Added 8th OC - Capacitor Clips, removed focus speed penalty from BKA's  penalty.

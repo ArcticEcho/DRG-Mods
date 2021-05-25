@@ -10996,7 +10996,7 @@
     "AuthorIds": [
       550333619940622359
     ],
-    "Description": "WARNING: ALL THE NEW OCs THE MOD ADDS SHOULD BE OBTAINED THE WAY YOU USE(D) TO OBTAIN VANILLA ONES - VIA FORGING!\n\n**M1K OCs:**\n- Butter-Knife Ammo:\n```diff\n+ +71% Armor Breaking\n- -4 Clip Capacity\n```\n\n- Capacitor Clips:\n```diff\n+ -2s Reload Time\n+ x10 Focus Speed\n- -7 Clip Capacity\n- -24 Ammo\n```",
+    "Description": "WARNING: ALL THE NEW OCs THE MOD ADDS SHOULD BE OBTAINED THE WAY YOU USE(D) TO OBTAIN VANILLA ONES - VIA FORGING!\n\nDesigned to be used with M1K Done Properly mod.\n\n**M1K OCs:**\n- Butter-Knife Ammo:\n```diff\n+ +71% Armor Breaking\n- -4 Clip Capacity\n```\n\n- Capacitor Clips:\n```diff\n+ -2s Reload Time\n+ x10 Focus Speed\n- -7 Clip Capacity\n- -24 Ammo\n```\nUpdate Changelog: Added 8th OC - Capacitor Clips, removed focus speed penalty from BKA's  penalty.",
     "LastUpdateChangelog": "Added 8th OC - Capacitor Clips, removed focus speed penalty from BKA's  penalty.",
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/10a56ad11a3433a05a520b9045a380b1bdf9e9cd/Gameplay/Balanced/Scoot%20OCs%20-%20V1.0%20_P.pak",
     "Paks": [
