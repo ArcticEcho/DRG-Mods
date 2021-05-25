@@ -28,7 +28,7 @@ Happy to see buffs to the HE grenade, this is an update to an old version thatI 
 This mod reworks every overclock for the minigun to increase the diversity of effects, which allows for more varied playstyles. This is not compatible with any other minigun overclock mods. Detailed stats of each overclock is included in the readme file.
 
 **Update v1.4 Changelog:**  
-Removed 'Lead Storm Rework' and 'Cryo Ammo'. Added 'Explosive Bullets' and 'Flaming Rounds'. See stats in readme file.
+Removed 'Lead Storm Rework' and 'Cryo Ammo'. Added 'Explosive Bullets' and 'Flaming Rounds'. Updated 'Freezing Hell' to v1.1. See full stats in readme file.
 
 ## BBP (Big Balance Patch) - v1.8.1
 **Authors:** GreyHound  
