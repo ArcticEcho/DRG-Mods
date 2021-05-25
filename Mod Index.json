@@ -808,14 +808,14 @@
   },
   "alternativeminigunoverclocks": {
     "DisplayName": "Alternative Minigun Overclocks",
-    "Version": "1.4",
+    "Version": "1.41",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       624572402440863744
     ],
     "Description": "This mod reworks every overclock for the minigun to increase the diversity of effects, which allows for more varied playstyles. This is not compatible with any other minigun overclock mods. Detailed stats of each overclock is included in the readme file.",
     "LastUpdateChangelog": "Removed 'Lead Storm Rework' and 'Cryo Ammo'. Added 'Explosive Bullets' and 'Flaming Rounds'. Updated 'Freezing Hell' to v1.1. See full stats in readme file.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d65a601ca9e5759590a27602708d543e49ce34a9/Gameplay/Balanced/Alternative%20Minigun%20Overclocks%20-%20V1.4.zip",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e9877fa35c7b2beb19c4fca9f1f798032b8ff900/Gameplay/Balanced/Alternative%20Minigun%20Overclocks%20-%20V1.41.zip",
     "Paks": [
       {
         "PakFileName": "AlternativeMinigunOCv1.4",
@@ -829,7 +829,6 @@
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_DamageVsFrozenMult_Cryo.uasset": "81-12-38-B2-83-1F-15-62",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_SpinupTime-02_Gatling.uasset": "D3-CD-F9-73-A5-D8-D3-18",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/BP_CreateBombOnHit_DualMP.uasset": "A9-75-DA-63-9C-38-E6-2B",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/NS_OC_NeuroToxin_Payload.uasset": "D0-5A-A5-93-16-55-5C-BB",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo300_Gatling.uasset": "26-09-C6-B4-66-F6-65-D1",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo600_Gatling.uasset": "D2-05-15-4B-3D-F4-24-06",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AmmoM300_Gatling.uasset": "92-CC-11-23-9A-AE-1F-C9",
@@ -869,7 +868,6 @@
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_DamageVsFrozenMult_Cryo.uexp": "1F-7A-58-DE-31-85-C3-78",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_SpinupTime-02_Gatling.uexp": "8E-4D-77-43-6E-DF-CE-18",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/BP_CreateBombOnHit_DualMP.uexp": "56-1F-5E-7F-B7-31-A7-55",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/NS_OC_NeuroToxin_Payload.uexp": "E4-F3-CB-C6-EA-44-3C-D3",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo300_Gatling.uexp": "1F-A5-81-39-A7-9B-25-01",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo600_Gatling.uexp": "FD-65-DD-00-52-EF-E6-CF",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AmmoM300_Gatling.uexp": "2D-0A-D3-97-D9-CE-FA-A4",
