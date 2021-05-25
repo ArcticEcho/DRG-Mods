@@ -148,7 +148,7 @@ Description edit
 
 ## Freezing Hell (Minigun OC) - v1.1
 **Authors:** Yarby  
-**DRG Version:** U34 H4  
+**DRG Version:** U34 H5  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/17f922e9b54ea5fcf6c7a0d9169b41133c77968c/Gameplay/Balanced/Freezing%20Hell%20%28Minigun%20OC%29%20-%20V1.1%20_P.pak)  
 
 **Description:**  
