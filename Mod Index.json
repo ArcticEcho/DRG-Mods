@@ -9508,6 +9508,32 @@
       }
     ]
   },
+  "pickaxepartunlocker": {
+    "DisplayName": "Pickaxe Part Unlocker",
+    "Version": "1.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      243195324594782210
+    ],
+    "Description": "Unlocks the back blade exclusive pickaxe parts to be usable in the front blade slot. Works on host and client. Thanks to onimare for the suggestion!\nExample: https://discord.com/channels/676880716142739467/732650220214681600/846678095645245491",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4c3b0e1600d9fc9ca407caa2b65b0575876a35a4/Visual/Misc/Pickaxe%20Part%20Unlocker%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Pickaxe Part Unlocker - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Customization/PXP_BladeBack_Chasmborne.uexp": "76-98-EE-6B-BB-52-10-3C",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Customization/PXP_BladeBack_DriftCrusher.uexp": "58-8C-D3-03-A9-37-D9-40",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Customization/PXP_BladeBack_Gadgeteer.uexp": "90-D4-7D-19-6B-B1-EA-D3",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Customization/PXP_BladeBack_ReapersClaw.uexp": "C0-7E-3E-3F-5A-82-46-6C",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Customization/PXP_BladeSpecial_01.uexp": "BD-08-1E-DF-81-60-61-6F",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Customization/PXP_BladeSpecial_02.uexp": "FB-40-AA-F8-32-AE-54-78",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Customization/PXP_BladeSpecial_03.uexp": "93-CD-6E-0C-F0-D9-F0-09",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Customization/PXP_BladeSpecial_04.uexp": "D1-1F-85-84-71-B8-C8-90"
+        }
+      }
+    ]
+  },
   "pickaxepowermovebrucelee": {
     "DisplayName": "Pickaxe Powermove Bruce Lee",
     "Version": "1.0",

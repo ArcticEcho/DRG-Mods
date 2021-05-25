@@ -42,3 +42,12 @@ This will be the last update I make to this mod for a while (unless something br
  - Improved material selection clarity a bit.  
  - Added material name to the UI.  
  - Made the wardrobe light a bit brighter.
+
+## Pickaxe Part Unlocker - v1.0
+**Authors:** BongoSkaggs  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4c3b0e1600d9fc9ca407caa2b65b0575876a35a4/Visual/Misc/Pickaxe%20Part%20Unlocker%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Unlocks the back blade exclusive pickaxe parts to be usable in the front blade slot. Works on host and client. Thanks to onimare for the suggestion!  
+Example: https://discord.com/channels/676880716142739467/732650220214681600/846678095645245491
