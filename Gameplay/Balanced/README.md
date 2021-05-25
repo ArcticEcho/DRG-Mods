@@ -65,20 +65,6 @@ Chain Hit: adds +15 ammo on Subata; adds +8 ammo on Bulldog.
 **Update v1.3 Changelog:**  
 added Just War (crimes) - adds 3 clipsize, a 100% chance to Neurotoxin afflicted targets; in return, AoE damage is reduced by 35 and -1 AoE radius (former Compact Rounds); added Ratling Gun (former Exhaust Vectoring) - inspired by Yarby's design, now adds +40% movement speed, +150 ammo and x3 spread.
 
-## Butter-Knife Ammo OC - v0.0
-**Authors:** Drillboy Jenkins  
-**DRG Version:** U34.X  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b48697eee131bca423ec3a77fe62dba65a63ccf6/Gameplay/Balanced/Butter-Knife%20Ammo%20OC%20-%20V0.0%20_P.pak)  
-
-**Description:**  
-https://discord.com/channels/676880716142739467/732650220214681600/846134254958411796  
-A balancing concept of Armor Breaking OC mod designed for the M1K Done Properly mod. Allows high grunt/nitra output focus-build in exchange for clip size and focus speed.  
-```diff  
-+ +71% AB - to get above the 100% threshold  
-- -4 clipsize - any OP OC can get properly downtweaked this way  
-- x0.9 focus speed - small slowdown for efficient focuses  
-```
-
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  
@@ -258,6 +244,20 @@ Authors
 **Description:**  
 Improves Roll Control BC OC adding it a nerf. A projectile speed nerf. Making it RtS lite and keeping the ability to roll. https://discord.com/channels/676880716142739467/732650220214681600/837974247724941314  
 - Adds x0.75 projectile speed penalty from Fat Boy OC to Roll Control OC.
+
+## Scoot OCs - v0.0
+**Authors:** Drillboy Jenkins  
+**DRG Version:** U34.X  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/265cfdd9fa69b8e46d2f6170adde05015f69b771/Gameplay/Balanced/Scoot%20OCs%20-%20V0.0%20_P.pak)  
+
+**Description:**  
+https://discord.com/channels/676880716142739467/732650220214681600/846134254958411796  
+A balancing concept of Armor Breaking OC mod designed for the M1K Done Properly mod. Allows high grunt/nitra output focus-build in exchange for clip size and focus speed.  
+```diff  
++ +71% AB - to get above the 100% threshold  
+- -4 clipsize - any OP OC can get properly downtweaked this way  
+- x0.9 focus speed - small slowdown for efficient focuses  
+```
 
 ## Shallow Choice (Minigun OC) - v1.3
 **Authors:** Yarby, Drillboy Jenkins  

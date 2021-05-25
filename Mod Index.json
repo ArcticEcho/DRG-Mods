@@ -2253,61 +2253,6 @@
       }
     ]
   },
-  "butterknifeammooc": {
-    "DisplayName": "Butter-Knife Ammo OC",
-    "Version": "0.0",
-    "DrgVersion": "U34.X",
-    "AuthorIds": [
-      550333619940622359
-    ],
-    "Description": "https://discord.com/channels/676880716142739467/732650220214681600/846134254958411796\nA balancing concept of Armor Breaking OC mod designed for the M1K Done Properly mod. Allows high grunt/nitra output focus-build in exchange for clip size and focus speed.\n```diff\n+ +71% AB - to get above the 100% threshold\n- -4 clipsize - any OP OC can get properly downtweaked this way\n- x0.9 focus speed - small slowdown for efficient focuses\n```",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b48697eee131bca423ec3a77fe62dba65a63ccf6/Gameplay/Balanced/Butter-Knife%20Ammo%20OC%20-%20V0.0%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Butter-Knife Ammo OC - V0.0",
-        "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p-UAsset.json": "0B-18-97-9C-5A-B6-12-2E",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p.uasset": "26-38-E7-4E-48-31-0A-48",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p.uasset.daum": "6F-9A-4A-4B-13-58-D4-A2",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p.uasset.offset": "44-E6-14-99-24-FF-3C-33",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p.uexp.bak": "AF-02-18-75-23-17-9A-59",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_ClipSize_4-UAsset.json": "6C-1A-76-5C-B8-98-24-E4",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Clipsize_4.uasset": "5A-C0-34-6C-76-73-11-43",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Clipsize_4.uasset.daum": "C7-D8-2F-26-DD-02-66-2E",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Clipsize_4.uasset.offset": "F6-F3-F7-F2-F3-57-3A-8C",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_ClipSize_4.uexp.bak": "7A-14-FC-85-79-D3-40-97",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p-UAsset.json": "8D-A6-DB-5B-C3-FA-CA-BC",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p.uasset": "D5-8C-12-CA-B8-5A-47-19",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p.uasset.daum": "C9-42-DD-C3-73-34-E1-0A",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p.uasset.offset": "DF-BB-BB-45-28-3A-03-77",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p.uexp.bak": "61-6F-5E-37-B0-23-8E-61",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/zzz_AB_Bonus_Renamings.bat": "35-FE-BD-4F-EF-94-1D-8B",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/zzz_Clipsize_Penalty_Renamings.bat": "9B-85-04-88-8E-A7-E4-B7",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/zzz_Penalty_FocusSpeed_Renamings.bat": "09-6B-59-33-33-94-6A-01",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U-UAsset.json": "69-D9-F6-BF-40-CE-AB-0F",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U.uasset": "A0-3E-03-F9-2E-8C-CC-C9",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U.uasset.daum": "4E-BF-8D-03-59-A5-8B-D3",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U.uasset.offset": "83-2A-86-84-97-9B-50-8A",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U.uexp.bak": "D3-6D-34-F3-4A-90-ED-EF",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OSB_M1000-UAsset.json": "65-77-0F-D3-87-5C-0D-22",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OSB_M1000.uasset": "CE-45-2A-7C-6A-F5-3E-8E",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_NewOC_AB_Ico.bat": "5A-10-59-53-CD-41-94-E3",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_NewOC_DamagePenalty_to_Bonus.bat": "1E-92-F8-CA-3E-34-8D-B2",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_NewOC_Renamings.bat": "BC-D9-AF-CD-B1-B7-FA-22",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_NewOC_Taking_New_Effects.bat": "6B-22-59-86-88-CD-A9-D8",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_NewOC_YellowFrame.bat": "DC-34-5A-70-7E-DC-E4-53",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_OSB_NewOC_Export_Definitions.bat": "DA-4D-EE-A9-FC-64-1E-6E",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_OSB_NewOC_Names_and_Imports.bat": "24-94-44-9A-47-B5-75-4E",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p.uexp": "11-1E-B2-5A-2F-E2-44-3E",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_ClipSize_4.uexp": "8D-EA-14-94-0D-AB-9E-83",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p.uexp": "93-2F-90-61-70-3C-54-DC",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U.uexp": "D4-07-F1-9C-F2-0B-A2-D1",
-          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OSB_M1000.uexp": "39-E3-DB-84-B9-E8-96-5E"
-        }
-      }
-    ]
-  },
   "caveleechclusterfuck": {
     "DisplayName": "Cave Leech Clusterfuck",
     "Version": "1.0",
@@ -11040,6 +10985,61 @@
           "../../../FSD/Content/GameElements/Bar/Assets/Icons_UnderhillDeluxe_Label.ubulk": "E9-B3-F4-D0-49-D8-7B-41",
           "../../../FSD/Content/GameElements/Bar/Assets/Icons_UnderhillDeluxe_Label_Small.ubulk": "F0-94-1D-3E-04-E1-53-DE",
           "../../../FSD/Content/GameElements/Bar/Assets/Icons_WormholeSpecial_Label.ubulk": "E0-4C-A3-D1-0A-6B-3F-18"
+        }
+      }
+    ]
+  },
+  "scootocs": {
+    "DisplayName": "Scoot OCs",
+    "Version": "0.0",
+    "DrgVersion": "U34.X",
+    "AuthorIds": [
+      550333619940622359
+    ],
+    "Description": "https://discord.com/channels/676880716142739467/732650220214681600/846134254958411796\nA balancing concept of Armor Breaking OC mod designed for the M1K Done Properly mod. Allows high grunt/nitra output focus-build in exchange for clip size and focus speed.\n```diff\n+ +71% AB - to get above the 100% threshold\n- -4 clipsize - any OP OC can get properly downtweaked this way\n- x0.9 focus speed - small slowdown for efficient focuses\n```",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/265cfdd9fa69b8e46d2f6170adde05015f69b771/Gameplay/Balanced/Scoot%20OCs%20-%20V0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Butter-Knife Ammo OC - V0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p-UAsset.json": "0B-18-97-9C-5A-B6-12-2E",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p.uasset": "26-38-E7-4E-48-31-0A-48",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p.uasset.daum": "6F-9A-4A-4B-13-58-D4-A2",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p.uasset.offset": "44-E6-14-99-24-FF-3C-33",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p.uexp.bak": "AF-02-18-75-23-17-9A-59",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_ClipSize_4-UAsset.json": "6C-1A-76-5C-B8-98-24-E4",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Clipsize_4.uasset": "5A-C0-34-6C-76-73-11-43",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Clipsize_4.uasset.daum": "C7-D8-2F-26-DD-02-66-2E",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Clipsize_4.uasset.offset": "F6-F3-F7-F2-F3-57-3A-8C",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_ClipSize_4.uexp.bak": "7A-14-FC-85-79-D3-40-97",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p-UAsset.json": "8D-A6-DB-5B-C3-FA-CA-BC",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p.uasset": "D5-8C-12-CA-B8-5A-47-19",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p.uasset.daum": "C9-42-DD-C3-73-34-E1-0A",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p.uasset.offset": "DF-BB-BB-45-28-3A-03-77",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p.uexp.bak": "61-6F-5E-37-B0-23-8E-61",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/zzz_AB_Bonus_Renamings.bat": "35-FE-BD-4F-EF-94-1D-8B",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/zzz_Clipsize_Penalty_Renamings.bat": "9B-85-04-88-8E-A7-E4-B7",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/zzz_Penalty_FocusSpeed_Renamings.bat": "09-6B-59-33-33-94-6A-01",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U-UAsset.json": "69-D9-F6-BF-40-CE-AB-0F",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U.uasset": "A0-3E-03-F9-2E-8C-CC-C9",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U.uasset.daum": "4E-BF-8D-03-59-A5-8B-D3",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U.uasset.offset": "83-2A-86-84-97-9B-50-8A",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U.uexp.bak": "D3-6D-34-F3-4A-90-ED-EF",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OSB_M1000-UAsset.json": "65-77-0F-D3-87-5C-0D-22",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OSB_M1000.uasset": "CE-45-2A-7C-6A-F5-3E-8E",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_NewOC_AB_Ico.bat": "5A-10-59-53-CD-41-94-E3",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_NewOC_DamagePenalty_to_Bonus.bat": "1E-92-F8-CA-3E-34-8D-B2",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_NewOC_Renamings.bat": "BC-D9-AF-CD-B1-B7-FA-22",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_NewOC_Taking_New_Effects.bat": "6B-22-59-86-88-CD-A9-D8",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_NewOC_YellowFrame.bat": "DC-34-5A-70-7E-DC-E4-53",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_OSB_NewOC_Export_Definitions.bat": "DA-4D-EE-A9-FC-64-1E-6E",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/zzz_OSB_NewOC_Names_and_Imports.bat": "24-94-44-9A-47-B5-75-4E",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AB_71p.uexp": "11-1E-B2-5A-2F-E2-44-3E",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_ClipSize_4.uexp": "8D-EA-14-94-0D-AB-9E-83",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_BonusesAndPenalties/OC_Penalty_FocusSpeed_90p.uexp": "93-2F-90-61-70-3C-54-DC",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OC_M1000_NewOC_U.uexp": "D4-07-F1-9C-F2-0B-A2-D1",
+          "../../../FSD/Content/WeaponsNTools/BoltActionRifle/Overclocks/OSB_M1000.uexp": "39-E3-DB-84-B9-E8-96-5E"
         }
       }
     ]
