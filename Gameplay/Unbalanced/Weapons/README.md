@@ -111,6 +111,18 @@ Bulldog Revolver's "Neurotoxin Coating" chance is now Guaranteed
 **Description:**  
 Changes the normal shooting sound of the M1K to Bulldog and gives it more ammo
 
+## Cryo Ammo Plus (Minigun OC) - v1.0
+**Authors:** Yarby  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/15f66c0c33267f8fc96b1efea7ed70ea55675ff1/Gameplay/Unbalanced/Weapons/Cryo%20Ammo%20Plus%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Converts the cooling capacity of the minigun chamber to store cryo bullets. This replaces the Thinned Drum Walls overclock. This is NOT balanced.  
++50% ice damage  
++2 cooling rate  
++50% overheated cooldown rate  
++3 penetration
+
 ## EPC Carve 7m - v1.0
 **Authors:** BrewBreuw  
 **DRG Version:** Update 33  

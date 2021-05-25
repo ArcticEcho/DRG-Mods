@@ -2457,6 +2457,34 @@
       }
     ]
   },
+  "cryoammoplusminigunoc": {
+    "DisplayName": "Cryo Ammo Plus (Minigun OC)",
+    "Version": "1.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      624572402440863744
+    ],
+    "Description": "Converts the cooling capacity of the minigun chamber to store cryo bullets. This replaces the Thinned Drum Walls overclock. This is NOT balanced.\n\n+50% ice damage\n+2 cooling rate\n+50% overheated cooldown rate\n+3 penetration",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/15f66c0c33267f8fc96b1efea7ed70ea55675ff1/Gameplay/Unbalanced/Weapons/Cryo%20Ammo%20Plus%20%28Minigun%20OC%29%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Cryo Ammo Plus (Minigun OC) - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_CoolingRate_Gatling.uasset": "35-81-1F-42-0F-79-00-A5",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/UPG_Gatling_C_Blowthrough.uasset": "01-55-4C-7D-5A-D0-6D-24",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/UPG_Gatling_E_CritOverheat_FasterUnJam_Effect.uasset": "81-D4-99-A5-24-80-B2-7F",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/UPG_SawedOff_E_DragonsBreath.uasset": "4B-20-9B-CA-48-8F-A8-94",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_AmmoNew_C.uasset": "E4-91-8F-D7-DE-BC-AC-C6",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/Bonus_CoolingRate_Gatling.uexp": "9C-28-DF-D3-AC-96-5E-43",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/UPG_Gatling_C_Blowthrough.uexp": "5D-63-6C-15-E7-C7-C1-D7",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/UPG_Gatling_E_CritOverheat_FasterUnJam_Effect.uexp": "44-2B-99-48-1B-83-D3-4D",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/UPG_SawedOff_E_DragonsBreath.uexp": "8B-57-B4-9E-50-7A-82-9F",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_AmmoNew_C.uexp": "D8-8D-63-D3-AC-EA-5B-62"
+        }
+      }
+    ]
+  },
   "customenemycap": {
     "DisplayName": "Custom Enemy Cap",
     "Version": "2.5",
