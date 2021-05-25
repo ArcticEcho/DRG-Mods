@@ -808,17 +808,17 @@
   },
   "alternativeminigunoverclocks": {
     "DisplayName": "Alternative Minigun Overclocks",
-    "Version": "1.41",
+    "Version": "1.42",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       624572402440863744
     ],
     "Description": "This mod reworks every overclock for the minigun to increase the diversity of effects, which allows for more varied playstyles. This is not compatible with any other minigun overclock mods. Detailed stats of each overclock is included in the readme file.",
-    "LastUpdateChangelog": "Removed 'Lead Storm Rework' and 'Cryo Ammo'. Added 'Explosive Bullets' and 'Flaming Rounds'. Updated 'Freezing Hell' to v1.1. See full stats in readme file.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e9877fa35c7b2beb19c4fca9f1f798032b8ff900/Gameplay/Balanced/Alternative%20Minigun%20Overclocks%20-%20V1.41.zip",
+    "LastUpdateChangelog": "Nerfed explosive bullet splash damage from 30 to 5. LOL (Sorry to the sandbox OC lovers)",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d98de02e0a30739f2e843b4bb15c578e344f9758/Gameplay/Balanced/Alternative%20Minigun%20Overclocks%20-%20V1.42.zip",
     "Paks": [
       {
-        "PakFileName": "AlternativeMinigunOCv1.4",
+        "PakFileName": "AlternativeMinigunOCv1.42",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/PawnAffliction/PAF_PoisonDebuffedEnemies2.uasset": "30-44-39-3A-26-D6-26-62",
           "../../../FSD/Content/GameElements/PawnAffliction/PAF_PoisonDebuffedEnemies3.uasset": "63-46-22-59-4C-E7-88-09",
@@ -872,7 +872,7 @@
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo600_Gatling.uexp": "FD-65-DD-00-52-EF-E6-CF",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_AmmoM300_Gatling.uexp": "2D-0A-D3-97-D9-CE-FA-A4",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Damage1.uexp": "97-9F-5C-F0-80-54-19-FB",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Damage_5.uexp": "E5-CE-60-85-11-62-3D-05",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Damage_5.uexp": "CB-D1-04-07-86-DE-74-5F",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_NeuroToxinAoE_Autocannon.uexp": "69-52-28-C4-53-04-EE-72",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Bonus_NeuroToxinAoE_Autocannon2.uexp": "A6-89-AC-D6-2B-80-70-AF",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Accuracy3.uexp": "1D-94-83-F6-84-63-FA-17",
@@ -889,7 +889,7 @@
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/OC_Penalty_RoF_3.uexp": "37-4D-79-F1-5B-4E-7B-7D",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/STE_Revolver_Neurotoxin.uexp": "6A-34-36-99-E4-9D-82-CC",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/STE_Revolver_Neurotoxin2.uexp": "AA-96-B1-19-E1-C3-14-6F",
-          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/UPG_Revolver_ExplosiveBullets_Explosion.uexp": "F2-41-22-6B-97-85-42-2F",
+          "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/UPG_Revolver_ExplosiveBullets_Explosion.uexp": "16-1D-B4-E7-37-5A-EF-85",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_BonusesAndPenalties/UPG_SawedOff_E_DragonsBreath.uexp": "8B-57-B4-9E-50-7A-82-9F",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_Ammo_B.uexp": "81-65-8D-6C-5B-CD-7C-75",
           "../../../FSD/Content/WeaponsNTools/GatlingGun/Overclocks/OC_Gatling_AmmoNew_C.uexp": "FE-FB-70-00-BA-3F-45-D5",

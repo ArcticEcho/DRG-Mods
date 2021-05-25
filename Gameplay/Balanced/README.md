@@ -19,16 +19,16 @@ Happy to see buffs to the HE grenade, this is an update to an old version thatI 
 --Mod Demonstration->https://www.youtube.com/watch?v=RK-TSBKpmTQ&ab_channel=AGlyphidisFineToo  
 --This mod will only apply to the lobby if the host has it.
 
-## Alternative Minigun Overclocks - v1.41
+## Alternative Minigun Overclocks - v1.42
 **Authors:** Yarby  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e9877fa35c7b2beb19c4fca9f1f798032b8ff900/Gameplay/Balanced/Alternative%20Minigun%20Overclocks%20-%20V1.41.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d98de02e0a30739f2e843b4bb15c578e344f9758/Gameplay/Balanced/Alternative%20Minigun%20Overclocks%20-%20V1.42.zip)  
 
 **Description:**  
 This mod reworks every overclock for the minigun to increase the diversity of effects, which allows for more varied playstyles. This is not compatible with any other minigun overclock mods. Detailed stats of each overclock is included in the readme file.
 
-**Update v1.41 Changelog:**  
-Removed 'Lead Storm Rework' and 'Cryo Ammo'. Added 'Explosive Bullets' and 'Flaming Rounds'. Updated 'Freezing Hell' to v1.1. See full stats in readme file.
+**Update v1.42 Changelog:**  
+Nerfed explosive bullet splash damage from 30 to 5. LOL (Sorry to the sandbox OC lovers)
 
 ## BBP (Big Balance Patch) - v1.8.1
 **Authors:** GreyHound  
