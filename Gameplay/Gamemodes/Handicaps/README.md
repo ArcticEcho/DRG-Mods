@@ -26,10 +26,10 @@ These changes help Buffed-C do what Bet-C does, but a little better. If these ch
 -explode grenades even sooner (1.4 > 1.0)  
 Also includes a few QoL fixes, like repairing Buffed-C in less time (8 > 4) and doing a bit less friendly fire damage (0.08 > 0.02 & 0.05 > 0.02).
 
-## Cave Leech Clusterfuck - v1.0
+## Cave Leech Clusterfuck - v1.1
 **Authors:** The Inevitable Luke  
-**DRG Version:** Update 33, Hotfix 9  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/65b21d62d06df26bf961dff056eabf1350e7a9c7/Gameplay/Gamemodes/Handicaps/Cave%20Leech%20Clusterfuck%20-%20V1.0%20_P.pak)  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f1b10097ef3b96179177ddc34382339da5a9b17e/Gameplay/Gamemodes/Handicaps/Cave%20Leech%20Clusterfuck%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are too big, or too slow? Do you have a nuisance Scout you're looking to dispose of? Look no further - Cave Leech Clusterfuck is the mod for you!  
@@ -38,6 +38,9 @@ Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are
 --Renames *Cave Leech Cluster* to *Cave Leech Clusterfuck* in mission selection  
 --Increases hazard bonus  
 --May not behave quite right on all mission types (Refinery has been... odd so far)
+
+**Update v1.1 Changelog:**  
+Squashed bug where leeches would block each other's line of sight. They will no longer overlap, and will all try to grab you. Many apologies for the inconvenience.
 
 ## Hardended Weakness - v1.0
 **Authors:** mino  
