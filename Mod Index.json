@@ -12966,6 +12966,25 @@
     "DownloadUrl": "https://mega.nz/file/G91BnaYZ#5vBbhMDlR75W6LLLsvf5P0s8vyU0_jPi09RP_8E1E6o",
     "Paks": null
   },
+  "yoink": {
+    "DisplayName": "YOINK",
+    "Version": "1.0",
+    "DrgVersion": "Update 34, Hotfix 5",
+    "AuthorIds": [
+      297356398558183424
+    ],
+    "Description": "Grabbers *really* overstay their welcome - but not anymore! Try YOINK™️ today to see your grabber woes go away! (Warning: scout may also go away)\n\n- Grabbers only carry you for 5 seconds, not 20\n\n- Grabbers go *fast*, so you can still go far",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f70f1f2c234e589b4ba80b4b552714231501295f/Gameplay/Gamemodes/Alternative%20playstyles/YOINK%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "YOINK - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/FlyingBug/Grabber/ENE_Grabber.uexp": "18-9F-A8-2B-0A-B8-5A-7E"
+        }
+      }
+    ]
+  },
   "ziplinegunspeedammoandanglebuffed": {
     "DisplayName": "ZiplineGun Speed, Ammo and Angle Buffed",
     "Version": "1.0",

@@ -118,3 +118,13 @@ Management finally decided it was worth upgrading the drilldozer armor to preven
 -Cut some holes for 2 deposits near the gears that make the drilldozer do what it is known for, drilling, thus helping you to crush those minerals and hopefully not break the damn thing.  
 -Got rid of some suspension to add 2 pipeline starts to the bottom, outer sides of the fuel canister region.  Who would have thought that a giant artificial tunnel system would be good for roller-coasters AND extraction with a valuable head and the glowing duct tape equivalent for Hoxxes?  
 Note-> does not pimp your ride (adds stuff, nothing was actually removed for the enhancements).
+
+## YOINK - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** Update 34, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f70f1f2c234e589b4ba80b4b552714231501295f/Gameplay/Gamemodes/Alternative%20playstyles/YOINK%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Grabbers *really* overstay their welcome - but not anymore! Try YOINK™️ today to see your grabber woes go away! (Warning: scout may also go away)  
+- Grabbers only carry you for 5 seconds, not 20  
+- Grabbers go *fast*, so you can still go far
