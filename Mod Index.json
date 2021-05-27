@@ -130,6 +130,25 @@
       }
     ]
   },
+  "3kmineheadturrets": {
+    "DisplayName": "3K Minehead Turrets",
+    "Version": "1.0",
+    "DrgVersion": "Update 34, HF 5",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "The Mineheads turrets hold 3k ammo (Note that it says 2.5k when they pop up, but upon firing it corrects to 3k)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e58419d739b38971dafc7f759752862f30ec5157/Gameplay/Unbalanced/Other/3K%20Minehead%20Turrets%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "3K Minehead Turrets - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/SentryGun/SentryGun_MineHead/BP_Minehead_Sentry.uexp": "59-15-B0-D8-41-DB-1B-B6"
+        }
+      }
+    ]
+  },
   "40nitrasupplydrops": {
     "DisplayName": "40 Nitra Supply Drops",
     "Version": "1.34",

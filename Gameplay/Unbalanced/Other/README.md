@@ -16,6 +16,14 @@ Unbalanced mods that don't belong in the other categories.
 **Update v1.34 Changelog:**  
 Updated Version Number
 
+## 3K Minehead Turrets - v1.0
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 34, HF 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e58419d739b38971dafc7f759752862f30ec5157/Gameplay/Unbalanced/Other/3K%20Minehead%20Turrets%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+The Mineheads turrets hold 3k ammo (Note that it says 2.5k when they pop up, but upon firing it corrects to 3k)
+
 ## 40 Nitra Supply Drops - v1.34
 **Authors:** Sesselpots  
 **DRG Version:** 34.0  
