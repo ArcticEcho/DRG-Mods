@@ -113,13 +113,16 @@ Full song list: https://docs.google.com/uc?export=download&id=1-9RHJvp4q2qhAebDx
 6. Deep Dive music - With your drill, pierce the heavens!  
 7. Promotional Fanfare - The good, the bad, the ugly (not the whistle)
 
-## NOW That's What I Call Hoxxes Greatest Hits - v1.1
+## NOW Thats What I Call Hoxxes Greatest Hits - v2.2
 **Authors:** Siirvend  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://mega.nz/file/drIjlIaC#pMGmaHoQdKToCkmWLBf215wrPHqdyUWbndiS3iaGdeY) (third-party host)  
+**Download Link:** [Download](https://mega.nz/file/xuZVwADD#ei9Np9Z2O3nIa8hZxP5dkr1GBIvpRSDCIVxHcwEASzM) (third-party host)  
 
 **Description:**  
 This is a full music replacement mod that changes every piece of music in the game to various songs from other games that seek to generally fit the mood of DRG while changing things up. The included soundtracks are Metal Gear Solid 5, Hollow Knight, Jormungand, Gurren Lagann, Death Stranding, Metal Gear Solid 3, Bastion, Girls Frontline and Tangle Tower.
+
+**Update v2.2 Changelog:**  
+Added a new looping track, replaced a few of the songs for wave music and escape sequence music.
 
 ## Quiet Space Rig - v1
 **Authors:** Kraeus  
