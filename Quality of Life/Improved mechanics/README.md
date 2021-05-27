@@ -36,6 +36,14 @@ Tired of having all the wealth but no option to buy happiness? Let me hear your 
 **Update v1.03 Changelog:**  
 Updated for to fix crash in U34 H5.
 
+## Consistent Statuses - v1.0
+**Authors:** speights  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/563119c5b9529b2fd5e05519870a98af0945f596/Quality%20of%20Life/Improved%20mechanics/Consistent%20Statuses%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Changes the random intervals in status effects to be the average consistently
+
 ## Dash Perk Suicide Preventer - v34.1.0
 **Authors:** NaturalBornCamper  
 **DRG Version:** 34.1  

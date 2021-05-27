@@ -2381,6 +2381,36 @@
       }
     ]
   },
+  "consistentstatuses": {
+    "DisplayName": "Consistent Statuses",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      326095938210758686
+    ],
+    "Description": "Changes the random intervals in status effects to be the average consistently",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/563119c5b9529b2fd5e05519870a98af0945f596/Quality%20of%20Life/Improved%20mechanics/Consistent%20Statuses%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Consistent Statuses - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Temperature/STE_EnemyOnFire.uasset": "44-D4-21-03-0A-F6-6B-50",
+          "../../../FSD/Content/GameElements/Temperature/STE_PLayerOnFire.uasset": "44-FB-55-0A-18-92-5A-56",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Neurotoxin/STE_Grenade_Neurotoxin.uasset": "30-A7-2E-23-C8-F1-BF-1D",
+          "../../../FSD/Content/WeaponsNTools/Revolver/UPG_Revolver_E_NeuroToxin.uasset": "E3-47-49-51-83-14-6E-11",
+          "../../../FSD/Content/Enemies/Spider/Shooter/STE_Spider_Shooter_Acid.uexp": "C2-6E-E6-62-45-36-47-C3",
+          "../../../FSD/Content/Enemies/Spider/Tank/STE_RadioactiveTank_Radiation.uexp": "6D-BC-44-D9-83-78-61-2A",
+          "../../../FSD/Content/Enemies/Spider/Tank/STE_Spider_AcidCloud.uexp": "E5-52-C5-3E-56-DE-81-94",
+          "../../../FSD/Content/Enemies/Spider/Tank/STE_Spider_Tank_AcidFlame.uexp": "AC-11-B5-46-36-BF-16-93",
+          "../../../FSD/Content/GameElements/Temperature/STE_EnemyOnFire.uexp": "E1-32-49-3F-44-9F-20-9E",
+          "../../../FSD/Content/GameElements/Temperature/STE_PLayerOnFire.uexp": "13-0F-BB-38-B4-D5-A4-56",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Neurotoxin/STE_Grenade_Neurotoxin.uexp": "8B-07-EA-8C-9C-AE-C8-7F",
+          "../../../FSD/Content/WeaponsNTools/Revolver/UPG_Revolver_E_NeuroToxin.uexp": "45-81-5F-B1-72-BD-C6-50"
+        }
+      }
+    ]
+  },
   "creepyeyesbegone": {
     "DisplayName": "Creepy Eyes Be Gone",
     "Version": "1.0",
