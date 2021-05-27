@@ -6322,6 +6322,36 @@
       }
     ]
   },
+  "ironimpactaxe": {
+    "DisplayName": "Iron Impact Axe",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      149217063154614272
+    ],
+    "Description": "Repalces the Impact Axe model with a Iron Axe from the game Minecraft",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ac9e77fe5775446aee8163b02f88dc64e442b49c/Visual/3D%20Model%20Replacement/Weapons%26Tools/Iron%20Impact%20Axe%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Iron Impact Axe - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/iron_axe.uasset": "D2-68-B6-42-C4-78-89-E8",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_iron_axe.uasset": "73-28-FD-20-FB-BD-A3-68",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N.uasset": "65-02-F6-3C-7C-AA-38-E1",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N2.uasset": "1B-63-0F-4D-F4-70-09-77",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N_Loadout_StickAXE.uasset": "A7-C3-09-B6-4C-4D-B5-E9",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N_Thrown.uasset": "6C-7B-86-8D-F4-41-11-3A",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/iron_axe.uexp": "7C-8F-BC-E4-23-E8-3A-04",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/M_iron_axe.uexp": "9B-D7-28-7C-B4-E7-66-7A",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N.uexp": "42-37-73-CC-C3-C6-DD-D0",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N2.uexp": "21-6B-DD-78-7E-22-60-6F",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N_Loadout_StickAXE.uexp": "33-26-5A-1F-C8-E9-CC-CA",
+          "../../../FSD/Content/WeaponsNTools/Grenades/Grenade_Models/SM_HandGrenade_N_Thrown.uexp": "B8-0C-22-10-95-AF-B9-8B"
+        }
+      }
+    ]
+  },
   "kaboomstick": {
     "DisplayName": "Kaboomstick",
     "Version": "1.2",

@@ -36,6 +36,14 @@ Replaces the building hammer with TF 2's golden wrench! (thanks to SirVerex for 
 **Description:**  
 Bonk! Return to monkey with this primitive weapon. Send those glyphids to horny jail! (Replaces Impact Axe)
 
+## Iron Impact Axe - v1.0
+**Authors:** SirVerex  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ac9e77fe5775446aee8163b02f88dc64e442b49c/Visual/3D%20Model%20Replacement/Weapons%26Tools/Iron%20Impact%20Axe%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Repalces the Impact Axe model with a Iron Axe from the game Minecraft
+
 ## Lemonnade - v1.0
 **Authors:** SirVerex  
 **DRG Version:** U34  
