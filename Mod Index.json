@@ -2274,21 +2274,21 @@
   },
   "caveleechclusterfuck": {
     "DisplayName": "Cave Leech Clusterfuck",
-    "Version": "1.1",
+    "Version": "1.2",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       297356398558183424
     ],
     "Description": "Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are too big, or too slow? Do you have a nuisance Scout you're looking to dispose of? Look no further - Cave Leech Clusterfuck is the mod for you!\n--Makes smaller, faster leeches\n--Makes a *lot* more leeches (but only in missions with the modifier)\n--Renames *Cave Leech Cluster* to *Cave Leech Clusterfuck* in mission selection\n--Increases hazard bonus\n--May not behave quite right on all mission types (Refinery has been... odd so far)",
-    "LastUpdateChangelog": "Squashed bug where leeches would block each other's line of sight. They will no longer overlap, and will all try to grab you. Many apologies for the inconvenience.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f1b10097ef3b96179177ddc34382339da5a9b17e/Gameplay/Gamemodes/Handicaps/Cave%20Leech%20Clusterfuck%20-%20V1.1%20_P.pak",
+    "LastUpdateChangelog": "Improved cave leech tessellation. Fewer opportunities to see that pesky \"ceiling\" that used to appear between our glorious overleeches. **Accept the leech. Love the leech.**",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3360ab54e2ace18e53cd5b5a579299b4807314e1/Gameplay/Gamemodes/Handicaps/Cave%20Leech%20Clusterfuck%20-%20V1.2%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Cave Leech Clusterfuck - V1.1",
+        "PakFileName": "Cave Leech Clusterfuck - V1.2",
         "CookedFileHashes": {
           "../../../FSD/Content/Localization/Game/en/Game.locres": "BB-B0-B7-C8-A7-36-FF-1F",
-          "../../../FSD/Content/Enemies/CaveLeech/ENE_CaveLeech.uexp": "E1-36-22-76-8D-3F-65-1C",
-          "../../../FSD/Content/GameElements/Missions/Warnings/CaveLeechDen/MUT_CaveLeechStationaryEncounter.uexp": "D8-BA-35-3D-D1-01-15-21",
+          "../../../FSD/Content/Enemies/CaveLeech/ENE_CaveLeech.uexp": "72-71-3D-AF-80-FF-95-CA",
+          "../../../FSD/Content/GameElements/Missions/Warnings/CaveLeechDen/MUT_CaveLeechStationaryEncounter.uexp": "2C-73-90-87-18-00-8F-32",
           "../../../FSD/Content/GameElements/Missions/Warnings/CaveLeechDen/WRN_CaveLeechDen.uexp": "05-10-0D-8A-3F-25-33-07"
         }
       }
