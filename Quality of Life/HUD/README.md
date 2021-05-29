@@ -31,7 +31,7 @@ Removes the mission control speech text popup.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/02e27e2b5411ab8905010eeda31ceb47ab6f3819/Quality%20of%20Life/HUD/Mission%20Timer%20-%20V2.0%20_P.pak)  
 
 **Description:**  
-**Requires the mod loader.**  
+**Requires the Blueprint Mod Manager.**  
 Adds a small mission timer to the top of the screen. Also acts as a deep dive stage timer.
 
 **Update v2.0 Changelog:**  
