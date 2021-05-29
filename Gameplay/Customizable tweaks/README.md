@@ -22,7 +22,7 @@ Fixed the cap for u34.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a822a01a4174c1de2f511549a34eedcf26093bbe/Gameplay/Customizable%20tweaks/Custom%20Waves%20-%20V1.4%20_P.pak)  
 
 **Description:**  
-**Requires the mod loader.**  
+**Requires the Blueprint Mod Manager.**  
 This mod adds a new customisable wave system to the game, it doesn't replace the "natural" in-game waves. The mod uses a spawn cost and spawn chance system to make wave compositions feel more natural and varied. Every enemy is assigned a spawn chance that determines its rarity (higher number = higher chance to spawn), and a spawn cost that determines how expensive that enemy type is to spawn (higher number = less units spawn per wave). Each wave is made up of multiple "stages", where each stage will spawn a group of enemies on a random player (at a set distance).
 
 **Update v1.4 Changelog:**  
