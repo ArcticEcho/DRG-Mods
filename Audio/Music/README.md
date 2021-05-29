@@ -4,6 +4,15 @@ Audio changes for the soundtrack or jukebox tracks
 
 <!-- mod list -->
 
+## Darkest Dungeon Music - v2.0
+**Authors:** Spoke  
+**DRG Version:** 34  
+**Download Link:** [Download](https://mega.nz/file/CD4AGbYK#fxgCsOdP80FxI7CsPOZtQY95GFZOMwyU0mDTz2sB8lA) (third-party host)  
+
+**Description:**  
+Reupload, originally made in november 2020. Volume levels have been adjusted slightly.  
+Replaces exploration and combat songs.
+
 ## Dies Irea Dreadnough Boss Music - v2
 **Authors:** Sephiasus  
 **DRG Version:** Update 32/33  

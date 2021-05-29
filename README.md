@@ -18,6 +18,7 @@ You can easily locate your game installation path using steam:
 <!-- mod list -->
 
 ## [Audio/Music](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music)
+ - **[Darkest Dungeon Music](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#darkest-dungeon-music---v20)** by Spoke ([download](https://mega.nz/file/CD4AGbYK#fxgCsOdP80FxI7CsPOZtQY95GFZOMwyU0mDTz2sB8lA) - third-party host)
  - **[Dies Irea Dreadnough Boss Music](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#dies-irea-dreadnough-boss-music---v2)** by Sephiasus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/20cadfe753b4cc4070716fc92dc1dbf17ac3d14a/Audio/Music/Dies%20Irea%20Dreadnough%20Boss%20Music%20-%20V2%20_P.pak))
  - **[DOOM Music Overhaul](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#doom-music-overhaul---v15)** by Demellion Dismal ([download](https://mega.nz/file/vvBxFKLT#EDDLw-GRQn_sIxvX0vIvpb7LIhh-FC7QOx5cZnSFsco) - third-party host)
  - **[Drip Fortress End Screen](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Music/README.md#drip-fortress-end-screen---v10)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f83ca60f70ef9bc293a3443cfcb6f10fabf6ca44/Audio/Music/Drip%20Fortress%20End%20Screen%20-%20V1.0%20_P.pak))

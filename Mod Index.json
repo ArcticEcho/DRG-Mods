@@ -2658,6 +2658,18 @@
       }
     ]
   },
+  "darkestdungeonmusic": {
+    "DisplayName": "Darkest Dungeon Music",
+    "Version": "2.0",
+    "DrgVersion": "34",
+    "AuthorIds": [
+      224914257731518465
+    ],
+    "Description": "Reupload, originally made in november 2020. Volume levels have been adjusted slightly.\n\nReplaces exploration and combat songs.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://mega.nz/file/CD4AGbYK#fxgCsOdP80FxI7CsPOZtQY95GFZOMwyU0mDTz2sB8lA",
+    "Paks": null
+  },
   "dashperksuicidepreventer": {
     "DisplayName": "Dash Perk Suicide Preventer",
     "Version": "34.1.0",
