@@ -7235,7 +7235,7 @@
     "AuthorIds": [
       158916111390343168
     ],
-    "Description": "**Requires the mod loader.**\nThe point extract minehead now has gravity, can spin round, and can have its location randomised. All the features can be individually turned on/off. Only works as the host.",
+    "Description": "**Requires the Blueprint Mod Manager.**\nThe point extract minehead now has gravity, can spin round, and can have its location randomised. All the features can be individually turned on/off. Only works as the host.",
     "LastUpdateChangelog": "- Fixed a bug that would cause the mod to ignore the random location min distance option.",
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d7626e2d8975bfd79af91b80fdd976a894c684c6/Gameplay/Customizable%20tweaks/Minehead%20Is%20Now%20Epic%20-%20V2.7%20_P.pak",
     "Paks": [

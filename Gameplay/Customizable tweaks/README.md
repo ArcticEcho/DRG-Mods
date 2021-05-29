@@ -64,7 +64,7 @@ I've also modified the broken resupplies to deal the same drop damage as regular
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d7626e2d8975bfd79af91b80fdd976a894c684c6/Gameplay/Customizable%20tweaks/Minehead%20Is%20Now%20Epic%20-%20V2.7%20_P.pak)  
 
 **Description:**  
-**Requires the mod loader.**  
+**Requires the Blueprint Mod Manager.**  
 The point extract minehead now has gravity, can spin round, and can have its location randomised. All the features can be individually turned on/off. Only works as the host.
 
 **Update v2.7 Changelog:**  
