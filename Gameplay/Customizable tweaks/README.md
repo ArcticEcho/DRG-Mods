@@ -34,7 +34,7 @@ Fixed a minor conflict with the generous management mod.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6450d4296b8ff471c1535a452545520018ad3a7a/Gameplay/Customizable%20tweaks/Environmentalist%20-%20V3.1%20_P.pak)  
 
 **Description:**  
-**Requires the mod loader.**  
+**Requires the Blueprint Mod Manager.**  
 Make Hoxxes even more unwelcoming with a selection of controls to spawn in earthquakes and storms. This is a host-side mod.
 
 ## Generous Management - v2.0
