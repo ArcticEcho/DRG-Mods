@@ -92,14 +92,14 @@ Hoxxes IV seems to be running low on masks, so the cave leeches have been instru
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4cc16cdb57ec25575f71f4c74b6e608e89ce69ab/Gameplay/Gamemodes/Alternative%20playstyles/Support%20Pods%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-**REQUIRES MOD LOADER**  
-Adds 3 new call ins to the game. The beginning of the game provides you with 3 charges shared between all pods, these charges refresh every 5 minutes and it costs 1 charge per pod. Only the host with the mod can call these in to prevent de-sync issues as a client trying to call them in.  
--Spotpipe: when you press 6 a beacon is placed to call in a modified resupply pod with a rotating spotlight that provides bright light around it and directional light on the ceiling, it also comes with 4 pipeline starts to start grinding on any mission you want (except refinery to prevent breaking the mission). This pod is also worth kicking.  
--Time Capsule: when you press 7 a beacon is placed to call in a modified supply pod that has 4 deposit slots for collecting your precious minerals regardless of MULE accessibility. This works on every mission type, yes, even Point Extraction and Refinery. Comes with spinning MULE beacon to light the way and tell your ears to find it later. Despite my on-the-spot name for this, it does not actually hold stuff for later, just an alternative deposit area.  
--Angelic Intervention: when you press 0 a late joining player beacon is placed and an egg falls from the sky, opening shortly after with your favorite pet. That's right, Steeve! Nah, who wants that when you can get your very own personal flying taxi to explore any cave you want . .  
-Known bugs: late joining players can see over sized call ins.  
-Preview: https://discord.com/channels/676880716142739467/732650220214681600/802830115573989388  
-1.1 Preview: https://youtu.be/6geTkovpYWI / https://discord.com/channels/676880716142739467/732650220214681600/809171441231593481
+**Requires the Blueprint Mod Manager.**  
+Adds 5 new call ins to the game. The beginning of the game provides you with 3 charges shared between all pods, these charges refresh every 5 minutes and it costs 1 charge per pod. Only the host with the mod can call these in to prevent de-sync issues as a client trying to call them in.  
+‣ Spotpipe: when you press 6 a beacon is placed to call in a pod with a rotating spotlight that provides bright light around it and directional light on the ceiling, it also comes with 4 pipeline starts to start grinding on any mission you want (except refinery to prevent breaking the mission).  
+‣ Time Capsule: when you press 7 a beacon is placed to call in a pod that has 4 deposit slots for collecting your precious minerals regardless of MULE accessibility. This works on every mission type, yes, even Point Extraction and Refinery. Comes with spinning MULE beacon to light the way and tell your ears to find it later.  
+‣ Angelic Intervention: when you press 0 a late joining player beacon is placed and an egg falls from the sky, opening shortly after with your favorite pet. That's right, Steeve! Nah, who wants that when you can get your very own personal flying taxi to explore any cave you want . .  
+‣ Low Gravity Generator: when you press F1 a beacon is placed to call in a carriable battery that generates low gravity in a large area as well as gives a 30% speed boost to allies and enemies alike.  Stacks with multiple batteries by each other for even lower gravity.  
+‣ Defense Generator: when you press F3 a beacon is placed to call in a carriable battery that gives 50% damage reduction for enemies and allies alike in a large area.  Does not stack with multiple batteries.  
+Known bugs: late joining players can see over-sized call ins.
 
 **Update v1.1 Changelog:**  
 Added movable magic hole and magic crystal buffs from Azure Weald to F1 and F3.  
