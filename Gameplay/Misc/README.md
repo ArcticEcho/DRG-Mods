@@ -152,10 +152,10 @@ Shield Disruption will no longer affect gameplay, Red Sugar Occurrence 2x > 1x, 
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d87043d07903268cd5f5e7594ebece60aefd7c56/Gameplay/Misc/Seasonal%20Space%20Rig%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-**Requires the Mod Loader**  
---Adds three toggles in the mod loader to enable Christmas, Halloween and a custom map setup made by me.  
---Visually and audibly works as a client regardless of what the host has (I left this in on purpose, could disable it while not the host), all three options work well for clients while you are the host.  
---Good for snowball fights if you turn on my custom map edits (extra snow).  Will add some more custom festive stuff and config saving in the future, just wanted to get this functional version out so it seems like I do stuff.  
+**Requires the Blueprint Mod Manager.**  
+‣ Adds three toggles in the mod loader to enable Christmas, Halloween and a custom map setup made by me.  
+‣ Visually and audibly works as a client regardless of what the host has (I left this in on purpose, could disable it while not the host), all three options work well for clients while you are the host.  
+‣ Good for snowball fights if you turn on my custom map edits (extra snow). Will add some more custom festive stuff and config saving in the future, just wanted to get this functional version out so it seems like I do stuff.  
 Preview: https://discord.com/channels/676880716142739467/732650220214681600/808605470519459851
 
 **Update v1.1 Changelog:**  
