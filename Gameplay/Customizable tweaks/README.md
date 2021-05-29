@@ -76,5 +76,5 @@ The point extract minehead now has gravity, can spin round, and can have its loc
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ed94f652e2686192bf7fa02c235e3402e8d60b4a/Gameplay/Customizable%20tweaks/Time%20Control%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-**Requires the mod loader.**  
+**Requires the Blueprint Mod Manager.**  
 It's time for some sloooooow mooootion. This mod lets you adjust the game's time scale to anything you want. Only works as the host.
