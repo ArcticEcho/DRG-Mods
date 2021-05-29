@@ -68,11 +68,14 @@ Displays the real ammo, magazine, and rate of fire for the "Leadstorm" Powered M
 **Description:**  
 Reduces the opacity of the neurotoxin grenade's cloud to 15%, making it easier to see through. Also affects the gas left behind from praetorians/oppressors, and the ice particles when firing the cryo cannon.
 
-## White Throwing Flares - v1.0
+## White Throwing Flares - v1.1
 **Authors:** Our Lord And Savior Gabe Newell  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ab33f77afd4a3ba9841353911b61ea7c0d10aad6/Quality%20of%20Life/Other/White%20Throwing%20Flares%20-%20V1.0%20_P.pak)  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/aaeda1dbe5507169dfde83c9d08dffd4c905b64b/Quality%20of%20Life/Other/White%20Throwing%20Flares%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 --Makes the light of throwing flares white without any other changes.  
 --Seems to be brighter due to the color change not blending or being "dark".
+
+**Update v1.1 Changelog:**  
+Remade for current game version.
