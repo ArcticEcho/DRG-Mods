@@ -1949,7 +1949,7 @@
     "AuthorIds": [
       158916111390343168
     ],
-    "Description": "**Requires the mod loader.**\nAdds options for controlling: super-sampling, ambient occlusion, bloom, lens flare, lens dirt, vignette, and film grain.\n_Your in-game graphics settings for post-processing must be set to high/ultra._",
+    "Description": "**Requires the Blueprint Mod Manager.**\nAdds options for controlling: super-sampling, ambient occlusion, bloom, lens flare, lens dirt, vignette, and film grain.\nYour in-game graphics settings for post-processing must be set to high/ultra.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9af05f5ba5645ab336fa03dc6d5712d9fa1a7216/Visual/Misc/Better%20Post%20Processing%20-%20V1.3%20_P.pak",
     "Paks": [
