@@ -10,7 +10,7 @@ Changes to the game's camera.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f1143a182e80ffb6542bc63b38ef8dd762c2b263/Quality%20of%20Life/Camera/Better%20Spectator%20-%20V1.7%20_P.pak)  
 
 **Description:**  
-**Requires the mod loader.**  
+**Requires the Blueprint Mod Manager.**  
 Replaces the game's spectator camera when you get downed (removes the fuzzy overlay and skips the faceplant animation). It allows you to freely orbit and zoom in/out when spectating players. You can also optionally spectate Bosco, Molly, Doretta, and BET-C.
 
 ## More FOV - v1.3
