@@ -10,7 +10,7 @@ QoL mods to speed up actions that take too long in-game.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/beaa72905fe198dac55e22c0d7b4f34a70a868ce/Quality%20of%20Life/Time%20saving/Closer%20Promotion%20Terminal%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-**Requires the mod loader.**  
+**Requires the Blueprint Mod Manager.**  
 Adds a promotion terminal to your personal cabin. Host-only.
 
 ## DorettaDontCare - v1.04
