@@ -161,13 +161,13 @@ Preview: https://discord.com/channels/676880716142739467/732650220214681600/8086
 **Update v1.1 Changelog:**  
 Fixed the crash caused by hotfix 4.
 
-## Spawn Menu - v1.1
+## Spawn Menu - v1.2
 **Authors:** GoldBl4d3  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/91e01f157a648dd0e324fe4714d49f048496401e/Gameplay/Misc/Spawn%20Menu%20-%20V1.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b5ef50708df6ab600e6333e2db197631e99fdfdd/Gameplay/Misc/Spawn%20Menu%20-%20V1.2%20_P.pak)  
 
 **Description:**  
-Spawn every creature and object in the game. With 370+ options to choose from. Now with custom spawn profiles and twitch viewer interactivity support. Can be used to convert enemies into Elite Variants. Requires BP Mod Manager.
+Spawn every creature and object in the game. With 400+ options to choose from. Now with custom spawn profiles and twitch viewer interactivity support. Can be used to convert enemies into Elite Variants. Requires BP Mod Manager.
 
-**Update v1.1 Changelog:**  
-Added new effects, spawn options, spawn profiles and groups, and viewer interactivity support.
+**Update v1.2 Changelog:**  
+Fixed default Maggot spawn. Convert Natural Enemies to Elite are now spawn buttons. Added Tip Machine, Jukebox, Pipeline starters, Switch to other Characters. Implemented basic constraints on spawn distance and slope ranges. Projectiles will no longer ignore collision. Nitra Deposit temporarily working with UUU. Removed Wall-Maggot as it is the same thing as Corpse Feeder.
