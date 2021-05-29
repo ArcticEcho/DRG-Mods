@@ -22,7 +22,7 @@ need BP Mod Manager!I'm equipped with Born Ready, but often forget if it's reloa
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e303de4d3d5aab5825af8858ac95cdeb66d07e0f/Quality%20of%20Life/HUD/Mission%20Control%20Text%20Remover%20-%20V1.2%20_P.pak)  
 
 **Description:**  
-**Requires the mod loader.**  
+**Requires the Blueprint Mod Manager.**  
 Removes the mission control speech text popup.
 
 ## Mission Timer - v2.0

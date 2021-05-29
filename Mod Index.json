@@ -8667,7 +8667,7 @@
     "AuthorIds": [
       158916111390343168
     ],
-    "Description": "**Requires the mod loader.**\nRemoves the mission control speech text popup.",
+    "Description": "**Requires the Blueprint Mod Manager.**\nRemoves the mission control speech text popup.",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e303de4d3d5aab5825af8858ac95cdeb66d07e0f/Quality%20of%20Life/HUD/Mission%20Control%20Text%20Remover%20-%20V1.2%20_P.pak",
     "Paks": [
