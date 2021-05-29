@@ -163,10 +163,10 @@ No Jukebox songs.
 **Update v0.9 Changelog:**  
 0.9 - Volume pass done. Increased volume on some songs. "Make waves more obvious" pass next.
 
-## WTFightMusic - v2.1
+## WTFightMusic - v2.2
 **Authors:** CouchDiabetic  
 **DRG Version:** Update 33 Hotfix 9  
-**Download Link:** [Download](https://mega.nz/file/G91BnaYZ#5vBbhMDlR75W6LLLsvf5P0s8vyU0_jPi09RP_8E1E6o) (third-party host)  
+**Download Link:** [Download](https://mega.nz/file/2x0gADTa#nCIFCZLjYj-Jzz_XIjzMRR9igRN4yflqgmMSaQl3MDQ) (third-party host)  
 
 **Description:**  
 A music pack to make you stop in your tracks and ask, ‘TF am I listening to?’.  You’re guaranteed to get a good laugh while using this mod.  All in-game music and ambiances have been changed.  Each section will have a playlist you can view on YouTube.  
@@ -178,3 +178,6 @@ Event music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchZra0FZGb
 Space rig music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchappZI89YgRUsbjlEpif68c.  Features chill music from Club Penguin.  
 Ambiances bring you the haunted cave experience and are triggered every 3 minutes.  Listen closely.  You’ll have a chance to hear random laughter, people disappearing, an occasional meme, and children’s laughter at its creepiest (0.5x less chance than other ambiances).  
 Loading music can be one of the following memes: https://www.youtube.com/playlist?list=PLdXm8_JvZchbX2o7RAFlqAE8O-INJ40Zx.  Features ‘I am the milkman, my milk is delicious’.
+
+**Update v2.2 Changelog:**  
+Removed annoying old songs and added fresh new oddities.  Also changed the way songs are randomized and looped.
