@@ -128,7 +128,7 @@ Updated for U34
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/07e37e6be175630c1a1115b03a0bc78d87d9b84d/Quality%20of%20Life/Time%20saving/Take%20Me%20Home%20-%20V1.0%20_P.pak)  
 
 **Description:**  
-**Requires the mod loader.**  
+**Requires the Blueprint Mod Manager.**  
 Adds a button in the mod manager menu that will instantly load you back into the spacerig.
 
 ## Teleport Players - v1.0
