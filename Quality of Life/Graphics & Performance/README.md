@@ -10,7 +10,7 @@ Tweaks to graphics and stuff that can improve performance.
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ff191348af82383cbbd363c55b6bea3402af5bb7/Quality%20of%20Life/Graphics%20%26%20Performance/Dynamic%20Resolution%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-**Requires the mod loader.**  
+**Requires the Blueprint Mod Manager.**  
 This mod attempts to stabilise your FPS by dynamically adjusting the game's resolution. Works best with vsync disabled.
 
 ## Quarter Death Duration - v1.4
