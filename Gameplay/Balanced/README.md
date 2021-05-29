@@ -19,16 +19,16 @@ Happy to see buffs to the HE grenade, this is an update to an old version thatI 
 --Mod Demonstration->https://www.youtube.com/watch?v=RK-TSBKpmTQ&ab_channel=AGlyphidisFineToo  
 --This mod will only apply to the lobby if the host has it.
 
-## Alternative Minigun Overclocks - v1.42
+## Alternative Minigun Overclocks - v1.43
 **Authors:** Yarby  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d98de02e0a30739f2e843b4bb15c578e344f9758/Gameplay/Balanced/Alternative%20Minigun%20Overclocks%20-%20V1.42.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8c1592597bbbcca478298ac8261c902e39aa6a2a/Gameplay/Balanced/Alternative%20Minigun%20Overclocks%20-%20V1.43.zip)  
 
 **Description:**  
 This mod reworks every overclock for the minigun to increase the diversity of effects, which allows for more varied playstyles. This is not compatible with any other minigun overclock mods. Detailed stats of each overclock is included in the readme file.
 
-**Update v1.42 Changelog:**  
-Nerfed explosive bullet splash damage from 30 to 5. LOL (Sorry to the sandbox OC lovers)
+**Update v1.43 Changelog:**  
+Removed 'Shallow Choice'.Added 'Cooling Fins'.
 
 ## BBP (Big Balance Patch) - v1.8.1
 **Authors:** GreyHound  
