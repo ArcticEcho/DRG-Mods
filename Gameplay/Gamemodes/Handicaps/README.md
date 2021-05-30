@@ -26,6 +26,14 @@ These changes help Buffed-C do what Bet-C does, but a little better. If these ch
 -explode grenades even sooner (1.4 > 1.0)  
 Also includes a few QoL fixes, like repairing Buffed-C in less time (8 > 4) and doing a bit less friendly fire damage (0.08 > 0.02 & 0.05 > 0.02).
 
+## Cancer Plus - v1.0
+**Authors:** Yarby  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f75ae061c4e0b2e3bad4a580181e18eaa4d69e79/Gameplay/Gamemodes/Handicaps/Cancer%20Plus%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Massive buffs to to everybody's favourite trio: grabbers, sharks, and cave leeches. Buffs include longer grab-time (60 secs), faster movement, lower recovery time, and a whole host of other stats. Rated M for Masochist.
+
 ## Cave Leech Clusterfuck - v1.2
 **Authors:** The Inevitable Luke  
 **DRG Version:** U34 H5  

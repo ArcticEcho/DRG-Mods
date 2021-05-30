@@ -2264,6 +2264,30 @@
       }
     ]
   },
+  "cancerplus": {
+    "DisplayName": "Cancer Plus",
+    "Version": "1.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      624572402440863744
+    ],
+    "Description": "Massive buffs to to everybody's favourite trio: grabbers, sharks, and cave leeches. Buffs include longer grab-time (60 secs), faster movement, lower recovery time, and a whole host of other stats. Rated M for Masochist.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f75ae061c4e0b2e3bad4a580181e18eaa4d69e79/Gameplay/Gamemodes/Handicaps/Cancer%20Plus%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Cancer Plus - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/CaveLeech/ENE_CaveLeech.uasset": "EB-97-4C-90-81-05-13-7A",
+          "../../../FSD/Content/Enemies/FlyingBug/Grabber/ENE_Grabber.uasset": "8C-C4-F8-3D-88-17-32-30",
+          "../../../FSD/Content/Enemies/Shark/ENE_Shark.uasset": "1A-B5-2E-EE-44-7C-6C-83",
+          "../../../FSD/Content/Enemies/CaveLeech/ENE_CaveLeech.uexp": "24-02-11-20-D6-1E-78-B7",
+          "../../../FSD/Content/Enemies/FlyingBug/Grabber/ENE_Grabber.uexp": "82-14-F5-18-E6-6E-4D-0A",
+          "../../../FSD/Content/Enemies/Shark/ENE_Shark.uexp": "66-A7-77-E9-92-41-4E-2B"
+        }
+      }
+    ]
+  },
   "caveleechclusterfuck": {
     "DisplayName": "Cave Leech Clusterfuck",
     "Version": "1.2",
