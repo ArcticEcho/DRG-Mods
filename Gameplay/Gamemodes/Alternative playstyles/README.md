@@ -122,7 +122,9 @@ Management finally decided it was worth upgrading the Drilldozer to prevent futu
 ‣ Taking notes from previous worlds, we have decided that taking the slag produced by oil shale can be a valuable asset at slowing things down.  We may or may not have compromised the structure in turn for some utility.
 
 **Update v1.1 Changelog:**  
-Added customizable UI with config saving to make the experience what you want.  Can now toggle up to 4 turrets, up to 2 deposits, 2 pipelines, 1 spotlight, 1 waste dumper and 50% damage reduction.  Expect another update at some point.
+Added customizable UI with config saving to make the experience what you want.  Can now toggle up to 4 turrets, up to 2 deposits, 2 pipelines, 1 spotlight, 1 waste dumper and 50% damage reduction.  Expect another update at some point.  
+‣ Known Bugs -> clients can build or interact with some of the things you disabled, this won't have any effect besides it just building for when you want to enable it.  This was done so that you could not respawn turrets for free ammo.  Have not tried seeing if they can deposit.  Pipelines cause the treads to spaz out.  
+Download Link:
 
 ## YOINK - v1.0
 **Authors:** The Inevitable Luke  
