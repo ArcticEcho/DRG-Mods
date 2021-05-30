@@ -106,18 +106,23 @@ Added movable magic hole and magic crystal buffs from Azure Weald to F1 and F3.
 F1 is low gravity, 30% speed boost for 15s and it stacks with additional buff objects (crate batteries) to jump higher and fall slower, which also affects enemies.  
 F3 is 50% damage reduction for 15s and it affects enemies too.
 
-## Upgraded Doretta - v1
+## Upgraded Doretta - v1.1
 **Authors:** Our Lord And Savior Gabe Newell  
-**DRG Version:** Update 33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ef646ed72ccfef8de9aa1d3e2c98f430c9a48cdb/Gameplay/Gamemodes/Alternative%20playstyles/Upgraded%20Doretta%20-%20V1%20_P.pak)  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/53152abc6114f30830acdb43450c2bb30179e213/Gameplay/Gamemodes/Alternative%20playstyles/Upgraded%20Doretta%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-REQUIRES MOD LOADER  
-Management finally decided it was worth upgrading the drilldozer armor to prevent future losses!  Oh, who am I kidding, of course they didn't.  
--We welded 4 heavy LMG turrets to Doretta with as much ammo as a standard turret magazine and provided no reserves, so stick your engineer with reloading them since his personal turret doesn't stay aboard anyways, unlike these ones.  
--Cut some holes for 2 deposits near the gears that make the drilldozer do what it is known for, drilling, thus helping you to crush those minerals and hopefully not break the damn thing.  
--Got rid of some suspension to add 2 pipeline starts to the bottom, outer sides of the fuel canister region.  Who would have thought that a giant artificial tunnel system would be good for roller-coasters AND extraction with a valuable head and the glowing duct tape equivalent for Hoxxes?  
-Note-> does not pimp your ride (adds stuff, nothing was actually removed for the enhancements).
+**Requires the Blueprint Mod Manager.**  
+Management finally decided it was worth upgrading the Drilldozer to prevent future losses!  Oh, who am I kidding, of course they didn't.  
+‣ We welded 4 heavy LMG turrets to Doretta with as much ammo as a standard turret magazine and provided no reserves, so stick your engineer with reloading them since his personal turret doesn't stay onboard anyways, unlike these ones.  
+‣ Cut some holes for 2 deposits near the gears that make the Drilldozer do what it is known for, drilling; thus helping you to crush those minerals and hopefully not break the damn thing.  
+‣ Got rid of some suspension to add 2 pipeline starts to the back end of the treads. Who would have thought that a giant artificial tunnel system would be good for roller-coasters AND extraction with a valuable head and the glowing duct tape equivalent of Hoxxes?  
+‣ You'd think that with all this oil shale we could at least afford to power some better lighting for this marvelous piece of engineering.  With the help of aftermarket sources, we were able to use the spinning of the drill to power up a repurposed floodlight.  
+‣ At the cost of sandwich storage, we were able to make Doretta stronger than wet tissue paper in some of Hoxxes's more deadly cave systems.  We estimate that these changes should make her at least 50% stronger than her lesser counterpart.  
+‣ Taking notes from previous worlds, we have decided that taking the slag produced by oil shale can be a valuable asset at slowing things down.  We may or may not have compromised the structure in turn for some utility.
+
+**Update v1.1 Changelog:**  
+Added customizable UI with config saving to make the experience what you want.  Can now toggle up to 4 turrets, up to 2 deposits, 2 pipelines, 1 spotlight, 1 waste dumper and 50% damage reduction.  Expect another update at some point.
 
 ## YOINK - v1.0
 **Authors:** The Inevitable Luke  
