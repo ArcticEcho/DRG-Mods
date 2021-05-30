@@ -110,10 +110,10 @@ Updated for U34 no elite hotfix
 **Update v4.3 Changelog:**  
 Updated for U34 no elite hotfix
 
-## Hazard 6 - v4.2
+## Hazard 6 - v4.3
 **Authors:** Ike  
 **DRG Version:** U34 Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/bbf2e0d2a0cd0348eb341abbd9eb13114add5109/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V4.2%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7b0316b0a5d0efe73c18f21a55d159a3ff9e4dc4/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V4.3%20_P.pak)  
 
 **Description:**  
 This is a comprehensive Hazard 6 Mod  
@@ -130,8 +130,8 @@ Update v4.0 Changelog
 -Slightly increased enemy damage scaling and medium enemy health to keep it parallel to Haz4->5  
 -Figured out how to control elite spawns but...
 
-**Update v4.2 Changelog:**  
-Had to redo since aoe babies complained about elites and now that section is gone
+**Update v4.3 Changelog:**  
+Discovered a mistake that reduced grunt veterancy to pathetic haz5 levels.
 
 ## Hazard 7 - v4.1
 **Authors:** Ike  

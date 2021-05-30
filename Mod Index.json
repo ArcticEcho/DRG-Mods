@@ -4631,19 +4631,19 @@
   },
   "hazard6": {
     "DisplayName": "Hazard 6",
-    "Version": "4.2",
+    "Version": "4.3",
     "DrgVersion": "U34 Hotfix 4",
     "AuthorIds": [
       189954203664252928
     ],
     "Description": "This is a comprehensive Hazard 6 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 6. Rewards multiplier is set to 166%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up.\n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate.\n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will need 80 nitra but spend 60 to drop resupplies, and their Doretta UI will be messed up.\nUpdate v4.0 Changelog\n--Changes since V3.0 include:\n-Figured out how to increase the spawn table allowing all types of disruptive enemies to spawn without preventing special spawns.\n-Toned down some of the variance on stationary strength and enemy diversity\n-Slightly increased enemy damage scaling and medium enemy health to keep it parallel to Haz4->5\n-Figured out how to control elite spawns but...",
-    "LastUpdateChangelog": "Had to redo since aoe babies complained about elites and now that section is gone",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/bbf2e0d2a0cd0348eb341abbd9eb13114add5109/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V4.2%20_P.pak",
+    "LastUpdateChangelog": "Discovered a mistake that reduced grunt veterancy to pathetic haz5 levels.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7b0316b0a5d0efe73c18f21a55d159a3ff9e4dc4/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V4.3%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Hazard 6 - V4.2",
+        "PakFileName": "Hazard 6 - V4.3",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "6D-70-44-6A-57-8B-30-1C",
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "9B-C0-62-5F-30-F6-8E-4A",
           "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "C1-6A-F2-84-4B-5C-9F-A6",
           "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "76-07-CD-DF-F6-C3-54-01"
         }
