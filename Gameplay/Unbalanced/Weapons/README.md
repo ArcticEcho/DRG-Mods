@@ -153,10 +153,10 @@ Converts the cooling capacity of the minigun chamber to store cryo bullets. This
 - Decreases base build time to 1 second.  
 - Decreases the fast build sentry mod bonus to -0.5 (total sentry build time 0.5 seconds)
 
-## Fat Man OC (Fatboy Overclock) - v3.4
+## Fat Man OC (Fatboy Overclock) - v3.4.4
 **Authors:** Sephiasus  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/34afa2c6c08655de399f123ca5e43aec73d8b83c/Gameplay/Unbalanced/Weapons/Fat%20Man%20OC%20%28Fatboy%20Overclock%29%20-%20V3.4%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/162758d68d7d019732489a43a2597eefdf130257/Gameplay/Unbalanced/Weapons/Fat%20Man%20OC%20%28Fatboy%20Overclock%29%20-%20V3.4.4%20_P.pak)  
 
 **Description:**  
 A mod that changes the Fat Boy OC to a "real-er" nuke  
