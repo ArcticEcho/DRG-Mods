@@ -12822,19 +12822,19 @@
   },
   "upgradeddoretta": {
     "DisplayName": "Upgraded Doretta",
-    "Version": "1.1",
+    "Version": "1.2",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       146392394328178690
     ],
     "Description": "**Requires the Blueprint Mod Manager.**\n\nManagement finally decided it was worth upgrading the Drilldozer to prevent future losses!  Oh, who am I kidding, of course they didn't.\n\n‣ We welded 4 heavy LMG turrets to Doretta with as much ammo as a standard turret magazine and provided no reserves, so stick your engineer with reloading them since his personal turret doesn't stay onboard anyways, unlike these ones.\n\n‣ Cut some holes for 2 deposits near the gears that make the Drilldozer do what it is known for, drilling; thus helping you to crush those minerals and hopefully not break the damn thing.\n\n‣ Got rid of some suspension to add 2 pipeline starts to the back end of the treads. Who would have thought that a giant artificial tunnel system would be good for roller-coasters AND extraction with a valuable head and the glowing duct tape equivalent of Hoxxes?\n\n‣ You'd think that with all this oil shale we could at least afford to power some better lighting for this marvelous piece of engineering.  With the help of aftermarket sources, we were able to use the spinning of the drill to power up a repurposed floodlight.\n\n‣ At the cost of sandwich storage, we were able to make Doretta stronger than wet tissue paper in some of Hoxxes's more deadly cave systems.  We estimate that these changes should make her at least 50% stronger than her lesser counterpart.\n\n‣ Taking notes from previous worlds, we have decided that taking the slag produced by oil shale can be a valuable asset at slowing things down.  We may or may not have compromised the structure in turn for some utility.",
-    "LastUpdateChangelog": "Added customizable UI with config saving to make the experience what you want.  Can now toggle up to 4 turrets, up to 2 deposits, 2 pipelines, 1 spotlight, 1 waste dumper and 50% damage reduction.  Expect another update at some point.\n‣ Known Bugs -> clients can build or interact with some of the things you disabled, this won't have any effect besides it just building for when you want to enable it.  This was done so that you could not respawn turrets for free ammo.  Have not tried seeing if they can deposit.  Pipelines cause the treads to spaz out.\nDownload Link:",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/53152abc6114f30830acdb43450c2bb30179e213/Gameplay/Gamemodes/Alternative%20playstyles/Upgraded%20Doretta%20-%20V1.1%20_P.pak",
+    "LastUpdateChangelog": "fixed clients being able to interact with hidden attachments, fixed pipelines causing treads to jiggle.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/26e3d51182856abc98c1b585ccc179e18dd39c48/Gameplay/Gamemodes/Alternative%20playstyles/Upgraded%20Doretta%20-%20V1.2%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Upgraded Doretta - V1.1",
+        "PakFileName": "Upgraded Doretta - V1.2",
         "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod035.uasset": "2C-B6-8D-EE-2C-39-DC-2B",
+          "../../../FSD/Content/_ModBPs/Mod035.uasset": "54-9C-44-CF-0D-9F-FC-A1",
           "../../../FSD/Content/_ModBPs/Upgraded_Doretta/GearIcon_Turret_Full.uasset": "25-34-76-7A-E0-06-97-37",
           "../../../FSD/Content/_ModBPs/Upgraded_Doretta/Icon_Drilldozer_Top.uasset": "8B-21-2B-49-D0-AD-45-DD",
           "../../../FSD/Content/_ModBPs/Upgraded_Doretta/Icon_Expert_Depositor.uasset": "A4-20-0C-8C-A3-B1-82-93",
@@ -12846,7 +12846,7 @@
           "../../../FSD/Content/_ModBPs/Upgraded_Doretta/Icon_Zipline_Speed.uasset": "35-C6-65-CC-C4-AA-05-9F",
           "../../../FSD/Content/_ModBPs/Upgraded_Doretta/UpgradedDorettaSaveGame.uasset": "94-46-D0-50-08-C5-10-3F",
           "../../../FSD/Content/_ModBPs/Upgraded_Doretta/UpgradedDorettaUI.uasset": "4D-D9-2E-18-31-7C-82-D1",
-          "../../../FSD/Content/_ModBPs/Mod035.uexp": "6F-50-1E-6C-58-BF-B9-94",
+          "../../../FSD/Content/_ModBPs/Mod035.uexp": "39-29-15-49-17-F4-5F-F9",
           "../../../FSD/Content/_ModBPs/Upgraded_Doretta/GearIcon_Turret_Full.uexp": "21-0E-F4-ED-B3-7C-71-7F",
           "../../../FSD/Content/_ModBPs/Upgraded_Doretta/Icon_Drilldozer_Top.uexp": "72-17-B9-84-FB-EE-33-30",
           "../../../FSD/Content/_ModBPs/Upgraded_Doretta/Icon_Expert_Depositor.uexp": "97-B9-96-CE-75-E2-BF-41",

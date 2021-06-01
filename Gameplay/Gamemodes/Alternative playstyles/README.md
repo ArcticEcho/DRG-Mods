@@ -106,10 +106,10 @@ Added movable magic hole and magic crystal buffs from Azure Weald to F1 and F3.
 F1 is low gravity, 30% speed boost for 15s and it stacks with additional buff objects (crate batteries) to jump higher and fall slower, which also affects enemies.  
 F3 is 50% damage reduction for 15s and it affects enemies too.
 
-## Upgraded Doretta - v1.1
+## Upgraded Doretta - v1.2
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/53152abc6114f30830acdb43450c2bb30179e213/Gameplay/Gamemodes/Alternative%20playstyles/Upgraded%20Doretta%20-%20V1.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/26e3d51182856abc98c1b585ccc179e18dd39c48/Gameplay/Gamemodes/Alternative%20playstyles/Upgraded%20Doretta%20-%20V1.2%20_P.pak)  
 
 **Description:**  
 **Requires the Blueprint Mod Manager.**  
@@ -121,10 +121,8 @@ Management finally decided it was worth upgrading the Drilldozer to prevent futu
 ‣ At the cost of sandwich storage, we were able to make Doretta stronger than wet tissue paper in some of Hoxxes's more deadly cave systems.  We estimate that these changes should make her at least 50% stronger than her lesser counterpart.  
 ‣ Taking notes from previous worlds, we have decided that taking the slag produced by oil shale can be a valuable asset at slowing things down.  We may or may not have compromised the structure in turn for some utility.
 
-**Update v1.1 Changelog:**  
-Added customizable UI with config saving to make the experience what you want.  Can now toggle up to 4 turrets, up to 2 deposits, 2 pipelines, 1 spotlight, 1 waste dumper and 50% damage reduction.  Expect another update at some point.  
-‣ Known Bugs -> clients can build or interact with some of the things you disabled, this won't have any effect besides it just building for when you want to enable it.  This was done so that you could not respawn turrets for free ammo.  Have not tried seeing if they can deposit.  Pipelines cause the treads to spaz out.  
-Download Link:
+**Update v1.2 Changelog:**  
+fixed clients being able to interact with hidden attachments, fixed pipelines causing treads to jiggle.
 
 ## YOINK - v1.0
 **Authors:** The Inevitable Luke  
