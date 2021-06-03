@@ -61,6 +61,14 @@ Replaces the texture of propaganda posters found in Memorial Hall and across the
 **Update v1.1 Changelog:**  
 Added *Warden Glyphid Sorceress* poster.
 
+## Rainbow Hair - v1.0
+**Authors:** mino  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/21160abfe4f4e8e55e40b1a80fbd21318abb71a6/Visual/Textures%20%26%20Icons/Rainbow%20Hair%20-%20V1.0.zip)  
+
+**Description:**  
+Changes all facial hair to rainbow colours. It is available as a blonde replacement or for all colours. Every dwarf is affected but only the moduser sees it.
+
 ## RGB Pickaxe Parts - v1.02
 **Authors:** Pacagma  
 **DRG Version:** Update 34  

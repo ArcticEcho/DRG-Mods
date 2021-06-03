@@ -10205,6 +10205,69 @@
       }
     ]
   },
+  "rainbowhair": {
+    "DisplayName": "Rainbow Hair",
+    "Version": "1.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      166293241153585152
+    ],
+    "Description": "Changes all facial hair to rainbow colours. It is available as a blonde replacement or for all colours. Every dwarf is affected but only the moduser sees it.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/21160abfe4f4e8e55e40b1a80fbd21318abb71a6/Visual/Textures%20%26%20Icons/Rainbow%20Hair%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "RainbowHair_All",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/Vanity2/HairColors/colorgrade_rt_ani.uasset": "3F-86-F5-B9-18-36-81-FC",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Black01.uasset": "E1-9E-47-D1-D7-59-A8-8D",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Blonde01.uasset": "25-B6-8A-88-47-8A-B1-02",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Brown01.uasset": "F0-55-38-3B-EE-40-EB-93",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Brown02.uasset": "33-3A-0C-63-3F-28-39-C0",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Brown03.uasset": "2C-A0-BD-A1-8A-50-9E-EF",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Green01.uasset": "DA-55-0D-E9-BD-01-24-3A",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Green02.uasset": "C9-41-61-12-3C-EE-D4-D1",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Green03.uasset": "8F-37-23-CD-56-AB-D8-3E",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Grey01.uasset": "21-34-D5-87-48-C8-DF-12",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Grey02.uasset": "0A-4C-0D-73-80-7D-EE-39",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Grey03.uasset": "1C-81-E1-1D-22-F9-CF-B0",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Grey04.uasset": "18-67-98-86-44-A9-1B-75",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Purple01.uasset": "49-AD-56-0F-7B-FA-64-29",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Purple02.uasset": "FF-9C-D0-1B-7F-19-51-17",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Rainbow.uasset": "9A-D9-7A-7B-22-EE-23-72",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Red01.uasset": "AC-B0-20-9E-DA-4D-A7-C9",
+          "../../../FSD/Content/Character/Vanity2/HairColors/colorgrade_rt_ani.uexp": "00-49-0F-1A-61-52-3A-84",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Black01.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Blonde01.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Brown01.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Brown02.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Brown03.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Green01.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Green02.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Green03.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Grey01.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Grey02.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Grey03.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Grey04.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Purple01.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Purple02.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Rainbow.uexp": "24-51-E6-41-D0-6B-D9-22",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Red01.uexp": "42-CF-91-54-3E-BF-E6-FA"
+        }
+      },
+      {
+        "PakFileName": "RainbowHair_Blonde",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/Vanity2/HairColors/colorgrade_rt_ani.uasset": "3F-86-F5-B9-18-36-81-FC",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Blonde01.uasset": "25-B6-8A-88-47-8A-B1-02",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Rainbow.uasset": "9A-D9-7A-7B-22-EE-23-72",
+          "../../../FSD/Content/Character/Vanity2/HairColors/colorgrade_rt_ani.uexp": "00-49-0F-1A-61-52-3A-84",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Blonde01.uexp": "42-CF-91-54-3E-BF-E6-FA",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Rainbow.uexp": "24-51-E6-41-D0-6B-D9-22"
+        }
+      }
+    ]
+  },
   "rapiditycontrol": {
     "DisplayName": "Rapidity Control",
     "Version": "0.0",
