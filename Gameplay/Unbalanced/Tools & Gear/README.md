@@ -12,6 +12,26 @@ Unbalanced changes to tools and gear.
 **Description:**  
 Adds Scout's grappling gun as a secondary weapon option and Engineer's platform gun as a class tool option.
 
+## Doom Gunner - v1.0
+**Authors:** Yarby  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e633371d969cabdbe171f1e8c3cb28ee2c192d6f/Gameplay/Unbalanced/Tools%20%26%20Gear/Doom%20Gunner%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Gives the gunner a whole new arsenal of weapons.  Rip and Tear.  
+Added:  
+Secondary Weapon  
+Custom shotgun + custom overclock (double barrel OC required)  
+Support Tool  
+Deepcore PGL, Sentry Gun  
+Class Tool  
+Grappling Hook  
+Grenades  
+Cryo grenade  
+Armor  
+Custom Tier 3 upgrade (30% damage resistance)  
+All weapons and upgrades are optional so you can easily revert to vanilla stats without restarting/uninstalling the mod. This mod is best enjoyed at high hazards and the doom music pack. Enjoy!
+
 ## Extended Armor Mineral Capacity (20) - v1.0
 **Authors:** BrewBreuw  
 **DRG Version:** Update 32/33  
