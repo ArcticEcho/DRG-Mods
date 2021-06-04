@@ -28,10 +28,10 @@ Reduces the damage of the bulk death explosion from 20,000 to 3,000, while incre
 **Update v1.1 Changelog:**  
 Added a version of the mod without an attack boost.
 
-## Doom Gunner - v1.0
+## Doom Gunner - v1.1
 **Authors:** Yarby  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e3ea593570fd91c593cdf2fd1b0d4c15d0abb38b/Gameplay/Gamemodes/Alternative%20playstyles/Doom%20Gunner%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3784133d742976e22720842a7848b81fb7270e05/Gameplay/Gamemodes/Alternative%20playstyles/Doom%20Gunner%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Adds a whole new arsenal of weapons to the gunner loadout. Rip and Tear!  
@@ -47,6 +47,9 @@ Grappling hook
 Grenades  
 Cryo grenade  
 All weapons and upgrades are optional so you can revert to vanilla gunner stats without uninstalling/resarting. This mod is designed to be used with increased spawns and very high hazard settings. It also goes well with the doom music pack. Enjoy!
+
+**Update v1.1 Changelog:**  
+Removed stock shotgun skin bug from all weapons.
 
 ## Dreadnought Buffs - v3.4
 **Authors:** Potatolaser  

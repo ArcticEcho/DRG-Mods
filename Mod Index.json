@@ -2899,17 +2899,17 @@
   },
   "doomgunner": {
     "DisplayName": "Doom Gunner",
-    "Version": "1.0",
+    "Version": "1.1",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       624572402440863744
     ],
     "Description": "Adds a whole new arsenal of weapons to the gunner loadout. Rip and Tear!\n\nAdded Features:\n\nSecondary Weapons\nCustom shotgun + custom overclock (Double Barrel OC required)\n\nArmour\nCustom Tier 3 upgrade (30% damage resistance)\n\nSupport Tools\nDeepcore PGL and sentry gun\n\nClass Tools\nGrappling hook\n\nGrenades\nCryo grenade\n\n\n\nAll weapons and upgrades are optional so you can revert to vanilla gunner stats without uninstalling/resarting. This mod is designed to be used with increased spawns and very high hazard settings. It also goes well with the doom music pack. Enjoy!",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e3ea593570fd91c593cdf2fd1b0d4c15d0abb38b/Gameplay/Gamemodes/Alternative%20playstyles/Doom%20Gunner%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Removed stock shotgun skin bug from all weapons.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3784133d742976e22720842a7848b81fb7270e05/Gameplay/Gamemodes/Alternative%20playstyles/Doom%20Gunner%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Doom Gunner - V1.0",
+        "PakFileName": "Doom Gunner - V1.1",
         "CookedFileHashes": {
           "../../../FSD/Content/Character/InventoryLists/BP_GunnerInventory-UAsset.json": "4C-EA-EE-BA-84-DC-BD-00",
           "../../../FSD/Content/Character/InventoryLists/BP_GunnerInventory.uasset": "FA-F1-61-E5-1F-2F-D2-C9",
@@ -2935,10 +2935,6 @@
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/MegaCorp/SK_SawedOffShotgun_Skin_DLC02.uasset": "6B-83-BE-91-AD-50-48-9C",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/NeonBand/SK_SawedOffShotgun_Skin_NeonBand.uasset": "1B-D0-86-04-E5-76-2C-B1",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/Relic/SK_SawedOffShotgun_Skin_Relic.uasset": "A3-EF-6E-9F-85-9D-32-B3",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_C_SoS_Stock-UAsset.json": "58-02-2C-68-37-8B-86-EF",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_C_SoS_Stock.uasset": "E7-18-9E-70-42-BD-C9-67",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_M_SoS_Stock-UAsset.json": "ED-72-16-0B-76-25-91-04",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_M_SoS_Stock.uasset": "ED-24-EC-3E-7E-C7-91-04",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_SawedOffShotgun_DLC02-UAsset.json": "35-1C-7B-A3-A0-46-68-71",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_SawedOffShotgun_DLC02.uasset": "01-D2-E2-B6-52-CA-BA-D9",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_SawedOffShotgun_Electric-UAsset.json": "F4-6D-E5-DC-DA-13-93-E6",
@@ -2964,9 +2960,6 @@
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/UPG_SawedOff_E_Reload2.uasset": "D9-89-F0-A3-AD-36-B0-C5",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun2-UAsset.json": "16-41-C8-F2-59-2E-5F-BF",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun2.uasset": "29-A0-FE-35-42-40-C9-13",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun2.uasset.daum": "2F-8C-6B-F3-57-E9-8F-E8",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun2.uasset.offset": "85-F3-88-3F-52-4D-55-DA",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun2.uexp.bak": "CF-7E-C3-EE-4C-76-31-4B",
           "../../../FSD/Content/Character/InventoryLists/BP_GunnerInventory.uexp": "B9-49-D4-DA-80-30-27-FB",
           "../../../FSD/Content/WeaponsNTools/Armor/BP_Armor_Gunner.uexp": "CC-1D-C1-0D-4B-4D-10-73",
           "../../../FSD/Content/WeaponsNTools/Armor/GunnerShieldMods/UPG_DMG_Resist.uexp": "00-D8-28-C1-C7-D9-44-54",
@@ -2984,8 +2977,6 @@
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/MegaCorp/SK_SawedOffShotgun_Skin_DLC02.uexp": "1C-4D-60-31-74-D0-9E-F8",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/NeonBand/SK_SawedOffShotgun_Skin_NeonBand.uexp": "03-10-28-79-C9-FA-DA-34",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/Relic/SK_SawedOffShotgun_Skin_Relic.uexp": "3A-0A-48-2D-56-2F-10-80",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_C_SoS_Stock.uexp": "1D-BD-C3-6D-C3-1D-1E-A0",
-          "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_M_SoS_Stock.uexp": "43-44-A3-CF-6B-47-09-F5",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_SawedOffShotgun_DLC02.uexp": "0F-C2-49-EF-7E-E2-AA-A2",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_SawedOffShotgun_Electric.uexp": "F1-F3-D9-00-0D-6C-85-FE",
           "../../../FSD/Content/WeaponsNTools/SawedOffShotgun/Skins/SKN_SawedOffShotgun_GlyphidHide.uexp": "C9-66-14-F8-36-83-4C-A1",
