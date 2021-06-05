@@ -62,6 +62,14 @@ Exactly the same as my grenade rework file, but hold 8 of all of the grenades in
 **Description:**  
 Makes you carry 8 grenades for all types to match up with axes.
 
+## Actual Nuke (Fat Boy OC) - v1.0
+**Authors:** Yarby  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8cc6c2917c336b638e9d1af19c5a59fa935cce9f/Gameplay/Unbalanced/Weapons/Actual%20Nuke%20%28Fat%20Boy%20OC%29%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+It's an actual nuke. Don't use it.
+
 ## Better Carpet Bomber - v1.0
 **Authors:** PastoSeco14  
 **DRG Version:** Update 33, Hotfix 10  

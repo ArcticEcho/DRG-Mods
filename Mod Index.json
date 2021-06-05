@@ -401,6 +401,50 @@
       }
     ]
   },
+  "actualnukefatboyoc": {
+    "DisplayName": "Actual Nuke (Fat Boy OC)",
+    "Version": "1.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      624572402440863744
+    ],
+    "Description": "It's an actual nuke. Don't use it.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8cc6c2917c336b638e9d1af19c5a59fa935cce9f/Gameplay/Unbalanced/Weapons/Actual%20Nuke%20%28Fat%20Boy%20OC%29%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Actual Nuke (Fat Boy OC) - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/BP_MiniNuke_RadiationCloud-UAsset.json": "16-E1-6F-3B-C7-0B-92-DE",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/BP_MiniNuke_RadiationCloud.uasset": "EB-44-02-F9-EF-C7-76-46",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/BP_MiniNuke_RadiationCloud.uexp.bak": "05-78-A4-D7-B9-97-CE-83",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_Damage300Percent_PGL-UAsset.json": "1E-7C-41-C2-75-BE-CB-35",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_Damage300Percent_PGL.uasset": "12-E9-3E-55-61-10-48-7E",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_Damage300Percent_PGL.uexp.bak": "55-65-85-B4-AD-EC-DF-AC",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_RadiationArea_PGL-UAsset.json": "16-7E-D2-13-3F-9B-1F-77",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_RadiationArea_PGL.uasset": "DE-92-69-61-3F-7E-28-D9",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_Radius_100_PGL-UAsset.json": "44-C3-EC-44-2D-03-2C-1E",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_Radius_100_PGL.uasset": "A3-D3-E6-44-5B-67-E8-92",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_Radius_100_PGL.uexp.bak": "70-05-2A-96-6B-C4-25-68",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Ammo-80p_PGL-UAsset.json": "1F-D2-30-F4-88-22-D2-8B",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Ammo-80p_PGL.uasset": "EA-49-55-B8-F5-21-7C-C8",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Ammo-80p_PGL.uexp.bak": "C9-57-F3-FC-AB-06-50-73",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_PGL_MiniNukes_U-UAsset.json": "77-8E-4C-09-61-7E-31-A0",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_PGL_MiniNukes_U.uasset": "7E-B4-11-05-38-99-DD-9C",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/PRJ_GrenadeLauncher-UAsset.json": "3D-39-10-43-2F-80-53-54",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/PRJ_GrenadeLauncher.uasset": "88-55-4A-C5-4A-D8-41-85",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/PRJ_GrenadeLauncher.uexp.bak": "37-39-D1-04-F3-D2-74-2C",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/BP_MiniNuke_RadiationCloud.uexp": "67-71-ED-C6-08-F3-DA-0C",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_Damage300Percent_PGL.uexp": "5A-5E-50-BC-43-23-4C-F4",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_RadiationArea_PGL.uexp": "D3-FA-DF-DF-00-17-D7-3F",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Bonus_Radius_100_PGL.uexp": "EF-69-4E-C6-91-5A-60-2C",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_BonusAndPenalty/Penalty_Ammo-80p_PGL.uexp": "B7-AE-DB-F0-CE-26-A1-92",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/Overclocks/OC_PGL_MiniNukes_U.uexp": "02-E5-89-6C-9B-65-7C-D3",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/PRJ_GrenadeLauncher.uexp": "63-19-19-F7-AF-6A-C6-EA"
+        }
+      }
+    ]
+  },
   "advanceddarkness": {
     "DisplayName": "Advanced Darkness",
     "Version": "2.6",
