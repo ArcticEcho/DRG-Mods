@@ -145,8 +145,7 @@ Management finally decided it was worth upgrading the Drilldozer to prevent futu
 ‣ Taking notes from previous worlds, we have decided that taking the slag produced by oil shale can be a valuable asset at slowing things down.  We may or may not have compromised the structure in turn for some utility.
 
 **Update v1.3 Changelog:**  
-made everything but the light not work as a client with the mod in a vanilla lobby since they are useless, added tooltips to the UI icons that can be read this time and used for bug reports (if any), fixed an issue with turret 1 not being hidden properly.  
-Download Link
+Made everything but the light not work as a client with the mod in a vanilla lobby since they are useless, added tooltips to the UI icons that can be read this time and used for bug reports (if any), fixed an issue with turret 1 not being hidden properly.
 
 ## YOINK - v1.0
 **Authors:** The Inevitable Luke  
