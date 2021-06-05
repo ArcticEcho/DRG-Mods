@@ -146,20 +146,20 @@ You no longer lose Oxygen in low O2 missions, note that the O2 meter and O2 Cani
 **Description:**  
 Shield Disruption will no longer affect gameplay, Red Sugar Occurrence 2x > 1x, Shield 0x > 1x, Damage Reduction 0.7x > 1x, and Hazard Bonus 30% > 0%. Works on both U32 and U33
 
-## Seasonal Space Rig - v1.1
+## Seasonal Space Rig - v1.2
 **Authors:** Our Lord And Savior Gabe Newell  
-**DRG Version:** Update 33, Hotfix 2  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d87043d07903268cd5f5e7594ebece60aefd7c56/Gameplay/Misc/Seasonal%20Space%20Rig%20-%20V1.1%20_P.pak)  
+**DRG Version:** U35 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1dc9111d0192c231ee01173a8b6bedbdd643866b/Gameplay/Misc/Seasonal%20Space%20Rig%20-%20V1.2%20_P.pak)  
 
 **Description:**  
 **Requires the Blueprint Mod Manager.**  
-‣ Adds three toggles in the mod loader to enable Christmas, Halloween and a custom map setup made by me.  
+‣ Adds four toggles in the mod loader to enable Christmas, Halloween, Year 3 Party and a custom map setup made by me.  
 ‣ Visually and audibly works as a client regardless of what the host has (I left this in on purpose, could disable it while not the host), all three options work well for clients while you are the host.  
-‣ Good for snowball fights if you turn on my custom map edits (extra snow). Will add some more custom festive stuff and config saving in the future, just wanted to get this functional version out so it seems like I do stuff.  
-Preview: https://discord.com/channels/676880716142739467/732650220214681600/808605470519459851
+‣ Good for snowball fights if you turn on my custom map edits (extra snow). Will add some more custom festive stuff like eyeballs, pinecones, tumbleweeds, etcetera in the future.  
+Old Preview: https://discord.com/channels/676880716142739467/732650220214681600/808605470519459851
 
-**Update v1.1 Changelog:**  
-Fixed the crash caused by hotfix 4.
+**Update v1.2 Changelog:**  
+Added Year 3 Party option, remade UI, added config saving, added an easter egg.
 
 ## Spawn Menu - v1.2.1
 **Authors:** GoldBl4d3  

@@ -11388,24 +11388,45 @@
   },
   "seasonalspacerig": {
     "DisplayName": "Seasonal Space Rig",
-    "Version": "1.1",
-    "DrgVersion": "Update 33, Hotfix 2",
+    "Version": "1.2",
+    "DrgVersion": "U35 H5",
     "AuthorIds": [
       146392394328178690
     ],
-    "Description": "**Requires the Blueprint Mod Manager.**\n‣ Adds three toggles in the mod loader to enable Christmas, Halloween and a custom map setup made by me.\n‣ Visually and audibly works as a client regardless of what the host has (I left this in on purpose, could disable it while not the host), all three options work well for clients while you are the host.\n‣ Good for snowball fights if you turn on my custom map edits (extra snow). Will add some more custom festive stuff and config saving in the future, just wanted to get this functional version out so it seems like I do stuff.\nPreview: https://discord.com/channels/676880716142739467/732650220214681600/808605470519459851",
-    "LastUpdateChangelog": "Fixed the crash caused by hotfix 4.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d87043d07903268cd5f5e7594ebece60aefd7c56/Gameplay/Misc/Seasonal%20Space%20Rig%20-%20V1.1%20_P.pak",
+    "Description": "**Requires the Blueprint Mod Manager.**\n‣ Adds four toggles in the mod loader to enable Christmas, Halloween, Year 3 Party and a custom map setup made by me.\n‣ Visually and audibly works as a client regardless of what the host has (I left this in on purpose, could disable it while not the host), all three options work well for clients while you are the host.\n‣ Good for snowball fights if you turn on my custom map edits (extra snow). Will add some more custom festive stuff like eyeballs, pinecones, tumbleweeds, etcetera in the future.\nOld Preview: https://discord.com/channels/676880716142739467/732650220214681600/808605470519459851",
+    "LastUpdateChangelog": "Added Year 3 Party option, remade UI, added config saving, added an easter egg.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1dc9111d0192c231ee01173a8b6bedbdd643866b/Gameplay/Misc/Seasonal%20Space%20Rig%20-%20V1.2%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Seasonal Space Rig - V1.1",
+        "PakFileName": "Seasonal Space Rig - V1.2",
         "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod038.uasset": "00-CF-32-C2-CF-21-9E-FC",
-          "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "6F-E7-21-3F-B6-41-8B-23",
-          "../../../FSD/Content/_ModBPs/SeasonalSpaceRigUI.uasset": "F8-63-EB-F1-FD-DE-F3-06",
-          "../../../FSD/Content/_ModBPs/Mod038.uexp": "A7-F4-4A-8D-2C-EB-C7-E1",
-          "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1E-90-65-97-04-D7-A0-4C",
-          "../../../FSD/Content/_ModBPs/SeasonalSpaceRigUI.uexp": "63-55-0C-5C-4D-9D-C1-85"
+          "../../../FSD/Content/_ModBPs/Mod038.uasset": "22-BC-54-7F-97-02-14-83",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Banner_Halloween.uasset": "33-68-5D-22-BE-3A-08-44",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Banner_Xmas.uasset": "63-68-8E-F5-D6-45-57-E2",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Icon_TeamToggle_Party.uasset": "A9-8B-FA-C0-1D-29-4B-7D",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Icons_CP_Xmas2020.uasset": "4E-73-9B-C2-15-17-89-5F",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/SeasonalSpaceRigSaveGame.uasset": "D3-C8-B4-A8-E2-D9-F3-24",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/SeasonalSpaceRigUI.uasset": "DA-3F-C1-BA-1E-C8-77-2B",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/T_EventBanner_Halloween_Pumpkin.uasset": "D2-54-5C-D9-51-7A-72-48",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/T_EventBanner_Xmas_Present.uasset": "6F-FB-CA-F3-25-F6-A7-99",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/T_PartyStreamer_AnniversaryYear03.uasset": "69-24-03-84-19-6A-19-48",
+          "../../../FSD/Content/_ModBPs/Mod038.uexp": "82-C5-EE-B9-A2-F4-52-F3",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Banner_Halloween.uexp": "05-51-C8-A8-A8-99-4B-BA",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Banner_Xmas.uexp": "39-92-74-ED-8C-63-C4-9E",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Icon_TeamToggle_Party.uexp": "BF-34-AD-99-48-67-EA-84",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Icons_CP_Xmas2020.uexp": "50-EF-35-BD-9F-CA-3C-C8",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/SeasonalSpaceRigSaveGame.uexp": "A9-CF-B7-FC-BF-5C-B8-16",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/SeasonalSpaceRigUI.uexp": "9E-08-50-46-B0-10-A4-32",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/T_EventBanner_Halloween_Pumpkin.uexp": "CF-5F-B4-98-7A-BA-C6-9D",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/T_EventBanner_Xmas_Present.uexp": "80-15-2F-FC-7D-06-79-0D",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/T_PartyStreamer_AnniversaryYear03.uexp": "16-A8-1F-DD-C3-20-9C-BD",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Banner_Halloween.ubulk": "AF-D1-0C-B0-EC-70-AF-48",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Banner_Xmas.ubulk": "5A-B7-EF-F7-68-F4-CB-26",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Icon_TeamToggle_Party.ubulk": "93-0A-40-FF-6C-28-B0-35",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/Icons_CP_Xmas2020.ubulk": "E0-21-CB-BC-A4-80-91-1E",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/T_EventBanner_Halloween_Pumpkin.ubulk": "BE-00-4C-82-8A-E1-D4-36",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/T_EventBanner_Xmas_Present.ubulk": "39-A5-AF-30-B0-59-7F-48",
+          "../../../FSD/Content/_ModBPs/Seasonal_Space_Rig/T_PartyStreamer_AnniversaryYear03.ubulk": "D2-3C-B3-FF-A6-B6-F4-D3"
         }
       }
     ]
