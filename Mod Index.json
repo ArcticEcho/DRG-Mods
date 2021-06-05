@@ -2498,24 +2498,30 @@
   },
   "customenemycap": {
     "DisplayName": "Custom Enemy Cap",
-    "Version": "2.6",
+    "Version": "2.7",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       158916111390343168
     ],
     "Description": "**Requires the BP Mod Manager.**\nDisplays the number of enemies in game, and lets you control the global enemy cap (and can optionally lower the cap depending on your FPS). The cap only applies when hosting.",
-    "LastUpdateChangelog": "Fixed the cap for u34.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/dca6231057be537c92bac6d1d1905fe305c9cc5e/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.6%20_P.pak",
+    "LastUpdateChangelog": "Fixed the enemy counter not showing up.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/904a59b1799fdd0a34b11745db50d3d44ff9b205/Gameplay/Customizable%20tweaks/Custom%20Enemy%20Cap%20-%20V2.7%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Custom Enemy Cap - V2.6",
+        "PakFileName": "Custom Enemy Cap - V2.7",
         "CookedFileHashes": {
-          "../../../FSD/Content/_ModBPs/Mod017.uasset": "9F-55-5E-92-DB-2B-E0-C0",
+          "../../../FSD/Content/_ModBPs/Mod017.uasset": "B4-D1-B4-FB-0E-F2-C2-44",
+          "../../../FSD/Content/_ModBPs/MyMods/_/CommonHUD/CommonHUD.uasset": "30-BD-77-DF-05-22-F5-4F",
+          "../../../FSD/Content/_ModBPs/MyMods/_/CommonHUD/MiscElements/SimpleDividerUI.uasset": "7E-86-66-B6-FE-D2-FE-AC",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV4.uasset": "42-39-FA-A2-8B-16-2D-37",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_HUD.uasset": "31-6B-12-DF-41-D3-4D-79",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_SaveData.uasset": "69-87-0C-6F-66-C8-AF-46",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_UI.uasset": "DD-92-44-39-EC-4B-C3-C4",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/CullMode.uasset": "7D-0E-93-43-EB-3F-C9-9C",
-          "../../../FSD/Content/_ModBPs/Mod017.uexp": "FB-CB-CD-E1-91-61-0D-F1",
+          "../../../FSD/Content/_ModBPs/Mod017.uexp": "26-BC-99-34-BC-72-21-BC",
+          "../../../FSD/Content/_ModBPs/MyMods/_/CommonHUD/CommonHUD.uexp": "02-9D-8B-4D-FB-AE-F0-54",
+          "../../../FSD/Content/_ModBPs/MyMods/_/CommonHUD/MiscElements/SimpleDividerUI.uexp": "83-07-95-E0-B2-3B-48-A2",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV4.uexp": "C1-AF-1C-00-AA-03-3A-20",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_HUD.uexp": "AA-99-8D-42-70-6F-BB-DE",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_SaveData.uexp": "66-94-CD-DE-45-EB-A8-34",
           "../../../FSD/Content/_ModBPs/MyMods/CustomEnemyCap/017_UI.uexp": "0E-C5-D6-B3-CC-B1-EC-12",
