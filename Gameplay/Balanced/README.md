@@ -43,28 +43,6 @@ Changelog is included in the zip file, in docx and pdf variants. I've also inclu
 **Update v1.9 Changelog:**  
 Revamped the Flamethrower's mod tree, changed a few OCs that were struggling/too strong. Full changelog is in the zip file, as usual
 
-## BBP Submod - Overclock Redesign - v1.3
-**Authors:** GreyHound  
-**DRG Version:** U34 Hotfix 5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7cba86ad695fe028c30bd2f4b162dbd81768461a/Gameplay/Balanced/BBP%20Submod%20-%20Overclock%20Redesign%20-%20V1.3%20_P.pak)  
-
-**Description:**  
-This mod changes a few specific overclocks that were deemed too bland and boring, or needed spicing up to be actually different from their counterparts. The intention is to get rid of "here's more damage/ammo OC whose penalties can be easily counteracted" and make the OCs actually change the weapon usage somewhat.  
-Zhukovs: added +1 Blowthrough to Gas Recycling.  
-BRT:  
-Experimental Rounds now adds +40% weakspot damage instead of flat 9 damage;  
-Compact Mags: loses all previous bonuses, instead gains +24 mag size, +2 RoF, x1.25 spread per shot and x1.5 spread, codenamed Burst Fire PDW;  
-Minigun:  
-Leadstorm OC gains +1 Blowthrough instead of +4 damage;  
-Compact Feed Mechanism gains +15 RoF and +200% Heat Generation instead of +800 ammo (true 400) and -2 RoF, codenamed Annihilator;  
-EPC: Magnetic Cooling Unit now adds +5 normal shot damage instead of the x0.75 heat buildup when charged bonus.  
-Homebrew Powder: on Bulldog now grants +10 damage, becomes a clean upgrade in principle; on Subata adds +2 damage;   
-Assault Rifle's HP has been reworked into Magnum Rounds: +1 Penetraion, -3 RoF, x1.75 Recoil, -160 Ammo. Unstable OC in principle, Blowthrough doesn't show up on the weapon card but it works;  
-Chain Hit: adds +15 ammo on Subata; adds +8 ammo on Bulldog.
-
-**Update v1.3 Changelog:**  
-added Just War (crimes) - adds 3 clipsize, a 100% chance to Neurotoxin afflicted targets; in return, AoE damage is reduced by 35 and -1 AoE radius (former Compact Rounds); added Ratling Gun (former Exhaust Vectoring) - inspired by Yarby's design, now adds +40% movement speed, +150 ammo and x3 spread.
-
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  
