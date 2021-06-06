@@ -69,6 +69,14 @@ Added *Warden Glyphid Sorceress* poster.
 **Description:**  
 Changes all facial hair to rainbow colours. It is available as a blonde replacement or for all colours. Every dwarf is affected but only the moduser sees it.
 
+## RGB Hair Colors - v1
+**Authors:** Pacagma  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/fdeefaa706728d12e86d762fdf37bd5d88dc97cc/Visual/Textures%20%26%20Icons/RGB%20Hair%20Colors%20-%20V1%20_P.pak)  
+
+**Description:**  
+Changes the Jade hair color with RGB! (Thanks again to SirVerex for the help \<3)
+
 ## RGB Pickaxe Parts - v1.02
 **Authors:** Pacagma  
 **DRG Version:** Update 34  

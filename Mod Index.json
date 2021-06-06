@@ -10591,6 +10591,29 @@
       }
     ]
   },
+  "rgbhaircolors": {
+    "DisplayName": "RGB Hair Colors",
+    "Version": "1",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      169492441982959616
+    ],
+    "Description": "Changes the Jade hair color with RGB! (Thanks again to SirVerex for the help <3)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/fdeefaa706728d12e86d762fdf37bd5d88dc97cc/Visual/Textures%20%26%20Icons/RGB%20Hair%20Colors%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "RGB Hair Colors - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/Vanity2/HairColors/15139-colorgrade.uasset": "2F-67-89-62-D5-8D-36-6B",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Green01.uasset": "22-DC-38-20-D6-32-D8-26",
+          "../../../FSD/Content/Character/Vanity2/HairColors/15139-colorgrade.uexp": "DC-41-BF-46-3C-B7-56-B8",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Green01.uexp": "33-27-EE-1C-2B-BB-8B-A2",
+          "../../../FSD/Content/Character/Vanity2/HairColors/15139-colorgrade.ubulk": "DA-FE-4C-50-EB-3F-64-CA"
+        }
+      }
+    ]
+  },
   "rgbpickaxeparts": {
     "DisplayName": "RGB Pickaxe Parts",
     "Version": "1.02",
