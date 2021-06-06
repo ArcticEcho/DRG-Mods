@@ -30,18 +30,18 @@ This mod reworks every overclock for the minigun to increase the diversity of ef
 **Update v1.44 Changelog:**  
 Fixed missing stat on Burning Hell replacement.
 
-## BBP (Big Balance Patch) - v1.8.1
+## BBP (Big Balance Patch) - v1.9
 **Authors:** GreyHound  
 **DRG Version:** U34 Hotfix 5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/80fa75b64e07123a82e71ecb70cce3040d032a7e/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.8.1.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a89eca7b33f4382318186081f6bc2bdc0ba93cca/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.9.zip)  
 
 **Description:**  
 Major overhaul of the game's weapon balance. This includes dozens and dozens of changes to weapons, the mods/OCs, perks, grenades, secondary equipment, armour...  
 Warning: the mod is incompatible with all other balance mods!  
 Changelog is included in the zip file, in docx and pdf variants. I've also included author comments for most of the changes and added a honourable mentions section to the changelog.
 
-**Update v1.8.1 Changelog:**  
-corrected the added info for GK2's Floating Barrel and Gyro Stabilisation (turns out they're both bugged) and buffed Supercooling Chamber's focus shot damage bonus.
+**Update v1.9 Changelog:**  
+Revamped the Flamethrower's mod tree, changed a few OCs that were struggling/too strong. Full changelog is in the zip file, as usual
 
 ## BBP Submod - Overclock Redesign - v1.3
 **Authors:** GreyHound  
