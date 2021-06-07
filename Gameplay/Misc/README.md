@@ -171,3 +171,11 @@ Spawn every creature and object in the game. With 400+ options to choose from. N
 
 **Update v1.2.1 Changelog:**  
 Fixed random bugs, made some enhancements.
+
+## Tip Jar 5000 - v1.0.0
+**Authors:** Demellion Dismal  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8e778bbdbd6e99adc504ccc3e6c602087b98c68a/Gameplay/Misc/Tip%20Jar%205000%20-%20V1.0.0%20_P.pak)  
+
+**Description:**  
+A mod requested by @8Bit Buns
