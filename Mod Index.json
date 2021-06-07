@@ -4668,19 +4668,19 @@
   },
   "hazard0creative": {
     "DisplayName": "Hazard 0: Creative",
-    "Version": "1.0",
-    "DrgVersion": "Update 33 Hotfix 7",
+    "Version": "2.0",
+    "DrgVersion": "U34 Hotfix 4",
     "AuthorIds": [
       189954203664252928
     ],
-    "Description": "This replaces Hazard 1 with Hazard 0, which is intended for picture taking and testing. \n--No enemies spawn in waves or at the beginning of the map. Not too much different from Haz1.\n--There are a couple exceptions: swarmer nests can spawn 1 or 2 and non-enemy hazards like crystals still exist.\n--Lower rewards for completion.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a853bfd0581c32f75dcad0f31619b477d3d6979e/Gameplay/Gamemodes/Hazard%20Levels/Hazard%200%20Creative%20-%20V1.0%20_P.pak",
+    "Description": "This mod is for peaceful exploring and picture taking.\n-This replaces Hazard 1 with Hazard 0 in game and in status messages.\n-Hazard Bonus is set to zero (down from 25% on Haz1).\n-No hostile or stationary enemies will spawn. Passive mobs like maggots, lootbugs, and hoarders will still spawn. The only exception is swarmer nests which will spawn a couple. \n-All other values are Hazard 1.",
+    "LastUpdateChangelog": "Updated for U34",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a594dbead05950d30439dd9527f315e5a72a63c1/Gameplay/Gamemodes/Hazard%20Levels/Hazard%200%20Creative%20-%20V2.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Hazard 0 Creative - V1.0",
+        "PakFileName": "Hazard 0 Creative - V2.0",
         "CookedFileHashes": {
-          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_01_LowRisk.uexp": "29-95-2C-39-DA-11-DE-3F"
+          "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_01_LowRisk.uexp": "7E-A5-EF-D0-DC-99-56-8E"
         }
       }
     ]

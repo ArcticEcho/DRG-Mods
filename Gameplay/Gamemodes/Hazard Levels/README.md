@@ -62,16 +62,20 @@ NOTES:
 **Update v1.34.4 Changelog:**  
 Update for hotfix by NaturalBornCamper
 
-## Hazard 0: Creative - v1.0
+## Hazard 0: Creative - v2.0
 **Authors:** Ike  
-**DRG Version:** Update 33 Hotfix 7  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a853bfd0581c32f75dcad0f31619b477d3d6979e/Gameplay/Gamemodes/Hazard%20Levels/Hazard%200%20Creative%20-%20V1.0%20_P.pak)  
+**DRG Version:** U34 Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a594dbead05950d30439dd9527f315e5a72a63c1/Gameplay/Gamemodes/Hazard%20Levels/Hazard%200%20Creative%20-%20V2.0%20_P.pak)  
 
 **Description:**  
-This replaces Hazard 1 with Hazard 0, which is intended for picture taking and testing.   
---No enemies spawn in waves or at the beginning of the map. Not too much different from Haz1.  
---There are a couple exceptions: swarmer nests can spawn 1 or 2 and non-enemy hazards like crystals still exist.  
---Lower rewards for completion.
+This mod is for peaceful exploring and picture taking.  
+-This replaces Hazard 1 with Hazard 0 in game and in status messages.  
+-Hazard Bonus is set to zero (down from 25% on Haz1).  
+-No hostile or stationary enemies will spawn. Passive mobs like maggots, lootbugs, and hoarders will still spawn. The only exception is swarmer nests which will spawn a couple.   
+-All other values are Hazard 1.
+
+**Update v2.0 Changelog:**  
+Updated for U34
 
 ## Hazard 4.5 to 5.5 - v1.0
 **Authors:** Ike  
