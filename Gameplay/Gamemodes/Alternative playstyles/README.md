@@ -129,10 +129,10 @@ Added movable magic hole and magic crystal buffs from Azure Weald to F1 and F3.
 F1 is low gravity, 30% speed boost for 15s and it stacks with additional buff objects (crate batteries) to jump higher and fall slower, which also affects enemies.  
 F3 is 50% damage reduction for 15s and it affects enemies too.
 
-## Upgraded Doretta - v1.3
+## Upgraded Doretta - v1.4
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/87a9f9bf440a0f03109045fc7ec0cd91067113d3/Gameplay/Gamemodes/Alternative%20playstyles/Upgraded%20Doretta%20-%20V1.3%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c67962adbd456dd4864c4c3e52781edc53369a33/Gameplay/Gamemodes/Alternative%20playstyles/Upgraded%20Doretta%20-%20V1.4%20_P.pak)  
 
 **Description:**  
 **Requires the Blueprint Mod Manager.**  
@@ -144,8 +144,8 @@ Management finally decided it was worth upgrading the Drilldozer to prevent futu
 ‣ At the cost of sandwich storage, we were able to make Doretta stronger than wet tissue paper in some of Hoxxes's more deadly cave systems.  We estimate that these changes should make her at least 50% stronger than her lesser counterpart.  
 ‣ Taking notes from previous worlds, we have decided that taking the slag produced by oil shale can be a valuable asset at slowing things down.  We may or may not have compromised the structure in turn for some utility.
 
-**Update v1.3 Changelog:**  
-Made everything but the light not work as a client with the mod in a vanilla lobby since they are useless, added tooltips to the UI icons that can be read this time and used for bug reports (if any), fixed an issue with turret 1 not being hidden properly.
+**Update v1.4 Changelog:**  
+prevented pipelines from spawning on Refinery missions to prevent mission softlocks if a Doretta is spawned.
 
 ## YOINK - v1.0
 **Authors:** The Inevitable Luke  
