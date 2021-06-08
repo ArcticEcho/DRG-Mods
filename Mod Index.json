@@ -7333,6 +7333,55 @@
       }
     ]
   },
+  "marcusgraytattoos": {
+    "DisplayName": "MarcusGray Tattoos",
+    "Version": "1.0",
+    "DrgVersion": "Update 34 - Hotfix 5",
+    "AuthorIds": [
+      281728453353668608,
+      210694335283331072
+    ],
+    "Description": "Replaces the textures of tattoos on arms that come with the Roughneck armors with the gals from the posters made by *Marcus Gray*. [Preview](https://discord.com/channels/676880716142739467/712637678881079369/851468203586224128).",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/79599d314c3e708f2f035978360befe2d3ee8b8c/Visual/Textures%20%26%20Icons/MarcusGray%20Tattoos%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "MarcusGray Tattoos - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_AllForMolly.uasset": "A7-F9-CD-EB-64-32-1A-5A",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_NeverFeltBetter_Green.uasset": "17-CB-B1-E9-CE-71-06-E2",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_Sleeve_BoscoForever_Color_V4.uasset": "00-DB-55-91-F2-C7-D4-22",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_Sleeve_RockAndThunder_Color_V10.uasset": "6B-E0-EF-F9-7D-C4-59-76",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_StayAlive_Color_V1.uasset": "B7-0A-2A-A4-12-2E-7B-BF",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_TribalGlyphid01.uasset": "FD-23-5E-5B-FD-DB-39-4A",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_AllForMolly.uasset": "51-91-0C-F2-CB-BB-27-3E",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_Bosco4ever.uasset": "B0-A3-88-E9-47-A3-A5-F6",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_NeverFeltBetter.uasset": "42-04-CD-92-E2-7B-05-77",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_RockAndThunder.uasset": "5F-D5-A9-AB-CA-2A-29-DD",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_StayAlive.uasset": "84-77-A3-ED-73-A2-13-D0",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_TribalGlyphid01.uasset": "03-D2-7E-74-7E-61-6A-33",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_AllForMolly.uexp": "35-10-57-5B-2D-D0-53-6A",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_NeverFeltBetter_Green.uexp": "73-39-05-4E-11-F9-E4-C0",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_Sleeve_BoscoForever_Color_V4.uexp": "CA-F2-A3-53-17-55-8B-48",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_Sleeve_RockAndThunder_Color_V10.uexp": "1C-9A-33-7F-87-A5-8E-CB",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_StayAlive_Color_V1.uexp": "63-FE-76-5C-00-28-61-76",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_TribalGlyphid01.uexp": "B9-E7-DB-3B-65-1D-B0-91",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_AllForMolly.uexp": "57-0B-6A-D6-18-26-EA-2B",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_Bosco4ever.uexp": "76-A3-B6-F2-D9-C2-75-6F",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_NeverFeltBetter.uexp": "E8-12-1B-CF-B7-DD-35-C1",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_RockAndThunder.uexp": "39-7B-CB-4C-EA-36-A5-8F",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_StayAlive.uexp": "40-48-B5-1D-FF-48-3F-B0",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/TAT_TribalGlyphid01.uexp": "39-7B-CB-4C-EA-36-A5-8F",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_AllForMolly.ubulk": "0D-0F-A2-45-C7-AA-40-28",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_NeverFeltBetter_Green.ubulk": "0D-0F-A2-45-C7-AA-40-28",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_Sleeve_BoscoForever_Color_V4.ubulk": "0D-0F-A2-45-C7-AA-40-28",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_Sleeve_RockAndThunder_Color_V10.ubulk": "46-66-51-CE-45-85-02-20",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_StayAlive_Color_V1.ubulk": "46-66-51-CE-45-85-02-20",
+          "../../../FSD/Content/Character/Vanity2/Tattoos/T_Tattoo_TribalGlyphid01.ubulk": "46-66-51-CE-45-85-02-20"
+        }
+      }
+    ]
+  },
   "metalgearalertheightenedsenses": {
     "DisplayName": "Metal Gear Alert Heightened Senses",
     "Version": "1",

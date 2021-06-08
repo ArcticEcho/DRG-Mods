@@ -61,6 +61,14 @@ Replaces the texture of propaganda posters found in Memorial Hall and across the
 **Update v1.1 Changelog:**  
 Added *Warden Glyphid Sorceress* poster.
 
+## MarcusGray Tattoos - v1.0
+**Authors:** Marcus, Humping Koala  
+**DRG Version:** Update 34 - Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/79599d314c3e708f2f035978360befe2d3ee8b8c/Visual/Textures%20%26%20Icons/MarcusGray%20Tattoos%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the textures of tattoos on arms that come with the Roughneck armors with the gals from the posters made by *Marcus Gray*. [Preview](https://discord.com/channels/676880716142739467/712637678881079369/851468203586224128).
+
 ## Rainbow Hair - v1.0
 **Authors:** mino  
 **DRG Version:** U34 H5  
