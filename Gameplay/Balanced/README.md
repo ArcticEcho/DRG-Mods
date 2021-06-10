@@ -225,19 +225,18 @@ Authors
 Improves Roll Control BC OC adding it a nerf. A projectile speed nerf. Making it RtS lite and keeping the ability to roll. https://discord.com/channels/676880716142739467/732650220214681600/837974247724941314  
 - Adds x0.75 projectile speed penalty from Fat Boy OC to Roll Control OC.
 
-## Scoot OCs - v1.0
+## Scoot OCs - v1.1
 **Authors:** Drillboy Jenkins  
 **DRG Version:** U34.X  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/10a56ad11a3433a05a520b9045a380b1bdf9e9cd/Gameplay/Balanced/Scoot%20OCs%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/88b398c7030e03f2c6e7fb7885bb6c54772efafd/Gameplay/Balanced/Scoot%20OCs%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 WARNING: ALL THE NEW OCs THE MOD ADDS SHOULD BE OBTAINED THE WAY YOU USE(D) TO OBTAIN VANILLA ONES - VIA FORGING!  
-Designed to be used with M1K Done Properly mod.  
 **M1K OCs:**  
 - Butter-Knife Ammo:  
 ```diff  
 + +71% Armor Breaking  
-- -4 Clip Capacity  
+- -2 Clip Capacity  
 ```  
 - Capacitor Clips:  
 ```diff  
@@ -245,11 +244,11 @@ Designed to be used with M1K Done Properly mod.
 + x10 Focus Speed  
 - -7 Clip Capacity  
 - -24 Ammo  
-```  
-Update Changelog: Added 8th OC - Capacitor Clips, removed focus speed penalty from BKA's  penalty.
+```
 
-**Update v1.0 Changelog:**  
-Added 8th OC - Capacitor Clips, removed focus speed penalty from BKA's  penalty.
+**Update v1.1 Changelog:**  
+- Decreased BKA clipsize penalty down to 2.  
+- Introduced brand new separate texts for descriptions and actual stat effect changes.
 
 ## Shallow Choice (Minigun OC) - v1.3
 **Authors:** Yarby, Drillboy Jenkins  
