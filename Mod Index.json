@@ -3675,6 +3675,26 @@
       }
     ]
   },
+  "explosionlesspgl": {
+    "DisplayName": "Explosionless PGL",
+    "Version": "1.0",
+    "DrgVersion": "Update 34, HF 5",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Removes the Explosion Particle Effect from normal and mininuke PGL explosions",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/034f9e3853ec0e435d9ff4c2388cf872c9aade72/Visual/Misc/Explosionless%20PGL%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Explosionless PGL - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/P_GrenadeLauncher_Explosion_A.uasset": "D3-00-26-E2-97-6A-2C-0C",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/P_GrenadeLauncher_Explosion_MiniNuke.uasset": "90-54-D0-DE-F9-29-D4-11"
+        }
+      }
+    ]
+  },
   "extendedarmormineralcapacity20": {
     "DisplayName": "Extended Armor Mineral Capacity (20)",
     "Version": "1.0",

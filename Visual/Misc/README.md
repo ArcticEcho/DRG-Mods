@@ -22,6 +22,14 @@ Your in-game graphics settings for post-processing must be set to high/ultra.
 **Description:**  
 Removes creepy eyes from missions in case you happen to be allergic.
 
+## Explosionless PGL - v1.0
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 34, HF 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/034f9e3853ec0e435d9ff4c2388cf872c9aade72/Visual/Misc/Explosionless%20PGL%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Removes the Explosion Particle Effect from normal and mininuke PGL explosions
+
 ## Fabulous Molly - v2.1
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33, Hotifx 10  
