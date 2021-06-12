@@ -51,6 +51,14 @@ This will be the last update I make to this mod for a while (unless something br
  - Added material name to the UI.  
  - Made the wardrobe light a bit brighter.
 
+## No Mo' Frozen Particles - v1.0
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 34, HF 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/181b8fa4146cddfbfdec7a8be6d9a29f486a96f0/Visual/Misc/No%20Mo%27%20Frozen%20Particles%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Removes the Ice particles that appear whenever you shoot a frozen enemy, and removes the Ice particles when they are killed
+
 ## Pickaxe Part Unlocker - v1.0
 **Authors:** BongoSkaggs  
 **DRG Version:** U34 H5  

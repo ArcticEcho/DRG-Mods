@@ -9270,6 +9270,30 @@
       }
     ]
   },
+  "nomofrozenparticles": {
+    "DisplayName": "No Mo' Frozen Particles",
+    "Version": "1.0",
+    "DrgVersion": "Update 34, HF 5",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Removes the Ice particles that appear whenever you shoot a frozen enemy, and removes the Ice particles when they are killed",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/181b8fa4146cddfbfdec7a8be6d9a29f486a96f0/Visual/Misc/No%20Mo%27%20Frozen%20Particles%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "No Mo' Frozen Particles - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/FlyingBug/Afflictions/P_FrozenDeath_FlyingBug.uasset": "90-46-C8-B4-67-EA-F7-FC",
+          "../../../FSD/Content/Enemies/Spider/Afflictions/P_FrozenDeath_Spider_Small.uasset": "98-C9-54-C6-24-AA-FA-4E",
+          "../../../FSD/Content/GameElements/PawnAffliction/EnemyEffects/Frozen/P_Freeze_Medium.uasset": "95-11-04-6E-FF-F0-FB-C1",
+          "../../../FSD/Content/GameElements/PawnAffliction/EnemyEffects/Frozen/P_FrozenDie.uasset": "10-B0-13-3E-4F-70-74-BF",
+          "../../../FSD/Content/GameElements/PawnAffliction/EnemyEffects/Frozen/P_IceBreak_Medium.uasset": "A2-1F-C8-4E-7C-3A-53-DB",
+          "../../../FSD/Content/PersonalFolders/Jacek/Particles/P_Frozen_Impact.uasset": "09-B2-E7-46-75-A5-E8-F5"
+        }
+      }
+    ]
+  },
   "nomoredollarstoreflashlights": {
     "DisplayName": "No more Dollar Store flashlights",
     "Version": "34.1.0",
