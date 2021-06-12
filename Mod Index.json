@@ -9370,6 +9370,67 @@
       }
     ]
   },
+  "nomoterrainparticles": {
+    "DisplayName": "No Mo' Terrain Particles",
+    "Version": "1.0",
+    "DrgVersion": "Update 34, HF 5",
+    "AuthorIds": [
+      350019378189828097
+    ],
+    "Description": "Removes the particles that appear from the mining or drilling of almost every material",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/46d4c79e09ddd2f69bd7735bb3e5337557c668a3/Visual/Misc/No%20Mo%27%20Terrain%20Particles%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "No Mo' Terrain Particles - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Burnt01_Dig.uasset": "37-9F-D1-E1-60-AC-23-CF",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Burnt01_ShotImpact.uasset": "62-34-9F-63-D0-AC-B2-1B",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Crystal01_Dig.uasset": "46-BD-7D-AC-D4-04-92-8C",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Crystal01_ShotImpact.uasset": "99-F6-62-86-3E-44-F0-1C",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Crystal02_Dig.uasset": "1A-1A-F7-D5-32-03-47-DC",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Crystal02_ShotImpact.uasset": "55-70-8F-A3-F7-C2-7C-97",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Crystal03_Dig.uasset": "CD-BE-C4-81-91-7F-52-74",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Crystal03_ShotImpact.uasset": "56-9F-CB-B9-44-68-2E-13",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_CrystalBlueLight_Dig.uasset": "75-CE-73-AE-6E-E5-7F-49",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_CrystalBlueLight_ShotImpact.uasset": "4C-FD-A4-E4-D3-02-B7-7A",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_CrystalCaves_Crystal01_Impact.uasset": "10-9A-19-32-4C-A0-68-A6",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_CrystalCaves_Crystal03_Break_Small.uasset": "9F-4E-DC-82-15-8E-C6-09",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_CrystalCaves_Crystal04_Break_Small.uasset": "25-06-0F-8E-CD-C8-78-3D",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_CrystalHealing_Dig.uasset": "32-60-67-8D-E1-A6-E7-9F",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_CrystalHealing_ShotImpact.uasset": "9D-5F-94-29-F0-A1-E3-8D",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_CrystalRedLight_Dig.uasset": "95-1A-2B-0F-75-D4-3B-FE",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_CrystalRedLight_ShotImpact1.uasset": "2E-58-A4-9A-F6-D5-74-98",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Dirt_Dig.uasset": "6C-02-BE-80-B6-04-C0-9D",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Dirt_ShotImpact.uasset": "63-D9-5D-D4-98-91-6B-F0",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_FragileSaltPlatform_Break.uasset": "70-EE-5F-C0-63-36-11-F7",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_FragileSaltPlatform_Break_Stage.uasset": "D6-6E-60-C0-2C-31-3B-E1",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_FungusRoots_Impact.uasset": "DC-02-E5-15-16-92-9D-2F",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Generic_Crystal_Dig.uasset": "C2-C1-7A-3B-3D-F9-18-A9",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Generic_Crystal_ShotImpact.uasset": "45-91-54-A4-42-D8-94-A4",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Generic_Metal_Dig.uasset": "9B-62-23-F7-C2-98-07-E0",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Generic_Metal_ShotImpact.uasset": "8C-AA-FA-72-15-47-5D-10",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Generic_Rock01_Dig.uasset": "0F-47-09-33-0F-67-1F-D4",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Generic_Rock01_Sand_Dig.uasset": "D1-08-A2-DB-CF-A8-E1-95",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Generic_Rock_RadioactiveZone_Dig.uasset": "9B-3D-DC-99-FB-1F-E1-63",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Gold_ShotImpact.uasset": "A9-DC-3D-C5-27-92-7F-23",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Morkite_Dig.uasset": "DC-E7-EF-96-AC-D3-40-95",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Morkite_ShotImpact.uasset": "4C-2D-FF-C2-F9-9D-80-43",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_OilShale_Rock_debris_destroyed.uasset": "32-2A-A4-96-A8-E1-53-A3",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_PickingApocaBloom.uasset": "96-01-54-2E-05-CF-BD-90",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_PickingBooloCap.uasset": "EA-59-9E-13-9B-39-4C-AD",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_PickingFossil.uasset": "7C-34-25-D4-B5-2F-DB-DF",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Platform_Break_BIG.uasset": "69-BA-00-3C-F1-F4-55-B3",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Platform_Dig.uasset": "32-0E-1E-A3-78-5F-F7-FA",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_REZ_Crystal01_Break_Small.uasset": "2E-0F-AC-52-14-E0-C1-11",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_Rock01_ShotImpact.uasset": "80-55-1A-9C-43-BD-17-CA",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_SaltCaves_Crystal01_Impact1.uasset": "3D-E3-49-89-CB-C6-AC-88",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_SwarmerTunnelSpawnDig.uasset": "45-A6-24-F5-F5-37-D1-8D",
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_TankBossDestructibleArmor_ShotImpact.uasset": "1F-51-B8-C7-56-D5-E6-97"
+        }
+      }
+    ]
+  },
   "noprofanitymod": {
     "DisplayName": "No Profanity Mod",
     "Version": ".9.1",

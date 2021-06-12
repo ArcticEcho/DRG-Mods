@@ -59,6 +59,14 @@ This will be the last update I make to this mod for a while (unless something br
 **Description:**  
 Removes the Ice particles that appear whenever you shoot a frozen enemy, and removes the Ice particles when they are killed
 
+## No Mo' Terrain Particles - v1.0
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 34, HF 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/46d4c79e09ddd2f69bd7735bb3e5337557c668a3/Visual/Misc/No%20Mo%27%20Terrain%20Particles%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Removes the particles that appear from the mining or drilling of almost every material
+
 ## Pickaxe Part Unlocker - v1.0
 **Authors:** BongoSkaggs  
 **DRG Version:** U34 H5  
