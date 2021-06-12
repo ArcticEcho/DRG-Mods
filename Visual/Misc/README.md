@@ -51,6 +51,14 @@ This will be the last update I make to this mod for a while (unless something br
  - Added material name to the UI.  
  - Made the wardrobe light a bit brighter.
 
+## No Mo' Ash - v1.0
+**Authors:** Shrub_Daddy  
+**DRG Version:** Update 34, HF 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/bd530d97fea6c0a7391daf79c2df995d16bd65dc/Visual/Misc/No%20Mo%27%20Ash%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+The Dwarfs finally convinced MC to vacuum all the Ash floating around in the REZ, resulting in much clearer mining.
+
 ## No Mo' Frozen Particles - v1.0
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 34, HF 5  
