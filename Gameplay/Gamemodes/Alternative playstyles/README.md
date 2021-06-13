@@ -137,6 +137,14 @@ Added movable magic hole and magic crystal buffs from Azure Weald to F1 and F3.
 F1 is low gravity, 30% speed boost for 15s and it stacks with additional buff objects (crate batteries) to jump higher and fall slower, which also affects enemies.  
 F3 is 50% damage reduction for 15s and it affects enemies too.
 
+## The Real Krampus - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** Update 34, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d2642929d3b82f0d155c4b9898675184df559b79/Gameplay/Gamemodes/Alternative%20playstyles/The%20Real%20Krampus%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Krampus Detonators aren't particularly helpful. The Real Krampus makes them actively **un**helpful
+
 ## Upgraded Doretta - v1.4
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** U34 H5  
