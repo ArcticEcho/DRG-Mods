@@ -50,6 +50,14 @@ Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are
 **Update v1.2 Changelog:**  
 Improved cave leech tessellation. Fewer opportunities to see that pesky "ceiling" that used to appear between our glorious overleeches. **Accept the leech. Love the leech.**
 
+## Dysonators - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** Update 34, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/64904776d57ce2559ec4971ccd194d4818047a14/Gameplay/Gamemodes/Handicaps/Dysonators%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Dysonators are management's favorite variant of Crassus detonators - they're easy to kill, they can complete half the mission in an instant, and sometimes the team sent down even survives! Plus, they replace a bug-infested cave with a nice Dyson sphere, to extract energy from the sun. *Coming soon: sun*
+
 ## Hardended Weakness - v1.0
 **Authors:** mino  
 **DRG Version:** U33 H10  
