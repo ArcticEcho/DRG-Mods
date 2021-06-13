@@ -77,6 +77,14 @@ Made goo slightly less gooey and last slightly less time, probably. Made speed h
 --Includes all combos of laser sight, air control, 2x, 3x flashlights and this shield and health swapping.  
 Preview: https://discord.com/channels/676880716142739467/732650220214681600/809671728606347274
 
+## Krampus Detonators - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** Update 34, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0b4878eaa50222757f50045542d828bcd2a54408/Gameplay/Gamemodes/Alternative%20playstyles/Krampus%20Detonators%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Crassus detonators give you a lot of gold. Krampus Detonators... aren't as generous
+
 ## Rated 18+ - v1.0
 **Authors:** The Inevitable Luke  
 **DRG Version:** Update 33, Hotfix 10  

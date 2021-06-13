@@ -6762,6 +6762,30 @@
     "DownloadUrl": "https://drive.google.com/file/d/10IP-zik_WQfzrjm5p5QZqjoi-oEhsXgm/view?usp=sharing",
     "Paks": null
   },
+  "krampusdetonators": {
+    "DisplayName": "Krampus Detonators",
+    "Version": "1.0",
+    "DrgVersion": "Update 34, Hotfix 5",
+    "AuthorIds": [
+      297356398558183424
+    ],
+    "Description": "Crassus detonators give you a lot of gold. Krampus Detonators... aren't as generous",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0b4878eaa50222757f50045542d828bcd2a54408/Gameplay/Gamemodes/Alternative%20playstyles/Krampus%20Detonators%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Krampus Detonators - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank_King.uasset": "88-69-86-5B-82-E4-34-F5",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank_King.uasset": "CC-C3-08-E4-A7-E0-18-67",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uasset": "3E-F2-9C-2F-26-87-9C-F1",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank_King.uexp": "2F-AD-FD-80-9C-28-48-E7",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank_King.uexp": "3E-2C-58-A4-31-51-AB-57",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uexp": "B3-D6-D5-7D-3D-99-E4-03"
+        }
+      }
+    ]
+  },
   "largerenemyspawnsformissionsanddeepdives15x2x3x4x5x": {
     "DisplayName": "Larger enemy spawns, for missions and Deep dives (1.5x, 2x, 3x, 4x, 5x)",
     "Version": "34.4.0",
