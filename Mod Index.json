@@ -9439,18 +9439,22 @@
   },
   "nomoterrainparticles": {
     "DisplayName": "No Mo' Terrain Particles",
-    "Version": "1.0",
+    "Version": "1.1",
     "DrgVersion": "Update 34, HF 5",
     "AuthorIds": [
       350019378189828097
     ],
     "Description": "Removes the particles that appear from the mining or drilling of almost every material",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/46d4c79e09ddd2f69bd7735bb3e5337557c668a3/Visual/Misc/No%20Mo%27%20Terrain%20Particles%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Added Glacial Strata Ice, Smooth Ice, Snow, Petrified Wood, Bloated Vines, Azure Roots, and Colossal Roots",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4712e4f796b1c7f8b163c1ffd2f8457fb7314b11/Visual/Misc/No%20Mo%27%20Terrain%20Particles%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "No Mo' Terrain Particles - V1.0",
+        "PakFileName": "No Mo' Terrain Particles - V1.1",
         "CookedFileHashes": {
+          "../../../FSD/Content/Art/Particles/DestructionFX/NS_FungusRoots_Dig.uasset": "12-3F-8E-8A-C2-4A-A1-4A",
+          "../../../FSD/Content/Art/Particles/DestructionFX/NS_FungusRoots_Impact.uasset": "8C-4E-2C-A9-60-2B-66-95",
+          "../../../FSD/Content/Art/Particles/DestructionFX/NS_HollowBough_Wood_Dig.uasset": "B7-F6-5B-9B-3E-44-0E-6A",
+          "../../../FSD/Content/Art/Particles/DestructionFX/NS_HollowBough_Wood_Impact.uasset": "69-02-29-DE-C0-AB-F8-A5",
           "../../../FSD/Content/Art/Particles/DestructionFX/P_Burnt01_Dig.uasset": "37-9F-D1-E1-60-AC-23-CF",
           "../../../FSD/Content/Art/Particles/DestructionFX/P_Burnt01_ShotImpact.uasset": "62-34-9F-63-D0-AC-B2-1B",
           "../../../FSD/Content/Art/Particles/DestructionFX/P_Crystal01_Dig.uasset": "46-BD-7D-AC-D4-04-92-8C",
@@ -9493,7 +9497,10 @@
           "../../../FSD/Content/Art/Particles/DestructionFX/P_Rock01_ShotImpact.uasset": "80-55-1A-9C-43-BD-17-CA",
           "../../../FSD/Content/Art/Particles/DestructionFX/P_SaltCaves_Crystal01_Impact1.uasset": "3D-E3-49-89-CB-C6-AC-88",
           "../../../FSD/Content/Art/Particles/DestructionFX/P_SwarmerTunnelSpawnDig.uasset": "45-A6-24-F5-F5-37-D1-8D",
-          "../../../FSD/Content/Art/Particles/DestructionFX/P_TankBossDestructibleArmor_ShotImpact.uasset": "1F-51-B8-C7-56-D5-E6-97"
+          "../../../FSD/Content/Art/Particles/DestructionFX/P_TankBossDestructibleArmor_ShotImpact.uasset": "1F-51-B8-C7-56-D5-E6-97",
+          "../../../FSD/Content/Landscape/Biomes/Biomes_Ingame/IceCaves/P_IceCaves_DigIce.uasset": "21-53-C1-3F-00-AB-B3-25",
+          "../../../FSD/Content/Landscape/Biomes/Biomes_Ingame/IceCaves/P_IceCaves_DigSnow.uasset": "17-27-10-B4-99-43-48-BD",
+          "../../../FSD/Content/Landscape/Biomes/Biomes_Ingame/IceCaves/P_Impact_Ice.uasset": "69-65-2B-E3-05-69-05-FF"
         }
       }
     ]

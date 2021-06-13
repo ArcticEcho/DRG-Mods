@@ -67,13 +67,16 @@ The Dwarfs finally convinced MC to vacuum all the Ash floating around in the REZ
 **Description:**  
 Removes the Ice particles that appear whenever you shoot a frozen enemy, and removes the Ice particles when they are killed
 
-## No Mo' Terrain Particles - v1.0
+## No Mo' Terrain Particles - v1.1
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 34, HF 5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/46d4c79e09ddd2f69bd7735bb3e5337557c668a3/Visual/Misc/No%20Mo%27%20Terrain%20Particles%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4712e4f796b1c7f8b163c1ffd2f8457fb7314b11/Visual/Misc/No%20Mo%27%20Terrain%20Particles%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Removes the particles that appear from the mining or drilling of almost every material
+
+**Update v1.1 Changelog:**  
+Added Glacial Strata Ice, Smooth Ice, Snow, Petrified Wood, Bloated Vines, Azure Roots, and Colossal Roots
 
 ## Pickaxe Part Unlocker - v1.0
 **Authors:** BongoSkaggs  
