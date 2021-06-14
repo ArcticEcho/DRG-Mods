@@ -3546,6 +3546,30 @@
       }
     ]
   },
+  "dysonatorjr": {
+    "DisplayName": "Dysonator Jr",
+    "Version": "1.0",
+    "DrgVersion": "Update 34, Hotfix 5",
+    "AuthorIds": [
+      297356398558183424
+    ],
+    "Description": "Sometimes, a young Dysonator will seek out mining teams before it can *truly* wreck your map. Don't underestimate them though - they'll still make for an interesting mission!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9ddc37047121e543b6850f1e0886b1f3f941cda4/Gameplay/Gamemodes/Handicaps/Dysonator%20Jr%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Dysonator Jr - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank_King.uasset": "88-69-86-5B-82-E4-34-F5",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank_King.uasset": "FF-83-63-80-45-EB-A5-7C",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uasset": "3E-F2-9C-2F-26-87-9C-F1",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank_King.uexp": "2F-AD-FD-80-9C-28-48-E7",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank_King.uexp": "54-7C-94-EC-6F-40-64-D8",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uexp": "F3-35-4C-7A-DF-00-8E-61"
+        }
+      }
+    ]
+  },
   "dysonators": {
     "DisplayName": "Dysonators",
     "Version": "1.0",

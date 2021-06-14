@@ -50,6 +50,14 @@ Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are
 **Update v1.2 Changelog:**  
 Improved cave leech tessellation. Fewer opportunities to see that pesky "ceiling" that used to appear between our glorious overleeches. **Accept the leech. Love the leech.**
 
+## Dysonator Jr - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** Update 34, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9ddc37047121e543b6850f1e0886b1f3f941cda4/Gameplay/Gamemodes/Handicaps/Dysonator%20Jr%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Sometimes, a young Dysonator will seek out mining teams before it can *truly* wreck your map. Don't underestimate them though - they'll still make for an interesting mission!
+
 ## Dysonators - v1.0
 **Authors:** The Inevitable Luke  
 **DRG Version:** Update 34, Hotfix 5  
