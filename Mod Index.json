@@ -1804,6 +1804,44 @@
       }
     ]
   },
+  "betcvoiced": {
+    "DisplayName": "BET-C Voiced",
+    "Version": "1",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      230821556320731138
+    ],
+    "Description": "This mod adds a voice to a few of BET-C's major audio cues! She speaks when she wakes up, goes down the first time, is repaired and when she makes her distress calls. It was made to not be too intrusive so don't worry, it wont be spammy or obnoxious. Say hi to BET-C!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cbb26300337dec38581e64e8aa8c5b1746e8caa7/Audio/Music/BET-C%20Voiced%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "BET-C Voiced - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleReadyForRepair/InfectedMuleRepairMeBeaconA_1.uasset": "C6-BC-7F-98-16-62-C8-76",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMuleGoodBootingA_1.uasset": "2F-3F-2A-39-73-AF-78-8C",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMuleGoodBootingDistanceA_1.uasset": "BB-AE-49-58-C2-44-08-CF",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMuleGoodBootingDistanceA_1OLD.uasset": "BF-15-6F-51-34-F6-3D-9A",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMulePDyingPositiveA_1.uasset": "25-A6-C0-C1-A2-E9-5D-C9",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMulePowerUpA_1.uasset": "14-CB-8C-BE-23-5B-D8-9D",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMulePowerUpDistanceA_1.uasset": "6E-45-B3-51-D5-FB-FC-F2",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMulePulsatingA_1.uasset": "02-40-32-6F-50-CD-F1-89",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMuleRepairMeBeaconA_1.uasset": "9C-2E-15-26-D3-8D-B7-F2",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMuleRepairMeBeaconDistanceA_1.uasset": "29-98-30-CA-3C-AA-B3-4C",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleReadyForRepair/InfectedMuleRepairMeBeaconA_1.uexp": "0F-73-8F-71-6E-8F-96-77",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMuleGoodBootingA_1.uexp": "9D-08-AA-15-69-68-C6-17",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMuleGoodBootingDistanceA_1.uexp": "6C-F2-5F-3D-25-22-98-C4",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMuleGoodBootingDistanceA_1OLD.uexp": "73-59-C9-EA-74-EE-42-D6",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMulePDyingPositiveA_1.uexp": "D9-F1-7C-F1-69-BF-06-F5",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMulePowerUpA_1.uexp": "1F-6E-0F-0B-0B-34-45-9D",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMulePowerUpDistanceA_1.uexp": "6C-6A-56-3F-1C-16-0E-D3",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMulePulsatingA_1.uexp": "03-AA-8D-20-E3-F9-11-5C",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMuleRepairMeBeaconA_1.uexp": "A1-69-4B-3C-03-58-BD-83",
+          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleStates/InfectedMuleRepairMeBeaconDistanceA_1.uexp": "6B-BE-D6-D8-04-71-6D-D4"
+        }
+      }
+    ]
+  },
   "betterbeers": {
     "DisplayName": "Better Beers",
     "Version": "1",
