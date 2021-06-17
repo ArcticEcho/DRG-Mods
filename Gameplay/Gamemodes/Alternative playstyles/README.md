@@ -28,6 +28,14 @@ Reduces the damage of the bulk death explosion from 20,000 to 3,000, while incre
 **Update v1.1 Changelog:**  
 Added a version of the mod without an attack boost.
 
+## Deep Rock - The Skating Rink - v1.0
+**Authors:** The Inevitable Luke, rcu  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c1f1e8751654b79ee22e902ea4221e53fd61ef39/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Rock%20-%20The%20Skating%20Rink%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+You asked and management delivered! The *Hoxxes Luxury Skating Rink* is ready for use!
+
 ## Doom Gunner - v1.1
 **Authors:** Yarby  
 **DRG Version:** U34 H5  

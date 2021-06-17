@@ -2755,6 +2755,31 @@
       }
     ]
   },
+  "deeprocktheskatingrink": {
+    "DisplayName": "Deep Rock - The Skating Rink",
+    "Version": "1.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      297356398558183424,
+      711378674854658069
+    ],
+    "Description": "You asked and management delivered! The *Hoxxes Luxury Skating Rink* is ready for use!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c1f1e8751654b79ee22e902ea4221e53fd61ef39/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Rock%20-%20The%20Skating%20Rink%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Deep Rock - The Skating Rink - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank_King.uasset": "88-69-86-5B-82-E4-34-F5",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank_King.uasset": "B0-F2-CC-DC-2F-BF-16-97",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uasset": "3E-F2-9C-2F-26-87-9C-F1",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank_King.uexp": "2F-AD-FD-80-9C-28-48-E7",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank_King.uexp": "D3-B7-C3-F3-02-CD-20-51",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uexp": "F3-35-4C-7A-DF-00-8E-61"
+        }
+      }
+    ]
+  },
   "diamondpickaxe": {
     "DisplayName": "Diamond Pickaxe",
     "Version": "1.0",
