@@ -2757,18 +2757,18 @@
   },
   "deeprocktheskatingrink": {
     "DisplayName": "Deep Rock - The Skating Rink",
-    "Version": "1.0",
+    "Version": "1.0.0.0.1",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       297356398558183424,
       711378674854658069
     ],
-    "Description": "You asked and management delivered! The *Hoxxes Luxury Skating Rink* is ready for use!",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c1f1e8751654b79ee22e902ea4221e53fd61ef39/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Rock%20-%20The%20Skating%20Rink%20-%20V1.0%20_P.pak",
+    "Description": "You asked and management delivered! The *Hoxxes Luxury Skating Rink* is ready for use! (crassus make the world ice)",
+    "LastUpdateChangelog": "***(crassus make the world ice)***",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/cbccfd60777e14e569b01010f1d15dd7666a1304/Gameplay/Gamemodes/Alternative%20playstyles/Deep%20Rock%20-%20The%20Skating%20Rink%20-%20V1.0.0.0.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Deep Rock - The Skating Rink - V1.0",
+        "PakFileName": "Deep Rock - The Skating Rink - V1.0.0.0.1",
         "CookedFileHashes": {
           "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank_King.uasset": "88-69-86-5B-82-E4-34-F5",
           "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank_King.uasset": "B0-F2-CC-DC-2F-BF-16-97",
