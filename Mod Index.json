@@ -2460,6 +2460,38 @@
       }
     ]
   },
+  "comicalbarrelarmor": {
+    "DisplayName": "Comical Barrel Armor",
+    "Version": "1.1",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      169492441982959616
+    ],
+    "Description": "It's back baby! \nIt replaces the MK1 Armour and the Marine Corporate helmet!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/979351a1220c550bf7e4a0a9f6fe1fd40459fa5a/Visual/3D%20Model%20Replacement/Armor/Comical%20Barrel%20Armor%20-%20V1.1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Comical Barrel Armor - V1.1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorDriller001.uasset": "5E-B8-1A-29-36-95-3F-06",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorDriller001_Beard.uasset": "B1-DB-79-C7-E8-47-4F-54",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorEngineer001.uasset": "D6-E1-23-48-F2-55-3D-40",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorGunner001.uasset": "5B-B2-F8-A1-D6-66-FC-D0",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorGunner001_Beard.uasset": "76-31-D0-53-61-8F-6D-EA",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorScout001.uasset": "58-B4-FB-22-62-81-08-D0",
+          "../../../FSD/Content/Character/Vanity2/Headwear/SK_Vanity_Headwear_HelmetFullface01_CorporateMarine.uasset": "D4-C6-3A-F9-69-30-EC-50",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorDriller001.uexp": "24-78-FC-F6-4B-FE-CA-CC",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorDriller001_Beard.uexp": "07-DD-08-48-F6-87-40-DE",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorEngineer001.uexp": "07-DD-08-48-F6-87-40-DE",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorGunner001.uexp": "07-DD-08-48-F6-87-40-DE",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorGunner001_Beard.uexp": "07-DD-08-48-F6-87-40-DE",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorScout001.uexp": "07-DD-08-48-F6-87-40-DE",
+          "../../../FSD/Content/Character/Vanity2/Headwear/SK_Vanity_Headwear_HelmetFullface01_CorporateMarine.uexp": "84-98-3F-42-4F-90-20-E3"
+        }
+      }
+    ]
+  },
   "consistentstatuses": {
     "DisplayName": "Consistent Statuses",
     "Version": "1.0",
