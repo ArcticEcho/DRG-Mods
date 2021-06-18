@@ -335,6 +335,7 @@ You can easily locate your game installation path using steam:
 
 ## [Visual/3D Model Replacement/Armor](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Armor)
  - **[Comical Barrel Armor](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Armor/README.md#comical-barrel-armor---v11)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/979351a1220c550bf7e4a0a9f6fe1fd40459fa5a/Visual/3D%20Model%20Replacement/Armor/Comical%20Barrel%20Armor%20-%20V1.1%20_P.pak))
+ - **[StickMan Dwarves MK2](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Armor/README.md#stickman-dwarves-mk2---v11)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/37eaae36454731f085c3f1a4a51b90902dde2807/Visual/3D%20Model%20Replacement/Armor/StickMan%20Dwarves%20MK2%20-%20V1.1%20_P.pak))
 
 ## [Visual/3D Model Replacement/Weapons&Tools](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Weapons%26Tools)
  - **[Banana-nade](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Weapons%26Tools/README.md#banana-nade---v10)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/ffcb64c1a309dcd251a5a9e35c480602e6a4be03/Visual/3D%20Model%20Replacement/Weapons%26Tools/Banana-nade%20-%20V1.0.zip))

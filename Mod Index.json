@@ -12861,6 +12861,36 @@
       }
     ]
   },
+  "stickmandwarvesmk2": {
+    "DisplayName": "StickMan Dwarves MK2",
+    "Version": "1.1",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      169492441982959616
+    ],
+    "Description": "Replaces the MK2 Armour",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/37eaae36454731f085c3f1a4a51b90902dde2807/Visual/3D%20Model%20Replacement/Armor/StickMan%20Dwarves%20MK2%20-%20V1.1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "StickMan Dwarves MK2 - V1.1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorDriller002.uasset": "DD-89-49-0E-18-A8-D0-59",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorDriller002_Beard.uasset": "D5-F4-D6-A3-38-11-95-C1",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorEngineer002.uasset": "E9-60-6B-ED-3E-14-89-72",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorGunner002.uasset": "CE-96-E1-FA-A2-4E-95-08",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorGunner002_Beard.uasset": "9C-0F-89-BB-CB-B7-4D-3E",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorScout002.uasset": "63-78-DA-95-08-60-8E-E6",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorDriller002.uexp": "31-ED-B3-DA-44-BE-0E-E3",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorDriller002_Beard.uexp": "6A-B8-12-25-0B-95-FB-9D",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorEngineer002.uexp": "6A-B8-12-25-0B-95-FB-9D",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorGunner002.uexp": "2C-31-EB-74-88-97-86-C4",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorGunner002_Beard.uexp": "2C-31-EB-74-88-97-86-C4",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorScout002.uexp": "2C-31-EB-74-88-97-86-C4"
+        }
+      }
+    ]
+  },
   "subataglock17": {
     "DisplayName": "Subata Glock 17",
     "Version": "1.0",
