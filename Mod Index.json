@@ -13191,6 +13191,26 @@
       }
     ]
   },
+  "theicedorfcometh": {
+    "DisplayName": "The Ice Dorf Cometh",
+    "Version": "1.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      297356398558183424
+    ],
+    "Description": "Ice usually speeds you up, but not like this. Pairs exquisitely with *Deep Rock - The Skating Rink*",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/80527204d5ea97da72135463c79dfd4c758ed59e/Gameplay/Misc/The%20Ice%20Dorf%20Cometh%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "The Ice Dorf Cometh - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Landscape/ReactiveTerrain/STE_LowFrictionIceRT.uasset": "41-5F-2E-69-01-34-0A-7E",
+          "../../../FSD/Content/Landscape/ReactiveTerrain/STE_LowFrictionIceRT.uexp": "98-AF-1D-83-C7-11-54-EF"
+        }
+      }
+    ]
+  },
   "therealkrampus": {
     "DisplayName": "The Real Krampus",
     "Version": "1.0",

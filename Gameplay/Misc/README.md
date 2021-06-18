@@ -172,6 +172,14 @@ Spawn every creature and object in the game. With 400+ options to choose from. N
 **Update v1.2.1 Changelog:**  
 Fixed random bugs, made some enhancements.
 
+## The Ice Dorf Cometh - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/80527204d5ea97da72135463c79dfd4c758ed59e/Gameplay/Misc/The%20Ice%20Dorf%20Cometh%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Ice usually speeds you up, but not like this. Pairs exquisitely with *Deep Rock - The Skating Rink*
+
 ## Tip Jar 5000 - v1.0.0
 **Authors:** Demellion Dismal  
 **DRG Version:** U34  
