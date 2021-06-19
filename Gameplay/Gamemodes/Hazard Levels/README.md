@@ -114,10 +114,10 @@ Updated for U34 no elite hotfix
 **Update v4.3 Changelog:**  
 Updated for U34 no elite hotfix
 
-## Hazard 6 - v4.3
+## Hazard 6 - v4.4
 **Authors:** Ike  
-**DRG Version:** U34 Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7b0316b0a5d0efe73c18f21a55d159a3ff9e4dc4/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V4.3%20_P.pak)  
+**DRG Version:** U34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a356ed05625d090e09b633b7a3f3138a402f7f39/Gameplay/Gamemodes/Hazard%20Levels/Hazard%206%20-%20V4.4%20_P.pak)  
 
 **Description:**  
 This is a comprehensive Hazard 6 Mod  
@@ -125,8 +125,8 @@ This is a comprehensive Hazard 6 Mod
 --The in-game and steam/discord status will update to say Hazard 6. Rewards multiplier is set to 166%.  
 --The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing  
 --In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up.  
---This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate.  
---Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will need 80 nitra but spend 60 to drop resupplies, and their Doretta UI will be messed up.  
+--This mod also gives Doretta 'about 50%' more damage resistance to counteract increased danger from diverse, numerous, and powerful enemies. Repairing her is twice as slow in combat and slightly slower out of combat effectively doubling her health. She still can die, but this prevents that from being the only likely failstate.  
+--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz6' on their steam/discord status message, they will need 80 nitra but spend 60 to drop resupplies.  
 Update v4.0 Changelog  
 --Changes since V3.0 include:  
 -Figured out how to increase the spawn table allowing all types of disruptive enemies to spawn without preventing special spawns.  
@@ -134,8 +134,8 @@ Update v4.0 Changelog
 -Slightly increased enemy damage scaling and medium enemy health to keep it parallel to Haz4->5  
 -Figured out how to control elite spawns but...
 
-**Update v4.3 Changelog:**  
-Discovered a mistake that reduced grunt veterancy to pathetic haz5 levels.
+**Update v4.4 Changelog:**  
+Due to problems repairing her, Doretta buff tweaked to damage resistance rather than health.
 
 ## Hazard 7 - v4.2
 **Authors:** Ike  
