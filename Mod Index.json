@@ -5244,20 +5244,20 @@
   },
   "hazard7": {
     "DisplayName": "Hazard 7",
-    "Version": "4.2",
-    "DrgVersion": "U34 H4",
+    "Version": "4.3",
+    "DrgVersion": "U34 H5",
     "AuthorIds": [
       189954203664252928
     ],
-    "Description": "This is a comprehensive Hazard 7 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 7. Rewards multiplier is set to 200%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up.\n--This mod also gives Doretta about 50% more health to counteract increased danger from diverse, numerous, and powerful enemies. She still can die, but this prevents that from being the only likely failstate.\n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz7' on their steam/discord status message, they will need but not spend 80 nitra to drop resupplies, and their Doretta UI will be messed up.\n--Beating this is possible, and using other buffs is cheating, but I would recommend staying inside the drop pod at the start of refinery missions.\n--Works well with expanded enemy cap mods.\n--For changes from V3.0 see Haz6",
-    "LastUpdateChangelog": "Corrected mistake that slightly lowered grunt veterancy",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/666f3a51f3201ae7e4c2f26a88fc70fddecbb271/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V4.2%20_P.pak",
+    "Description": "This is a comprehensive Hazard 7 Mod\n--This replaces the Hazard 5 file so it isn't compatible with other mods that do the same\n--The in-game and steam/discord status will update to say Hazard 7. Rewards multiplier is set to 200%.\n--The amount of enemies, enemy diversity, enemy speed, damage, and a host of other factors are all scaled up to be consistent with scaling in the base game hazards. A full list of changes can be found here -> https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing\n--In addition to the hazard file this mod also modifies the resupply file so it only costs 60 nitra. This is to prevent failstates from bad nitra RNG early in certain levels and prevent an ammo meta as enemy number and health scale up.\n--This mod also gives Doretta 'about 50%' more damage resistance to counteract increased danger from diverse, numerous, and powerful enemies. Repairing her is twice as slow in combat and slightly slower out of combat effectively doubling her health. She still can die, but this prevents that from being the only likely failstate.\n--Only the host needs the mod to spawn enemies and affect difficulty elements. If clients don't have the mod they will not receive additional rewards, show 'Haz7' on their steam/discord status message, they will need but not spend 80 nitra to drop resupplies, and their Doretta UI will be messed up.\n--Beating this is possible, and using other buffs is cheating, but I would recommend staying inside the drop pod at the start of refinery missions.\n--Works well with expanded enemy cap mods.\n--For changes from V3.0 see Haz6",
+    "LastUpdateChangelog": "Due to problems repairing her, Doretta buff tweaked to damage resistance rather than health.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/245c2ee166b9cee812be18f8f759e0cad0ea3557/Gameplay/Gamemodes/Hazard%20Levels/Hazard%207%20-%20V4.3%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Hazard 7 - V4.2",
+        "PakFileName": "Hazard 7 - V4.3",
         "CookedFileHashes": {
           "../../../FSD/Content/GameElements/Difficulty/DFC_Haz_05_Lethal.uexp": "B2-99-0D-A3-2D-05-AC-EB",
-          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "C1-6A-F2-84-4B-5C-9F-A6",
+          "../../../FSD/Content/GameElements/Objectives/Escort/BP_EscortMule.uexp": "AE-28-03-3F-30-C4-91-0C",
           "../../../FSD/Content/WeaponsNTools/SupplyPod/ITM_SupplyDrop.uexp": "76-07-CD-DF-F6-C3-54-01"
         }
       }
