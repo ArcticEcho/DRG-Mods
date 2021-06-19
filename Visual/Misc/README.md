@@ -51,6 +51,14 @@ This will be the last update I make to this mod for a while (unless something br
  - Added material name to the UI.  
  - Made the wardrobe light a bit brighter.
 
+## No M1 Muzzle Flash - v1.0
+**Authors:** Pugglez  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3393a1297f70e73ff8ed03de8cece8ebf951f097/Visual/Misc/No%20M1%20Muzzle%20Flash%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Removes the muzzle flash particles of the M1000 from first person perspective.
+
 ## No Mo' Ash - v1.0
 **Authors:** Shrub_Daddy  
 **DRG Version:** Update 34, HF 5  
