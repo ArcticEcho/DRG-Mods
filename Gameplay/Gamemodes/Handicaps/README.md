@@ -82,6 +82,18 @@ Turns the mutator anomaly 'Critical Weakness' into the opposite. Instead of incr
 **Description:**  
 Increases the normal enemy cap from 60->240 and swarmer cap from 60->240. Use this if the Custom Enemy Cap mod is not updated.
 
+## More Rare Encounters - v1.0
+**Authors:** Ike  
+**DRG Version:** U34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8ea83d4be5871b070a377135f5022d1efc0c7c25/Gameplay/Gamemodes/Handicaps/More%20Rare%20Encounters%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+This mod increases the probability of rare encounters to add some spice to regular missions.  
+Korlok Spawn chance: 6% -> 25%  
+BET-C Spawn Chance 6% -> 25%  
+Crassus Spawn Chance 3% -> 10%  
+Hoarder Spawn Chance 15% -> 30%
+
 ## No Reviving - v2
 **Authors:** Shrub_Daddy  
 **DRG Version:** 33  

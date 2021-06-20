@@ -9619,6 +9619,25 @@
       }
     ]
   },
+  "morerareencounters": {
+    "DisplayName": "More Rare Encounters",
+    "Version": "1.0",
+    "DrgVersion": "U34 Hotfix 5",
+    "AuthorIds": [
+      189954203664252928
+    ],
+    "Description": "This mod increases the probability of rare encounters to add some spice to regular missions.\nKorlok Spawn chance: 6% -> 25%\nBET-C Spawn Chance 6% -> 25%\nCrassus Spawn Chance 3% -> 10%\nHoarder Spawn Chance 15% -> 30%",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8ea83d4be5871b070a377135f5022d1efc0c7c25/Gameplay/Gamemodes/Handicaps/More%20Rare%20Encounters%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "More Rare Encounters - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Game/GameData/GD_EncounterSettings.uexp": "91-5F-48-5B-02-9E-D2-B2"
+        }
+      }
+    ]
+  },
   "moreshields": {
     "DisplayName": "More Shields",
     "Version": "1.3421",
