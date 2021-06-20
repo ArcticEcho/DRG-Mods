@@ -44,7 +44,7 @@ Adds a small mission timer to the top of the screen. Also acts as a deep dive st
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1572c3639796bc54b4a02ca54dc3c5fb397f72b3/Quality%20of%20Life/HUD/ReloadBar%20-%20V1.0.0.zip)  
 
 **Description:**  
-It's back! I've rebuilt SamsReloadBar in order to make it far better than before. Now includes automatic reload detection, and changes based on your build automatically! Please add any bug reports as an issue to my [github repo](https://github.com/samamstar/SamsDRGMods)
+**Requires BP mod manager** It's back! I've rebuilt SamsReloadBar in order to make it far better than before. Now includes automatic reload detection, and changes based on your build automatically! Please add any bug reports as an issue to my [github repo](https://github.com/samamstar/SamsDRGMods)
 
 ## Show Events - v1.1.1
 **Authors:** flynoob  
