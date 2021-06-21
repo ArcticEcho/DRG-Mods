@@ -138,6 +138,14 @@ Full song list: https://docs.google.com/uc?export=download&id=1-9RHJvp4q2qhAebDx
 6. Deep Dive music - With your drill, pierce the heavens!  
 7. Promotional Fanfare - The good, the bad, the ugly (not the whistle)
 
+## MeatMorning's Music Pak - v1.0.0
+**Authors:** Buckminsterfullerene  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/57048a7092e8e1ccc05e84ec09505848597849a2/Audio/Music/MeatMorning%27s%20Music%20Pak%20-%20V1.0.0%20_P.pak)  
+
+**Description:**  
+Adds to the boss, wave and escape music with an assortment of tracks from the `The Last Spell` and the `Hell Is Other Demons` OSTs, written by [Remi Gallego AKA The Algorithm](https://intothealgorithm.bandcamp.com/), suggested by @MeatMorning.
+
 ## NOW Thats What I Call Hoxxes Greatest Hits - v2.2
 **Authors:** Siirvend  
 **DRG Version:** Update 34  
