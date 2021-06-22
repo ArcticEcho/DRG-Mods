@@ -14215,6 +14215,31 @@
       }
     ]
   },
+  "trollfacemask": {
+    "DisplayName": "Troll Face Mask",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      169492441982959616
+    ],
+    "Description": "Replaces the Year one party hat with Troll Face!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0a448e75e29245c8f364b8c0eb83383ead315c7b/Visual/3D%20Model%20Replacement/Hats/Troll%20Face%20Mask%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Troll Face Mask - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/Vanity2/Headwear/full2.uasset": "BC-BD-1E-6F-35-06-CB-AA",
+          "../../../FSD/Content/Character/Vanity2/Headwear/M_Vanity_Headwear_PartyHat_Year01.uasset": "9B-DA-AE-9B-6C-2B-59-64",
+          "../../../FSD/Content/Character/Vanity2/Headwear/SK_Vanity_Headwear_PartyHat_Year01.uasset": "70-7A-83-5D-CF-75-D7-43",
+          "../../../FSD/Content/Character/Vanity2/Headwear/full2.uexp": "71-3F-C3-53-37-E0-67-13",
+          "../../../FSD/Content/Character/Vanity2/Headwear/M_Vanity_Headwear_PartyHat_Year01.uexp": "59-5B-36-AB-8E-D0-B9-00",
+          "../../../FSD/Content/Character/Vanity2/Headwear/SK_Vanity_Headwear_PartyHat_Year01.uexp": "71-0C-A4-DF-07-F0-D4-8C",
+          "../../../FSD/Content/Character/Vanity2/Headwear/full2.ubulk": "05-25-D0-97-5D-73-64-15"
+        }
+      }
+    ]
+  },
   "ultimateflamethrower": {
     "DisplayName": "Ultimate Flamethrower",
     "Version": "1.0",
