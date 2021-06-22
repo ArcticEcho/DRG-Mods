@@ -14218,11 +14218,11 @@
   "trollfacemask": {
     "DisplayName": "Troll Face Mask",
     "Version": "1.0",
-    "DrgVersion": "U34H5",
+    "DrgVersion": "Update 34",
     "AuthorIds": [
       169492441982959616
     ],
-    "Description": "Replaces the Year one party hat with Troll Face!",
+    "Description": "Replaces the Year one party hat with Troll Face!\nOriginal model made by: Petaly",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0a448e75e29245c8f364b8c0eb83383ead315c7b/Visual/3D%20Model%20Replacement/Hats/Troll%20Face%20Mask%20-%20V1.0%20_P.pak",
     "Paks": [
