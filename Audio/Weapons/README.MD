@@ -31,6 +31,14 @@ Changes Gunner's Lead Storm Minigun firing, overheating, and jamming sounds. [Pr
 **Update v1.0 Changelog:**  
 Fixed file name.
 
+## AT-AT Autocannon - v1.0
+**Authors:** Zega  
+**DRG Version:** Update 34, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/141b9e1f06fbde8a727ec4ae30abf756b67668b5/Audio/Weapons/AT-AT%20Autocannon%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the Autocannon firing sounds with AT-AT Walker's chin blaster sounds from Star Wars Battlefront 2 (2005).
+
 ## AutoShotgun Jackhammer MP1 - v1.0
 **Authors:** mino  
 **DRG Version:** U33 H10  
