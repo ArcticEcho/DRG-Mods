@@ -374,16 +374,16 @@ Will not be compatible with any other mod that changes weapons or tools. I sugge
 Just gives the Subata fully automatic fire. Now you can avoid RSI without the need to use a shitty bandaid OC or a macro!  
 Huge, massive thanks to @Drillboy Jenkins  for all their help.
 
-## Power Creep - v5-10-2021
+## Power Creep - v6-23-2021
 **Authors:** Shattered  
-**DRG Version:** u34 h4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a3bd6e587be98d2c31b45b7a74b79760e5fb1674/Gameplay/Unbalanced/Weapons/Power%20Creep%20-%20V5-10-2021%20_P.pak)  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/eabf463dc6d552f4cfc027928070b24924e88879/Gameplay/Unbalanced/Weapons/Power%20Creep%20-%20V6-23-2021%20_P.pak)  
 
 **Description:**  
-A balance mod that changes some perks and weapons. Credit to @BongoSkaggs for making the Subata 120 fully automatic. Change list: https://onlyo.co/3bbWcqX
+A balance mod. Credit to BongoSkaggz for making the Subata 120 fully automatic. Change list: https://docs.google.com/document/d/199OeEEgflOXcx3mnzQarwxwdQgx-jj5349WwvkRTdnc/edit?usp=sharing
 
-**Update v5-10-2021 Changelog:**  
-Weapon changes.
+**Update v6-23-2021 Changelog:**  
+Changed basically everything.
 
 ## Real Minigun - v1.0
 **Authors:** Yarby  
