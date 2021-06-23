@@ -4710,30 +4710,30 @@
   },
   "galaxyskins": {
     "DisplayName": "Galaxy Skins",
-    "Version": "1.0",
+    "Version": "1.1",
     "DrgVersion": "U34",
     "AuthorIds": [
       149217063154614272
     ],
-    "Description": "Replaces the Amethyst Hair Color and the Desert Ranger Weapon Paintjob with animated Galactic background!",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/112ef004cb5ea910a6b8e1342986cc147b9cd4c7/Visual/Textures%20%26%20Icons/Galaxy%20Skins%20-%20V1.0%20_P.pak",
+    "Description": "Replaces the Amethyst Hair Color and the Deep Core Weapon Paintjob with animated Galactic background!",
+    "LastUpdateChangelog": "Changed the weapon paint to require Deep Core instead of Desert Ranger",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/7d520353135ace4ab5aa369812c8465a1d973271/Visual/Textures%20%26%20Icons/Galaxy%20Skins%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Galaxy Skins - V1.0",
+        "PakFileName": "Galaxy Skins - V1.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/Character/Vanity2/HairColors/15139-colorgrade.uasset": "D2-E2-A9-18-43-87-15-08",
-          "../../../FSD/Content/Character/Vanity2/HairColors/galaxy.uasset": "39-E4-2F-54-1A-6C-5B-9E",
-          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Purple01.uasset": "0D-18-69-0D-07-DF-DE-C0",
-          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Purple02.uasset": "5D-98-E3-A8-79-96-2E-A3",
-          "../../../FSD/Content/Character/Vanity2/HairColors/stars.uasset": "60-81-30-C3-DB-98-A2-2A",
-          "../../../FSD/Content/WeaponsNTools/_GlobalSkinStuff/M_GlobalSkin_DesertRanger.uasset": "F8-C6-5B-2B-17-F9-A7-BB",
+          "../../../FSD/Content/Character/Vanity2/HairColors/15139-colorgrade.uasset": "14-B3-2C-3C-E2-14-E2-3B",
+          "../../../FSD/Content/Character/Vanity2/HairColors/galaxy.uasset": "44-67-E1-0D-D2-48-EF-E8",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Purple01.uasset": "C9-82-D5-6A-D0-58-03-08",
+          "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Purple02.uasset": "7C-B7-C7-C6-51-A9-28-F1",
+          "../../../FSD/Content/Character/Vanity2/HairColors/stars.uasset": "75-AB-71-04-2F-89-12-73",
+          "../../../FSD/Content/WeaponsNTools/_GlobalSkinStuff/M_GlobalSkin_DeepCore.uasset": "44-28-A5-27-90-44-BC-AF",
           "../../../FSD/Content/Character/Vanity2/HairColors/15139-colorgrade.uexp": "2C-EE-E9-F1-83-53-56-04",
           "../../../FSD/Content/Character/Vanity2/HairColors/galaxy.uexp": "C5-D3-BA-0E-33-23-5C-5A",
           "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Purple01.uexp": "4E-E6-BE-05-94-9B-95-93",
           "../../../FSD/Content/Character/Vanity2/HairColors/M_HairColor_Purple02.uexp": "94-BC-29-FB-A5-8C-DB-99",
           "../../../FSD/Content/Character/Vanity2/HairColors/stars.uexp": "51-10-F1-8F-E8-DC-F6-84",
-          "../../../FSD/Content/WeaponsNTools/_GlobalSkinStuff/M_GlobalSkin_DesertRanger.uexp": "4E-E6-BE-05-94-9B-95-93",
+          "../../../FSD/Content/WeaponsNTools/_GlobalSkinStuff/M_GlobalSkin_DeepCore.uexp": "4E-E6-BE-05-94-9B-95-93",
           "../../../FSD/Content/Character/Vanity2/HairColors/15139-colorgrade.ubulk": "DA-FE-4C-50-EB-3F-64-CA",
           "../../../FSD/Content/Character/Vanity2/HairColors/stars.ubulk": "CB-B2-AF-9D-CE-C7-4E-4B"
         }

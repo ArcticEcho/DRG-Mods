@@ -50,13 +50,16 @@ Changes the class icons to their default pictogram. Yellow with a drill, red wit
 **Description:**  
 Changes the class icons to their true meaning in a pictogram. Yellow with a hand truck (the carry), red with an engine (the motor), green with a crosshair (the terminator) and blue with the hermes foot (the flying monkey).
 
-## Galaxy Skins - v1.0
+## Galaxy Skins - v1.1
 **Authors:** SirVerex  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/112ef004cb5ea910a6b8e1342986cc147b9cd4c7/Visual/Textures%20%26%20Icons/Galaxy%20Skins%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7d520353135ace4ab5aa369812c8465a1d973271/Visual/Textures%20%26%20Icons/Galaxy%20Skins%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-Replaces the Amethyst Hair Color and the Desert Ranger Weapon Paintjob with animated Galactic background!
+Replaces the Amethyst Hair Color and the Deep Core Weapon Paintjob with animated Galactic background!
+
+**Update v1.1 Changelog:**  
+Changed the weapon paint to require Deep Core instead of Desert Ranger
 
 ## MarcusGray Posters - v1.1
 **Authors:** Marcus, Humping Koala  
