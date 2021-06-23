@@ -195,6 +195,14 @@ No Jukebox songs.
 **Update v0.9 Changelog:**  
 0.9 - Volume pass done. Increased volume on some songs. "Make waves more obvious" pass next.
 
+## TheFatRat No-Copyright Jukebox Music Pak - v1.0
+**Authors:** Buckminsterfullerene  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0713fb9fbacb13b348475d3f15a70f9b5ddd15a2/Audio/Music/TheFatRat%20No-Copyright%20Jukebox%20Music%20Pak%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the streamer mode no-copyrighted jukebox songs with the 8 most popular TheFatRat songs (which are all no-copyright). This is compatible with any of my other jukebox replacement mods that replace only the copyrighted songs. [Song list](https://docs.google.com/spreadsheets/d/1oeeTeYisAbOQeieqIMAthMlVXKVelJGnVZiPUkpT3ps/edit?usp=sharing)
+
 ## WTFightMusic - v2.2
 **Authors:** CouchDiabetic  
 **DRG Version:** Update 33 Hotfix 9  

@@ -14114,6 +14114,42 @@
       }
     ]
   },
+  "thefatratnocopyrightjukeboxmusicpak": {
+    "DisplayName": "TheFatRat No-Copyright Jukebox Music Pak",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      196142609528389632
+    ],
+    "Description": "Replaces the streamer mode no-copyrighted jukebox songs with the 8 most popular TheFatRat songs (which are all no-copyright). This is compatible with any of my other jukebox replacement mods that replace only the copyrighted songs. [Song list](https://docs.google.com/spreadsheets/d/1oeeTeYisAbOQeieqIMAthMlVXKVelJGnVZiPUkpT3ps/edit?usp=sharing)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0713fb9fbacb13b348475d3f15a70f9b5ddd15a2/Audio/Music/TheFatRat%20No-Copyright%20Jukebox%20Music%20Pak%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "TheFatRat No-Copyright Jukebox Music Pak - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/BluesTRJ_02.uasset": "3E-1E-CB-B0-26-54-5B-8D",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/CountrayLazy_TRJ_2.uasset": "9D-40-70-98-AA-C8-2D-11",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/FrenchHouse_TRJ_02.uasset": "50-1A-7B-15-0E-A4-6A-A0",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/HeavyRockTRJ_2.uasset": "08-A3-5C-6F-CA-8E-EA-87",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/OrganMusic_TRJ_3.uasset": "5C-84-9C-FB-1A-44-A4-A5",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/ReggaeTRJ_02.uasset": "07-43-09-0D-DF-C0-B9-C1",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/Surf_TRJ_02.uasset": "1E-AF-D9-D5-8C-A5-85-CE",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/Techno_TRJ_02.uasset": "0D-2E-AE-8C-D3-8E-75-A6",
+          "../../../FSD/Content/ShaderArchive-FatRatNCS-PCD3D_SM5.ushaderbytecode": "D0-C7-64-D7-64-28-92-6D",
+          "../../../FSD/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode": "22-28-1E-40-A6-79-D3-76",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/BluesTRJ_02.uexp": "48-96-47-2C-FC-3D-39-A3",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/CountrayLazy_TRJ_2.uexp": "27-BB-2D-0C-61-FA-0E-91",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/FrenchHouse_TRJ_02.uexp": "9B-11-F5-01-4A-CD-90-D4",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/HeavyRockTRJ_2.uexp": "E0-70-2D-C6-CB-06-66-2D",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/OrganMusic_TRJ_3.uexp": "07-FE-66-BF-FC-EA-43-20",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/ReggaeTRJ_02.uexp": "D6-37-B8-EF-73-5E-A6-D0",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/Surf_TRJ_02.uexp": "6B-81-79-78-36-71-DC-7B",
+          "../../../FSD/Content/Audio/Music/JukeBox/TRJMusic/Techno_TRJ_02.uexp": "02-92-CB-2E-47-B1-45-CB"
+        }
+      }
+    ]
+  },
   "theicedorfcometh": {
     "DisplayName": "The Ice Dorf Cometh",
     "Version": "1.0",
