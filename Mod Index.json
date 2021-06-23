@@ -8253,6 +8253,56 @@
       }
     ]
   },
+  "minecrafttnt": {
+    "DisplayName": "Minecraft TNT",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      372641106187255818
+    ],
+    "Description": "Replaces the driller's C4 with the TNT block from Minecraft.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d308c6360dc7f1bdbd0cd1cb589bab9480080dec/Visual/3D%20Model%20Replacement/Weapons%26Tools/Minecraft%20TNT%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Minecraft TNT - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_1.uasset": "FD-78-83-90-41-7D-A7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_10.uasset": "F0-4F-58-A5-44-93-D8-9B",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_2.uasset": "C2-31-21-40-3D-6C-E2-46",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_3.uasset": "1E-84-46-1F-B7-EC-A7-D7",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_4.uasset": "DF-E0-D3-A8-73-DD-6E-6E",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_5.uasset": "CE-F5-2C-16-2C-51-65-0D",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_6.uasset": "09-86-09-A7-22-69-8B-D4",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_7.uasset": "A0-B6-93-69-D4-6F-29-60",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_8.uasset": "49-A7-75-A2-88-A0-FF-EC",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_9.uasset": "2C-90-3A-62-78-39-B7-5A",
+          "../../../FSD/Content/WeaponsNTools/DetPack/M_TNT.uasset": "C6-CB-F1-3C-46-3F-C7-D7",
+          "../../../FSD/Content/WeaponsNTools/DetPack/SK_DetPack_Charge.uasset": "1F-CE-4A-B1-A1-20-D7-AF",
+          "../../../FSD/Content/WeaponsNTools/DetPack/SK_DetPack_Charge_Skeleton.uasset": "DC-D2-AD-51-A6-A8-D5-9A",
+          "../../../FSD/Content/WeaponsNTools/DetPack/SM_DetPack_Charge_50.uasset": "2A-75-4A-04-7C-1C-F9-3E",
+          "../../../FSD/Content/WeaponsNTools/DetPack/SM_Detpack_Loadout_A.uasset": "51-F9-0F-AF-58-99-F3-59",
+          "../../../FSD/Content/WeaponsNTools/DetPack/T_TNT.uasset": "DB-AD-31-63-72-0A-6A-E4",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_1.uexp": "CF-25-26-1E-A6-52-E1-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_10.uexp": "E9-27-8E-E7-20-B4-66-D3",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_2.uexp": "CF-25-26-1E-A6-52-E1-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_3.uexp": "CF-25-26-1E-A6-52-E1-18",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_4.uexp": "1B-1A-F8-91-8D-29-52-B5",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_5.uexp": "1B-1A-F8-91-8D-29-52-B5",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_6.uexp": "1B-1A-F8-91-8D-29-52-B5",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_7.uexp": "11-51-AE-3F-CD-4E-C3-31",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_8.uexp": "11-51-AE-3F-CD-4E-C3-31",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_DetPack/Explosion/Merged/DetPackMergedA_9.uexp": "11-51-AE-3F-CD-4E-C3-31",
+          "../../../FSD/Content/WeaponsNTools/DetPack/M_TNT.uexp": "9F-84-5C-AD-1A-0D-28-4F",
+          "../../../FSD/Content/WeaponsNTools/DetPack/SK_DetPack_Charge.uexp": "EF-AA-95-C6-D5-86-CC-8F",
+          "../../../FSD/Content/WeaponsNTools/DetPack/SK_DetPack_Charge_Skeleton.uexp": "A2-1D-8B-0C-12-29-21-3F",
+          "../../../FSD/Content/WeaponsNTools/DetPack/SM_DetPack_Charge_50.uexp": "FA-A5-40-C2-1C-96-24-D7",
+          "../../../FSD/Content/WeaponsNTools/DetPack/SM_Detpack_Loadout_A.uexp": "18-45-01-F0-A7-66-22-BB",
+          "../../../FSD/Content/WeaponsNTools/DetPack/T_TNT.uexp": "E2-CB-AE-06-D3-90-2D-B0"
+        }
+      }
+    ]
+  },
   "mineheadisnowepic": {
     "DisplayName": "Minehead Is Now Epic",
     "Version": "2.7",

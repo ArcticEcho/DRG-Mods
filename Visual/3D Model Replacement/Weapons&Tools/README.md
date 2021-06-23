@@ -52,6 +52,14 @@ Replaces the Impact Axe model with a Iron Axe from the game Minecraft
 **Description:**  
 Replaces the Incendiary with sour fury! Suggested by @BongoSkaggs
 
+## Minecraft TNT - v1.0
+**Authors:** WeeBrains  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d308c6360dc7f1bdbd0cd1cb589bab9480080dec/Visual/3D%20Model%20Replacement/Weapons%26Tools/Minecraft%20TNT%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the driller's C4 with the TNT block from Minecraft.
+
 ## Pine-appetite - v1.0
 **Authors:** SirVerex  
 **DRG Version:** U34  
