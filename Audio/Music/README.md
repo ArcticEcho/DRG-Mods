@@ -12,6 +12,14 @@ Audio changes for the soundtrack or jukebox tracks
 **Description:**  
 This mod adds a voice to a few of BET-C's major audio cues! She speaks when she wakes up, goes down the first time, is repaired and when she makes her distress calls. It was made to not be too intrusive so don't worry, it wont be spammy or obnoxious. Say hi to BET-C!
 
+## CSS Games Jukebox Music Pak - v1.0.0
+**Authors:** Buckminsterfullerene  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://drive.google.com/file/d/1-m761IfBj-SgsZlc7kLL8q6WJbTUhP8p/view?usp=sharing) (third-party host)  
+
+**Description:**  
+Replaces most jukebox songs with a selection of songs from varying Coffee Stain Publishing games (Satisfactory, Sanctum, Valheim, Goat Sim). **Does not replace the streamer mode no-copyright songs.** [Song list](https://docs.google.com/spreadsheets/d/1ImyFtfMXI6XtkZ3LpFLHSESIKjAfQBXp1Bgs5yRRId0/edit?usp=sharing)
+
 ## Darkest Dungeon Music - v2.0
 **Authors:** Spoke  
 **DRG Version:** 34  

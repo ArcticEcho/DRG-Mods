@@ -2734,6 +2734,18 @@
       }
     ]
   },
+  "cssgamesjukeboxmusicpak": {
+    "DisplayName": "CSS Games Jukebox Music Pak",
+    "Version": "1.0.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      196142609528389632
+    ],
+    "Description": "Replaces most jukebox songs with a selection of songs from varying Coffee Stain Publishing games (Satisfactory, Sanctum, Valheim, Goat Sim). **Does not replace the streamer mode no-copyright songs.** [Song list](https://docs.google.com/spreadsheets/d/1ImyFtfMXI6XtkZ3LpFLHSESIKjAfQBXp1Bgs5yRRId0/edit?usp=sharing)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://drive.google.com/file/d/1-m761IfBj-SgsZlc7kLL8q6WJbTUhP8p/view?usp=sharing",
+    "Paks": null
+  },
   "customenemycap": {
     "DisplayName": "Custom Enemy Cap",
     "Version": "2.7",
