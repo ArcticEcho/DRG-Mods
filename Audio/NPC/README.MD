@@ -94,6 +94,14 @@ Preview -> https://discord.com/channels/676880716142739467/732650220214681600/80
 Replaces Lloyd's vocalizations with Lloyd the Bartender from The Shining run through a robot vocal changer.  
 Preview -> https://discord.com/channels/676880716142739467/732650220214681600/806979173154947082
 
+## Sneezy Exploders - v1.0
+**Authors:** HandDrawnNerd  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3be7e5b2e22eb9cdc3b9bb4ac5436d0e0e95964e/Audio/NPC/Sneezy%20Exploders%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+It's flu season in Hoxxes and it seems that the Exploders and Detonators are a bit under the weather. Replaces death/explosion sounds of Exploders and Detonators with sneezes. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/857666190830862416)
+
 ## Swiggity Grabbers - v1.0
 **Authors:** Lithobraker  
 **DRG Version:** Update 33, Hotfix 10  

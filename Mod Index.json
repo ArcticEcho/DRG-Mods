@@ -14063,6 +14063,66 @@
       }
     ]
   },
+  "sneezyexploders": {
+    "DisplayName": "Sneezy Exploders",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      73673072833470464
+    ],
+    "Description": "It's flu season in Hoxxes and it seems that the Exploders and Detonators are a bit under the weather. Replaces death/explosion sounds of Exploders and Detonators with sneezes. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/857666190830862416)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3be7e5b2e22eb9cdc3b9bb4ac5436d0e0e95964e/Audio/NPC/Sneezy%20Exploders%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Sneezy Exploders - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/Custom/CustomAttenuation.uasset": "95-E3-DC-0A-1A-C2-4B-23",
+          "../../../FSD/Content/Audio/Custom/CustomReverbAttenuation.uasset": "8D-57-79-C8-6A-AC-DD-F3",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/huff1.uasset": "34-F9-23-96-23-A0-F7-AE",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/huff4.uasset": "EB-BE-A4-47-16-14-C5-78",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/hufffx1.uasset": "29-3B-3E-A6-F9-65-4B-26",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/hufffx4.uasset": "64-A0-98-89-95-3A-38-33",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneeze1.uasset": "78-A3-AE-80-EA-1B-98-86",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneeze2.uasset": "6D-D7-47-B6-D4-83-2F-B0",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneeze3.uasset": "DD-7A-95-51-BF-15-16-00",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneeze4.uasset": "C9-80-87-DC-E9-DA-11-4E",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneeze5.uasset": "8F-8B-72-61-2B-68-80-03",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneezefx1.uasset": "B7-C1-18-8B-F5-22-A7-37",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneezefx2.uasset": "B5-1C-7A-2A-02-8D-66-92",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneezefx3.uasset": "5E-2F-12-C5-8F-A5-C6-42",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneezefx4.uasset": "80-92-08-D2-D9-50-E0-8E",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneezefx5.uasset": "2A-F6-07-DF-CA-C6-21-BC",
+          "../../../FSD/Content/Audio/SFX/Enemies/ExplodingSpider/ExplodingSpiderBlowUp/Spider_Exploding_Blowup_Cue.uasset": "6D-08-79-D9-F8-88-B8-85",
+          "../../../FSD/Content/Audio/SFX/Enemies/ExplodingSpider/ExplodingSpiderExplosion/Spider_Exploding_Suicide_Cue.uasset": "67-8E-A7-90-C3-FC-F1-B2",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderTankExploder/SpiderTank_Exploding_Blowup_Cue.uasset": "F0-A2-89-DC-61-8F-6E-E0",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderTankExploder/SpiderTank_Explosion_Cue.uasset": "4B-CA-7C-CF-32-E0-0B-58",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderTankExploder/SpideTankAttackExplosion_Cue.uasset": "7A-7F-D6-48-D9-DA-FE-2D",
+          "../../../FSD/Content/Audio/Custom/CustomAttenuation.uexp": "47-D6-A9-2A-A6-35-32-D0",
+          "../../../FSD/Content/Audio/Custom/CustomReverbAttenuation.uexp": "D1-F7-3E-1B-B6-9E-9C-ED",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/huff1.uexp": "52-42-57-36-7C-52-39-65",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/huff4.uexp": "3C-D1-19-DE-62-DA-32-70",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/hufffx1.uexp": "A1-F4-8A-48-C9-71-B9-6E",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/hufffx4.uexp": "65-5C-C4-B4-DF-CF-70-E0",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneeze1.uexp": "1B-07-3B-A2-10-CC-50-6D",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneeze2.uexp": "E0-C5-39-F2-16-69-FF-2D",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneeze3.uexp": "6B-5D-40-62-49-CC-E9-89",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneeze4.uexp": "B4-50-FC-AA-99-C5-49-52",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneeze5.uexp": "24-62-3A-42-3F-52-46-B9",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneezefx1.uexp": "5B-45-03-C8-C5-5B-30-1B",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneezefx2.uexp": "7B-33-2A-96-AD-23-61-5C",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneezefx3.uexp": "4F-B4-00-28-FB-E2-21-A1",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneezefx4.uexp": "80-51-D5-F6-CC-66-DE-A2",
+          "../../../FSD/Content/Audio/Custom/SneezyExploders/sneezefx5.uexp": "CE-8D-D4-D3-D6-0A-DB-FE",
+          "../../../FSD/Content/Audio/SFX/Enemies/ExplodingSpider/ExplodingSpiderBlowUp/Spider_Exploding_Blowup_Cue.uexp": "1D-71-E5-D2-AA-21-34-98",
+          "../../../FSD/Content/Audio/SFX/Enemies/ExplodingSpider/ExplodingSpiderExplosion/Spider_Exploding_Suicide_Cue.uexp": "15-01-0C-C5-89-ED-7A-22",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderTankExploder/SpiderTank_Exploding_Blowup_Cue.uexp": "EF-4D-B6-D9-CD-A3-96-2B",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderTankExploder/SpiderTank_Explosion_Cue.uexp": "CF-5F-90-60-5E-C4-79-8D",
+          "../../../FSD/Content/Audio/SFX/Enemies/SpiderTankExploder/SpideTankAttackExplosion_Cue.uexp": "CF-5F-90-60-5E-C4-79-8D"
+        }
+      }
+    ]
+  },
   "sniperturret": {
     "DisplayName": "Sniper Turret",
     "Version": "1.0",
