@@ -67,10 +67,10 @@ This is a sub-mod, to use with the mods Starship Troopers, Bug planet, increased
 **Update v34.1.0 Changelog:**  
 Updated for DRG 34.1
 
-## Fabulously Fast Lootbugs - v1
+## Fabulously Fast Lootbugs - v1.1
 **Authors:** Sephiasus  
-**DRG Version:** Update 32/33  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9c77d3abd203ee52182ff8bfd295653824f7ad30/Gameplay/Misc/Fabulously%20Fast%20Lootbugs%20-%20V1%20_P.pak)  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d97a5ed89e154fc2b85e21710d647845eb334703/Gameplay/Misc/Fabulously%20Fast%20Lootbugs%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Increases the Lootbug Speed tremendously  (25.0 to 1000.0) but they still rest normally. Also looks really funny
