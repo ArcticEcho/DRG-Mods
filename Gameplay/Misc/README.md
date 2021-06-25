@@ -120,15 +120,18 @@ Updated for DRG 34.1
 Makes the rank required to buy a leaf lovers 6,942,069, just so you never buy a Leaf Lovers Special  
 This is a joke mod... or is it?
 
-## M1000 Aim Trainer - v1.0
+## M1000 Aim Trainer - v1.1
 **Authors:** Pugglez  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a0b89a09ccadc1b23b6f3cc18d69b003b095bf26/Gameplay/Misc/M1000%20Aim%20Trainer%20-%20V1.0.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2ce06bc615e58b17d0abfbb24837a72f09e5e7d4/Gameplay/Misc/M1000%20Aim%20Trainer%20-%20V1.1.zip)  
 
 **Description:**  
-This mod is designed as an aim trainer for Scout's M1000 to warm up your shots or practicing in general by making it so you only do actual damage through weakpoint hits with the M1k.  
-This mod is meant to be used with GoldBl4d3's Spawn Menu mod (which also requires the BP Mod Manager) and replaces Haz 4 and 5 files along with modifications to missions.  
-Read the README for more details.
+This mod is designed as an aim trainer for Scout's M1000 by making it so you only do actual damage through weakpoint hits with the M1k.  
+This mod is meant to be used with GoldBl4d3's Spawn Menu mod (which also requires the BP Mod Manager).  
+Read the README for more details on how to use the mod as intended.
+
+**Update v1.1 Changelog:**  
+Removed Haz modifications and experience/credit gained restrictions
 
 ## No Korlok Spawn - v1.0
 **Authors:** GreyHound  
