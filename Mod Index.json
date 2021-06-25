@@ -3617,6 +3617,18 @@
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/80eb324c77c40295abb7815027b4e20f488c4a0e/CE%20Table/DRG%20-%20Fun%20Table%20-%20UWP%20-%20V1.0.zip",
     "Paks": []
   },
+  "drgtable": {
+    "DisplayName": "DRG Table",
+    "Version": "4.6",
+    "DrgVersion": "Update 34",
+    "AuthorIds": [
+      414476320722911253
+    ],
+    "Description": "This tool has hundreds of options so I'm not gonne list 'em here.\nHere you can see some of the possibilities:\nhttps://discord.com/channels/676880716142739467/732650220214681600/858006818784804885\n\n**In order to use the .CT file you'll need to install Cheat Engine 7.2, then you can run the .CT file just like a .exe.**\n**CE",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/aa02aa8bfa919e2e0979cf2f809f52ba61d20eac/CE%20Table/DRG%20Table%20-%20V4.6.zip",
+    "Paks": []
+  },
   "dripfortressendscreen": {
     "DisplayName": "Drip Fortress End Screen",
     "Version": "1.0",

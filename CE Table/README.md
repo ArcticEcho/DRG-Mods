@@ -76,3 +76,15 @@ You can also rightclick on a scripts and create a hotkey.
 
 **Update v1.0 Changelog:**  
 Updated the description.
+
+## DRG Table - v4.6
+**Authors:** Akira Fudo  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/aa02aa8bfa919e2e0979cf2f809f52ba61d20eac/CE%20Table/DRG%20Table%20-%20V4.6.zip)  
+
+**Description:**  
+This tool has hundreds of options so I'm not gonne list 'em here.  
+Here you can see some of the possibilities:  
+https://discord.com/channels/676880716142739467/732650220214681600/858006818784804885  
+**In order to use the .CT file you'll need to install Cheat Engine 7.2, then you can run the .CT file just like a .exe.**  
+**CE
