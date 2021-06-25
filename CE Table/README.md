@@ -86,5 +86,13 @@ Updated the description.
 This tool has hundreds of options so I'm not gonne list 'em here.  
 Here you can see some of the possibilities:  
 https://discord.com/channels/676880716142739467/732650220214681600/858006818784804885  
-**In order to use the .CT file you'll need to install Cheat Engine 7.2, then you can run the .CT file just like a .exe.**  
-**CE
+In order to use the .CT file you'll need to install Cheat Engine 7.2, then you can run the .CT file just like a .exe.  
+CE Download: https://www.cheatengine.org/downloads.php  
+The installer will probably ask you to install also something else, just hit "no thanks".  
+You can activate the options by checking the box on the left side.  
+You can also rightclick on a script and create a hotkey.  
+For pointers you'll just doubleclick on the value at the right side and change it to what ever you want instead of checking the box at the left side.  
+Feel free to ping me if you have any questions.
+
+**Update v4.6 Changelog:**  
+Updated Description
