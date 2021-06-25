@@ -18,7 +18,7 @@ Alters map generation to allow mission lengths to reach up to about six times th
 - Refinery missions have been updated to be more complex.
 
 ## Barrel Yeet 10x - v1
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 33, Hotfix 2  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/bdbc2dc966cfbbf470687d544a66f412e8dbc5cb/Gameplay/Misc/Barrel%20Yeet%2010x%20-%20V1%20_P.pak)  
 
@@ -26,7 +26,7 @@ Alters map generation to allow mission lengths to reach up to about six times th
 Makes your character kick barrels at 10x the force, conflicts with BarrelYeet5
 
 ## Barrel Yeet 5x - v1
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 33, Hotfix 2  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/08297e8e258b12395dea21ef97e379f46c7c6548/Gameplay/Misc/Barrel%20Yeet%205x%20-%20V1%20_P.pak)  
 
@@ -34,7 +34,7 @@ Makes your character kick barrels at 10x the force, conflicts with BarrelYeet5
 Makes your character kick barrels at 5x the force, conflicts with BarrelYeet10
 
 ## Better Beers - v1
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 33, Hotfix 7  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/36df3c1d12acccae46c57595bfc25feea08fd720/Gameplay/Misc/Better%20Beers%20-%20V1%20_P.pak)  
 
@@ -112,13 +112,23 @@ It basically gives Doretta 50%/75% damage resistance over all enemy attacks, so 
 Updated for DRG 34.1
 
 ## Leaf Lover Begone - v1
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 33, Hotfix 7  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5edc5fecfa9b124fb36897210c0fbb6520d21c33/Gameplay/Misc/Leaf%20Lover%20Begone%20-%20V1%20_P.pak)  
 
 **Description:**  
 Makes the rank required to buy a leaf lovers 6,942,069, just so you never buy a Leaf Lovers Special  
 This is a joke mod... or is it?
+
+## M1000 Aim Trainer - v1.0
+**Authors:** Pugglez  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a0b89a09ccadc1b23b6f3cc18d69b003b095bf26/Gameplay/Misc/M1000%20Aim%20Trainer%20-%20V1.0.zip)  
+
+**Description:**  
+This mod is designed as an aim trainer for Scout's M1000 to warm up your shots or practicing in general by making it so you only do actual damage through weakpoint hits with the M1k.  
+This mod is meant to be used with GoldBl4d3's Spawn Menu mod (which also requires the BP Mod Manager) and replaces Haz 4 and 5 files along with modifications to missions.  
+Read the README for more details.
 
 ## No Korlok Spawn - v1.0
 **Authors:** GreyHound  
@@ -129,7 +139,7 @@ This is a joke mod... or is it?
 This mod disables the Korlok Tyrant Weed spawning in your missions.
 
 ## Pointless Low O2 - v1
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 33, Hotfix 6  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9996f2f46eb92508992f61614fc6d1a8bc70c5fc/Gameplay/Misc/Pointless%20Low%20O2%20-%20V1%20_P.pak)  
 
@@ -139,7 +149,7 @@ You no longer lose Oxygen in low O2 missions, note that the O2 meter and O2 Cani
 - Low O2 warning no longer gives hazard buff
 
 ## Pointless Shield Disruption - v1
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** 33  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Misc/Pointless%20Shield%20Disruption%20-%20V1%20_P.pak)  
 
