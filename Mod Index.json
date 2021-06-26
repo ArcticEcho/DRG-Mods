@@ -14605,6 +14605,63 @@
       }
     ]
   },
+  "squeakytoyhammer": {
+    "DisplayName": "Squeaky Toy Hammer",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      73673072833470464
+    ],
+    "Description": "Management mixed up the our tools with Scout's squeaky toys ... this is definitely gonna make setting up stuff up more annoying.\n\nI used and modified [this model by Pedro Perim on SketchFab](https://sketchfab.com/3d-models/toy-hammer-a190e92f53814532bf2ef03ec56bd16a).\n\nInspired by an older mod, this replaces the model and the impact sound of the mallet used for building sentries, mules, black boxes, etc (not pipes or Doretta) with a squeaky toy hammer. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/858484756740177960)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/40a50bd51eafd38941d9d0c96ec80cd31e7591d6/Visual/3D%20Model%20Replacement/Weapons%26Tools/Squeaky%20Toy%20Hammer%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Squeaky Toy Hammer - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak1.uasset": "23-8A-D1-E8-1D-B8-6F-20",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak2.uasset": "D1-39-F5-B7-49-AC-FE-CB",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak3.uasset": "48-C2-6D-C2-20-BE-F4-B5",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak4.uasset": "56-6A-8F-FE-F3-6B-2F-12",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak5.uasset": "21-06-36-0A-43-37-9D-FD",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak6.uasset": "6E-9A-C2-DA-BB-52-BD-0F",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak7.uasset": "5F-34-49-7E-B8-BE-98-35",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak8.uasset": "DC-E6-A6-7E-54-CF-67-E3",
+          "../../../FSD/Content/Audio/WeaponsNTools/BuildImpact_Cue.uasset": "CD-B5-88-91-D5-22-81-51",
+          "../../../FSD/Content/CharacterStructure/Mallet/SM_Mallet_A.uasset": "D3-0E-56-70-EC-BC-D3-14",
+          "../../../FSD/Content/CharacterStructure/Mallet/squeakyhandle.uasset": "4F-EA-57-16-3D-74-50-98",
+          "../../../FSD/Content/CharacterStructure/Mallet/squeakyhead.uasset": "3A-61-7D-02-FC-81-0C-19",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_ambientOcclusion.uasset": "46-44-07-0C-10-B9-56-B1",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_handle.uasset": "77-13-DA-01-39-29-A5-09",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_head.uasset": "4F-BE-26-5D-9A-16-F5-0E",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_normal.uasset": "48-C7-84-D5-C1-09-25-CE",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_roughness.uasset": "5B-9E-8B-8F-8B-01-4B-41",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak1.uexp": "2C-E8-F5-5B-F9-E7-14-04",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak2.uexp": "6F-AC-41-AF-DD-4E-7A-9B",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak3.uexp": "4E-73-0C-9B-91-5D-7B-CE",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak4.uexp": "67-7F-17-F5-D9-ED-EB-9F",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak5.uexp": "C6-B1-7D-00-D5-46-48-B0",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak6.uexp": "85-C4-75-F0-C6-6B-DB-7F",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak7.uexp": "4C-93-2E-47-A5-98-6D-91",
+          "../../../FSD/Content/Audio/Custom/SqueakyMallet/squeak8.uexp": "D5-89-C1-91-4A-01-37-9D",
+          "../../../FSD/Content/Audio/WeaponsNTools/BuildImpact_Cue.uexp": "75-4E-6F-D9-CE-52-C7-F7",
+          "../../../FSD/Content/CharacterStructure/Mallet/SM_Mallet_A.uexp": "AC-3F-2C-7F-EA-59-52-79",
+          "../../../FSD/Content/CharacterStructure/Mallet/squeakyhandle.uexp": "8E-36-64-FC-6A-6C-29-D0",
+          "../../../FSD/Content/CharacterStructure/Mallet/squeakyhead.uexp": "8E-09-15-0F-95-32-98-A3",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_ambientOcclusion.uexp": "1F-43-77-7C-BB-21-3A-62",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_handle.uexp": "13-77-13-CC-C9-D7-23-23",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_head.uexp": "57-13-42-3E-47-57-BB-9D",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_normal.uexp": "7B-CE-90-70-C6-B5-22-B0",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_roughness.uexp": "10-9C-7B-BD-0A-4C-51-DF",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_ambientOcclusion.ubulk": "05-05-B0-DE-34-57-66-BD",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_handle.ubulk": "03-1A-4C-2C-10-17-17-7F",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_head.ubulk": "86-60-F2-8D-DF-5C-FE-32",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_normal.ubulk": "15-EE-43-CB-5F-7E-C7-37",
+          "../../../FSD/Content/CharacterStructure/Mallet/toyhammer_roughness.ubulk": "39-4D-23-C7-36-E6-49-D7"
+        }
+      }
+    ]
+  },
   "starshiptroopers": {
     "DisplayName": "Starship Troopers",
     "Version": "34.4.0",

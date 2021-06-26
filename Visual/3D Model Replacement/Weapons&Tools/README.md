@@ -67,3 +67,13 @@ Replaces the driller's C4 with the TNT block from Minecraft.
 
 **Description:**  
 Part of the combustible fruit arsenal, this replaces the Sticky Grenade with highly explosive Pineapples.
+
+## Squeaky Toy Hammer - v1.0
+**Authors:** HandDrawnNerd  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/40a50bd51eafd38941d9d0c96ec80cd31e7591d6/Visual/3D%20Model%20Replacement/Weapons%26Tools/Squeaky%20Toy%20Hammer%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Management mixed up the our tools with Scout's squeaky toys ... this is definitely gonna make setting up stuff up more annoying.  
+I used and modified [this model by Pedro Perim on SketchFab](https://sketchfab.com/3d-models/toy-hammer-a190e92f53814532bf2ef03ec56bd16a).  
+Inspired by an older mod, this replaces the model and the impact sound of the mallet used for building sentries, mules, black boxes, etc (not pipes or Doretta) with a squeaky toy hammer. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/858484756740177960)
