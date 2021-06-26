@@ -6950,6 +6950,30 @@
       }
     ]
   },
+  "ifeeldirty": {
+    "DisplayName": "I Feel Dirty",
+    "Version": "1.0.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      297356398558183424
+    ],
+    "Description": "Look, I'm too hungover to make anything all *that* original. So yeah, here's a crassus that some weirdo shoved a bunch of dirt into. [Preview](https://www.youtube.com/watch?v=zs5RV4GW01U)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8b900c27a33e72914188bd6db979c803ddfbf9f7/Gameplay/Misc/I%20Feel%20Dirty%20-%20V1.0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "I Feel Dirty - V1.0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank_King.uasset": "88-69-86-5B-82-E4-34-F5",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank_King.uasset": "11-4E-A0-8B-C9-B1-F0-32",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uasset": "3E-F2-9C-2F-26-87-9C-F1",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ED_Spider_ExploderTank_King.uexp": "2F-AD-FD-80-9C-28-48-E7",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank_King.uexp": "DA-04-EF-D4-51-D1-E9-EC",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/PRJ_ExploderTankClusterBomb.uexp": "2F-18-0D-6F-A3-8B-C4-2F"
+        }
+      }
+    ]
+  },
   "impactclub": {
     "DisplayName": "Impact Club",
     "Version": "1.0",

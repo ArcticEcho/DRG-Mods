@@ -92,6 +92,14 @@ No more needing to re-consider repairing BET-C or not on shield disruption missi
 **Update v34.1.0 Changelog:**  
 Updated for DRG 34.1
 
+## I Feel Dirty - v1.0.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8b900c27a33e72914188bd6db979c803ddfbf9f7/Gameplay/Misc/I%20Feel%20Dirty%20-%20V1.0.0%20_P.pak)  
+
+**Description:**  
+Look, I'm too hungover to make anything all *that* original. So yeah, here's a crassus that some weirdo shoved a bunch of dirt into. [Preview](https://www.youtube.com/watch?v=zs5RV4GW01U)
+
 ## Improved Doretta Armor - v34.1.0
 **Authors:** NaturalBornCamper  
 **DRG Version:** 34.1  
