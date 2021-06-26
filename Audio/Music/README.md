@@ -102,13 +102,16 @@ Replaces the End Screen music with Drip Fortress 😎 also Credit to Mihkel Maca
 **Description:**  
 Replaces all JukeBox songs with Friday Night Funkin' Music, including few mods (and memes)
 
-## Half-Life 2 Music Mod - v1.0
+## Half-Life 2 Music Mod - v1.1
 **Authors:** Zega  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/deee0c128d3f7bb0060da9d2014dea6d19e11177/Audio/Music/Half-Life%202%20Music%20Mod%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/32500541ba1924c35ec8291573a4b3741597a8ef/Audio/Music/Half-Life%202%20Music%20Mod%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Replaces most of DRG's music with the music from HL2 and the episodes.
+
+**Update v1.1 Changelog:**  
+Changed the Memorial Hall's music replacement to a Cue file and also made it louder.
 
 ## Kids Cargo Crate - v1
 **Authors:** Kraeus  
