@@ -125,6 +125,14 @@ Download Link None
 **Description:**  
 Like putting tribals on a car.
 
+## Pickaxe Bonk - v1.0
+**Authors:** Buckminsterfullerene  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e5c0862f38de1f7ead612a8f5db1c46fb0119041/Audio/Weapons/Pickaxe%20Bonk%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the pickaxe power attack impact to a bonk! SFX. Suggestion by @Discreet Hobo
+
 ## Pingy M1000 - v1.2
 **Authors:** Lithobraker  
 **DRG Version:** Update 34  
