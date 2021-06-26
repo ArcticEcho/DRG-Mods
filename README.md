@@ -50,6 +50,7 @@ You can easily locate your game installation path using steam:
  - **[Shining Lloyd](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#shining-lloyd---v1)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/2e07ee80662a345bfdeb1bce8f683f61d82d84e3/Audio/NPC/Shining%20Lloyd%20-%20V1%20_P.pak))
  - **[Sneezy Exploders](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#sneezy-exploders---v10)** by HandDrawnNerd ([download](https://github.com/ArcticEcho/DRG-Mods/raw/3be7e5b2e22eb9cdc3b9bb4ac5436d0e0e95964e/Audio/NPC/Sneezy%20Exploders%20-%20V1.0%20_P.pak))
  - **[Swiggity Grabbers](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#swiggity-grabbers---v10)** by Lithobraker ([download](https://github.com/ArcticEcho/DRG-Mods/raw/3891045dde8a110db3ab3f7f4b060429ccf2d5b1/Audio/NPC/Swiggity%20Grabbers%20-%20V1.0%20_P.pak))
+ - **[Text to Speech Doretta](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#text-to-speech-doretta---v10)** by HandDrawnNerd ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f7466b0d9db0fd1c7e64f594e27501eb1282a56d/Audio/NPC/Text%20To%20Speech%20Doretta%20-%20V1.0%20_P.pak))
 
 ## [Audio/Other](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other)
  - **[HL1 Footsteps](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other/README.md#hl1-footsteps---v10)** by Zegastion ([download](https://github.com/ArcticEcho/DRG-Mods/raw/25f135e27b4925f63529aefb89bf99d545e2eb57/Audio/Other/HL1%20Footsteps%20-%20V1.0.zip))

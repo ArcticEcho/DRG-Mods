@@ -110,3 +110,12 @@ It's flu season in Hoxxes and it seems that the Exploders and Detonators are a b
 **Description:**  
 Replaces the Grabber's signature screech with two versions of "Swiggity Swooty", and one version of "I am coming for the booty", by Vinesauce Joel.  
 Note: It's possible this may make them harder to hear, as the new voice isn't as piercing as before.
+
+## Text to Speech Doretta - v1.0
+**Authors:** HandDrawnNerd  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f7466b0d9db0fd1c7e64f594e27501eb1282a56d/Audio/NPC/Text%20To%20Speech%20Doretta%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Management is getting rid of those awful noises that Doretta makes by giving her a voice box. I'm not sure if this is any better ...  
+Replaces the sounds that Doretta makes when she is damaged, dropped, pet, or the random "look" sounds she makes with Text to Speech voice lines. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/858131745760870420)
