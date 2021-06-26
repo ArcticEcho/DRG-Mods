@@ -104,7 +104,7 @@ Damage penalty: -3 -> -12
 Clip size penalty: -6 -> -9
 
 ## Buffed Bulldog Neurotoxin - v1
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 33, Hotfix 2  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/49f7ae717faa821863b5c59a5527bd3ba67d1f91/Gameplay/Unbalanced/Weapons/Buffed%20Bulldog%20Neurotoxin%20-%20V1%20_P.pak)  
 
@@ -374,16 +374,16 @@ Will not be compatible with any other mod that changes weapons or tools. I sugge
 Just gives the Subata fully automatic fire. Now you can avoid RSI without the need to use a shitty bandaid OC or a macro!  
 Huge, massive thanks to @Drillboy Jenkins  for all their help.
 
-## Power Creep - v6-23-2021
+## Power Creep - v6-25-2021
 **Authors:** Shattered  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/eabf463dc6d552f4cfc027928070b24924e88879/Gameplay/Unbalanced/Weapons/Power%20Creep%20-%20V6-23-2021%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1d0dd6ba558e999d70cbdd46974f96a02078a0e0/Gameplay/Unbalanced/Weapons/Power%20Creep%20-%20V6-25-2021%20_P.pak)  
 
 **Description:**  
 A balance mod. Credit to BongoSkaggz for making the Subata 120 fully automatic. Change list: https://docs.google.com/document/d/199OeEEgflOXcx3mnzQarwxwdQgx-jj5349WwvkRTdnc/edit?usp=sharing
 
-**Update v6-23-2021 Changelog:**  
-Changed basically everything.
+**Update v6-25-2021 Changelog:**  
+Fixed the revolver, Dreadnoughts can now be set on fire, weapon changes.
 
 ## Real Minigun - v1.0
 **Authors:** Yarby  
@@ -394,7 +394,7 @@ Changed basically everything.
 The base minigun now actually has 2400 ammo and 30 rate of fire. The stats in the game now reflect true values. (Vanilla minigun stats are inflated by 2 times, meaning the vanilla minigun has 1200 ammo and 15 firerate)
 
 ## RJ2500 Compound - v1.1
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** U33, HF 10  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/88b600d0bbb34801e7a23a6ae5b5ab09195085b3/Gameplay/Unbalanced/Weapons/RJ2500%20Compound%20-%20V1.1%20_P.pak)  
 
@@ -473,7 +473,7 @@ Changes the returningspeed and dismanlte of the sentrygun
 --Decreased DismantleDuration 1 > 0.5
 
 ## Shitty M1K and Zhukovs - v1.0
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 34, HF 5  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/66f346444a2489481568f3dfb6f57e2cf321033d/Gameplay/Unbalanced/Weapons/Shitty%20M1K%20And%20Zhukovs%20-%20V1.0%20_P.pak)  
 
@@ -523,7 +523,7 @@ Tired of M1K and Zhukovs being *too* good? Then this is the mod for you!
 Updated Version Number
 
 ## Tactical Nukes - v1
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 33, Hotfix 2  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/cc198f22edeaa5052be64429b4d58b23946020b6/Gameplay/Unbalanced/Weapons/Tactical%20Nukes%20-%20V1%20_P.pak)  
 
@@ -531,7 +531,7 @@ Updated Version Number
 The radiation field left by fatboy rounds no longer affects players OR Doretta
 
 ## Thinner Drum Walls - v1.0
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** U34  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f21582b83638e34ca0df174e670fac943f393e25/Gameplay/Unbalanced/Weapons/Thinner%20Drum%20Walls%20-%20V1.0.zip)  
 
