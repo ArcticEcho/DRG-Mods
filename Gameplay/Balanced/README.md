@@ -177,6 +177,20 @@ For those who don't understand what tf happened with M1K in U34. Cancels base da
 - Moved AB from T2 to T3.  
 - Buffed T5 Reload Boost On Kill 0.75s -> 1.5s.
 
+## Maxwell's Demon - v0.0
+**Authors:** Drillboy Jenkins  
+**DRG Version:** 34.5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/638eb71fd4e20d928f50d094fedb6d48d00527e4/Gameplay/Balanced/Maxwell%27s%20Demon%20-%20V0.0%20_P.pak)  
+
+**Description:**  
+**REQUIRES BPMM TO RUN**  
+Adds a new cryocannon OC for you to obtain (via machines, dives, or assignments).  
+Maxwell's Demon Cryo OC:  
+```diff  
++ +1 EPC ammo regenerated for 1 cryocannon ammo spent  
+- EPC ammo decays at the rate of 0.5/s, down to 10% of max  
+```
+
 ## Minigun B-Thru Rebalance - v0.0
 **Authors:** Drillboy Jenkins  
 **DRG Version:** Update 34  

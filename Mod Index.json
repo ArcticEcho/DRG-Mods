@@ -8145,6 +8145,55 @@
       }
     ]
   },
+  "maxwellsdemon": {
+    "DisplayName": "Maxwell's Demon",
+    "Version": "0.0",
+    "DrgVersion": "34.5",
+    "AuthorIds": [
+      550333619940622359
+    ],
+    "Description": "**REQUIRES BPMM TO RUN**\n\nAdds a new cryocannon OC for you to obtain (via machines, dives, or assignments).\n\nMaxwell's Demon Cryo OC:\n```diff\n+ +1 EPC ammo regenerated for 1 cryocannon ammo spent\n- EPC ammo decays at the rate of 0.5/s, down to 10% of max\n```",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/638eb71fd4e20d928f50d094fedb6d48d00527e4/Gameplay/Balanced/Maxwell%27s%20Demon%20-%20V0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Maxwell's Demon - V0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/MaxwellsDemon/MaxwellsDemonBPMMWidget.uasset": "A3-D7-CF-A3-DA-93-72-8F",
+          "../../../FSD/Content/_ModBPs/Mod051.uasset": "25-A5-CF-FD-01-88-B0-88",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U-UAsset.json": "36-45-A7-CB-3B-05-0A-10",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U.uasset": "5A-35-DB-39-F5-C7-14-79",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U.uasset.daum": "5A-35-DB-39-F5-C7-14-79",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U.uasset.offset": "5A-35-DB-39-F5-C7-14-79",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U.uexp.bak": "68-71-B3-20-F1-1F-44-27",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U.uexp.daum": "60-93-58-5F-A3-B3-DD-81",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OSB_Cryospray-UAsset.json": "93-27-49-E1-8F-41-14-AF",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OSB_Cryospray.uasset": "F1-9A-06-8F-80-F2-9F-7F",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OSB_Cryospray.uasset.AddExportDefBackup": "CE-17-26-5F-DF-C4-79-83",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OSB_Cryospray.uasset.daum": "F1-9A-06-8F-80-F2-9F-7F",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OSB_Cryospray.uasset.offset": "F1-9A-06-8F-80-F2-9F-7F",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OSB_Cryospray.uexp.AddStubExportBackup": "3C-26-2E-42-DF-0B-73-7F",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OSB_Cryospray.uexp.bak": "AA-BA-48-2D-8B-93-D4-F0",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OSB_Cryospray.uexp.daum": "BE-C4-58-84-DF-B2-9D-13",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_IMPORTANT.txt": "1E-98-2E-06-AB-B7-44-DD",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OC_Cryospray_MaxwellsDemon_U_Name_Desc_and_StatTexts_Change.ds": "8C-E8-1C-1F-D6-BD-2A-67",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OC_Cryospray_MaxwellsDemon_U_Renamings.ds": "DE-50-53-A8-38-3C-FF-53",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OC_Cryospray_MaxwellsDemon_U_SaveGameID_From_MD5.ds": "B4-EC-D1-2C-47-9F-40-3E",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OC_Cryospray_MaxwellsDemon_U_UPC_Change.ds": "5E-D4-03-66-4C-0E-D7-56",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OSB_Extending_OC_Map.ds": "A3-F6-10-DF-3F-38-6E-90",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OSB_New_Exports.ds": "1F-04-F3-99-5B-65-17-1F",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OSB_New_Imports.ds": "D4-23-F1-02-17-DC-3B-1E",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OSB_New_Names.ds": "25-A2-C5-6F-47-BE-18-92",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OSB_OSE_2_Filling_In.ds": "3F-AF-2F-F2-5A-35-36-51",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OSB_SCE_Cryospray_Filling_In.ds": "E0-C7-C8-88-47-89-F5-15",
+          "../../../FSD/Content/_ModBPs/MaxwellsDemon/MaxwellsDemonBPMMWidget.uexp": "B3-FC-3E-A0-EA-B8-66-51",
+          "../../../FSD/Content/_ModBPs/Mod051.uexp": "0C-E2-CF-AE-E9-1F-5F-34",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U.uexp": "41-97-BD-B6-F3-8B-9D-A2",
+          "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OSB_Cryospray.uexp": "87-A2-C1-18-86-AA-57-D9"
+        }
+      }
+    ]
+  },
   "meatmorningsmusicpak": {
     "DisplayName": "MeatMorning's Music Pak",
     "Version": "1.0.0",
