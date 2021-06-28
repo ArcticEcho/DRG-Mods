@@ -77,10 +77,10 @@ You can also rightclick on a scripts and create a hotkey.
 **Update v1.0 Changelog:**  
 Updated the description.
 
-## DRG Table - v4.6
+## DRG Table - v4.7
 **Authors:** Akira Fudo  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/aa02aa8bfa919e2e0979cf2f809f52ba61d20eac/CE%20Table/DRG%20Table%20-%20V4.6.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0bbcf1627e2a7a87f03bc4b03940f1d2bb532938/CE%20Table/DRG%20Table%20-%20V4.7.zip)  
 
 **Description:**  
 This tool has hundreds of options so I'm not gonne list 'em here.  
@@ -94,5 +94,12 @@ You can also rightclick on a script and create a hotkey.
 For pointers you'll just doubleclick on the value at the right side and change it to what ever you want instead of checking the box at the left side.  
 Feel free to ping me if you have any questions.
 
-**Update v4.6 Changelog:**  
-Updated Description
+**Update v4.7 Changelog:**  
+Added Scripts:  
+`Common Class` --> `Weapon Modifications` --> `Instant Mineral Mining`  
+`Mining ` --> `Only one Fuel Canister needed to start` (You can start the escort mule with just one fuel canister)  
+Also addded a lot more pointers to:  
+`Pointer` --> `[LocalPlayer]`   
+Fixed Script:  
+`Common Class` --> `Weapon Modifications` --> `Change PickAxe Dig Size`  
+`Mining ` --> `Instant Fill Fuel Canister`

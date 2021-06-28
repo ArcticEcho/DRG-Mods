@@ -85,7 +85,7 @@ You can easily locate your game installation path using steam:
 ## [CE Table](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table)
  - **[DRG - Fun Table - Steam](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table/README.md#drg---fun-table---steam---v11)** by Akira Fudo ([download](https://github.com/ArcticEcho/DRG-Mods/raw/4386116ed39bdb57ebcca3a905837f043e32bd14/CE%20Table/DRG%20-%20Fun%20Table%20-%20Steam%20-%20V1.1.zip))
  - **[DRG - Fun Table - UWP](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table/README.md#drg---fun-table---uwp---v10)** by Akira Fudo ([download](https://github.com/ArcticEcho/DRG-Mods/raw/80eb324c77c40295abb7815027b4e20f488c4a0e/CE%20Table/DRG%20-%20Fun%20Table%20-%20UWP%20-%20V1.0.zip))
- - **[DRG Table](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table/README.md#drg-table---v46)** by Akira Fudo ([download](https://github.com/ArcticEcho/DRG-Mods/raw/aa02aa8bfa919e2e0979cf2f809f52ba61d20eac/CE%20Table/DRG%20Table%20-%20V4.6.zip))
+ - **[DRG Table](https://github.com/ArcticEcho/DRG-Mods/tree/main/CE%20Table/README.md#drg-table---v47)** by Akira Fudo ([download](https://github.com/ArcticEcho/DRG-Mods/raw/0bbcf1627e2a7a87f03bc4b03940f1d2bb532938/CE%20Table/DRG%20Table%20-%20V4.7.zip))
 
 ## [Framework](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework)
  - **[BP Mod Manager](https://github.com/ArcticEcho/DRG-Mods/tree/main/Framework/README.md#bp-mod-manager---v43)** by ArcticEcho ([download](https://github.com/ArcticEcho/DRG-Mods/raw/440b16704a5e2e627bb93009c9afc73e29841bad/Framework/BP%20Mod%20Manager%20-%20V4.3%20_P.pak))
