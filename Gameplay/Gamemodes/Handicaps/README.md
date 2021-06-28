@@ -50,6 +50,14 @@ Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are
 **Update v1.2 Changelog:**  
 Improved cave leech tessellation. Fewer opportunities to see that pesky "ceiling" that used to appear between our glorious overleeches. **Accept the leech. Love the leech.**
 
+## Codependent Molly - v1.0.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0d56851f20e3ec5f9d7ebf253c6ed251cb1c635b/Gameplay/Gamemodes/Handicaps/Codependent%20Molly%20-%20V1.0.0%20_P.pak)  
+
+**Description:**  
+Molly doesn't want to be left alone. She gets anxious in these caves, y'know?
+
 ## Dysonator Jr - v1.0
 **Authors:** The Inevitable Luke  
 **DRG Version:** Update 34, Hotfix 5  
@@ -95,7 +103,7 @@ Crassus Spawn Chance 3% -> 10%
 Hoarder Spawn Chance 15% -> 30%
 
 ## No Reviving - v2
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** 33  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2b8f0abe2b1828325f53dc456cdc207841af30b5/Gameplay/Gamemodes/Handicaps/No%20Reviving%20-%20V2%20_P.pak)  
 
