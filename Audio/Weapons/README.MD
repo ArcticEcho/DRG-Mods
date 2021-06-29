@@ -108,6 +108,14 @@ Replaces the Jury-Rigged Boomstick's firing sounds with the Sawed-Off from Count
 **Update v1.2 Changelog:**  
 Updated for Update 34.
 
+## Loose Cannon PGL - v1.0
+**Authors:** Zega  
+**DRG Version:** Update 34, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ec3cdb18c1862ccfc79c0b6556a3e533d8beec93/Audio/Weapons/Loose%20Cannon%20PGL%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces the Deepcore PGL firing sounds with Loose Cannon sounds from Team Fortress 2.
+
 ## M1K Garand - v2.0
 **Authors:** Demellion Dismal  
 **DRG Version:** Update 33  
