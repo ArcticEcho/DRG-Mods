@@ -182,16 +182,16 @@ Old Preview: https://discord.com/channels/676880716142739467/732650220214681600/
 **Update v1.2 Changelog:**  
 Added Year 3 Party option, remade UI, added config saving, added an easter egg.
 
-## Spawn Menu - v1.2.1
+## Spawn Menu - v1.4
 **Authors:** GoldBl4d3  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/04eab0a95ca89bcc262432bb1ecd95e46c043146/Gameplay/Misc/Spawn%20Menu%20-%20V1.2.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/35e24c7474c3e5feeee3feea9f998f172e69e0cb/Gameplay/Misc/Spawn%20Menu%20-%20V1.4%20_P.pak)  
 
 **Description:**  
-Spawn every creature and object in the game. With 400+ options to choose from. Now with custom spawn profiles and twitch viewer interactivity support. Can be used to convert enemies into Elite Variants. Requires BP Mod Manager.
+**Requires BP Mod Manager.** Spawn every creature and object in the game. With 415+ options to choose from. Customizable spawn profiles with dozens of spawn configurations. Custom enemy cap editor. And twitch interactivity support.
 
-**Update v1.2.1 Changelog:**  
-Fixed random bugs, made some enhancements.
+**Update v1.4 Changelog:**  
+Added many new features. Fix bugs. Etc.
 
 ## The Ice Dorf Cometh - v1.0
 **Authors:** The Inevitable Luke  
