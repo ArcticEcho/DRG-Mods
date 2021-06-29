@@ -177,10 +177,10 @@ For those who don't understand what tf happened with M1K in U34. Cancels base da
 - Moved AB from T2 to T3.  
 - Buffed T5 Reload Boost On Kill 0.75s -> 1.5s.
 
-## Maxwell's Demon - v1.0
+## Maxwell's Demon - v1.1
 **Authors:** Drillboy Jenkins  
 **DRG Version:** 34.5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/d17056b13e2e678644b46c508c757a20dc0ffae1/Gameplay/Balanced/Maxwell%27s%20Demon%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/bb0b1b5ddbb6440132524040cc8a91dc032983cb/Gameplay/Balanced/Maxwell%27s%20Demon%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 **REQUIRES BPMM TO RUN**  
@@ -190,10 +190,10 @@ Maxwell's Demon Cryo OC:
 + +10 EPC ammo regenerated for 10 cryocannon ammo spent  
 - EPC ammo decays at the rate of 0.5/s, down to 10% of max  
 ```  
-Known issue: EPC ammo count widgets stay desynced until shooting or resupplying.
+Known issue: Viewport HUD ammo counter does not update on ammo changes caused by the mod. The on-weapon widget should always show the relevant number though.
 
-**Update v1.0 Changelog:**  
-Introduced via-buffer "mini-batch" regeneration instead of instant refilling to counter the exploit of using charged shots with 1 charge unit.
+**Update v1.1 Changelog:**  
+Found a way to update on-weapon widget to display relevant ammo according to decay/regen.
 
 ## Minigun B-Thru Rebalance - v0.0
 **Authors:** Drillboy Jenkins  

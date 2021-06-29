@@ -8213,20 +8213,20 @@
   },
   "maxwellsdemon": {
     "DisplayName": "Maxwell's Demon",
-    "Version": "1.0",
+    "Version": "1.1",
     "DrgVersion": "34.5",
     "AuthorIds": [
       550333619940622359
     ],
-    "Description": "**REQUIRES BPMM TO RUN**\n\nAdds a new cryocannon OC for you to obtain (via machines, dives, or assignments).\n\nMaxwell's Demon Cryo OC:\n```diff\n+ +10 EPC ammo regenerated for 10 cryocannon ammo spent\n- EPC ammo decays at the rate of 0.5/s, down to 10% of max\n```\n\nKnown issue: EPC ammo count widgets stay desynced until shooting or resupplying.",
-    "LastUpdateChangelog": "Introduced via-buffer \"mini-batch\" regeneration instead of instant refilling to counter the exploit of using charged shots with 1 charge unit.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/d17056b13e2e678644b46c508c757a20dc0ffae1/Gameplay/Balanced/Maxwell%27s%20Demon%20-%20V1.0%20_P.pak",
+    "Description": "**REQUIRES BPMM TO RUN**\n\nAdds a new cryocannon OC for you to obtain (via machines, dives, or assignments).\n\nMaxwell's Demon Cryo OC:\n```diff\n+ +10 EPC ammo regenerated for 10 cryocannon ammo spent\n- EPC ammo decays at the rate of 0.5/s, down to 10% of max\n```\n\nKnown issue: Viewport HUD ammo counter does not update on ammo changes caused by the mod. The on-weapon widget should always show the relevant number though.",
+    "LastUpdateChangelog": "Found a way to update on-weapon widget to display relevant ammo according to decay/regen.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/bb0b1b5ddbb6440132524040cc8a91dc032983cb/Gameplay/Balanced/Maxwell%27s%20Demon%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Maxwell's Demon - V1.0",
+        "PakFileName": "Maxwell's Demon - V1.1",
         "CookedFileHashes": {
           "../../../FSD/Content/_ModBPs/MaxwellsDemon/MaxwellsDemonBPMMWidget.uasset": "A3-D7-CF-A3-DA-93-72-8F",
-          "../../../FSD/Content/_ModBPs/Mod051.uasset": "5C-04-CD-B0-45-39-BA-C5",
+          "../../../FSD/Content/_ModBPs/Mod051.uasset": "37-03-DB-FF-17-7E-2D-E9",
           "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U-UAsset.json": "36-45-A7-CB-3B-05-0A-10",
           "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U.uasset": "5A-35-DB-39-F5-C7-14-79",
           "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U.uasset.daum": "5A-35-DB-39-F5-C7-14-79",
@@ -8253,7 +8253,7 @@
           "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OSB_OSE_2_Filling_In.ds": "3F-AF-2F-F2-5A-35-36-51",
           "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/zzz_OSB_SCE_Cryospray_Filling_In.ds": "E0-C7-C8-88-47-89-F5-15",
           "../../../FSD/Content/_ModBPs/MaxwellsDemon/MaxwellsDemonBPMMWidget.uexp": "B3-FC-3E-A0-EA-B8-66-51",
-          "../../../FSD/Content/_ModBPs/Mod051.uexp": "79-14-7F-A0-B0-E3-3A-B6",
+          "../../../FSD/Content/_ModBPs/Mod051.uexp": "D9-85-78-AD-C7-6F-46-DA",
           "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OC_Cryospray_MaxwellsDemon_U.uexp": "41-97-BD-B6-F3-8B-9D-A2",
           "../../../FSD/Content/WeaponsNTools/Cryospray/Overclocks/OSB_Cryospray.uexp": "87-A2-C1-18-86-AA-57-D9"
         }
