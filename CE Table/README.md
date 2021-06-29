@@ -77,10 +77,10 @@ You can also rightclick on a scripts and create a hotkey.
 **Update v1.0 Changelog:**  
 Updated the description.
 
-## DRG Table - v4.7
+## DRG Table - v4.8
 **Authors:** Akira Fudo  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0bbcf1627e2a7a87f03bc4b03940f1d2bb532938/CE%20Table/DRG%20Table%20-%20V4.7.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5f976a1a3bebf97f894dcbb975e3bff5f7321062/CE%20Table/DRG%20Table%20-%20V4.8.zip)  
 
 **Description:**  
 This tool has hundreds of options so I'm not gonne list 'em here.  
@@ -94,12 +94,10 @@ You can also rightclick on a script and create a hotkey.
 For pointers you'll just doubleclick on the value at the right side and change it to what ever you want instead of checking the box at the left side.  
 Feel free to ping me if you have any questions.
 
-**Update v4.7 Changelog:**  
+**Update v4.8 Changelog:**  
 Added Scripts:  
-`Common Class` --> `Weapon Modifications` --> `Instant Mineral Mining`  
-`Mining ` --> `Only one Fuel Canister needed to start` (You can start the escort mule with just one fuel canister)  
-Also addded a lot more pointers to:  
-`Pointer` --> `[LocalPlayer]`   
-Fixed Script:  
-`Common Class` --> `Weapon Modifications` --> `Change PickAxe Dig Size`  
-`Mining ` --> `Instant Fill Fuel Canister`
+`Scout` --> `GrapplingHookGun` --> `God GrapplingHookGun (Inf. Range, Max Speed)`  
+`Gunner` --> `Zipline` --> `God Zipline (Inf. Range, 90° angel, no min range)`  
+`Mission Specific` --> `Free Resupplies`  
+Also addded more pointers to:  
+`Pointer` --> `[LocalPlayer]`
