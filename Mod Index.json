@@ -14536,6 +14536,55 @@
       }
     ]
   },
+  "spacerigdecorator": {
+    "DisplayName": "Spacerig decorator",
+    "Version": "1.0.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      276091282542297089,
+      169492441982959616
+    ],
+    "Description": "**Requires BP mod manager** A mod that allows you to decorate your spacerig however you please! Up to and including custom meshes!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c557febb41a2c0951568cfe823156059682e9167/Visual/Misc/Spacerig%20Decorator%20-%20V1.0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Spacerig Decorator - V1.0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod049.uasset": "44-70-5C-17-09-4F-59-50",
+          "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "9C-77-86-F7-8C-10-D6-73",
+          "../../../FSD/Content/_ModBPs/PropPack/ActorWithAStaticMeshIMadeForTheExpressPurposeOfHavingASingleStaticMeshThatIsMovable.uasset": "73-A4-B3-32-8B-E2-3D-76",
+          "../../../FSD/Content/_ModBPs/PropPack/CoordsOverlay.uasset": "D4-10-53-2B-E9-D5-CD-6D",
+          "../../../FSD/Content/_ModBPs/PropPack/PropMacroLibrary.uasset": "77-DE-EC-67-B1-36-A0-4E",
+          "../../../FSD/Content/_ModBPs/PropPack/PropPackBase.uasset": "26-F1-2F-68-A8-87-79-9A",
+          "../../../FSD/Content/_ModBPs/PropPack/PropSettingsSave.uasset": "1C-C3-8F-E6-49-CC-C7-56",
+          "../../../FSD/Content/_ModBPs/PropPack/PropStruct.uasset": "91-97-DB-4C-49-C8-2E-34",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/InvalidReasonEnum.uasset": "9E-A1-2A-51-59-78-B2-B8",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/ModUI_049.uasset": "FD-E2-49-DE-2B-69-9B-21",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/PackInfoWidget.uasset": "B8-75-89-61-57-CB-13-94",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/PropInfoWidget.uasset": "6A-C7-BA-01-76-42-49-61",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/PropPresetListWidget.uasset": "A9-B2-1C-A8-9A-87-FC-27",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/PropSettingsListDataObject.uasset": "56-B3-51-41-19-1A-6B-EB",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/PropSettingsListWidget.uasset": "6C-E6-DD-C6-41-C2-9B-0A",
+          "../../../FSD/Content/_ModBPs/Mod049.uexp": "2B-30-CC-E9-63-21-61-85",
+          "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "F3-A2-08-AF-99-F8-B7-62",
+          "../../../FSD/Content/_ModBPs/PropPack/ActorWithAStaticMeshIMadeForTheExpressPurposeOfHavingASingleStaticMeshThatIsMovable.uexp": "99-19-2D-7C-C4-8A-F7-0A",
+          "../../../FSD/Content/_ModBPs/PropPack/CoordsOverlay.uexp": "AE-36-55-2A-7F-4F-46-CE",
+          "../../../FSD/Content/_ModBPs/PropPack/PropMacroLibrary.uexp": "51-31-71-BC-12-97-9F-89",
+          "../../../FSD/Content/_ModBPs/PropPack/PropPackBase.uexp": "BC-85-66-06-36-2B-E5-54",
+          "../../../FSD/Content/_ModBPs/PropPack/PropSettingsSave.uexp": "8F-E4-0D-28-C2-A1-D8-A6",
+          "../../../FSD/Content/_ModBPs/PropPack/PropStruct.uexp": "7B-5A-E9-D3-0D-AF-65-B6",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/InvalidReasonEnum.uexp": "6C-94-C4-90-84-44-E1-41",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/ModUI_049.uexp": "90-D2-F3-9B-07-E1-14-3B",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/PackInfoWidget.uexp": "3F-F8-AA-B5-F6-98-67-9E",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/PropInfoWidget.uexp": "CA-70-1A-51-09-BC-09-4A",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/PropPresetListWidget.uexp": "EA-13-11-1D-11-A5-C2-F3",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/PropSettingsListDataObject.uexp": "FE-FE-4B-26-54-62-DF-04",
+          "../../../FSD/Content/_ModBPs/PropPack/SettingsUI/PropSettingsListWidget.uexp": "07-CD-1D-31-AC-5A-40-62"
+        }
+      }
+    ]
+  },
   "spawnmenu": {
     "DisplayName": "Spawn Menu",
     "Version": "1.4",

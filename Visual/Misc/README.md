@@ -23,7 +23,7 @@ Your in-game graphics settings for post-processing must be set to high/ultra.
 Removes creepy eyes from missions in case you happen to be allergic.
 
 ## Explosionless PGL - v1.0
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 34, HF 5  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/034f9e3853ec0e435d9ff4c2388cf872c9aade72/Visual/Misc/Explosionless%20PGL%20-%20V1.0%20_P.pak)  
 
@@ -60,7 +60,7 @@ This will be the last update I make to this mod for a while (unless something br
 Removes the muzzle flash particles of the M1000 from first person perspective.
 
 ## No Mo' Ash - v1.0
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 34, HF 5  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/bd530d97fea6c0a7391daf79c2df995d16bd65dc/Visual/Misc/No%20Mo%27%20Ash%20-%20V1.0%20_P.pak)  
 
@@ -68,7 +68,7 @@ Removes the muzzle flash particles of the M1000 from first person perspective.
 The Dwarfs finally convinced MC to vacuum all the Ash floating around in the REZ, resulting in much clearer mining.
 
 ## No Mo' Frozen Particles - v1.0
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 34, HF 5  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/181b8fa4146cddfbfdec7a8be6d9a29f486a96f0/Visual/Misc/No%20Mo%27%20Frozen%20Particles%20-%20V1.0%20_P.pak)  
 
@@ -76,7 +76,7 @@ The Dwarfs finally convinced MC to vacuum all the Ash floating around in the REZ
 Removes the Ice particles that appear whenever you shoot a frozen enemy, and removes the Ice particles when they are killed
 
 ## No Mo' Terrain Particles - v1.1
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** Update 34, HF 5  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4712e4f796b1c7f8b163c1ffd2f8457fb7314b11/Visual/Misc/No%20Mo%27%20Terrain%20Particles%20-%20V1.1%20_P.pak)  
 
@@ -94,3 +94,11 @@ Added Glacial Strata Ice, Smooth Ice, Snow, Petrified Wood, Bloated Vines, Azure
 **Description:**  
 Unlocks the back blade exclusive pickaxe parts to be usable in the front blade slot. Works on host and client. Thanks to onimare for the suggestion!  
 Example: https://discord.com/channels/676880716142739467/732650220214681600/846678095645245491
+
+## Spacerig decorator - v1.0.0
+**Authors:** Samamstar, Pacagma  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c557febb41a2c0951568cfe823156059682e9167/Visual/Misc/Spacerig%20Decorator%20-%20V1.0.0%20_P.pak)  
+
+**Description:**  
+**Requires BP mod manager** A mod that allows you to decorate your spacerig however you please! Up to and including custom meshes!
