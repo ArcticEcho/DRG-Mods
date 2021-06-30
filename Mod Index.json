@@ -12584,6 +12584,32 @@
       }
     ]
   },
+  "proppacksteevecage": {
+    "DisplayName": "Prop pack | Steeve cage",
+    "Version": "1",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      276091282542297089
+    ],
+    "Description": "**Requires Spacerig decorator** A place for Steeve to call home on the spacerig :)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/39b017e9832aa9e1296ca395e6a2210c82d58a72/Visual/Misc/Prop%20Pack%20Steeve%20Cage%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Prop Pack Steeve Cage - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/PropPack/PropPackBase.uasset": "26-F1-2F-68-A8-87-79-9A",
+          "../../../FSD/Content/_ModBPs/PropPack/PropPacks/Pack2.uasset": "7B-77-73-C5-51-D6-FB-9E",
+          "../../../FSD/Content/_ModBPs/PropPack/Props/PROP_Steeve.uasset": "39-4F-1C-48-E4-85-B6-11",
+          "../../../FSD/Content/_ModBPs/PropPack/PropStruct.uasset": "91-97-DB-4C-49-C8-2E-34",
+          "../../../FSD/Content/_ModBPs/PropPack/PropPackBase.uexp": "BC-85-66-06-36-2B-E5-54",
+          "../../../FSD/Content/_ModBPs/PropPack/PropPacks/Pack2.uexp": "5C-CD-7D-25-D4-13-A3-34",
+          "../../../FSD/Content/_ModBPs/PropPack/Props/PROP_Steeve.uexp": "96-01-3A-7E-0B-DD-18-33",
+          "../../../FSD/Content/_ModBPs/PropPack/PropStruct.uexp": "7B-5A-E9-D3-0D-AF-65-B6"
+        }
+      }
+    ]
+  },
   "prototypecyberneticsminigunoc": {
     "DisplayName": "Prototype Cybernetics (Minigun OC)",
     "Version": "1.01",

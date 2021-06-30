@@ -95,6 +95,14 @@ Added Glacial Strata Ice, Smooth Ice, Snow, Petrified Wood, Bloated Vines, Azure
 Unlocks the back blade exclusive pickaxe parts to be usable in the front blade slot. Works on host and client. Thanks to onimare for the suggestion!  
 Example: https://discord.com/channels/676880716142739467/732650220214681600/846678095645245491
 
+## Prop pack | Steeve cage - v1
+**Authors:** Samamstar  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/39b017e9832aa9e1296ca395e6a2210c82d58a72/Visual/Misc/Prop%20Pack%20Steeve%20Cage%20-%20V1%20_P.pak)  
+
+**Description:**  
+**Requires Spacerig decorator** A place for Steeve to call home on the spacerig :)
+
 ## Spacerig decorator - v1.0.0
 **Authors:** Samamstar, Pacagma  
 **DRG Version:** U34 H5  
