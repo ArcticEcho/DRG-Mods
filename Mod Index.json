@@ -4841,6 +4841,51 @@
       }
     ]
   },
+  "gnomechompskibarbobble": {
+    "DisplayName": "Gnome Chompski Bar Bobble",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      73673072833470464
+    ],
+    "Description": "The Little Rocketman finally made his way into space, look at him go! \n\nReplaces the Leprechaun spring/bobble at the Abyss Bar with Gnome Chompski from Half-Life 2: Episode 2/Left 4 Dead 2, changes both the model and the accompanying sounds when you slap it (sorry in advance for the terrible, dead meme, but I had no other choice). [Preview](https://discord.com/channels/676880716142739467/732650220214681600/859543237030707221)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/31137aa02ff5de47138c6752e411daabe748d5bb/Visual/Misc/Gnome%20Chompski%20Bar%20Bobble%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Gnome Chompski Bar Bobble - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Art/Environments/SpaceRig/SpringDwarf/gnome.uasset": "3B-14-FB-96-FB-63-E6-FA",
+          "../../../FSD/Content/Art/Environments/SpaceRig/SpringDwarf/gnometex.uasset": "BC-DB-20-29-D2-B5-6B-FC",
+          "../../../FSD/Content/Art/Environments/SpaceRig/SpringDwarf/SM_SpringDwarf_004.uasset": "B3-21-13-59-7D-0C-70-5C",
+          "../../../FSD/Content/Audio/Custom/gnome/default1.uasset": "47-78-A8-82-47-D8-19-C1",
+          "../../../FSD/Content/Audio/Custom/gnome/default2.uasset": "4A-17-BE-16-C3-4D-7B-7C",
+          "../../../FSD/Content/Audio/Custom/gnome/default3.uasset": "A1-1D-36-16-86-EF-7D-7D",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe1.uasset": "8A-17-B3-16-E3-43-10-89",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe2.uasset": "B6-51-13-2C-10-90-8B-B5",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe3.uasset": "D3-DA-95-FF-8A-01-46-B2",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe4.uasset": "04-5D-92-9C-14-7C-6F-6B",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe5.uasset": "E0-F2-9C-74-7E-CE-06-0F",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe6.uasset": "B1-C8-B1-B9-87-9C-C3-86",
+          "../../../FSD/Content/Audio/SFX/SpaceRig/SpringDwarf/SpringDwarf_A_01_Cue.uasset": "12-46-78-49-24-0B-05-71",
+          "../../../FSD/Content/Art/Environments/SpaceRig/SpringDwarf/gnome.uexp": "9D-4A-A9-41-B8-B6-88-2B",
+          "../../../FSD/Content/Art/Environments/SpaceRig/SpringDwarf/gnometex.uexp": "64-C7-17-39-54-49-82-98",
+          "../../../FSD/Content/Art/Environments/SpaceRig/SpringDwarf/SM_SpringDwarf_004.uexp": "77-C8-29-22-6F-9A-C7-F2",
+          "../../../FSD/Content/Audio/Custom/gnome/default1.uexp": "58-92-88-4B-C3-39-04-89",
+          "../../../FSD/Content/Audio/Custom/gnome/default2.uexp": "F2-89-C4-87-7F-1E-21-86",
+          "../../../FSD/Content/Audio/Custom/gnome/default3.uexp": "65-9C-8E-4C-79-B5-D5-5D",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe1.uexp": "4F-EB-B6-A5-79-C5-51-67",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe2.uexp": "B0-31-58-F2-C7-26-FA-51",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe3.uexp": "39-2F-24-FF-CE-F2-26-F3",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe4.uexp": "22-9E-8B-D3-52-42-64-EB",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe5.uexp": "9B-7B-47-33-93-26-26-20",
+          "../../../FSD/Content/Audio/Custom/gnome/hehe6.uexp": "F6-80-8F-C6-BB-DE-75-1D",
+          "../../../FSD/Content/Audio/SFX/SpaceRig/SpringDwarf/SpringDwarf_A_01_Cue.uexp": "F7-97-C0-31-F5-36-D3-B3",
+          "../../../FSD/Content/Art/Environments/SpaceRig/SpringDwarf/gnome.ubulk": "EF-E0-36-42-0B-58-94-88"
+        }
+      }
+    ]
+  },
   "goldenwrench": {
     "DisplayName": "Golden Wrench",
     "Version": "1.0",

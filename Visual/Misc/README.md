@@ -51,6 +51,15 @@ This will be the last update I make to this mod for a while (unless something br
  - Added material name to the UI.  
  - Made the wardrobe light a bit brighter.
 
+## Gnome Chompski Bar Bobble - v1.0
+**Authors:** HandDrawnNerd  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/31137aa02ff5de47138c6752e411daabe748d5bb/Visual/Misc/Gnome%20Chompski%20Bar%20Bobble%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+The Little Rocketman finally made his way into space, look at him go!   
+Replaces the Leprechaun spring/bobble at the Abyss Bar with Gnome Chompski from Half-Life 2: Episode 2/Left 4 Dead 2, changes both the model and the accompanying sounds when you slap it (sorry in advance for the terrible, dead meme, but I had no other choice). [Preview](https://discord.com/channels/676880716142739467/732650220214681600/859543237030707221)
+
 ## No M1 Muzzle Flash - v1.0
 **Authors:** Pugglez  
 **DRG Version:** U34 H5  
