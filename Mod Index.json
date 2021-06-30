@@ -1948,6 +1948,28 @@
       }
     ]
   },
+  "berzerkerplus": {
+    "DisplayName": "Berzerker Plus",
+    "Version": "0.0",
+    "DrgVersion": "34.5",
+    "AuthorIds": [
+      550333619940622359
+    ],
+    "Description": "Adds a passive effect for Berzerker perk (not reflected in in-game texts!)\n```diff\n+ +50% of power attack charge if a power attack has scored at least one kill of a hostile\n```",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b0606eae63fe2a887f5e11072c241227166481fa/Gameplay/Balanced/Berzerker%20Plus%20-%20V0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Berzerker Plus - V0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/BerzerkerPlus/BerzerkerPlusBPMMGUI.uasset": "51-8F-16-AE-72-33-C8-7A",
+          "../../../FSD/Content/_ModBPs/Mod052.uasset": "A0-E5-64-03-13-78-45-37",
+          "../../../FSD/Content/_ModBPs/BerzerkerPlus/BerzerkerPlusBPMMGUI.uexp": "B3-F7-0D-FE-B2-4E-84-8A",
+          "../../../FSD/Content/_ModBPs/Mod052.uexp": "14-27-98-B6-F7-6B-BD-EE"
+        }
+      }
+    ]
+  },
   "bestfriendsforever": {
     "DisplayName": "Best Friends Forever",
     "Version": "1.0",
