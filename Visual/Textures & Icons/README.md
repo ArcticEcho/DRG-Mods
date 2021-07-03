@@ -80,6 +80,15 @@ Added *Warden Glyphid Sorceress* poster.
 **Description:**  
 Replaces the textures of tattoos on arms that come with the Roughneck armors with the gals from the posters made by *Marcus Gray*. [Preview](https://discord.com/channels/676880716142739467/712637678881079369/851468203586224128).
 
+## Pogs O'Gold (KomodoHype) - v1.0
+**Authors:** HandDrawnNerd  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/56cfd7a034947670c14b4afd4873133e38298f18/Visual/Textures%20%26%20Icons/Pogs%20O%27Gold%20%28KomodoHype%29%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Show your excitement for increased gold yield with everyone's favorite Twitch-related reptile.  
+Recreation of an older idea - replaces the Pots O'Gold logo as found on the HUD, the Abyss Bar, and the beer foam, with textures containing the PogChamp (now KomodoHype) Twitch emote. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/860967868237873162)
+
 ## Rainbow Hair - v1.0
 **Authors:** mino  
 **DRG Version:** U34 H5  

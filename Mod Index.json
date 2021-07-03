@@ -11116,6 +11116,33 @@
       }
     ]
   },
+  "pogsogoldkomodohype": {
+    "DisplayName": "Pogs O'Gold (KomodoHype)",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      73673072833470464
+    ],
+    "Description": "Show your excitement for increased gold yield with everyone's favorite Twitch-related reptile.\n\nRecreation of an older idea - replaces the Pots O'Gold logo as found on the HUD, the Abyss Bar, and the beer foam, with textures containing the PogChamp (now KomodoHype) Twitch emote. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/860967868237873162)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/56cfd7a034947670c14b4afd4873133e38298f18/Visual/Textures%20%26%20Icons/Pogs%20O%27Gold%20%28KomodoHype%29%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Pogs O'Gold (KomodoHype) - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Bar/Assets/Icons_PotsoGold_Label.uasset": "BF-C4-DF-8B-6A-1D-96-4B",
+          "../../../FSD/Content/GameElements/Bar/Assets/Icons_PotsoGold_Label_Small.uasset": "CA-C9-1B-22-F8-C8-C4-9A",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/T_BeerFoam10.uasset": "F9-56-72-61-39-7B-70-73",
+          "../../../FSD/Content/GameElements/Bar/Assets/Icons_PotsoGold_Label.uexp": "A9-D9-86-E8-B2-E3-3F-7D",
+          "../../../FSD/Content/GameElements/Bar/Assets/Icons_PotsoGold_Label_Small.uexp": "C2-7D-C4-A0-A7-47-2C-15",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/T_BeerFoam10.uexp": "50-6B-03-BC-7D-9E-1E-5B",
+          "../../../FSD/Content/GameElements/Bar/Assets/Icons_PotsoGold_Label.ubulk": "FC-35-85-FC-F8-72-FF-A8",
+          "../../../FSD/Content/GameElements/Bar/Assets/Icons_PotsoGold_Label_Small.ubulk": "38-1A-E0-64-B0-43-A3-D4",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/T_BeerFoam10.ubulk": "4D-FE-81-D9-D0-99-8B-BD"
+        }
+      }
+    ]
+  },
   "pointlesslowo2": {
     "DisplayName": "Pointless Low O2",
     "Version": "1",
