@@ -112,13 +112,13 @@ Example: https://discord.com/channels/676880716142739467/732650220214681600/8466
 **Description:**  
 **Requires Spacerig decorator** A place for Steeve to call home on the spacerig :)
 
-## Spacerig decorator - v1.0.1
+## Spacerig decorator - v1.1.0
 **Authors:** Samamstar, Pacagma  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a821d9c89f8f5f5be17e24b0c75e0b4b91f22fe9/Visual/Misc/Spacerig%20Decorator%20-%20V1.0.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e25892310b4bc42df500666c1c486e5a4015827f/Visual/Misc/Spacerig%20Decorator%20-%20V1.1.0%20_P.pak)  
 
 **Description:**  
 The Spacerig decorator lets you spawn props to decorate your spacerig however you want! Check [our github repo](https://github.com/samamstar/PropPack) for instructions on how to spawn props. If you're interested in distributing a Prop pack a devkit can be found there as well
 
-**Update v1.0.1 Changelog:**  
-Fixed a bug where the mod would spawn props even when not the host
+**Update v1.1.0 Changelog:**  
+Modified collision code to allow for interactions
