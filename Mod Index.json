@@ -1948,6 +1948,30 @@
       }
     ]
   },
+  "berzerkerplus": {
+    "DisplayName": "Berzerker Plus",
+    "Version": "0.1",
+    "DrgVersion": "34.5",
+    "AuthorIds": [
+      550333619940622359
+    ],
+    "Description": "***WARNING***\n\nThis mod is a volatile ***REQUIRED BY ALL***. If you host a game with mod installed with clients w/o the mod, you either disable the mod (mod toggle tick in BPMM GUI mod list) or your unmodded clients are kicked by the UE!\n\nAdds a passive effect for Berzerker perk (not reflected in in-game texts!)\n```diff\n+ +50% of power attack charge if a power attack has scored at least one kill of a hostile\n```",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b952357f03383b1d2f507fdf24d81f2a9de81269/Gameplay/Balanced/Berzerker%20Plus%20-%20V0.1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Berzerker Plus - V0.1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/BerzerkerPlus/BerzerkerPlusBPMMGUI.uasset": "2E-15-02-4F-99-B2-EC-A7",
+          "../../../FSD/Content/_ModBPs/BerzerkerPlus/BerzerkerPlusPickaxeComponent.uasset": "4A-03-F3-C4-3B-A9-8E-3E",
+          "../../../FSD/Content/_ModBPs/Mod052.uasset": "68-CE-AB-A7-84-40-91-D6",
+          "../../../FSD/Content/_ModBPs/BerzerkerPlus/BerzerkerPlusBPMMGUI.uexp": "56-94-82-B6-B3-B6-CF-E5",
+          "../../../FSD/Content/_ModBPs/BerzerkerPlus/BerzerkerPlusPickaxeComponent.uexp": "24-82-22-70-87-3D-2A-92",
+          "../../../FSD/Content/_ModBPs/Mod052.uexp": "D0-72-D1-30-64-FB-70-43"
+        }
+      }
+    ]
+  },
   "bestfriendsforever": {
     "DisplayName": "Best Friends Forever",
     "Version": "1.0",

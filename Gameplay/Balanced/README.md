@@ -45,6 +45,19 @@ Boomstick gains +1 Penetration baseline (and followup changes, check the changel
 Ice Spear special function now costs 40 ammo;  
 GK2's T3C x0 spread mod has been moved back to T1.
 
+## Berzerker Plus - v0.1
+**Authors:** Drillboy Jenkins  
+**DRG Version:** 34.5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b952357f03383b1d2f507fdf24d81f2a9de81269/Gameplay/Balanced/Berzerker%20Plus%20-%20V0.1%20_P.pak)  
+
+**Description:**  
+***WARNING***  
+This mod is a volatile ***REQUIRED BY ALL***. If you host a game with mod installed with clients w/o the mod, you either disable the mod (mod toggle tick in BPMM GUI mod list) or your unmodded clients are kicked by the UE!  
+Adds a passive effect for Berzerker perk (not reflected in in-game texts!)  
+```diff  
++ +50% of power attack charge if a power attack has scored at least one kill of a hostile  
+```
+
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  
