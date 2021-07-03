@@ -1955,7 +1955,7 @@
     "AuthorIds": [
       550333619940622359
     ],
-    "Description": "***WARNING***\n\nThis mod is a volatile ***REQUIRED BY ALL***. If you host a game with mod installed with clients w/o the mod, you either disable the mod (mod toggle tick in BPMM GUI mod list) or your unmodded clients are kicked by the UE!\n\nAdds a passive effect for Berzerker perk (not reflected in in-game texts!)\n```diff\n+ +50% of power attack charge if a power attack has scored at least one kill of a hostile\n```",
+    "Description": "***WARNING***\n\nThis mod is a volatile ***REQUIRED BY ALL***. If you host a game with mod installed with clients w/o the mod, you either disable the mod (mod toggle tick in BPMM GUI mod list) or your unmodded clients are kicked by the UE!\n\n***CLIENTS MUST HAVE THE MOD INSTALLED TO BE AFFECTED AND NOT KICKED IF THE HOST ENABLES IT***\n\nAdds a passive effect for Berzerker perk (not reflected in in-game texts!)\n```diff\n+ +50% of power attack charge if a power attack has scored at least one kill of a hostile\n```",
     "LastUpdateChangelog": null,
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b952357f03383b1d2f507fdf24d81f2a9de81269/Gameplay/Balanced/Berzerker%20Plus%20-%20V0.1%20_P.pak",
     "Paks": [

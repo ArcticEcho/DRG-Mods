@@ -53,6 +53,7 @@ GK2's T3C x0 spread mod has been moved back to T1.
 **Description:**  
 ***WARNING***  
 This mod is a volatile ***REQUIRED BY ALL***. If you host a game with mod installed with clients w/o the mod, you either disable the mod (mod toggle tick in BPMM GUI mod list) or your unmodded clients are kicked by the UE!  
+***CLIENTS MUST HAVE THE MOD INSTALLED TO BE AFFECTED AND NOT KICKED IF THE HOST ENABLES IT***  
 Adds a passive effect for Berzerker perk (not reflected in in-game texts!)  
 ```diff  
 + +50% of power attack charge if a power attack has scored at least one kill of a hostile  
