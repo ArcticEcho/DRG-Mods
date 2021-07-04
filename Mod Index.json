@@ -10939,6 +10939,37 @@
       }
     ]
   },
+  "peculiarshades": {
+    "DisplayName": "Peculiar Shades",
+    "Version": "1.2",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      149217063154614272
+    ],
+    "Description": "(Updated for U34!) Replaces the the Scouts Headset OR the Authorian Sideburns with sick shades!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f11ace246f14acae6b5e0772d024a6b6cbc2282b/Visual/3D%20Model%20Replacement/Hats/Peculiar%20Shades%20-%20V1.2.zip",
+    "Paks": [
+      {
+        "PakFileName": "PeculiarShadesHat",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/Vanity2/Headwear/M_GlassesTint.uasset": "40-D6-C5-67-2B-41-82-4A",
+          "../../../FSD/Content/Character/Vanity2/Headwear/SK_Vanity_Headwear_Headset01.uasset": "A0-B4-DE-85-1E-49-2D-4F",
+          "../../../FSD/Content/Character/Vanity2/Headwear/M_GlassesTint.uexp": "2D-70-90-FD-34-9D-EB-40",
+          "../../../FSD/Content/Character/Vanity2/Headwear/SK_Vanity_Headwear_Headset01.uexp": "0F-95-23-B0-A2-58-BC-D0"
+        }
+      },
+      {
+        "PakFileName": "PeculiarShadesSideburn",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/Vanity2/Sideburns/M_GlassesTint.uasset": "1C-5F-E3-78-E8-C6-A2-F0",
+          "../../../FSD/Content/Character/Vanity2/Sideburns/SK_Vanity_Sideburns002_CroppedAuthoritarian.uasset": "11-AB-00-85-F0-98-67-A0",
+          "../../../FSD/Content/Character/Vanity2/Sideburns/M_GlassesTint.uexp": "2D-70-90-FD-34-9D-EB-40",
+          "../../../FSD/Content/Character/Vanity2/Sideburns/SK_Vanity_Sideburns002_CroppedAuthoritarian.uexp": "0F-95-23-B0-A2-58-BC-D0"
+        }
+      }
+    ]
+  },
   "perkbornreadynovoice": {
     "DisplayName": "Perk Born Ready no Voice",
     "Version": "1.0",

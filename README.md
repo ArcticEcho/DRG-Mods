@@ -356,6 +356,7 @@ You can easily locate your game installation path using steam:
  - **[StickMan Dwarves MK2](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Armor/README.md#stickman-dwarves-mk2---v11)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/37eaae36454731f085c3f1a4a51b90902dde2807/Visual/3D%20Model%20Replacement/Armor/StickMan%20Dwarves%20MK2%20-%20V1.1%20_P.pak))
 
 ## [Visual/3D Model Replacement/Hats](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats)
+ - **[Peculiar Shades](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats/README.md#peculiar-shades---v12)** by SirVerex ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f11ace246f14acae6b5e0772d024a6b6cbc2282b/Visual/3D%20Model%20Replacement/Hats/Peculiar%20Shades%20-%20V1.2.zip))
  - **[Troll Face Mask](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Hats/README.md#troll-face-mask---v10)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/0a448e75e29245c8f364b8c0eb83383ead315c7b/Visual/3D%20Model%20Replacement/Hats/Troll%20Face%20Mask%20-%20V1.0%20_P.pak))
 
 ## [Visual/3D Model Replacement/Weapons&Tools](https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/3D%20Model%20Replacement/Weapons%26Tools)
