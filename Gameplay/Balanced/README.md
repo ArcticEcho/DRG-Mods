@@ -59,6 +59,15 @@ Adds a passive effect for Berzerker perk (not reflected in in-game texts!)
 + +50% of power attack charge if a power attack has scored at least one kill of a hostile  
 ```
 
+## Disable Chain Hit/Homebrew Powder - v1.0
+**Authors:** GreyHound  
+**DRG Version:** U34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c62ac7bdff7c1b59a574fcc7ce89b2ff68ce6dfc/Gameplay/Balanced/Disable%20Chain%20Hit%20Homebrew%20Powder%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Removes Chain Hit and Homebrew Powder from your personal OC selection lists. This applies to: Subata (CH and HP), Bulldog (CH and HP), GK2's Homebrew Powder. This doesn't affect the T4 PGL mod; it doesn't affect clients, either.  
+These OCs are so broken I had to remove them so players wouldn't abuse them (/s).
+
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  

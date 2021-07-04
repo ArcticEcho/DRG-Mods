@@ -3097,6 +3097,30 @@
       }
     ]
   },
+  "disablechainhithomebrewpowder": {
+    "DisplayName": "Disable Chain Hit/Homebrew Powder",
+    "Version": "1.0",
+    "DrgVersion": "U34 Hotfix 5",
+    "AuthorIds": [
+      360816319722946560
+    ],
+    "Description": "Removes Chain Hit and Homebrew Powder from your personal OC selection lists. This applies to: Subata (CH and HP), Bulldog (CH and HP), GK2's Homebrew Powder. This doesn't affect the T4 PGL mod; it doesn't affect clients, either.\nThese OCs are so broken I had to remove them so players wouldn't abuse them (/s).",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c62ac7bdff7c1b59a574fcc7ce89b2ff68ce6dfc/Gameplay/Balanced/Disable%20Chain%20Hit%20Homebrew%20Powder%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Disable Chain Hit Homebrew Powder - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OSB_AssaultRifle.uasset": "1B-A9-4A-8C-09-84-27-22",
+          "../../../FSD/Content/WeaponsNTools/Pistol/Overclocks/OSB_Pistol.uasset": "64-86-29-BF-43-BE-C0-D9",
+          "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OSB_Revolver.uasset": "93-49-54-6B-A6-27-A6-71",
+          "../../../FSD/Content/WeaponsNTools/AssaultRifle/Overclocks/OSB_AssaultRifle.uexp": "DB-54-31-F0-6A-5A-E3-02",
+          "../../../FSD/Content/WeaponsNTools/Pistol/Overclocks/OSB_Pistol.uexp": "D3-03-5C-7B-27-51-2C-36",
+          "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OSB_Revolver.uexp": "B9-9A-70-B2-2E-78-5F-07"
+        }
+      }
+    ]
+  },
   "disabledtreasures": {
     "DisplayName": "Disabled Treasures",
     "Version": "1",
