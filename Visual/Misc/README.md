@@ -112,22 +112,24 @@ Example: https://discord.com/channels/676880716142739467/732650220214681600/8466
 **Description:**  
 **Requires Spacerig decorator** A place for Steeve to call home on the spacerig :)
 
-## Remove All Particles - v1.0
+## Remove All Particles - v1.0.1
 **Authors:** Pugglez  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/36c4b111fc6cfade9a606e0837d4113beba17b74/Visual/Misc/Remove%20All%20Particles%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a0b8ab7eaadaa8304757461a3cc8e30ca489cd7f/Visual/Misc/Remove%20All%20Particles%20-%20V1.0.1%20_P.pak)  
 
 **Description:**  
-Removes almost all visual particles (700+) from the game  with the exceptions listed below.   
+Removes almost all visual particles (over 700+ files) from the game except for the following exceptions: https://pastebin.com/jUwP2Wez    
 This mod is intended to hopefully improve your FPS. If you think that a particle should be added back in because it gives a disadvantage having it   
-removed (i.e., Dread Projectiles being invisible or not being able to see certain weapon particles) or the opposite--giving a unintended gameplay advantage, contact me. If you encounter bugs/crashes using this mod, give as much details you have (Mission Type, Biome, context, etc...).   
+removed (i.e. not being able to see certain weapon particles) or the opposite--giving unintended gameplay advantage, feel free to contact me.   
+If you encounter bugs/crashes using this mod, give as much details you have (Mission Type, Biome, context, etc...).   
 I am available on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989).   
--- List of all particles that were NOT removed: https://pastebin.com/EQse8Jrp  
--- List of TODO Particles To Add Back In:  
-* Fungus Maggot Death Cloud  
-* Oppressor Dirt Attack Projectiles  
-* Dense Biozone Trapatacus Plant Ground Spikes  
-* Engineer SMG EM Discharge Explosion Particles
+Which "Remove All Particles" mod variant should I use?  
+- Remove All Particles: This is the original mod which removes a lot of the particles. The biggest thing is that this also removes almost all the bullet   
+tracers and particles of weapons. See the "WEAPONS" section of the exceptions list above to see which weapon particles were not removed.  
+- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco.
+
+**Update v1.0.1 Changelog:**  
+Updated description that gives information on which "Remove All Particle" variant you should use. Pastebin link also updated.
 
 ## Remove All Particles But WeaponsNTools - v1.0
 **Authors:** Pugglez  
