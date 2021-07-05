@@ -12761,6 +12761,26 @@
       }
     ]
   },
+  "proppackextrapromotionconsole": {
+    "DisplayName": "Prop pack | Extra promotion console",
+    "Version": "1",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      276091282542297089
+    ],
+    "Description": "**Requires Spacerig decorator** Has this ever happened to you? \"*oh boy!* My promotion assignment is complete! Time to promote! But I have to go *all the way **upstairs!?***\" Fear not! For with this mod you can just walk to the conveniently placed promotion console in the hallway to the elevator!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/feb5d5662dfbfe008ff6ed31448c24ae73542b97/Visual/Misc/Prop%20Pack%20Extra%20Promotion%20Console%20-%20V1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Prop Pack Extra Promotion Console - V1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/PropPack/PropPacks/Pack3.uasset": "94-AE-89-D1-A5-14-3B-81",
+          "../../../FSD/Content/_ModBPs/PropPack/PropPacks/Pack3.uexp": "06-8A-F5-9C-79-2D-D7-06"
+        }
+      }
+    ]
+  },
   "proppacksteevecage": {
     "DisplayName": "Prop pack | Steeve cage",
     "Version": "1",

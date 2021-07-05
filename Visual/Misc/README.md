@@ -104,6 +104,14 @@ Added Glacial Strata Ice, Smooth Ice, Snow, Petrified Wood, Bloated Vines, Azure
 Unlocks the back blade exclusive pickaxe parts to be usable in the front blade slot. Works on host and client. Thanks to onimare for the suggestion!  
 Example: https://discord.com/channels/676880716142739467/732650220214681600/846678095645245491
 
+## Prop pack | Extra promotion console - v1
+**Authors:** Samamstar  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/feb5d5662dfbfe008ff6ed31448c24ae73542b97/Visual/Misc/Prop%20Pack%20Extra%20Promotion%20Console%20-%20V1%20_P.pak)  
+
+**Description:**  
+**Requires Spacerig decorator** Has this ever happened to you? "*oh boy!* My promotion assignment is complete! Time to promote! But I have to go *all the way **upstairs!?***" Fear not! For with this mod you can just walk to the conveniently placed promotion console in the hallway to the elevator!
+
 ## Prop pack | Steeve cage - v1
 **Authors:** Samamstar  
 **DRG Version:** U34H5  
