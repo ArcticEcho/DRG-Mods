@@ -5020,6 +5020,30 @@
       }
     ]
   },
+  "gonkmolly": {
+    "DisplayName": "Gonk Molly",
+    "Version": "1.0",
+    "DrgVersion": "Update 34 Hotfix 5",
+    "AuthorIds": [
+      849317380977852466
+    ],
+    "Description": "Replaces Molly's beep boops with the Gonk droid's famous sound from Lego Star Wars.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/0c6c6c2a3e170516484f3823eb4c398a9a6249cb/Audio/NPC/Gonk%20Molly%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Gonk Molly - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/_CustomSounds/Gonk/GONK.uasset": "76-C1-66-E4-4D-09-C7-1E",
+          "../../../FSD/Content/Audio/SFX/Donkey/Molly/Talk/Donkey_beep_comply_Cue.uasset": "E3-3D-67-7F-BF-6D-30-85",
+          "../../../FSD/Content/Audio/SFX/Donkey/Molly/Talk/Donkey_whinny_Wahwah_Cue.uasset": "A2-12-94-E2-47-C1-A0-FE",
+          "../../../FSD/Content/Audio/_CustomSounds/Gonk/GONK.uexp": "5B-0F-38-2C-C6-7F-D8-94",
+          "../../../FSD/Content/Audio/SFX/Donkey/Molly/Talk/Donkey_beep_comply_Cue.uexp": "1B-6C-99-3D-2A-5E-AA-B2",
+          "../../../FSD/Content/Audio/SFX/Donkey/Molly/Talk/Donkey_whinny_Wahwah_Cue.uexp": "1B-6C-99-3D-2A-5E-AA-B2"
+        }
+      }
+    ]
+  },
   "goodoldbetcexe": {
     "DisplayName": "Good Old Bet-C.exe",
     "Version": "34.1.0",

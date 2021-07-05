@@ -39,6 +39,14 @@ Replaces Doretta's normal sounds with totally not unpleasant Anime sound effects
 **Description:**  
 Replaces cave angel's idle sounds with verbalase's beatboxing
 
+## Gonk Molly - v1.0
+**Authors:** Zega  
+**DRG Version:** Update 34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0c6c6c2a3e170516484f3823eb4c398a9a6249cb/Audio/NPC/Gonk%20Molly%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces Molly's beep boops with the Gonk droid's famous sound from Lego Star Wars.
+
 ## Hiveguard Scream Grunt - v1.0
 **Authors:** Kraeus  
 **DRG Version:** Update 34 Hotfix 2  
