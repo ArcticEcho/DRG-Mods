@@ -14030,14 +14030,14 @@
   },
   "removeallparticlesbutweaponsntools": {
     "DisplayName": "Remove All Particles But WeaponsNTools",
-    "Version": "1.0",
+    "Version": "1.0.1",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       209416328057061376
     ],
-    "Description": "This is a lighter version of my mod \"Remove All Particles\" (see https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc). \nThis mod additionally adds back in all particles related to Weapons, Tools, and Bosco. \nIf I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (<@209416328057061376>).",
-    "LastUpdateChangelog": "This is a lighter version of my mod \"Remove All Particles\" (see https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc). \nThis mod additionally adds back in all particles related to Weapons, Tools, and Bosco. \nIf I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989)",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/2c3498821ce5db52b22dddd3668ee89864f5ba13/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.0%20_P.pak",
+    "Description": "This is a lighter version of my mod \"Remove All Particles\" (see https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc). \nThis mod additionally adds back in all particles related to Weapons, Tools, and Bosco. \nIf I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989). \n\nWhich \"Remove All Particles\" mod variant should I use?\n- Remove All Particles: This is the original mod which removes a lot of the particles. The biggest thing is that this also removes almost all the bullet \ntracers and particles of weapons. See the \"WEAPONS\" section of the exceptions list above to see which weapon particles were not removed.\n- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco.",
+    "LastUpdateChangelog": "Updated description that gives information on which \"Remove All Particle\" variant you should use.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5fbad6de8fb97f3d150c4a8c2de437b4d8fe2898/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.0.1%20_P.pak",
     "Paks": [
       {
         "PakFileName": "Remove All Particles But WeaponsNTools - V1.0",

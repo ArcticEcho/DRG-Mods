@@ -131,20 +131,22 @@ tracers and particles of weapons. See the "WEAPONS" section of the exceptions li
 **Update v1.0.1 Changelog:**  
 Updated description that gives information on which "Remove All Particle" variant you should use. Pastebin link also updated.
 
-## Remove All Particles But WeaponsNTools - v1.0
+## Remove All Particles But WeaponsNTools - v1.0.1
 **Authors:** Pugglez  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2c3498821ce5db52b22dddd3668ee89864f5ba13/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5fbad6de8fb97f3d150c4a8c2de437b4d8fe2898/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.0.1%20_P.pak)  
 
 **Description:**  
 This is a lighter version of my mod "Remove All Particles" (see https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc).   
 This mod additionally adds back in all particles related to Weapons, Tools, and Bosco.   
-If I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (\<@209416328057061376>).
+If I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989).   
+Which "Remove All Particles" mod variant should I use?  
+- Remove All Particles: This is the original mod which removes a lot of the particles. The biggest thing is that this also removes almost all the bullet   
+tracers and particles of weapons. See the "WEAPONS" section of the exceptions list above to see which weapon particles were not removed.  
+- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco.
 
-**Update v1.0 Changelog:**  
-This is a lighter version of my mod "Remove All Particles" (see https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc).   
-This mod additionally adds back in all particles related to Weapons, Tools, and Bosco.   
-If I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989)
+**Update v1.0.1 Changelog:**  
+Updated description that gives information on which "Remove All Particle" variant you should use.
 
 ## Spacerig decorator - v1.2.0
 **Authors:** Samamstar, Pacagma  
