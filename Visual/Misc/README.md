@@ -129,13 +129,13 @@ I am available on the official DRG Discord Server or the DRG Modding Server (Pug
 * Dense Biozone Trapatacus Plant Ground Spikes  
 * Engineer SMG EM Discharge Explosion Particles
 
-## Spacerig decorator - v1.1.0
+## Spacerig decorator - v1.2.0
 **Authors:** Samamstar, Pacagma  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e25892310b4bc42df500666c1c486e5a4015827f/Visual/Misc/Spacerig%20Decorator%20-%20V1.1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/0a61bbed60a14a4dab7aec3a226b091e7ee68e68/Visual/Misc/Spacerig%20Decorator%20-%20V1.2.0%20_P.pak)  
 
 **Description:**  
 The Spacerig decorator lets you spawn props to decorate your spacerig however you want! Check [our github repo](https://github.com/samamstar/PropPack) for instructions on how to spawn props. If you're interested in distributing a Prop pack a devkit can be found there as well
 
-**Update v1.1.0 Changelog:**  
-Modified collision code to allow for interactions
+**Update v1.2.0 Changelog:**  
+Modified the spawn code so that players can see spawned meshes. This *probably* won't cause crashes.
