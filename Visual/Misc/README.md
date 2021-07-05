@@ -129,6 +129,16 @@ I am available on the official DRG Discord Server or the DRG Modding Server (Pug
 * Dense Biozone Trapatacus Plant Ground Spikes  
 * Engineer SMG EM Discharge Explosion Particles
 
+## Remove All Particles But WeaponsNTools - v1.0
+**Authors:** Pugglez  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2c3498821ce5db52b22dddd3668ee89864f5ba13/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+This is a lighter version of my mod "Remove All Particles" (see https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc).   
+This mod additionally adds back in all particles related to Weapons, Tools, and Bosco.   
+If I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (\<@209416328057061376>).
+
 ## Spacerig decorator - v1.2.0
 **Authors:** Samamstar, Pacagma  
 **DRG Version:** U34 H5  
