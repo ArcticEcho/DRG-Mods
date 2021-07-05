@@ -139,6 +139,11 @@ This is a lighter version of my mod "Remove All Particles" (see https://github.c
 This mod additionally adds back in all particles related to Weapons, Tools, and Bosco.   
 If I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (\<@209416328057061376>).
 
+**Update v1.0 Changelog:**  
+This is a lighter version of my mod "Remove All Particles" (see https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc).   
+This mod additionally adds back in all particles related to Weapons, Tools, and Bosco.   
+If I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989)
+
 ## Spacerig decorator - v1.2.0
 **Authors:** Samamstar, Pacagma  
 **DRG Version:** U34 H5  
