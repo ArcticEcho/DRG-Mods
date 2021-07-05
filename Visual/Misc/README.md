@@ -112,24 +112,28 @@ Example: https://discord.com/channels/676880716142739467/732650220214681600/8466
 **Description:**  
 **Requires Spacerig decorator** A place for Steeve to call home on the spacerig :)
 
-## Remove All Particles - v1.0.1
+## Remove All Particles - v1.1.0
 **Authors:** Pugglez  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a0b8ab7eaadaa8304757461a3cc8e30ca489cd7f/Visual/Misc/Remove%20All%20Particles%20-%20V1.0.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/60aa27c310643a4dfa17a3e7d9b8eb893b47682e/Visual/Misc/Remove%20All%20Particles%20-%20V1.1.0%20_P.pak)  
 
 **Description:**  
-Removes almost all visual particles (over 700+ files) from the game except for the following exceptions: https://pastebin.com/jUwP2Wez    
+Removes almost all visual particles (over 700+ files) from the game except for the following exceptions: https://pastebin.com/YfdK0f46 (v1.1.0)  
 This mod is intended to hopefully improve your FPS. If you think that a particle should be added back in because it gives a disadvantage having it   
-removed (i.e. not being able to see certain weapon particles) or the opposite--giving unintended gameplay advantage, feel free to contact me.   
-If you encounter bugs/crashes using this mod, give as much details you have (Mission Type, Biome, context, etc...).   
-I am available on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989).   
+removed (i.e. not being able to see certain weapon particles) or the opposite--giving unintended gameplay advantage from having it removed, feel free to contact me.   
+If you encounter bugs/crashes using this mod, give as much details you have (Mission Type, Biome, context, etc...). I am available on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989).   
 Which "Remove All Particles" mod variant should I use?  
-- Remove All Particles: This is the original mod which removes a lot of the particles. The biggest thing is that this also removes almost all the bullet   
-tracers and particles of weapons. See the "WEAPONS" section of the exceptions list above to see which weapon particles were not removed.  
-- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco.
+- Remove All Particles: This is the original mod which removes a lot of the particles. The biggest difference is that this removes almost all the particles of weapons/tools. See the "WEAPONS" section of the exceptions list above to see which weapon/tool particles were not removed.  
+- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco.   
+Unlike the original mod, this allows you to see yours and other dwarves' bullet tracers.
 
-**Update v1.0.1 Changelog:**  
-Updated description that gives information on which "Remove All Particle" variant you should use. Pastebin link also updated.
+**Update v1.1.0 Changelog:**  
+- Updated description and the pastebin link to reflect the new changes  
+- Added back in new weapon particles:  
+    - Driller EPC Persistent Plasma Particles  
+    - Engineer Breach Cutter Plasma Trail Particles  
+    - Engineer Platform Spawning Particles  
+    - Gunner Autocannon Impact Shot Particles
 
 ## Remove All Particles But WeaponsNTools - v1.0.1
 **Authors:** Pugglez  
