@@ -112,6 +112,23 @@ Example: https://discord.com/channels/676880716142739467/732650220214681600/8466
 **Description:**  
 **Requires Spacerig decorator** A place for Steeve to call home on the spacerig :)
 
+## Remove All Particles - v1.0
+**Authors:** Pugglez  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/36c4b111fc6cfade9a606e0837d4113beba17b74/Visual/Misc/Remove%20All%20Particles%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Removes almost all visual particles (700+) from the game  with the exceptions listed below.   
+This mod is intended to hopefully improve your FPS. If you think that a particle should be added back in because it gives a disadvantage having it   
+removed (i.e., Dread Projectiles being invisible or not being able to see certain weapon particles) or the opposite--giving a unintended gameplay advantage, contact me. If you encounter bugs/crashes using this mod, give as much details you have (Mission Type, Biome, context, etc...).   
+I am available on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989).   
+-- List of all particles that were NOT removed: https://pastebin.com/EQse8Jrp  
+-- List of TODO Particles To Add Back In:  
+* Fungus Maggot Death Cloud  
+* Oppressor Dirt Attack Projectiles  
+* Dense Biozone Trapatacus Plant Ground Spikes  
+* Engineer SMG EM Discharge Explosion Particles
+
 ## Spacerig decorator - v1.1.0
 **Authors:** Samamstar, Pacagma  
 **DRG Version:** U34 H5  
