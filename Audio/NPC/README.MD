@@ -15,6 +15,14 @@ Replaced the normal grunt scream with the "AHH" from the actual Dev request on t
 DOES NOT MAKE "AHH" THE STEVE NOISE!  
 Sample: https://discord.com/channels/676880716142739467/732650220214681600/815080687493185556
 
+## 2005 Battle Droid Bosco - v1.0
+**Authors:** Zega  
+**DRG Version:** Update 34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/306af0ab4ebe64df7a2e6a84c7644c81ea10cf13/Audio/NPC/2005%20Battle%20Droid%20Bosco%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces Bosco's beep boops with Battle Droid voice lines from 2005 Battlefront 2.
+
 ## Anime Doretta - v1.1
 **Authors:** Pacagma  
 **DRG Version:** Update 33  

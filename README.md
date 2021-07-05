@@ -39,6 +39,7 @@ You can easily locate your game installation path using steam:
 
 ## [Audio/NPC](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC)
  - **["AHH" Grunt](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#ahh-grunt---v10)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/477d325a323555735e851b35af8f9e4664070420/Audio/NPC/AHH%20Grunt%20-%20V1.0%20_P.pak))
+ - **[2005 Battle Droid Bosco](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#2005-battle-droid-bosco---v10)** by Zega ([download](https://github.com/ArcticEcho/DRG-Mods/raw/306af0ab4ebe64df7a2e6a84c7644c81ea10cf13/Audio/NPC/2005%20Battle%20Droid%20Bosco%20-%20V1.0%20_P.pak))
  - **[Anime Doretta](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#anime-doretta---v11)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/bb940600b86e6419b90c93f994a655365f416b73/Audio/NPC/Anime%20Doretta%20-%20V1.1%20_P.pak))
  - **[Beatboxing Cave Angels](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#beatboxing-cave-angels---v1)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/dd795efc3ba0cf6d1de28dbf1280cb84204855dd/Audio/NPC/Beatboxing%20Cave%20Angels%20-%20V1%20_P.pak))
  - **[Hiveguard Scream Grunt](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#hiveguard-scream-grunt---v10)** by Kraeus ([download](https://github.com/ArcticEcho/DRG-Mods/raw/07622eda6d77f72af8fd6d8c20fe3c5579829aac/Audio/NPC/Hiveguard%20Scream%20Grunt%20-%20V1.0%20_P.pak))

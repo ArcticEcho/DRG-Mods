@@ -78,6 +78,66 @@
       }
     ]
   },
+  "2005battledroidbosco": {
+    "DisplayName": "2005 Battle Droid Bosco",
+    "Version": "1.0",
+    "DrgVersion": "Update 34 Hotfix 5",
+    "AuthorIds": [
+      849317380977852466
+    ],
+    "Description": "Replaces Bosco's beep boops with Battle Droid voice lines from 2005 Battlefront 2.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/306af0ab4ebe64df7a2e6a84c7644c81ea10cf13/Audio/NPC/2005%20Battle%20Droid%20Bosco%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "2005 Battle Droid Bosco - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM410.uasset": "5F-E6-3D-38-F7-BC-4E-DE",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM411.uasset": "68-CE-1E-C6-69-A4-91-57",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM412.uasset": "AA-43-61-22-4B-7C-0C-FF",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM413.uasset": "11-29-31-F2-1F-27-73-31",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM419.uasset": "BD-73-E6-2F-44-42-24-74",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM420.uasset": "9A-EF-B1-61-5D-6C-0D-DD",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM421.uasset": "D6-20-FA-AA-7D-D0-02-7D",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM423.uasset": "7C-00-E1-AE-B4-38-27-4B",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM427.uasset": "75-E4-E4-E4-4A-B2-45-62",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Dig/CICOM402.uasset": "71-13-5B-BB-88-64-05-36",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/GoTo/CICOM403.uasset": "0A-BA-8A-EC-33-B6-3B-A4",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/GoTo/CICOM404.uasset": "12-6A-AB-13-88-D4-D4-28",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/GoTo/CICOM405.uasset": "4F-AD-6C-02-AD-93-54-1E",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/GoTo/CICOM422.uasset": "EA-23-CD-AD-11-7A-76-80",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Revive/CICOM202.uasset": "6A-56-00-04-4C-C7-B9-BA",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Revive/CICOM205.uasset": "1B-2B-E6-14-31-C2-58-7E",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Revive/CICOM206.uasset": "8C-40-0D-43-F2-28-2D-51",
+          "../../../FSD/Content/Audio/SFX/Bosco/BoscoTalk/BoscoTalkAttack/BoscoTalkAttack_Cue.uasset": "E7-65-32-58-EE-D8-F4-4E",
+          "../../../FSD/Content/Audio/SFX/Bosco/BoscoTalk/BoscoTalkDig/BoscoTalkDig_Cue.uasset": "C7-BA-66-51-2A-D4-8E-EC",
+          "../../../FSD/Content/Audio/SFX/Bosco/BoscoTalk/BoscoTalkGoTo/BoscoTalkGoTo_Cue.uasset": "05-A5-02-CB-A0-FA-6C-94",
+          "../../../FSD/Content/Audio/SFX/Bosco/BoscoTalk/BoscoTalkRevive/BoscoTalkRevive_Cue.uasset": "55-53-B4-0A-84-CE-13-14",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM410.uexp": "73-94-44-09-D4-C0-7A-9D",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM411.uexp": "4A-D8-39-52-6A-9E-0F-60",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM412.uexp": "38-69-31-58-46-09-CE-5E",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM413.uexp": "F0-AB-91-D9-9C-DB-48-5D",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM419.uexp": "E4-DB-0D-57-CD-A5-D4-4E",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM420.uexp": "E7-72-87-DD-DC-E9-20-C2",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM421.uexp": "64-02-26-F4-11-C1-30-99",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM423.uexp": "F0-3C-4F-63-D8-77-69-ED",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Attack/CICOM427.uexp": "9F-DC-E8-AB-FB-21-94-60",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Dig/CICOM402.uexp": "D0-6C-C0-67-13-94-03-BD",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/GoTo/CICOM403.uexp": "08-67-C5-3B-8C-C8-B8-3E",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/GoTo/CICOM404.uexp": "72-BC-4B-54-6B-07-25-28",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/GoTo/CICOM405.uexp": "93-4D-E9-79-C2-57-B1-11",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/GoTo/CICOM422.uexp": "D4-0F-0B-77-00-B2-6A-6D",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Revive/CICOM202.uexp": "9A-53-8A-BA-65-40-AF-81",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Revive/CICOM205.uexp": "CE-F9-81-03-34-5A-0D-A7",
+          "../../../FSD/Content/Audio/_CustomSounds/Bosco/Revive/CICOM206.uexp": "08-05-2F-52-52-50-0B-39",
+          "../../../FSD/Content/Audio/SFX/Bosco/BoscoTalk/BoscoTalkAttack/BoscoTalkAttack_Cue.uexp": "0B-2B-11-96-E5-66-4D-06",
+          "../../../FSD/Content/Audio/SFX/Bosco/BoscoTalk/BoscoTalkDig/BoscoTalkDig_Cue.uexp": "E2-22-FF-A3-11-AE-2E-32",
+          "../../../FSD/Content/Audio/SFX/Bosco/BoscoTalk/BoscoTalkGoTo/BoscoTalkGoTo_Cue.uexp": "77-32-83-02-2D-DD-CC-E3",
+          "../../../FSD/Content/Audio/SFX/Bosco/BoscoTalk/BoscoTalkRevive/BoscoTalkRevive_Cue.uexp": "45-54-08-F8-16-03-E8-A8"
+        }
+      }
+    ]
+  },
   "2xammoandslightlybetterscout": {
     "DisplayName": "2x Ammo And Slightly Better Scout",
     "Version": "1.0",
