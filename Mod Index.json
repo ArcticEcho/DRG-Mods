@@ -17733,6 +17733,34 @@
       }
     ]
   },
+  "unusedearlymachineeventmusic": {
+    "DisplayName": "Unused/Early Machine Event Music",
+    "Version": "1.0",
+    "DrgVersion": "Update 34 Hotfix 5",
+    "AuthorIds": [
+      849317380977852466
+    ],
+    "Description": "Adds the old machine event music back from Update 26.\nLink to the original YT video: https://www.youtube.com/watch?v=6CkATd8CzlI",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/246c207db0984832f32fa99796bff28aec2b168a/Audio/Music/Unused%20Early%20Machine%20Event%20Music%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Unused Early Machine Event Music - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/_CustomMusic/ST_GameEventA_1.uasset": "F6-97-90-BF-B5-5F-8A-D6",
+          "../../../FSD/Content/Audio/_CustomMusic/ST_GameEventA_2.uasset": "7D-C1-18-2C-71-A9-33-85",
+          "../../../FSD/Content/Audio/_CustomMusic/ST_GameEventA_3.uasset": "60-B8-F9-32-6D-4E-0A-CE",
+          "../../../FSD/Content/Audio/_CustomMusic/ST_GameEventA_4.uasset": "5E-82-81-8A-AA-16-88-1E",
+          "../../../FSD/Content/Audio/Music/Music_SpecialEvents/ST_GameEventA_Cue.uasset": "13-71-D1-5D-95-17-14-46",
+          "../../../FSD/Content/Audio/_CustomMusic/ST_GameEventA_1.uexp": "2F-7A-AC-C2-87-B6-69-01",
+          "../../../FSD/Content/Audio/_CustomMusic/ST_GameEventA_2.uexp": "46-B9-AF-EC-D4-7B-C6-9D",
+          "../../../FSD/Content/Audio/_CustomMusic/ST_GameEventA_3.uexp": "94-DE-B8-90-E4-4A-DD-4F",
+          "../../../FSD/Content/Audio/_CustomMusic/ST_GameEventA_4.uexp": "B5-44-40-59-5D-B9-C3-26",
+          "../../../FSD/Content/Audio/Music/Music_SpecialEvents/ST_GameEventA_Cue.uexp": "2E-01-65-95-D3-F5-38-88"
+        }
+      }
+    ]
+  },
   "upgradeddoretta": {
     "DisplayName": "Upgraded Doretta",
     "Version": "1.4",

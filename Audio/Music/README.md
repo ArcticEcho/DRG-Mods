@@ -206,6 +206,15 @@ No Jukebox songs.
 **Description:**  
 Replaces the streamer mode no-copyrighted jukebox songs with the 8 most popular TheFatRat songs (which are all no-copyright). This is compatible with any of my other jukebox replacement mods that replace only the copyrighted songs. [Song list](https://docs.google.com/spreadsheets/d/1oeeTeYisAbOQeieqIMAthMlVXKVelJGnVZiPUkpT3ps/edit?usp=sharing)
 
+## Unused/Early Machine Event Music - v1.0
+**Authors:** Zega  
+**DRG Version:** Update 34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/246c207db0984832f32fa99796bff28aec2b168a/Audio/Music/Unused%20Early%20Machine%20Event%20Music%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Adds the old machine event music back from Update 26.  
+Link to the original YT video: https://www.youtube.com/watch?v=6CkATd8CzlI
+
 ## WTFightMusic - v2.2
 **Authors:** CouchDiabetic  
 **DRG Version:** Update 33 Hotfix 9  
