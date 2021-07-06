@@ -120,10 +120,10 @@ Example: https://discord.com/channels/676880716142739467/732650220214681600/8466
 **Description:**  
 **Requires Spacerig decorator** A place for Steeve to call home on the spacerig :)
 
-## Remove All Particles - v1.1.0
+## Remove All Particles - v1.2.0
 **Authors:** Pugglez  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/60aa27c310643a4dfa17a3e7d9b8eb893b47682e/Visual/Misc/Remove%20All%20Particles%20-%20V1.1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/57a9ec59c9fd31aacae0d301ffa20d95397dff18/Visual/Misc/Remove%20All%20Particles%20-%20V1.2.0%20_P.pak)  
 
 **Description:**  
 Removes almost all visual particles (over 700+ files) from the game except for the following exceptions: https://pastebin.com/YfdK0f46 (v1.1.0)  
@@ -135,13 +135,14 @@ Which "Remove All Particles" mod variant should I use?
 - Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco.   
 Unlike the original mod, this allows you to see yours and other dwarves' bullet tracers.
 
-**Update v1.1.0 Changelog:**  
-- Updated description and the pastebin link to reflect the new changes  
-- Added back in new weapon particles:  
-    - Driller EPC Persistent Plasma Particles  
-    - Engineer Breach Cutter Plasma Trail Particles  
-    - Engineer Platform Spawning Particles  
-    - Gunner Autocannon Impact Shot Particles
+**Update v1.2.0 Changelog:**  
+- Update pastebin link to reflect the new changes  
+- Added back in new particles:  
+    - Fungus Maggot Death Cloud  
+    - Oppressor Dirt Barrage Attack Projectile  
+    - Lacerator Dread Pre-Emerge Dirt Particles  
+    - Engineer SMG Turret EM Discharge Explosion Particles  
+    - Space Rig Barrel Explosion (fixes BUG: Jumping through the SpaceRig hoop locks you in third person)
 
 ## Remove All Particles But WeaponsNTools - v1.0.1
 **Authors:** Pugglez  
