@@ -126,14 +126,12 @@ Example: https://discord.com/channels/676880716142739467/732650220214681600/8466
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/57a9ec59c9fd31aacae0d301ffa20d95397dff18/Visual/Misc/Remove%20All%20Particles%20-%20V1.2.0%20_P.pak)  
 
 **Description:**  
-Removes almost all visual particles (over 700+ files) from the game except for the following exceptions: https://pastebin.com/YfdK0f46 (v1.1.0)  
-This mod is intended to hopefully improve your FPS. If you think that a particle should be added back in because it gives a disadvantage having it   
-removed (i.e. not being able to see certain weapon particles) or the opposite--giving unintended gameplay advantage from having it removed, feel free to contact me.   
+Removes almost all visual particles (over 700+ files) from the game except for the following exceptions: https://pastebin.com/s8Z0zB4s (v1.2.0)  
+This mod is intended to hopefully improve your FPS. If you think that a particle should be added back in because it gives a disadvantage having it removed (i.e. not being able to see certain weapon particles) or the opposite--giving unintended gameplay advantage from having it removed, feel free to contact me.   
 If you encounter bugs/crashes using this mod, give as much details you have (Mission Type, Biome, context, etc...). I am available on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989).   
-Which "Remove All Particles" mod variant should I use?  
-- Remove All Particles: This is the original mod which removes a lot of the particles. The biggest difference is that this removes almost all the particles of weapons/tools. See the "WEAPONS" section of the exceptions list above to see which weapon/tool particles were not removed.  
-- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco.   
-Unlike the original mod, this allows you to see yours and other dwarves' bullet tracers.
+**Which "Remove All Particles" mod variant should I use?**  
+- Remove All Particles: This is the original mod. This includes almost all the particles of weapons/tools. See the "WEAPONS" section of the pastebin exceptions list above to see which weapon/tool particles were not removed.  
+- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco. Unlike the original mod, this allows you to see yours and other dwarves' bullet tracers.
 
 **Update v1.2.0 Changelog:**  
 - Update pastebin link to reflect the new changes  
