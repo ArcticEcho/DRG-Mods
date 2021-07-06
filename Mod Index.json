@@ -14124,17 +14124,17 @@
   },
   "removeallparticlesbutweaponsntools": {
     "DisplayName": "Remove All Particles But WeaponsNTools",
-    "Version": "1.0.1",
+    "Version": "1.1.0",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       209416328057061376
     ],
-    "Description": "This is a lighter version of my mod \"Remove All Particles\" (see https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc). \nThis mod additionally adds back in all particles related to Weapons, Tools, and Bosco. \nIf I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989). \n\nWhich \"Remove All Particles\" mod variant should I use?\n- Remove All Particles: This is the original mod which removes a lot of the particles. The biggest thing is that this also removes almost all the bullet \ntracers and particles of weapons. See the \"WEAPONS\" section of the exceptions list above to see which weapon particles were not removed.\n- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco.",
-    "LastUpdateChangelog": "Updated description that gives information on which \"Remove All Particle\" variant you should use.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5fbad6de8fb97f3d150c4a8c2de437b4d8fe2898/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.0.1%20_P.pak",
+    "Description": "This is a lighter version of my mod \"Remove All Particles\" (see https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc). This mod additionally adds back in all particles related to Weapons, Tools, and Bosco. \nIf I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989). \n\n**Which \"Remove All Particles\" mod variant should I use?**\n- Remove All Particles: This is the original mod. This removes almost all the particles including weapons/tools. See the \"WEAPONS\" section of the pastebin exceptions list above to see which weapon/tool particles were not removed.\n- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco. Unlike the original mod, this allows you to see yours and other dwarves' bullet tracers.",
+    "LastUpdateChangelog": "- Updated mod to reflect the new changes from the original mod. See v1.2.0 Changelog of the original mod \"Remove All Particles\"\n- Updated description slightly",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5b30eda1304886474a5e670cdff66151e67509e0/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.1.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Remove All Particles But WeaponsNTools - V1.0",
+        "PakFileName": "Remove All Particles But WeaponsNTools - V1.1.0",
         "CookedFileHashes": {
           "../../../FSD/Content/Art/Cinematics/E3trailer2017/P_E3trailer_DropPod_Exhaust.uasset": "1E-92-C3-30-9F-42-1D-E5",
           "../../../FSD/Content/Art/DropPod/Assets/MuleBay/P_MuleBay.uasset": "3C-47-33-DA-B8-3E-19-91",
@@ -14151,7 +14151,6 @@
           "../../../FSD/Content/Art/Particles/ActorFX/P_ExplodingPlant_ExplosionFire.uasset": "25-25-1E-70-B2-50-C1-8D",
           "../../../FSD/Content/Art/Particles/ActorFX/P_ExplodingPlantA_BulletImpact.uasset": "F3-46-EC-12-1E-72-9D-BF",
           "../../../FSD/Content/Art/Particles/ActorFX/P_ExplodingPlantA_ExplosionFire.uasset": "B4-78-08-56-47-11-B2-DF",
-          "../../../FSD/Content/Art/Particles/ActorFX/P_GreenMaggot_PoisonCloud.uasset": "17-80-A4-CA-DD-52-85-03",
           "../../../FSD/Content/Art/Particles/ActorFX/P_HeightenedSense_Discharge.uasset": "76-EE-F9-16-FC-85-31-C6",
           "../../../FSD/Content/Art/Particles/ActorFX/P_Jellyfish_DeathSplat_Big.uasset": "89-EE-34-97-F7-BD-A3-91",
           "../../../FSD/Content/Art/Particles/ActorFX/P_Jellyfish_DeathSplat_Small.uasset": "19-DA-4C-C7-82-0B-6A-FD",
@@ -14170,7 +14169,6 @@
           "../../../FSD/Content/Art/Particles/ActorFX/P_StickyGoo_Kill.uasset": "72-BB-A3-92-65-4A-71-52",
           "../../../FSD/Content/Art/Particles/ActorFX/P_YellowRedMushroom_Impact.uasset": "C8-09-4B-A1-1E-A8-15-A0",
           "../../../FSD/Content/Art/Particles/ActorFX/P_YellowRedMushroom_Kill.uasset": "C9-DE-57-50-6B-F7-15-C0",
-          "../../../FSD/Content/Art/Particles/ActorFX/Spawning/P_SpawnCloud_Large.uasset": "A9-AB-A0-C2-06-4F-D8-38",
           "../../../FSD/Content/Art/Particles/ActorFX/Spawning/P_SpawnCloud_Medium.uasset": "FC-0B-E1-5C-4F-75-11-DD",
           "../../../FSD/Content/Art/Particles/ActorFX/Spawning/P_SpawnCloud_Small.uasset": "F8-12-A8-90-84-4E-9F-0F",
           "../../../FSD/Content/Art/Particles/DestructionFX/NS_FungusRoots_Dig.uasset": "B9-8F-C3-41-76-6F-68-A7",
@@ -14353,7 +14351,6 @@
           "../../../FSD/Content/Enemies/Spider/Afflictions/P_FrozenDeath_Spider_Small.uasset": "32-59-C4-27-C5-05-03-FD",
           "../../../FSD/Content/Enemies/Spider/Buffer/P_Buffer_WeakPoint_A.uasset": "B4-97-F6-F4-51-20-DF-28",
           "../../../FSD/Content/Enemies/Spider/Buffer/P_Buffer_WeakPoint_Explosion_A.uasset": "17-59-4E-54-D5-EF-61-60",
-          "../../../FSD/Content/Enemies/Spider/Exploder/P_BarrelExplosion.uasset": "1A-FA-37-DB-F5-C5-72-A6",
           "../../../FSD/Content/Enemies/Spider/Exploder/P_Spider_Exploder_DeathExplosion.uasset": "E9-F0-CA-63-2F-11-88-3D",
           "../../../FSD/Content/Enemies/Spider/Exploder/P_Spider_Exploder_Radioactive_DeathExplosion.uasset": "64-9C-D6-A2-2F-57-BC-1E",
           "../../../FSD/Content/Enemies/Spider/ExploderTank/P_ExploderTank_AoEAttack.uasset": "9A-69-2A-A7-FF-72-58-44",
@@ -14375,7 +14372,6 @@
           "../../../FSD/Content/Enemies/Spider/Particles/P_Impact_Rock_Spider.uasset": "35-5C-41-B6-43-C6-A4-5E",
           "../../../FSD/Content/Enemies/Spider/Particles/P_RapidShooter_BreakWeakpoint.uasset": "C0-79-3C-87-3D-B2-AD-74",
           "../../../FSD/Content/Enemies/Spider/Particles/P_ShooterArmor_Impact_A.uasset": "4B-E6-C4-A4-7A-9B-A5-45",
-          "../../../FSD/Content/Enemies/Spider/Particles/P_Spider_BarrageAttack_A.uasset": "7F-92-F5-6C-AF-E4-73-C0",
           "../../../FSD/Content/Enemies/Spider/Particles/P_Spider_Blood_Squirt_A.uasset": "4D-B7-E1-38-29-52-17-08",
           "../../../FSD/Content/Enemies/Spider/Particles/P_Spider_HeavyAttack_Impact_A.uasset": "F5-B5-92-9A-55-3E-08-71",
           "../../../FSD/Content/Enemies/Spider/Particles/P_Spider_Impact_B.uasset": "EA-F8-A4-E3-CE-AA-D1-34",
@@ -14457,7 +14453,6 @@
           "../../../FSD/Content/GameElements/GameEvents/AmberEvent/Particles/P_AmberEnemy_Death_Pritorian.uasset": "38-5D-58-44-80-6C-70-FF",
           "../../../FSD/Content/GameElements/GameEvents/AmberEvent/Particles/P_AmberEvent_AmberDestroyed.uasset": "42-A6-83-04-73-82-DA-25",
           "../../../FSD/Content/GameElements/GameEvents/AmberEvent/Particles/P_AmberEvent_DepositAmber.uasset": "2F-F7-2B-B2-9C-20-63-DE",
-          "../../../FSD/Content/GameElements/GameEvents/AmberEvent/Particles/P_AmberEvent_Explosion.uasset": "49-BA-7E-D1-CD-E8-19-5F",
           "../../../FSD/Content/GameElements/GameEvents/AmberEvent/Particles/P_AmberEvent_Explosion_BuildUp.uasset": "2E-08-55-3E-0F-BF-5D-16",
           "../../../FSD/Content/GameElements/GameEvents/AmberEvent/Particles/P_AmberEvent_GrinderLaser.uasset": "E2-10-6B-71-4A-55-79-26",
           "../../../FSD/Content/GameElements/GameEvents/AmberEvent/Particles/P_AmberEvent_GrinderLaserDust.uasset": "C6-C0-E5-23-78-C6-AF-7B",
