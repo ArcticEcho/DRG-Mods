@@ -16092,6 +16092,18 @@
       }
     ]
   },
+  "soundclassheirachyforaudiomodding": {
+    "DisplayName": "Soundclass Heirachy for Audio Modding",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      196142609528389632
+    ],
+    "Description": "The soundclass heirachy for all the sounds in the game. If you are using the Music Control framework for music audio, still replace that with this, as this is more up-to-date on its heirachy too. **Note: soundmixes still WIP - the only ones that exist are from the pre-existing music control files. I'm still in the process of automating the creation of these.**",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a7506e4e4ed24ab2f7439594c56db2dcb55eeac4/Framework/Soundclass%20Heirachy%20For%20Audio%20Modding%20-%20V1.0.zip",
+    "Paks": []
+  },
   "soundqol": {
     "DisplayName": "Sound QoL",
     "Version": "1.2",
