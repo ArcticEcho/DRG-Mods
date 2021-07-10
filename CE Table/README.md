@@ -77,15 +77,15 @@ You can also rightclick on a scripts and create a hotkey.
 **Update v1.0 Changelog:**  
 Updated the description.
 
-## DRG Table - v4.8
+## DRG Table - v4.9
 **Authors:** Akira Fudo  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5f976a1a3bebf97f894dcbb975e3bff5f7321062/CE%20Table/DRG%20Table%20-%20V4.8.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4e5377173b44395b7ff42fab9e08ea0316361648/CE%20Table/DRG%20Table%20-%20V4.9.zip)  
 
 **Description:**  
 This tool has hundreds of options so I'm not gonne list 'em here.  
 Here you can see some of the possibilities:  
-https://discord.com/channels/676880716142739467/732650220214681600/858006818784804885  
+https://www.youtube.com/watch?v=14H67Ufz-rM  
 In order to use the .CT file you'll need to install Cheat Engine 7.2, then you can run the .CT file just like a .exe.  
 CE Download: https://www.cheatengine.org/downloads.php  
 The installer will probably ask you to install also something else, just hit "no thanks".  
@@ -94,10 +94,14 @@ You can also rightclick on a script and create a hotkey.
 For pointers you'll just doubleclick on the value at the right side and change it to what ever you want instead of checking the box at the left side.  
 Feel free to ping me if you have any questions.
 
-**Update v4.8 Changelog:**  
-Added Scripts:  
-`Scout` --> `GrapplingHookGun` --> `God GrapplingHookGun (Inf. Range, Max Speed)`  
-`Gunner` --> `Zipline` --> `God Zipline (Inf. Range, 90° angel, no min range)`  
-`Mission Specific` --> `Free Resupplies`  
-Also addded more pointers to:  
-`Pointer` --> `[LocalPlayer]`
+**Update v4.9 Changelog:**  
+**Added Scripts:**  
+`Perks & Special Abilities` --> `Acivate Dash Perk`  
+`Common Class` --> `XP Boost`  
+`Mining` --> `Instant fill Pockets`  
+`Resource Editing` --> `Get 999000666 Credits`  
+**Also addded more pointers to:**  
+`Pointer` --> `[LocalPlayer]`  
+**And added shortcuts for some stuff in:**  
+`Pointer` --> `[LocalPlayer]` --> `Shortcut`  
+Showcase: https://discord.com/channels/676880716142739467/732650220214681600/863246769734156329
