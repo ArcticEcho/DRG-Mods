@@ -14797,6 +14797,34 @@
       }
     ]
   },
+  "rickmaytributestatues": {
+    "DisplayName": "Rick May Tribute Statues",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      73673072833470464
+    ],
+    "Description": "Honor the fallen with these statues taken out of Team Fortress 2.\n\nReplaces the saluting statues near the promotion terminal in Memorial Hall with the Soldier statue used in the Rick May tribute in TF2. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/863839375351218196)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f7fd2e4e992ee74695bfaeae4f5521f3929e6ed1/Visual/Misc/Rick%20May%20Tribute%20Statues%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Rick May Tribute Statues - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/CharacterStructure/Misc/Statues/SaluteStatue_B.uasset": "82-99-83-A6-B5-3F-81-95",
+          "../../../FSD/Content/CharacterStructure/Misc/Statues/soldier_statue.uasset": "6E-D0-50-5D-3F-DA-2D-AD",
+          "../../../FSD/Content/CharacterStructure/Misc/Statues/soldiernorm.uasset": "C8-F1-2D-03-6E-9C-4E-FB",
+          "../../../FSD/Content/CharacterStructure/Misc/Statues/soldiertex.uasset": "EC-93-6E-F9-D2-05-81-98",
+          "../../../FSD/Content/CharacterStructure/Misc/Statues/SaluteStatue_B.uexp": "E9-31-80-A7-BF-F3-50-C3",
+          "../../../FSD/Content/CharacterStructure/Misc/Statues/soldier_statue.uexp": "F1-2B-9B-3C-1C-8D-8A-81",
+          "../../../FSD/Content/CharacterStructure/Misc/Statues/soldiernorm.uexp": "3B-68-6A-3E-C7-D1-53-D0",
+          "../../../FSD/Content/CharacterStructure/Misc/Statues/soldiertex.uexp": "F4-93-26-72-6C-AE-21-ED",
+          "../../../FSD/Content/CharacterStructure/Misc/Statues/soldiernorm.ubulk": "01-04-6E-9C-E8-93-8C-2D",
+          "../../../FSD/Content/CharacterStructure/Misc/Statues/soldiertex.ubulk": "27-35-F7-EE-EB-64-3C-7B"
+        }
+      }
+    ]
+  },
   "rj2500compound": {
     "DisplayName": "RJ2500 Compound",
     "Version": "1.1",
