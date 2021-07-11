@@ -133,6 +133,18 @@ It covers all the genres of the OG jukebox just with more Shanties.
 Song List: https://docs.google.com/uc?export=download&id=1NGX83YBCCC_yy2Zj7i5Y2jMzXbL9oYRz  
 Preview -> https://discord.com/channels/676880716142739467/732650220214681600/806953907217629244
 
+## Kraeus's Crazy Tunes 2 : Carpenter Strikes Back! - v1.0
+**Authors:** Kraeus  
+**DRG Version:** Update 34 Hotfix 5)  
+**Download Link:** [Download](https://drive.google.com/file/d/1W4nptyr5M_jGyqwAmt_5l8P-O70pZ9Vp/view?usp=sharing) (third-party host)  
+
+**Description:**  
+Replaces all the songs with a ridiculous amount of instrumental songs from movies or bands.  
+Crazy Tunes 1 plus even more! **DO NOT DOWNLOAD BOTH!**  
+To be continued in Crazy Tunes 3!  
+14 Boss, 55 Endwave, 19 Loading, 80 Level, 4 Memorial Hall, 5 End Mission, 19 Event, and 60 Wave songs!   
+ Full Song List: https://drive.google.com/file/d/1E32Rp0lcvpgknVJRNQLE82lcN9bZZSzA/view?usp=sharing
+
 ## Kraeus's Crazy Tunes! - v2.0
 **Authors:** Kraeus  
 **DRG Version:** Update 34 Hotfix 2  
