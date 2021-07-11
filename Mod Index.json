@@ -3559,14 +3559,14 @@
   },
   "dreadnoughtbuffs": {
     "DisplayName": "Dreadnought Buffs",
-    "Version": "3.4",
+    "Version": "3.5",
     "DrgVersion": "U34",
     "AuthorIds": [
       252291709927555072
     ],
     "Description": "Buffs the dreadnoughts! There's a lot of general changes like a bit more health, damage, speed, knockback, and they’re slightly harder to freeze; but the Big Ones are:\n**OG DREAD**- Faster fireballs, larger aoe slam radius, eggshots spawn extra swarmers, zap you, and have a large aoe OR damage upgrade\n**HIVEGUARD**- Slower sentinel goo, faster turn radius. Two versions with lots of fireball carve and aoe radius OR movespeed and bite damage\n**TWINS**- Rockwave attack knockback boost, arbalest mines make you really cold really quickly OR they explode really quickly and damage you\n    If you don’t like those OR statements, there are now EX versions that just do all of those things!",
-    "LastUpdateChangelog": "Made goo slightly less gooey and last slightly less time, probably. Made speed hiveguard’s bite radius more reasonable. Made arbalest mine’s time-to-explode on the damage and EX version slightly more forgiving. Renamed files to be more neat, renamed twin’s files to be more clear (regarding their damage types).",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4695eef5c047583c4b08981a1ad46930d41dcfee/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.4.zip",
+    "LastUpdateChangelog": "Returned hiveguard turnspeed to vanilla values, as it was sometimes causing issues with projectile hit registration if everyone didn't have the mod",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/700d913ca98b31e77651be62fdfc5dd0da6114f2/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.5.zip",
     "Paks": [
       {
         "PakFileName": "BulkPowerShift(noAttackBoost)",
@@ -3606,44 +3606,6 @@
         }
       },
       {
-        "PakFileName": "DB_HiveGuardBuffsV3.4Carve",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uasset": "65-91-7A-26-1D-D4-29-C3",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uasset": "FD-6D-3E-E3-B0-C5-90-F3",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uasset": "A8-77-84-4F-BC-0C-BF-89",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uasset": "62-4F-93-81-8C-E0-97-2A",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uasset": "FF-B1-57-8B-CC-F1-C5-27",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uasset": "6C-C5-E9-6F-C5-B9-D9-D6",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uasset": "BB-FA-79-00-6A-2E-E1-53",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uexp": "AF-AF-55-53-C3-A3-E1-3C",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uexp": "D1-72-13-54-A7-2F-C7-A2",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uexp": "75-45-66-26-19-2C-64-FE",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uexp": "23-68-A2-11-6E-B2-65-02",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uexp": "9A-29-0B-1E-F9-92-E1-3B",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uexp": "A0-9B-3E-B4-A9-99-F1-CE",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uexp": "1C-76-B0-63-D7-59-9D-35"
-        }
-      },
-      {
-        "PakFileName": "DB_HiveGuardBuffsV3.4SPED",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uasset": "65-91-7A-26-1D-D4-29-C3",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uasset": "FD-6D-3E-E3-B0-C5-90-F3",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uasset": "A8-77-84-4F-BC-0C-BF-89",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uasset": "62-4F-93-81-8C-E0-97-2A",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uasset": "FF-B1-57-8B-CC-F1-C5-27",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uasset": "6C-C5-E9-6F-C5-B9-D9-D6",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uasset": "BB-FA-79-00-6A-2E-E1-53",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uexp": "AF-AF-55-53-C3-A3-E1-3C",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uexp": "D1-72-13-54-A7-2F-C7-A2",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uexp": "00-78-51-8D-DC-18-6C-6B",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uexp": "23-68-A2-11-6E-B2-65-02",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uexp": "9A-29-0B-1E-F9-92-E1-3B",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uexp": "47-23-64-FE-6A-6E-7D-DE",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uexp": "1C-76-B0-63-D7-59-9D-35"
-        }
-      },
-      {
         "PakFileName": "DB_PrepareForTroubleV3.1EX",
         "CookedFileHashes": {
           "../../../FSD/Content/Enemies/Spider/TankBoss/BossTwins/ED_Spider_Boss_TwinA.uasset": "66-6B-67-95-47-81-D8-18",
@@ -3664,27 +3626,6 @@
           "../../../FSD/Content/Enemies/Spider/TankBoss/BossTwins/PRJ_Spider_Boss_Twin_Mine.uexp": "22-8D-53-59-01-71-31-74",
           "../../../FSD/Content/Enemies/Spider/TankBoss/BossTwins/PRJ_Spider_Boss_Twin_Multifireball.uexp": "22-45-76-78-37-6B-EA-BB",
           "../../../FSD/Content/Enemies/Spider/TankBoss/BossTwins/STE_Spider_Boss_TwinB_Flame.uexp": "A7-11-0A-03-0C-30-D9-94"
-        }
-      },
-      {
-        "PakFileName": "DB_HiveGuardBuffsV3.1EX",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uasset": "65-91-7A-26-1D-D4-29-C3",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uasset": "FD-6D-3E-E3-B0-C5-90-F3",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uasset": "A8-77-84-4F-BC-0C-BF-89",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uasset": "62-4F-93-81-8C-E0-97-2A",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/P_SentinelGoo_AOEpuddle.uasset": "C0-CD-2B-3A-98-FA-3A-E0",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uasset": "FF-B1-57-8B-CC-F1-C5-27",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uasset": "6C-C5-E9-6F-C5-B9-D9-D6",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uasset": "BB-FA-79-00-6A-2E-E1-53",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uexp": "AE-6F-A5-95-C8-26-B5-CE",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uexp": "D1-72-13-54-A7-2F-C7-A2",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uexp": "32-FB-F8-3A-BB-74-48-C6",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uexp": "23-68-A2-11-6E-B2-65-02",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/P_SentinelGoo_AOEpuddle.uexp": "E6-66-0C-F6-1B-1F-29-A0",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uexp": "9A-29-0B-1E-F9-92-E1-3B",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uexp": "B9-2C-06-81-23-F1-49-3B",
-          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uexp": "F1-16-37-F8-3A-03-0F-0A"
         }
       },
       {
@@ -3747,6 +3688,65 @@
           "../../../FSD/Content/Enemies/Spider/TankBoss/BossTwins/PRJ_Spider_Boss_Twin_Mine.uexp": "EE-DB-F9-F3-A1-12-B9-D7",
           "../../../FSD/Content/Enemies/Spider/TankBoss/BossTwins/PRJ_Spider_Boss_Twin_Multifireball.uexp": "22-45-76-78-37-6B-EA-BB",
           "../../../FSD/Content/Enemies/Spider/TankBoss/BossTwins/STE_Spider_Boss_TwinB_Flame.uexp": "A7-11-0A-03-0C-30-D9-94"
+        }
+      },
+      {
+        "PakFileName": "DB_HiveGuardBuffsV3.5Carve",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uasset": "65-91-7A-26-1D-D4-29-C3",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uasset": "FD-6D-3E-E3-B0-C5-90-F3",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uasset": "A8-77-84-4F-BC-0C-BF-89",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uasset": "62-4F-93-81-8C-E0-97-2A",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uasset": "FF-B1-57-8B-CC-F1-C5-27",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uasset": "6C-C5-E9-6F-C5-B9-D9-D6",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uasset": "BB-FA-79-00-6A-2E-E1-53",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uexp": "AF-AF-55-53-C3-A3-E1-3C",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uexp": "D1-72-13-54-A7-2F-C7-A2",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uexp": "2D-A7-93-29-C7-17-87-76",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uexp": "23-68-A2-11-6E-B2-65-02",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uexp": "9A-29-0B-1E-F9-92-E1-3B",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uexp": "A0-9B-3E-B4-A9-99-F1-CE",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uexp": "1C-76-B0-63-D7-59-9D-35"
+        }
+      },
+      {
+        "PakFileName": "DB_HiveGuardBuffsV3.5EX",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uasset": "65-91-7A-26-1D-D4-29-C3",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uasset": "FD-6D-3E-E3-B0-C5-90-F3",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uasset": "A8-77-84-4F-BC-0C-BF-89",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uasset": "62-4F-93-81-8C-E0-97-2A",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/P_SentinelGoo_AOEpuddle.uasset": "C0-CD-2B-3A-98-FA-3A-E0",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uasset": "FF-B1-57-8B-CC-F1-C5-27",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uasset": "6C-C5-E9-6F-C5-B9-D9-D6",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uasset": "BB-FA-79-00-6A-2E-E1-53",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uexp": "AE-6F-A5-95-C8-26-B5-CE",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uexp": "D1-72-13-54-A7-2F-C7-A2",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uexp": "CC-9E-E3-EA-CE-AA-1B-03",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uexp": "23-68-A2-11-6E-B2-65-02",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/P_SentinelGoo_AOEpuddle.uexp": "E6-66-0C-F6-1B-1F-29-A0",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uexp": "9A-29-0B-1E-F9-92-E1-3B",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uexp": "B9-2C-06-81-23-F1-49-3B",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uexp": "F1-16-37-F8-3A-03-0F-0A"
+        }
+      },
+      {
+        "PakFileName": "DB_HiveGuardBuffsV3.5SPED",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uasset": "65-91-7A-26-1D-D4-29-C3",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uasset": "FD-6D-3E-E3-B0-C5-90-F3",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uasset": "A8-77-84-4F-BC-0C-BF-89",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uasset": "62-4F-93-81-8C-E0-97-2A",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uasset": "FF-B1-57-8B-CC-F1-C5-27",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uasset": "6C-C5-E9-6F-C5-B9-D9-D6",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uasset": "BB-FA-79-00-6A-2E-E1-53",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/BP_SentinelGoo_Puddle.uexp": "AF-AF-55-53-C3-A3-E1-3C",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/EMMD_Spider_Boss_Heavy.uexp": "D1-72-13-54-A7-2F-C7-A2",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_Heavy.uexp": "8E-C8-E5-73-E0-21-DB-42",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/ENE_Spider_Boss_HeavySpawn.uexp": "23-68-A2-11-6E-B2-65-02",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy.uexp": "9A-29-0B-1E-F9-92-E1-3B",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/PRJ_Spider_Boss_Heavy_FireballBallistics.uexp": "47-23-64-FE-6A-6E-7D-DE",
+          "../../../FSD/Content/Enemies/Spider/TankBoss/BossHeavy/STE_SentinelGoo.uexp": "1C-76-B0-63-D7-59-9D-35"
         }
       }
     ]

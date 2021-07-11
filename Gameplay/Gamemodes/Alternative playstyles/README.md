@@ -62,10 +62,10 @@ All weapons and upgrades are optional so you can revert to vanilla gunner stats 
 **Update v1.1 Changelog:**  
 Removed stock shotgun skin bug from all weapons.
 
-## Dreadnought Buffs - v3.4
+## Dreadnought Buffs - v3.5
 **Authors:** Potatolaser  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4695eef5c047583c4b08981a1ad46930d41dcfee/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.4.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/700d913ca98b31e77651be62fdfc5dd0da6114f2/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.5.zip)  
 
 **Description:**  
 Buffs the dreadnoughts! There's a lot of general changes like a bit more health, damage, speed, knockback, and they’re slightly harder to freeze; but the Big Ones are:  
@@ -74,8 +74,8 @@ Buffs the dreadnoughts! There's a lot of general changes like a bit more health,
 **TWINS**- Rockwave attack knockback boost, arbalest mines make you really cold really quickly OR they explode really quickly and damage you  
     If you don’t like those OR statements, there are now EX versions that just do all of those things!
 
-**Update v3.4 Changelog:**  
-Made goo slightly less gooey and last slightly less time, probably. Made speed hiveguard’s bite radius more reasonable. Made arbalest mine’s time-to-explode on the damage and EX version slightly more forgiving. Renamed files to be more neat, renamed twin’s files to be more clear (regarding their damage types).
+**Update v3.5 Changelog:**  
+Returned hiveguard turnspeed to vanilla values, as it was sometimes causing issues with projectile hit registration if everyone didn't have the mod
 
 ## Health For Shields Compilation - v1.0
 **Authors:** Our Lord And Savior Gabe Newell, NaturalBornCamper  
