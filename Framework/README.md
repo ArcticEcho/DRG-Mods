@@ -28,10 +28,13 @@ A re-created base class tree of sound classes and submixes used by music mods.
 **Update v1.1 Changelog:**  
 Fixed EndWave music overlapping due to U34 changes.
 
-## Soundclass Heirachy for Audio Modding - v1.0
+## Soundclass Heirachy for Audio Modding - v1.1
 **Authors:** Buckminsterfullerene  
-**DRG Version:** U34H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a7506e4e4ed24ab2f7439594c56db2dcb55eeac4/Framework/Soundclass%20Heirachy%20For%20Audio%20Modding%20-%20V1.0.zip)  
+**DRG Version:** U34+  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/c2353f2a600a58360c0ccf8f36cf92dc166ae3e9/Framework/Soundclass%20Heirachy%20For%20Audio%20Modding%20-%20V1.1.zip)  
 
 **Description:**  
 The soundclass heirachy for all the sounds in the game. If you are using the Music Control framework for music audio, still replace that with this, as this is more up-to-date on its heirachy too. **Note: soundmixes still WIP - the only ones that exist are from the pre-existing music control files. I'm still in the process of automating the creation of these.**
+
+**Update v1.1 Changelog:**  
+Re-added the SoundMixes folder.
