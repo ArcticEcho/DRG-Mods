@@ -77,10 +77,10 @@ You can also rightclick on a scripts and create a hotkey.
 **Update v1.0 Changelog:**  
 Updated the description.
 
-## DRG Table - v4.9
+## DRG Table - v4.9.0
 **Authors:** Akira Fudo  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4e5377173b44395b7ff42fab9e08ea0316361648/CE%20Table/DRG%20Table%20-%20V4.9.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6fd7f6f9a0cf8fbf35d9b5671bfc03f685431e68/CE%20Table/DRG%20Table%20-%20V4.9.0.zip)  
 
 **Description:**  
 This tool has hundreds of options so I'm not gonne list 'em here.  
@@ -94,7 +94,7 @@ You can also rightclick on a script and create a hotkey.
 For pointers you'll just doubleclick on the value at the right side and change it to what ever you want instead of checking the box at the left side.  
 Feel free to ping me if you have any questions.
 
-**Update v4.9 Changelog:**  
+**Update v4.9.0 Changelog:**  
 **Added Scripts:**  
 `Perks & Special Abilities` --> `Acivate Dash Perk`  
 `Common Class` --> `XP Boost`  

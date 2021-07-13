@@ -3777,14 +3777,14 @@
   },
   "drgtable": {
     "DisplayName": "DRG Table",
-    "Version": "4.9",
+    "Version": "4.9.0",
     "DrgVersion": "Update 34",
     "AuthorIds": [
       414476320722911253
     ],
     "Description": "This tool has hundreds of options so I'm not gonne list 'em here.\nHere you can see some of the possibilities:\nhttps://www.youtube.com/watch?v=14H67Ufz-rM\n\nIn order to use the .CT file you'll need to install Cheat Engine 7.2, then you can run the .CT file just like a .exe.\nCE Download: https://www.cheatengine.org/downloads.php\nThe installer will probably ask you to install also something else, just hit \"no thanks\".\nYou can activate the options by checking the box on the left side.\nYou can also rightclick on a script and create a hotkey.\nFor pointers you'll just doubleclick on the value at the right side and change it to what ever you want instead of checking the box at the left side.\nFeel free to ping me if you have any questions.",
     "LastUpdateChangelog": "**Added Scripts:**\n`Perks & Special Abilities` --> `Acivate Dash Perk`\n`Common Class` --> `XP Boost`\n`Mining` --> `Instant fill Pockets`\n`Resource Editing` --> `Get 999000666 Credits`\n**Also addded more pointers to:**\n`Pointer` --> `[LocalPlayer]`\n**And added shortcuts for some stuff in:**\n`Pointer` --> `[LocalPlayer]` --> `Shortcut`\nShowcase: https://discord.com/channels/676880716142739467/732650220214681600/863246769734156329",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4e5377173b44395b7ff42fab9e08ea0316361648/CE%20Table/DRG%20Table%20-%20V4.9.zip",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6fd7f6f9a0cf8fbf35d9b5671bfc03f685431e68/CE%20Table/DRG%20Table%20-%20V4.9.0.zip",
     "Paks": []
   },
   "dripfortressendscreen": {
