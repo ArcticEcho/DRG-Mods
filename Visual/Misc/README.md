@@ -158,14 +158,17 @@ If I missed adding a weapon, tool, or bosco particle, contact me on the official
 - Updated mod to reflect the new changes from the original mod. See v1.2.0 Changelog of the original mod "Remove All Particles"  
 - Updated description slightly
 
-## Rick May Tribute Statues - v1.0
+## Rick May Tribute Statues - v1.1
 **Authors:** HandDrawnNerd  
 **DRG Version:** U34H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f7fd2e4e992ee74695bfaeae4f5521f3929e6ed1/Visual/Misc/Rick%20May%20Tribute%20Statues%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/585492da17111371f8036201cc15a7b3692ce3ab/Visual/Misc/Rick%20May%20Tribute%20Statues%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Honor the fallen with these statues taken out of Team Fortress 2.  
 Replaces the saluting statues near the promotion terminal in Memorial Hall with the Soldier statue used in the Rick May tribute in TF2. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/863839375351218196)
+
+**Update v1.1 Changelog:**  
+Shrunk and repositioned the model so that the bigger statues in the Memorial Hall do not clip into the ceiling. Oops.
 
 ## Spacerig decorator - v1.2.0
 **Authors:** Samamstar, Pacagma  
