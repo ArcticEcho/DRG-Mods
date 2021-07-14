@@ -4,6 +4,14 @@ Mods that can be tweaked in-game.
 
 <!-- mod list -->
 
+## Better Time Control - v1.0
+**Authors:** Buckminsterfullerene  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/eaf86680366e88a16e2dd8726b2883e1525d0a05/Gameplay/Customizable%20tweaks/Better%20Time%20Control%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+**Requires Blueprint Mod Manager.** Allows you to adjust the game's time dilation to anything you want. Use `Numpad +` and `Numpad -` to increase and decrease the time dilation by 1 respectively, so that you can change the values without having to open the menu!
+
 ## Custom Enemy Cap - v2.7
 **Authors:** ArcticEcho  
 **DRG Version:** U34 H5  
