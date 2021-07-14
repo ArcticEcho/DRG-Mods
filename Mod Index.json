@@ -14214,17 +14214,17 @@
   },
   "removeallparticlesbutweaponsntools": {
     "DisplayName": "Remove All Particles But WeaponsNTools",
-    "Version": "1.1.0",
+    "Version": "1.2.0",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       209416328057061376
     ],
-    "Description": "This is a lighter version of my mod \"Remove All Particles\" (see https://github.com/ArcticEcho/DRG-Mods/tree/main/Visual/Misc). This mod additionally adds back in all particles related to Weapons, Tools, and Bosco. \nIf I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989). \n\n**Which \"Remove All Particles\" mod variant should I use?**\n- Remove All Particles: This is the original mod. This removes almost all the particles including weapons/tools. See the \"WEAPONS\" section of the pastebin exceptions list above to see which weapon/tool particles were not removed.\n- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco. Unlike the original mod, this allows you to see yours and other dwarves' bullet tracers.",
-    "LastUpdateChangelog": "- Updated mod to reflect the new changes from the original mod. See v1.2.0 Changelog of the original mod \"Remove All Particles\"\n- Updated description slightly",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5b30eda1304886474a5e670cdff66151e67509e0/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.1.0%20_P.pak",
+    "Description": "This is a lighter version of my mod \"Remove All Particles.\" This mod additionally adds back in all particles related to Weapons, Tools, and Bosco. \n\nIf I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989). \n\n**Which \"Remove All Particles\" mod variant should I use?**\n- Remove All Particles: This is the original mod. This removes almost all the particles including most of the weapons/tools. See the \"WEAPONS\" section of the pastebin exceptions list above to see which weapon/tool particles were not removed.\n- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco. Unlike the original mod, this allows you to see your and other dwarves' bullet tracers along with the rest of the weapon particles.",
+    "LastUpdateChangelog": "- Updated mod to reflect the new changes from the original mod. See v1.3.0 Changelog of the original mod \"Remove All Particles\"\n- Updated description slightly",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/230a0e60e9f55f0d25973dd3d195f1cff1c0f6d4/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.2.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Remove All Particles But WeaponsNTools - V1.1.0",
+        "PakFileName": "Remove All Particles But WeaponsNTools - V1.2.0",
         "CookedFileHashes": {
           "../../../FSD/Content/Art/Cinematics/E3trailer2017/P_E3trailer_DropPod_Exhaust.uasset": "1E-92-C3-30-9F-42-1D-E5",
           "../../../FSD/Content/Art/DropPod/Assets/MuleBay/P_MuleBay.uasset": "3C-47-33-DA-B8-3E-19-91",
@@ -14583,8 +14583,6 @@
           "../../../FSD/Content/GameElements/KPI/Perks/PerkFX/P_Shield_Link_OverCharge_FP.uasset": "31-57-FF-EA-72-EB-82-41",
           "../../../FSD/Content/GameElements/Missions/Warnings/ExplosiveEnemies/P_ExplosiveEnemies_Explosion_Big1.uasset": "2B-80-43-2E-CE-F7-CE-1A",
           "../../../FSD/Content/GameElements/Missions/Warnings/ExplosiveEnemies/P_ExplosiveEnemies_Explosion_Small.uasset": "E4-F8-C5-BA-9A-1B-EB-52",
-          "../../../FSD/Content/GameElements/Missions/Warnings/HeroEnemies/Particle_Effects/NS_HeroEnemy_Beacon_Constant.uasset": "84-B0-8C-0D-D3-1F-30-09",
-          "../../../FSD/Content/GameElements/Missions/Warnings/HeroEnemies/Particle_Effects/NS_HeroEnemy_Beacon_Constant_Big.uasset": "B8-E6-C5-00-FB-2B-9E-D4",
           "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/P_FlyingRock_Birth.uasset": "7E-8A-99-49-A6-F4-09-1C",
           "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/P_FlyingRock_Powerfield.uasset": "F7-FB-97-A9-DF-F4-62-9E",
           "../../../FSD/Content/GameElements/Objectives/Escort/FlyingSmartRocks/P_FlyingRockDeath.uasset": "47-D5-A2-49-8E-83-90-73",
