@@ -30,18 +30,18 @@ This mod reworks every overclock for the minigun to increase the diversity of ef
 **Update v1.44 Changelog:**  
 Fixed missing stat on Burning Hell replacement.
 
-## BBP (Big Balance Patch) - v1.9.2
+## BBP (Big Balance Patch) - v1.9.2.1
 **Authors:** GreyHound  
 **DRG Version:** U34 Hotfix 5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4156f4242d262c3dfd6897b933fe4a7954c814bb/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.9.2.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b456b48b83622145c52ec771d127487f25fe4ade/Gameplay/Balanced/BBP%20%28Big%20Balance%20Patch%29%20-%20V1.9.2.1.zip)  
 
 **Description:**  
 Major overhaul of the game's weapon balance. This includes dozens and dozens of changes to weapons, the mods/OCs, perks, grenades, secondary equipment, armour...  
 Warning: the mod is incompatible with all other balance mods!  
 Changelog is included in the zip file, in docx and pdf variants. I've also included author comments for most of the changes and added a honourable mentions section to the changelog.
 
-**Update v1.9.2 Changelog:**  
-As always, all the latest changes can be found in the attached changelog files. Some needed balancing for PGL/overperforming OCs like Turret EM Discharge and minor changes to descriptions of certain mods/OCs (Chain Hit).
+**Update v1.9.2.1 Changelog:**  
+Fixed some mistakes and utterly irrelevant info in the changelogs (the Homebrew Powder rework for GK2 never made it into the mod).
 
 ## Berzerker Plus - v0.1
 **Authors:** Drillboy Jenkins  
