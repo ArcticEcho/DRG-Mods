@@ -2330,22 +2330,22 @@
   },
   "bettertimecontrol": {
     "DisplayName": "Better Time Control",
-    "Version": "1.0",
+    "Version": "1.1",
     "DrgVersion": "U34H5",
     "AuthorIds": [
       196142609528389632
     ],
-    "Description": "**Requires Blueprint Mod Manager.** Allows you to adjust the game's time dilation to anything you want. Use `Numpad +` and `Numpad -` to increase and decrease the time dilation by 1 respectively, so that you can change the values without having to open the menu!",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/eaf86680366e88a16e2dd8726b2883e1525d0a05/Gameplay/Customizable%20tweaks/Better%20Time%20Control%20-%20V1.0%20_P.pak",
+    "Description": "**Requires Blueprint Mod Manager.** Allows you to adjust the game's time dilation to between 0 and 8 (any higher and your FPS is reduced to rubble). Use any key bindings of your choice (by default, `Numpad +` & `Numpad -`) to increase and decrease the time dilation, so that you can change the values without having to open the menu!",
+    "LastUpdateChangelog": "Added the ability to edit key bindings from the mod menu.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/85bdf75b29ccbaaa3c296b75156ddb680ca05906/Gameplay/Customizable%20tweaks/Better%20Time%20Control%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Better Time Control - V1.0",
+        "PakFileName": "Better Time Control - V1.1",
         "CookedFileHashes": {
           "../../../FSD/Content/_CustomSounds/TheFatRat_-_MAYDAY_feat__Laura_Brehm.uasset": "99-18-B8-89-D2-5B-E2-2C",
           "../../../FSD/Content/_CustomSounds/TheFatRat___Laura_Brehm_-_We_ll_Meet_Again.uasset": "AC-74-21-69-A4-96-33-F7",
           "../../../FSD/Content/_CustomSounds/TheFatRat___Maisy_Kay_-_The_Storm__Official_Music_Video_.uasset": "CE-A5-05-89-CF-E3-26-B3",
-          "../../../FSD/Content/_ModBPs/Mod066.uasset": "80-FD-A8-46-32-3A-C8-AE",
+          "../../../FSD/Content/_ModBPs/Mod066.uasset": "34-C4-24-28-10-74-CF-46",
           "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "13-E9-FA-9B-10-63-BD-87",
           "../../../FSD/Content/_ModBPs/Widgets/BPMMGUI.uasset": "FA-B4-3A-85-4B-4C-71-99",
           "../../../FSD/Content/_ModBPs/Widgets/DJDwarfs/DJDebugHUD.uasset": "C5-0F-18-8B-EA-99-2A-3D",
@@ -2353,14 +2353,14 @@
           "../../../FSD/Content/_ModBPs/Widgets/ForceTakeOff/ForceTakeoffGUI.uasset": "18-EB-56-9B-85-C5-42-30",
           "../../../FSD/Content/_ModBPs/Widgets/IYDRASYACH/DebugHUD.uasset": "C7-5C-89-18-2A-3E-08-97",
           "../../../FSD/Content/_ModBPs/Widgets/IYDRASYACH/IYDRASYACHGUI.uasset": "E3-96-0C-ED-EB-C0-28-BC",
-          "../../../FSD/Content/_ModBPs/Widgets/TimeControl/TimeControlGUI.uasset": "1D-4F-CB-DF-C3-51-FF-98",
-          "../../../FSD/Content/_ModBPs/Widgets/TimeControl/TimeHUD.uasset": "82-61-16-CD-F3-FB-52-59",
+          "../../../FSD/Content/_ModBPs/Widgets/TimeControl/TimeControlGUI.uasset": "97-E6-F2-1F-D9-69-6D-55",
+          "../../../FSD/Content/_ModBPs/Widgets/TimeControl/TimeHUD.uasset": "F6-06-EB-83-B4-46-A5-91",
           "../../../FSD/Content/ShaderArchive-FSD-PCD3D_SM5.ushaderbytecode": "70-65-E5-8C-E4-0B-DF-F0",
           "../../../FSD/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode": "22-28-1E-40-A6-79-D3-76",
           "../../../FSD/Content/_CustomSounds/TheFatRat_-_MAYDAY_feat__Laura_Brehm.uexp": "C9-BC-0A-F1-92-EA-5F-D2",
           "../../../FSD/Content/_CustomSounds/TheFatRat___Laura_Brehm_-_We_ll_Meet_Again.uexp": "CA-40-17-33-77-D4-75-E0",
           "../../../FSD/Content/_CustomSounds/TheFatRat___Maisy_Kay_-_The_Storm__Official_Music_Video_.uexp": "70-51-88-4C-FA-17-C0-9F",
-          "../../../FSD/Content/_ModBPs/Mod066.uexp": "D2-BB-4A-61-E6-9A-58-E6",
+          "../../../FSD/Content/_ModBPs/Mod066.uexp": "29-7E-CB-1E-0D-00-2A-83",
           "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "1B-64-E3-17-46-6C-D3-B8",
           "../../../FSD/Content/_ModBPs/Widgets/BPMMGUI.uexp": "BF-83-73-1F-80-E4-BA-EC",
           "../../../FSD/Content/_ModBPs/Widgets/DJDwarfs/DJDebugHUD.uexp": "77-6F-58-2A-02-2F-F1-48",
@@ -2368,8 +2368,8 @@
           "../../../FSD/Content/_ModBPs/Widgets/ForceTakeOff/ForceTakeoffGUI.uexp": "41-F7-71-84-4C-20-A6-95",
           "../../../FSD/Content/_ModBPs/Widgets/IYDRASYACH/DebugHUD.uexp": "E8-2C-3C-32-61-A2-D3-06",
           "../../../FSD/Content/_ModBPs/Widgets/IYDRASYACH/IYDRASYACHGUI.uexp": "46-13-F1-7E-96-70-EF-7D",
-          "../../../FSD/Content/_ModBPs/Widgets/TimeControl/TimeControlGUI.uexp": "13-CE-2D-E3-FF-8A-4E-BA",
-          "../../../FSD/Content/_ModBPs/Widgets/TimeControl/TimeHUD.uexp": "81-23-95-35-FF-5C-AC-B3"
+          "../../../FSD/Content/_ModBPs/Widgets/TimeControl/TimeControlGUI.uexp": "7D-52-18-85-C7-AF-73-EA",
+          "../../../FSD/Content/_ModBPs/Widgets/TimeControl/TimeHUD.uexp": "91-14-72-32-0D-EC-A4-D9"
         }
       }
     ]
