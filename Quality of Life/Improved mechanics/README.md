@@ -121,6 +121,14 @@ Increases the pickup sphere radius for gunk seeds to make them more on par with 
 **Description:**  
 Lets you destroy dry thorn tumble and bough cone.
 
+## Malt Star for Sale - v1.0
+**Authors:** Buckminsterfullerene  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1ccc13f6f2a88e9e3e88ec92c25b5a8954a490bf/Quality%20of%20Life/Improved%20mechanics/Malt%20Star%20For%20Sale%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Allows you to buy malt stars for 10k each, or sell for 100. What a deal! **Compatible with _one other of_ Barley for Sale, Starch Nut for Sale, or Yeast Cone for Sale. Because of how the trade menu widget works, you can't have more than two loaded at any one time :(**
+
 ## No more Dollar Store flashlights - v34.1.0
 **Authors:** NaturalBornCamper  
 **DRG Version:** 34.1  
