@@ -16868,6 +16868,26 @@
       }
     ]
   },
+  "starchnutforsale": {
+    "DisplayName": "Starch Nut for Sale",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      196142609528389632
+    ],
+    "Description": "Allows you to buy starch nuts for 10k each, or sell for 100. What a deal! **Compatible with _one other of_ Barley for Sale, Malt Star for Sale, or Yeast Cone for Sale. Because of how the trade menu widget works, you can't have more than two loaded at any one time :(**",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9045dc6b9b7dbd68f0ea8a6aada413ee66f897af/Quality%20of%20Life/Improved%20mechanics/Starch%20Nut%20For%20Sale%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Starch Nut For Sale - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Barley/RES_COLLECT_Barley4.uasset": "77-3C-C7-47-A7-86-C0-6E",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Barley/RES_COLLECT_Barley4.uexp": "BC-4F-2D-FC-40-06-8E-09"
+        }
+      }
+    ]
+  },
   "starshiptroopers": {
     "DisplayName": "Starship Troopers",
     "Version": "34.4.0",

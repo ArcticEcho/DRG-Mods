@@ -153,3 +153,11 @@ Updated for DRG 34.1, includes 5x version as requested
 
 **Description:**  
 Merges mods "No more Dollar Store flashlights" and "Dash perk suicide preventer" which are mutually incompatible since they modify the same file.
+
+## Starch Nut for Sale - v1.0
+**Authors:** Buckminsterfullerene  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9045dc6b9b7dbd68f0ea8a6aada413ee66f897af/Quality%20of%20Life/Improved%20mechanics/Starch%20Nut%20For%20Sale%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Allows you to buy starch nuts for 10k each, or sell for 100. What a deal! **Compatible with _one other of_ Barley for Sale, Malt Star for Sale, or Yeast Cone for Sale. Because of how the trade menu widget works, you can't have more than two loaded at any one time :(**
