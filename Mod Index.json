@@ -18297,6 +18297,26 @@
     "DownloadUrl": "https://mega.nz/file/2x0gADTa#nCIFCZLjYj-Jzz_XIjzMRR9igRN4yflqgmMSaQl3MDQ",
     "Paks": null
   },
+  "yeastconeforsale": {
+    "DisplayName": "Yeast Cone for Sale",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      196142609528389632
+    ],
+    "Description": "Allows you to buy yeast cones for 10k each, or sell for 100. What a deal! **Compatible with _one other of_ Barley for Sale, Malt Star for Sale, or Starch Nut for Sale. Because of how the trade menu widget works, you can't have more than two loaded at any one time :(**",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/1ed1354b1c0d13b305b6cdac1fba283258ca53db/Quality%20of%20Life/Improved%20mechanics/Yeast%20Cone%20For%20Sale%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Yeast Cone For Sale - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Barley/RES_COLLECT_Barley2.uasset": "9D-BA-80-71-35-C5-24-F1",
+          "../../../FSD/Content/GameElements/Resources/Collectibles/Barley/RES_COLLECT_Barley2.uexp": "F5-E7-28-0E-86-FA-B6-3D"
+        }
+      }
+    ]
+  },
   "yoink": {
     "DisplayName": "YOINK",
     "Version": "1.0",

@@ -161,3 +161,11 @@ Merges mods "No more Dollar Store flashlights" and "Dash perk suicide preventer"
 
 **Description:**  
 Allows you to buy starch nuts for 10k each, or sell for 100. What a deal! **Compatible with _one other of_ Barley for Sale, Malt Star for Sale, or Yeast Cone for Sale. Because of how the trade menu widget works, you can't have more than two loaded at any one time :(**
+
+## Yeast Cone for Sale - v1.0
+**Authors:** Buckminsterfullerene  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1ed1354b1c0d13b305b6cdac1fba283258ca53db/Quality%20of%20Life/Improved%20mechanics/Yeast%20Cone%20For%20Sale%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Allows you to buy yeast cones for 10k each, or sell for 100. What a deal! **Compatible with _one other of_ Barley for Sale, Malt Star for Sale, or Starch Nut for Sale. Because of how the trade menu widget works, you can't have more than two loaded at any one time :(**
