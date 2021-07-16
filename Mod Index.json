@@ -14993,21 +14993,21 @@
   },
   "rj2500compound": {
     "DisplayName": "RJ2500 Compound",
-    "Version": "1.1",
-    "DrgVersion": "U33, HF 10",
+    "Version": "1.1.1",
+    "DrgVersion": "U34, HF 5",
     "AuthorIds": [
       350019378189828097
     ],
     "Description": "Meatshield's mod, \"With these changes, `BCABB + RJ250 Compound` will have same ammo as if you took T2.A, but the interval between grenades will be decreased from 2.5 sec to 1.8 sec. Additionally, the reduced Velocity will let you do Sync Jumps in caverns with 10m ceiling or less, instead of requiring the current 46m. The 1.8 sec between grenades will let you chain-jump too.\"\n--PGL base RoF 2/s -> 10/s\n--PGL base Reload 2s > 1.7s\n--PGL T1.B Ammo 2 -> 5\n--PGL T2.C Projectile Speed 180% -> -60%",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/88b600d0bbb34801e7a23a6ae5b5ab09195085b3/Gameplay/Unbalanced/Weapons/RJ2500%20Compound%20-%20V1.1%20_P.pak",
+    "LastUpdateChangelog": "Updated for U34",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ac3da215197e333c1ef8f2c58023bd7792bd8054/Gameplay/Unbalanced/Weapons/RJ2500%20Compound%20-%20V1.1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "RJ2500 Compound - V1.0",
+        "PakFileName": "RJ2500 Compound - V1.1.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/UPG_GrenadeLauncher_A_Ammo.uexp": "84-6E-5D-E0-77-D7-8E-D7",
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/UPG_GrenadeLauncher_B_ProjectileSpeed.uexp": "38-E3-74-4E-D5-4F-DE-CE",
-          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/WPN_GrenadeLauncher.uexp": "FD-A4-58-F9-02-72-F7-73"
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/UPG_GrenadeLauncher_B_Ammo.uexp": "A1-42-21-72-EA-73-2C-07",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/UPG_GrenadeLauncher_B_ProjectileSpeed.uexp": "37-1E-DD-54-05-7F-92-E5",
+          "../../../FSD/Content/WeaponsNTools/GrenadeLauncher/WPN_GrenadeLauncher.uexp": "83-C8-04-E0-C4-4E-3F-16"
         }
       }
     ]

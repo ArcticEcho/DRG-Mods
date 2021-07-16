@@ -393,10 +393,10 @@ Balance changes.
 **Description:**  
 The base minigun now actually has 2400 ammo and 30 rate of fire. The stats in the game now reflect true values. (Vanilla minigun stats are inflated by 2 times, meaning the vanilla minigun has 1200 ammo and 15 firerate)
 
-## RJ2500 Compound - v1.1
+## RJ2500 Compound - v1.1.1
 **Authors:** Shrub  
-**DRG Version:** U33, HF 10  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/88b600d0bbb34801e7a23a6ae5b5ab09195085b3/Gameplay/Unbalanced/Weapons/RJ2500%20Compound%20-%20V1.1%20_P.pak)  
+**DRG Version:** U34, HF 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ac3da215197e333c1ef8f2c58023bd7792bd8054/Gameplay/Unbalanced/Weapons/RJ2500%20Compound%20-%20V1.1.1%20_P.pak)  
 
 **Description:**  
 Meatshield's mod, "With these changes, `BCABB + RJ250 Compound` will have same ammo as if you took T2.A, but the interval between grenades will be decreased from 2.5 sec to 1.8 sec. Additionally, the reduced Velocity will let you do Sync Jumps in caverns with 10m ceiling or less, instead of requiring the current 46m. The 1.8 sec between grenades will let you chain-jump too."  
@@ -404,6 +404,9 @@ Meatshield's mod, "With these changes, `BCABB + RJ250 Compound` will have same a
 --PGL base Reload 2s > 1.7s  
 --PGL T1.B Ammo 2 -> 5  
 --PGL T2.C Projectile Speed 180% -> -60%
+
+**Update v1.1.1 Changelog:**  
+Updated for U34
 
 ## Rubber GK2 - v1.34
 **Authors:** Sesselpots  
