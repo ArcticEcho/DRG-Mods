@@ -70,6 +70,15 @@ Replaces the Incendiary with sour fury! Suggested by @BongoSkaggs
 **Description:**  
 Replaces the driller's C4 with the TNT block from Minecraft.
 
+## Minecraft Torch Flares - v1.0
+**Authors:** HandDrawnNerd  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/23135133c674b61b3434fe569e1bf3410fabf632/Visual/3D%20Model%20Replacement/Weapons%26Tools/Minecraft%20Torch%20Flares%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Light up the mines and keep the creepers away with these new blocky flares. Pairs well with the other available Minecraft mods (impact axe, C4, pickaxe).  
+Replaces flares with Minecraft torches. [Preview, kinda](https://discord.com/channels/676880716142739467/732650220214681600/865494586445266964)
+
 ## Pine-appetite - v1.0
 **Authors:** SirVerex  
 **DRG Version:** U34  

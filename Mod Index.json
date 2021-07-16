@@ -8747,6 +8747,38 @@
       }
     ]
   },
+  "minecrafttorchflares": {
+    "DisplayName": "Minecraft Torch Flares",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      73673072833470464
+    ],
+    "Description": "Light up the mines and keep the creepers away with these new blocky flares. Pairs well with the other available Minecraft mods (impact axe, C4, pickaxe).\n\nReplaces flares with Minecraft torches. [Preview, kinda](https://discord.com/channels/676880716142739467/732650220214681600/865494586445266964)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/23135133c674b61b3434fe569e1bf3410fabf632/Visual/3D%20Model%20Replacement/Weapons%26Tools/Minecraft%20Torch%20Flares%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Minecraft Torch Flares - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Art/Props/SM_Flare.uasset": "3C-39-E5-E2-79-4E-DF-A4",
+          "../../../FSD/Content/WeaponsNTools/Flares/SM_Flare_LoadOut_Driller.uasset": "FC-84-31-6C-18-C6-D0-5D",
+          "../../../FSD/Content/WeaponsNTools/Flares/SM_Flare_LoadOut_Engineer.uasset": "B0-5E-92-4D-67-95-1C-3A",
+          "../../../FSD/Content/WeaponsNTools/Flares/SM_Flare_LoadOut_Gunner.uasset": "C1-A4-48-E8-D4-24-9B-1F",
+          "../../../FSD/Content/WeaponsNTools/Flares/SM_Flare_LoadOut_Scout.uasset": "14-3C-B8-3D-F1-73-88-EA",
+          "../../../FSD/Content/WeaponsNTools/Flares/torch.uasset": "62-69-3E-0E-FB-23-05-2A",
+          "../../../FSD/Content/WeaponsNTools/Flares/torchmat.uasset": "F1-3A-5A-E2-47-60-CF-13",
+          "../../../FSD/Content/Art/Props/SM_Flare.uexp": "1B-93-52-8D-C1-E8-D4-32",
+          "../../../FSD/Content/WeaponsNTools/Flares/SM_Flare_LoadOut_Driller.uexp": "BA-46-8E-8F-A4-C3-4D-D8",
+          "../../../FSD/Content/WeaponsNTools/Flares/SM_Flare_LoadOut_Engineer.uexp": "DA-00-2D-0F-9D-2F-B7-3B",
+          "../../../FSD/Content/WeaponsNTools/Flares/SM_Flare_LoadOut_Gunner.uexp": "39-EE-00-13-0E-09-54-1A",
+          "../../../FSD/Content/WeaponsNTools/Flares/SM_Flare_LoadOut_Scout.uexp": "CF-E8-80-B7-89-B3-7D-77",
+          "../../../FSD/Content/WeaponsNTools/Flares/torch.uexp": "F2-39-D6-93-A4-81-2D-6B",
+          "../../../FSD/Content/WeaponsNTools/Flares/torchmat.uexp": "66-A5-F2-AD-4C-7A-73-C2"
+        }
+      }
+    ]
+  },
   "mineheadisnowepic": {
     "DisplayName": "Minehead Is Now Epic",
     "Version": "2.7",
