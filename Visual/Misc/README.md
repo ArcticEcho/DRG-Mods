@@ -120,13 +120,13 @@ Example: https://discord.com/channels/676880716142739467/732650220214681600/8466
 **Description:**  
 **Requires Spacerig decorator** A place for Steeve to call home on the spacerig :)
 
-## Remove All Particles - v1.3.0
+## Remove All Particles - v1.4.0
 **Authors:** Pugglez  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/cc3140a5035fe753dff542cccb48c696468df4d3/Visual/Misc/Remove%20All%20Particles%20-%20V1.3.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/2287a4368c4b1bb2a4e8218ffd3899c280535d78/Visual/Misc/Remove%20All%20Particles%20-%20V1.4.0%20_P.pak)  
 
 **Description:**  
-Removes almost all visual particles (over 700+ files) from the game except for the following exceptions: https://pastebin.com/FGCVNiid (v1.3.0)  
+Removes almost all visual particles (over 700+ files) from the game except for the following exceptions: https://pastebin.com/QUvhvM2u (v1.4.0)  
 This mod is intended to hopefully improve your FPS. If you think that a particle should be added back in because it gives a disadvantage having it removed (i.e. not being able to see certain weapon particles) or the opposite--giving unintended gameplay advantage from having it removed, feel free to contact me.   
 If you encounter bugs/crashes using this mod, give as many details you have (Mission Type, Biome, context, etc...). I am available on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989).   
 There is also a variant of this mod called "Remove All Particles But WeaponsNTools"  
@@ -134,10 +134,11 @@ There is also a variant of this mod called "Remove All Particles But WeaponsNToo
 - Remove All Particles: This is the original mod. This removes almost all the particles including most of the weapons/tools. See the "WEAPONS" section of the pastebin exceptions list above to see which weapon/tool particles were not removed.  
 - Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco. Unlike the original mod, this allows you to see your and other dwarves' bullet tracers along with the rest of the weapon particles.
 
-**Update v1.3.0 Changelog:**  
+**Update v1.4.0 Changelog:**  
 - Updated pastebin link to reflect the new changes  
 - Added back in new particles:  
-    - Elite Enemy Beacon
+    - Driller 1st person Flamethrower spray when using extended range upgrades  
+    - Korlok Healing Pod and Sprout Spawn Trail Particles
 
 ## Remove All Particles But WeaponsNTools - v1.2.0
 **Authors:** Pugglez  
