@@ -1385,6 +1385,58 @@
       }
     ]
   },
+  "bakiniarmorset": {
+    "DisplayName": "Bakini Armor Set",
+    "Version": "1.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      149217063154614272
+    ],
+    "Description": "Warning: NSFM (Not Safe For Mining) Encounters with glyphid is ill-advised, get back to work! - Management. This plot armor replaces the MK3 Armorset with bakini swim suits and replaces the Flight Commander with a straw hat. IMPORTANT: This mod only works with the Ruddy Skin color, this will be fixed soon. FirstPerson coming soon.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8afd3253e5a00503d9bd88629ec43612e2b04e87/Visual/3D%20Model%20Replacement/Armor/Bakini%20Armor%20Set%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Bakini Armor Set - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/Vanity2/Armor/M_Floaty.uasset": "F6-4B-1D-FF-83-0E-BE-A7",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_FloatyDoretta.uasset": "AF-41-07-39-9B-75-97-0B",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_FloatyDorettaEyes.uasset": "85-A4-2D-AE-EF-22-D9-13",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_FloatyDorettaMetal.uasset": "56-58-49-5C-1D-5F-EE-30",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_SwimSuit_driller.uasset": "3C-27-F5-ED-13-2B-0B-67",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_SwimSuit_engineer.uasset": "72-AB-D5-5E-0C-2B-72-3D",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_SwimSuit_gunner.uasset": "9E-0A-06-BC-AC-57-72-92",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_SwimSuit_scout.uasset": "4E-B1-22-18-21-80-9C-26",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorDriller003.uasset": "26-EB-AF-2E-A5-13-C3-BE",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorEngineer003.uasset": "0E-C5-65-2F-2C-53-EE-B3",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorGunner003.uasset": "B8-0F-EB-DF-48-86-AD-67",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorScout003.uasset": "84-86-27-83-1D-54-E8-DF",
+          "../../../FSD/Content/Character/Vanity2/Armor/T_Flower.uasset": "01-65-D7-19-DB-A6-8D-6C",
+          "../../../FSD/Content/Character/Vanity2/Armor/T_Straw.uasset": "E0-E6-02-D9-CF-CE-F0-C3",
+          "../../../FSD/Content/Character/Vanity2/Headwear/M_Strawhat.uasset": "5D-21-7C-9D-C0-E0-61-5D",
+          "../../../FSD/Content/Character/Vanity2/Headwear/SK_Vanity_Headwear_HatOddball.uasset": "98-E7-32-07-A7-AF-82-DD",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_Floaty.uexp": "00-EC-94-11-98-04-F1-89",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_FloatyDoretta.uexp": "CA-8F-85-55-BD-F3-10-24",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_FloatyDorettaEyes.uexp": "0B-D8-03-8F-2A-E2-6D-45",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_FloatyDorettaMetal.uexp": "2B-AB-9D-60-66-B1-2B-8E",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_SwimSuit_driller.uexp": "ED-5E-F9-B6-41-2E-B6-E4",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_SwimSuit_engineer.uexp": "EA-7B-22-2E-12-09-3A-29",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_SwimSuit_gunner.uexp": "70-C7-B4-1F-3A-15-66-E9",
+          "../../../FSD/Content/Character/Vanity2/Armor/M_SwimSuit_scout.uexp": "F2-12-BF-AA-B3-07-C7-FF",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorDriller003.uexp": "EF-3B-0E-90-12-3E-DB-06",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorEngineer003.uexp": "1C-C6-19-D9-2F-EF-A0-07",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorGunner003.uexp": "E7-C2-80-C6-C2-A6-A8-2A",
+          "../../../FSD/Content/Character/Vanity2/Armor/SK_Vanity_ArmorScout003.uexp": "73-F1-BA-B1-A9-9A-89-AB",
+          "../../../FSD/Content/Character/Vanity2/Armor/T_Flower.uexp": "12-D4-65-1D-D4-EE-50-21",
+          "../../../FSD/Content/Character/Vanity2/Armor/T_Straw.uexp": "8B-3A-EF-C8-7B-4A-B0-DE",
+          "../../../FSD/Content/Character/Vanity2/Headwear/M_Strawhat.uexp": "6C-6E-F4-CB-5F-46-28-C9",
+          "../../../FSD/Content/Character/Vanity2/Headwear/SK_Vanity_Headwear_HatOddball.uexp": "D4-E6-96-F9-50-DD-8B-2C",
+          "../../../FSD/Content/Character/Vanity2/Armor/T_Flower.ubulk": "A0-88-C8-16-F4-78-7E-27",
+          "../../../FSD/Content/Character/Vanity2/Armor/T_Straw.ubulk": "73-05-41-70-BF-81-32-20"
+        }
+      }
+    ]
+  },
   "banananade": {
     "DisplayName": "Banana-nade",
     "Version": "1.0",
