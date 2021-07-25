@@ -264,10 +264,10 @@ Authors
 Improves Roll Control BC OC adding it a nerf. A projectile speed nerf. Making it RtS lite and keeping the ability to roll. https://discord.com/channels/676880716142739467/732650220214681600/837974247724941314  
 - Adds x0.75 projectile speed penalty from Fat Boy OC to Roll Control OC.
 
-## Scoot OCs - v1.1
+## Scoot OCs - v1.2
 **Authors:** Drillboy Jenkins  
 **DRG Version:** U34.X  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/88b398c7030e03f2c6e7fb7885bb6c54772efafd/Gameplay/Balanced/Scoot%20OCs%20-%20V1.1%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1c9702bbdb039f71d4ae1fd1e95d59bd4575e7af/Gameplay/Balanced/Scoot%20OCs%20-%20V1.2%20_P.pak)  
 
 **Description:**  
 WARNING: ALL THE NEW OCs THE MOD ADDS SHOULD BE OBTAINED THE WAY YOU USE(D) TO OBTAIN VANILLA ONES - VIA FORGING!  
@@ -282,12 +282,11 @@ WARNING: ALL THE NEW OCs THE MOD ADDS SHOULD BE OBTAINED THE WAY YOU USE(D) TO O
 + -2s Reload Time  
 + x10 Focus Speed  
 - -7 Clip Capacity  
-- -24 Ammo  
+- x0.7 Ammo  
 ```
 
-**Update v1.1 Changelog:**  
-- Decreased BKA clipsize penalty down to 2.  
-- Introduced brand new separate texts for descriptions and actual stat effect changes.
+**Update v1.2 Changelog:**  
+- Capacitor Clips: Replaced linear -24 ammo penalty with a harsher x0.7 one.
 
 ## Shallow Choice (Minigun OC) - v1.3
 **Authors:** Yarby, Drillboy Jenkins  
