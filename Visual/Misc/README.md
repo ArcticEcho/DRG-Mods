@@ -30,6 +30,15 @@ Removes creepy eyes from missions in case you happen to be allergic.
 **Description:**  
 Removes the Explosion Particle Effect from normal and mininuke PGL explosions
 
+## Fabulous Bugs - v1.1
+**Authors:** ArcticEcho  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/5989a6189db299e5690a71bf4d39bb16b7cd060f/Visual/Misc/Fabulous%20Bugs%20-%20V1.1%20_P.pak)  
+
+**Description:**  
+**Requires the BP Mod Manager.**  
+Adds random hats and beards to grunts, slashers, and guards.
+
 ## Fabulous Molly - v2.1
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33, Hotifx 10  

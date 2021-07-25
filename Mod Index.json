@@ -4426,6 +4426,32 @@
       }
     ]
   },
+  "fabulousbugs": {
+    "DisplayName": "Fabulous Bugs",
+    "Version": "1.1",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      158916111390343168
+    ],
+    "Description": "**Requires the BP Mod Manager.**\nAdds random hats and beards to grunts, slashers, and guards.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/5989a6189db299e5690a71bf4d39bb16b7cd060f/Visual/Misc/Fabulous%20Bugs%20-%20V1.1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Fabulous Bugs - V1.1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod030.uasset": "BD-2B-64-B6-CC-CC-80-AD",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV4.uasset": "42-39-FA-A2-8B-16-2D-37",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousBugs/030_SaveData.uasset": "99-19-CB-18-BF-DD-04-0F",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousBugs/030_UI.uasset": "A2-34-60-7B-F3-FA-EE-49",
+          "../../../FSD/Content/_ModBPs/Mod030.uexp": "1F-0B-39-32-B3-DD-53-0D",
+          "../../../FSD/Content/_ModBPs/MyMods/_/GlobalFunctionsV4.uexp": "C1-AF-1C-00-AA-03-3A-20",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousBugs/030_SaveData.uexp": "51-B1-88-A6-74-D5-0A-72",
+          "../../../FSD/Content/_ModBPs/MyMods/FabulousBugs/030_UI.uexp": "86-3A-84-EA-AA-BD-6D-F4"
+        }
+      }
+    ]
+  },
   "fabulouslyfastlootbugs": {
     "DisplayName": "Fabulously Fast Lootbugs",
     "Version": "1.1",
