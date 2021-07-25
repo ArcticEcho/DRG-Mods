@@ -15029,6 +15029,18 @@
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c2353f2a600a58360c0ccf8f36cf92dc166ae3e9/Framework/Soundclass%20Heirachy%20For%20Audio%20Modding%20-%20V1.1.zip",
     "Paks": []
   },
+  "soundclassheirarchyformusicmodding": {
+    "DisplayName": "Soundclass Heirarchy for Music Modding",
+    "Version": "1.0",
+    "DrgVersion": "U34+",
+    "AuthorIds": [
+      196142609528389632
+    ],
+    "Description": "The soundclass heirarchy for all music audio in the game. **Do not use at the same time as Soundclass Heirarchy for Audio Modding as it will cause issues in your music mod**. If you are using Music Control framework then replace that, as this is a more up-to-date version.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/71c6e882ddad8f05bf5b3da2124a808b31985969/Framework/Soundclass%20Heirarchy%20For%20Music%20Modding%20-%20V1.0.zip",
+    "Paks": []
+  },
   "soundqol": {
     "DisplayName": "Sound QoL",
     "Version": "1.2",

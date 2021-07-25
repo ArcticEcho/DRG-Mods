@@ -38,3 +38,11 @@ The soundclass heirachy for all the sounds in the game. If you are using the Mus
 
 **Update v1.1 Changelog:**  
 Re-added the SoundMixes folder.
+
+## Soundclass Heirarchy for Music Modding - v1.0
+**Authors:** Buckminsterfullerene  
+**DRG Version:** U34+  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/71c6e882ddad8f05bf5b3da2124a808b31985969/Framework/Soundclass%20Heirarchy%20For%20Music%20Modding%20-%20V1.0.zip)  
+
+**Description:**  
+The soundclass heirarchy for all music audio in the game. **Do not use at the same time as Soundclass Heirarchy for Audio Modding as it will cause issues in your music mod**. If you are using Music Control framework then replace that, as this is a more up-to-date version.
