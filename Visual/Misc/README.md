@@ -140,10 +140,10 @@ There is also a variant of this mod called "Remove All Particles But WeaponsNToo
     - Driller 1st person Flamethrower spray when using extended range upgrades  
     - Korlok Healing Pod and Sprout Spawn Trail Particles
 
-## Remove All Particles But WeaponsNTools - v1.2.0
+## Remove All Particles But WeaponsNTools - v1.3.0
 **Authors:** Pugglez  
 **DRG Version:** U34 H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/230a0e60e9f55f0d25973dd3d195f1cff1c0f6d4/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.2.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/146fbf9bb6a470a9cb9d46b3d65938793c7e099d/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.3.0%20_P.pak)  
 
 **Description:**  
 This is a lighter version of my mod "Remove All Particles." This mod additionally adds back in all particles related to Weapons, Tools, and Bosco.   
@@ -152,9 +152,8 @@ If I missed adding a weapon, tool, or bosco particle, contact me on the official
 - Remove All Particles: This is the original mod. This removes almost all the particles including most of the weapons/tools. See the "WEAPONS" section of the pastebin exceptions list above to see which weapon/tool particles were not removed.  
 - Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco. Unlike the original mod, this allows you to see your and other dwarves' bullet tracers along with the rest of the weapon particles.
 
-**Update v1.2.0 Changelog:**  
-- Updated mod to reflect the new changes from the original mod. See v1.3.0 Changelog of the original mod "Remove All Particles"  
-- Updated description slightly
+**Update v1.3.0 Changelog:**  
+- Updated mod to reflect the new changes from the original mod. See v1.4.0 Changelog of the original mod "Remove All Particles"
 
 ## Rick May Tribute Statues - v1.1
 **Authors:** HandDrawnNerd  

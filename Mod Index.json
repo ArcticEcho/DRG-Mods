@@ -14362,17 +14362,17 @@
   },
   "removeallparticlesbutweaponsntools": {
     "DisplayName": "Remove All Particles But WeaponsNTools",
-    "Version": "1.2.0",
+    "Version": "1.3.0",
     "DrgVersion": "U34 H5",
     "AuthorIds": [
       209416328057061376
     ],
-    "Description": "This is a lighter version of my mod \"Remove All Particles.\" This mod additionally adds back in all particles related to Weapons, Tools, and Bosco. \n\nIf I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989). \n\n**Which \"Remove All Particles\" mod variant should I use?**\n- Remove All Particles: This is the original mod. This removes almost all the particles including most of the weapons/tools. See the \"WEAPONS\" section of the pastebin exceptions list above to see which weapon/tool particles were not removed.\n- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco. Unlike the original mod, this allows you to see your and other dwarves' bullet tracers along with the rest of the weapon particles.",
-    "LastUpdateChangelog": "- Updated mod to reflect the new changes from the original mod. See v1.3.0 Changelog of the original mod \"Remove All Particles\"\n- Updated description slightly",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/230a0e60e9f55f0d25973dd3d195f1cff1c0f6d4/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.2.0%20_P.pak",
+    "Description": "This is a lighter version of my mod \"Remove All Particles.\" This mod additionally adds back in all particles related to Weapons, Tools, and Bosco. \nIf I missed adding a weapon, tool, or bosco particle, contact me on the official DRG Discord Server or the DRG Modding Server (Pugglez#7989). \n\n**Which \"Remove All Particles\" mod variant should I use?**\n- Remove All Particles: This is the original mod. This removes almost all the particles including most of the weapons/tools. See the \"WEAPONS\" section of the pastebin exceptions list above to see which weapon/tool particles were not removed.\n- Remove All Particles But WeaponsNTools: This is a lighter version of the original mod that adds back in all particles related to Weapons, Tools, and Bosco. Unlike the original mod, this allows you to see your and other dwarves' bullet tracers along with the rest of the weapon particles.",
+    "LastUpdateChangelog": "- Updated mod to reflect the new changes from the original mod. See v1.4.0 Changelog of the original mod \"Remove All Particles\"",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/146fbf9bb6a470a9cb9d46b3d65938793c7e099d/Visual/Misc/Remove%20All%20Particles%20But%20WeaponsNTools%20-%20V1.3.0%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Remove All Particles But WeaponsNTools - V1.2.0",
+        "PakFileName": "Remove All Particles But WeaponsNTools - V1.3.0",
         "CookedFileHashes": {
           "../../../FSD/Content/Art/Cinematics/E3trailer2017/P_E3trailer_DropPod_Exhaust.uasset": "1E-92-C3-30-9F-42-1D-E5",
           "../../../FSD/Content/Art/DropPod/Assets/MuleBay/P_MuleBay.uasset": "3C-47-33-DA-B8-3E-19-91",
@@ -14540,7 +14540,6 @@
           "../../../FSD/Content/Enemies/HydraWeed/Assets/P_Hydra_Weed_Heart_Damaged.uasset": "2C-7D-AB-39-13-E5-62-EA",
           "../../../FSD/Content/Enemies/HydraWeed/P_EggSpawn_Hydraweed.uasset": "76-5B-2B-38-C3-B4-C3-F8",
           "../../../FSD/Content/Enemies/HydraWeed/P_EggSpawn_Hydraweed_HealingPod.uasset": "BE-9A-E8-BE-8E-63-DD-56",
-          "../../../FSD/Content/Enemies/HydraWeed/P_HealerSeed_Trail.uasset": "07-75-E8-02-48-29-96-8F",
           "../../../FSD/Content/Enemies/HydraWeed/P_HydraWeed_Core_GodRays.uasset": "DB-9F-98-0E-B5-6E-FE-5C",
           "../../../FSD/Content/Enemies/HydraWeed/P_HydraWeed_Corespit.uasset": "CD-DC-B8-7C-28-12-44-79",
           "../../../FSD/Content/Enemies/HydraWeed/P_HydraWeed_Impact.uasset": "76-E2-0C-15-E6-0C-98-C4",
@@ -14548,7 +14547,6 @@
           "../../../FSD/Content/Enemies/HydraWeed/P_HydraWeed_Weakpoint.uasset": "8F-C4-E6-2D-EA-63-13-3C",
           "../../../FSD/Content/Enemies/HydraWeed/P_SeedCore_HydraWeed_Kill.uasset": "77-94-FC-70-CC-DA-78-D8",
           "../../../FSD/Content/Enemies/HydraWeed/P_Shooter_HydraWeed_Kill.uasset": "0B-64-4B-A7-7D-16-2E-5B",
-          "../../../FSD/Content/Enemies/HydraWeed/P_ShooterSeed_Trail.uasset": "55-82-DA-4C-93-2C-C1-DC",
           "../../../FSD/Content/Enemies/HydraWeed/P_SpittingPlant_Small_Projectile_A.uasset": "77-27-50-19-2B-AA-00-88",
           "../../../FSD/Content/Enemies/InfestationLarva/P_InfestedLarva_Kill1.uasset": "EE-E8-64-2D-82-FF-E7-27",
           "../../../FSD/Content/Enemies/InfestationLarva/P_Larva_Appear.uasset": "2E-CA-40-A1-C1-52-82-04",
