@@ -1019,6 +1019,32 @@
       }
     ]
   },
+  "andtraversalforall": {
+    "DisplayName": "...And Traversal For All",
+    "Version": "1.0",
+    "DrgVersion": "U34+",
+    "AuthorIds": [
+      287151764984299520
+    ],
+    "Description": "Enables choosing any Traversal Tool out of all four tools in the game for any class, such as Drills for Gunner or Engineer, Platform Gun for Scout, etc.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3756ae8855f7e46f6155fae0b5b9eb530cf7d927/Gameplay/Balanced/...And%20Traversal%20For%20All%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "...And Traversal For All - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Character/InventoryLists/BP_DrillerInventory.uasset": "2D-17-CF-D1-68-E6-2A-9A",
+          "../../../FSD/Content/Character/InventoryLists/BP_EngineerInventory.uasset": "33-70-E2-7A-C7-80-1A-9D",
+          "../../../FSD/Content/Character/InventoryLists/BP_GunnerInventory.uasset": "92-28-A9-D8-4C-81-96-A5",
+          "../../../FSD/Content/Character/InventoryLists/BP_ScoutInventory.uasset": "B3-0E-08-03-77-32-A5-33",
+          "../../../FSD/Content/Character/InventoryLists/BP_DrillerInventory.uexp": "43-1C-21-3E-03-AB-F5-CC",
+          "../../../FSD/Content/Character/InventoryLists/BP_EngineerInventory.uexp": "A2-28-D1-85-01-93-35-57",
+          "../../../FSD/Content/Character/InventoryLists/BP_GunnerInventory.uexp": "C8-4C-45-85-DC-9A-6C-4E",
+          "../../../FSD/Content/Character/InventoryLists/BP_ScoutInventory.uexp": "36-A1-BD-30-7F-F1-BC-68"
+        }
+      }
+    ]
+  },
   "animedoretta": {
     "DisplayName": "Anime Doretta",
     "Version": "1.1",
