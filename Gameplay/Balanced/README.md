@@ -12,6 +12,14 @@ Mods attempting to balance stuff that performs worse than normal.
 **Description:**  
 Enables choosing any Traversal Tool out of all four tools in the game for any class, such as Drills for Gunner or Engineer, Platform Gun for Scout, etc.
 
+## A Balance Mod - v7-26-2021
+**Authors:** Shattered, BongoSkaggs  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8060b7aaa32ae937acc7103aa5fdd2bc599d4b8f/Gameplay/Balanced/A%20Balance%20Mod%20-%20V7-26-2021%20_P.pak)  
+
+**Description:**  
+A balance mod. The name obviously needs help. Change List: https://docs.google.com/document/d/1543gY-XgHrtwWOMpajyBnj1l1ndv2xE3X0biXki5Xkk/edit?usp=sharing
+
 ## Airburst Grenade - v2.0
 **Authors:** Ike  
 **DRG Version:** 34 H1  
