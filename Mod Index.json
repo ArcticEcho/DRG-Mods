@@ -15418,28 +15418,6 @@
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/71c6e882ddad8f05bf5b3da2124a808b31985969/Framework/Soundclass%20Heirarchy%20For%20Music%20Modding%20-%20V1.0.zip",
     "Paks": []
   },
-  "soundqol": {
-    "DisplayName": "Sound QoL",
-    "Version": "1.2",
-    "DrgVersion": "34 H1",
-    "AuthorIds": [
-      360816319722946560
-    ],
-    "Description": "this removes two annoying sounds: the Vampire suction sound that triggers every time you kill an enemy and BET-C's \"waiting for repair\" sound.",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/099daee890b5dcdd835fdd838bbf2f049455cd79/Quality%20of%20Life/Sound%20muting/Sound%20QoL%20-%20V1.2%20_P.pak",
-    "Paks": [
-      {
-        "PakFileName": "Sound QoL - V1.2",
-        "CookedFileHashes": {
-          "../../../FSD/Content/Audio/SFX/Characters/Perks/VampireHeal_Cue.uasset": "70-54-DD-7A-27-DE-70-B5",
-          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleWaitingRepairLoop_Cue.uasset": "3D-79-7B-6F-44-6F-2A-18",
-          "../../../FSD/Content/Audio/SFX/Characters/Perks/VampireHeal_Cue.uexp": "2A-AD-6A-2D-8F-3C-9E-A9",
-          "../../../FSD/Content/Audio/SFX/InfectedMule/InfectedMuleWaitingRepairLoop_Cue.uexp": "EA-62-66-5B-EC-67-A1-79"
-        }
-      }
-    ]
-  },
   "spacerigdecorator": {
     "DisplayName": "Spacerig decorator",
     "Version": "1.2.0",
