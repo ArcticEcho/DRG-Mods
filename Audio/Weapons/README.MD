@@ -97,6 +97,15 @@ Replaces the Bulldog's firing sounds with HD versions of the .357 Revolver from 
 **Update v1.2 Changelog:**  
 Updated for Update 34.
 
+## HLA Combine Shotgun Warthog - v1.0
+**Authors:** Zega  
+**DRG Version:** Update 34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/75f573f457efedd11ec05350002f70923de1b6bd/Audio/Weapons/HLA%20Combine%20Shotgun%20Warthog%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces Warthog's sounds with the Combine Charger's Shotgun sounds.  
+Link to the YT preview: https://www.youtube.com/watch?v=pyX02rvkKqY
+
 ## Kaboomstick - v1.2
 **Authors:** Lithobraker  
 **DRG Version:** Update 34  
