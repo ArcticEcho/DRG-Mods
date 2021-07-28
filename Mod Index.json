@@ -407,19 +407,20 @@
   },
   "abalancemod": {
     "DisplayName": "A Balance Mod",
-    "Version": "7-27-2021",
+    "Version": "7-27-2021.1",
     "DrgVersion": "U34",
     "AuthorIds": [
       385384075168448513,
       243195324594782210
     ],
     "Description": "A balance mod. The name obviously needs help. Change List: https://docs.google.com/document/d/1543gY-XgHrtwWOMpajyBnj1l1ndv2xE3X0biXki5Xkk/edit?usp=sharing",
-    "LastUpdateChangelog": "Balance changes.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b6acdd924df6bb7d876bf712b6ec3475147a6933/Gameplay/Balanced/A%20Balance%20Mod%20-%20V7-27-2021%20_P.pak",
+    "LastUpdateChangelog": "Fixed the bet-c friendly fire.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/c199b5c9c828258de49ba07eaf2999e72ca79779/Gameplay/Balanced/A%20Balance%20Mod%20-%20V7-27-2021.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "A Balance Mod - V7-27-2021",
+        "PakFileName": "A Balance Mod - V7-27-2021.1",
         "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/MuleInfected/ENE_InfectedMule.uasset": "D3-E4-9B-A7-2B-7B-43-59",
           "../../../FSD/Content/Enemies/MuleInfected/Parasite/ENE_Parasite.uasset": "E0-8E-D3-AF-FE-E6-11-AE",
           "../../../FSD/Content/Enemies/MuleInfected/PRJ_FriendlyInfectedMuleGrenade.uasset": "92-FF-45-06-C6-E0-93-2D",
           "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank.uasset": "C3-0A-9A-CC-8B-7F-32-1C",
@@ -571,6 +572,7 @@
           "../../../FSD/Content/WeaponsNTools/SMG/UPG_ElectricSMG_B_ClipSize.uasset": "9F-FF-13-E6-E5-C9-23-5D",
           "../../../FSD/Content/WeaponsNTools/SMG/UPG_ElectricSMG_D_WeakspotDamage.uasset": "BB-9D-20-3C-E2-EB-17-9A",
           "../../../FSD/Content/WeaponsNTools/SMG/WPN_SMG_OneHand.uasset": "20-00-D4-D2-7D-A8-46-5B",
+          "../../../FSD/Content/Enemies/MuleInfected/ENE_InfectedMule.uexp": "4B-ED-D9-CF-04-78-B5-E0",
           "../../../FSD/Content/Enemies/MuleInfected/Parasite/ENE_Parasite.uexp": "19-C5-B8-EB-7B-55-02-35",
           "../../../FSD/Content/Enemies/MuleInfected/PRJ_FriendlyInfectedMuleGrenade.uexp": "52-DF-70-57-BF-0F-71-A3",
           "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank.uexp": "BE-71-17-77-5D-6D-EB-62",
