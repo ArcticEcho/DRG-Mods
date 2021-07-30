@@ -4,6 +4,15 @@ For mods that don't fit any other visual category.
 
 <!-- mod list -->
 
+## Basketball Net for Barrel Hoops - v1.0
+**Authors:** HandDrawnNerd  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/be6eee6499207388cc480ea98f4cbabe9925747a/Visual/Misc/Basketball%20Net%20For%20Barrel%20Hoops%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Beards, brews, and basketball. Get your DRG Jam on.  
+Replaces the hoop model used for the barrel hoops minigame in the space rig (keeps the same physics model/hitbox as the default model so it hopefully doesn't cause issues in multiplayer) as well as the sound that is played when a basket is scored. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/870792450267049984)
+
 ## Better Post Processing - v1.3
 **Authors:** ArcticEcho  
 **DRG Version:** Update 33, Hotfix 2  

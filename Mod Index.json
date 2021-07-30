@@ -1868,6 +1868,38 @@
       }
     ]
   },
+  "basketballnetforbarrelhoops": {
+    "DisplayName": "Basketball Net for Barrel Hoops",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      73673072833470464
+    ],
+    "Description": "Beards, brews, and basketball. Get your DRG Jam on.\n\nReplaces the hoop model used for the barrel hoops minigame in the space rig (keeps the same physics model/hitbox as the default model so it hopefully doesn't cause issues in multiplayer) as well as the sound that is played when a basket is scored. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/870792450267049984)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/be6eee6499207388cc480ea98f4cbabe9925747a/Visual/Misc/Basketball%20Net%20For%20Barrel%20Hoops%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Basketball Net For Barrel Hoops - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/SpaceRig/HoopGame/Hit/HoopGameScoreA_1.uasset": "C2-29-FA-99-41-EC-4E-DA",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/hoopmetal.uasset": "D1-D8-C8-48-A8-1E-67-9C",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/hoopmetal2.uasset": "47-0B-FD-F0-19-AD-20-75",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/hoopstrings.uasset": "C0-5B-5A-B5-F9-A6-38-A2",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/metaltexture.uasset": "45-BF-0D-E9-E4-0C-62-1D",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/SM_HoopsGame_Ring.uasset": "C6-09-59-3C-C3-AD-7F-14",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/SM_HoopsGame_Ringoriginal.uasset": "F8-B1-A7-C1-09-5A-2B-6D",
+          "../../../FSD/Content/Audio/SFX/SpaceRig/HoopGame/Hit/HoopGameScoreA_1.uexp": "22-E8-89-98-3F-DD-47-79",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/hoopmetal.uexp": "86-08-DE-28-7B-22-5A-C8",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/hoopmetal2.uexp": "A0-02-49-6A-83-57-A1-D1",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/hoopstrings.uexp": "87-EF-8D-4C-16-83-DD-D0",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/metaltexture.uexp": "02-40-16-0F-A2-B5-67-52",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/SM_HoopsGame_Ring.uexp": "A2-3C-28-DC-4F-CF-AD-68",
+          "../../../FSD/Content/LevelElements/Spacerig/Bar/Hoops/Assets/SM_HoopsGame_Ringoriginal.uexp": "F9-27-8E-9E-3F-D9-B7-6B"
+        }
+      }
+    ]
+  },
   "bbpbigbalancepatch": {
     "DisplayName": "BBP (Big Balance Patch)",
     "Version": "1.9.2.2",
