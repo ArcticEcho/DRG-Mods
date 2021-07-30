@@ -61,6 +61,15 @@ Replaces the Amethyst Hair Color and the Deep Core Weapon Paintjob with animated
 **Update v1.1 Changelog:**  
 Changed the weapon paint to require Deep Core instead of Desert Ranger
 
+## GunnuG Class Icon - v1.0
+**Authors:** Zega  
+**DRG Version:** Update 34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/bf65181698d6bea43e9233838a93cc91c7826b13/Visual/Textures%20%26%20Icons/GunnuG%20Class%20Icon%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces Gunner's icon with GunnuG.  
+Link to the preview: https://discord.com/channels/676880716142739467/732650220214681600/870642865167011880
+
 ## MarcusGray Posters - v1.1
 **Authors:** Marcus, Humping Koala  
 **DRG Version:** Update 34 - Hotfix 5  

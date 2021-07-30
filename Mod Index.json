@@ -5717,6 +5717,27 @@
       }
     ]
   },
+  "gunnugclassicon": {
+    "DisplayName": "GunnuG Class Icon",
+    "Version": "1.0",
+    "DrgVersion": "Update 34 Hotfix 5",
+    "AuthorIds": [
+      849317380977852466
+    ],
+    "Description": "Replaces Gunner's icon with GunnuG.\nLink to the preview: https://discord.com/channels/676880716142739467/732650220214681600/870642865167011880",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/bf65181698d6bea43e9233838a93cc91c7826b13/Visual/Textures%20%26%20Icons/GunnuG%20Class%20Icon%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "GunnuG Class Icon - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.uasset": "E0-B2-E2-00-1D-72-FD-07",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.uexp": "F1-3E-95-1F-06-26-93-5A",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.ubulk": "6B-3A-1B-A6-97-8A-41-E0"
+        }
+      }
+    ]
+  },
   "halflife2musicmod": {
     "DisplayName": "Half-Life 2 Music Mod",
     "Version": "1.2",
