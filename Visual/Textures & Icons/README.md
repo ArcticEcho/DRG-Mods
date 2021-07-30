@@ -80,6 +80,15 @@ Added *Warden Glyphid Sorceress* poster.
 **Description:**  
 Replaces the textures of tattoos on arms that come with the Roughneck armors with the gals from the posters made by *Marcus Gray*. [Preview](https://discord.com/channels/676880716142739467/712637678881079369/851468203586224128).
 
+## NerreN Class Icon - v1.0
+**Authors:** Zega  
+**DRG Version:** Update 34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/270b5a0cd79b98c429dacc228186276c0773bd9a/Visual/Textures%20%26%20Icons/NerreN%20Class%20Icon%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces Gunner's icon with NerreN.  
+Link to the preview: https://discord.com/channels/676880716142739467/732650220214681600/870622637246795836
+
 ## Pogs O'Gold (KomodoHype) - v1.0
 **Authors:** HandDrawnNerd  
 **DRG Version:** U34H5  

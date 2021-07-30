@@ -11031,6 +11031,27 @@
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/9f8b234d7a2b796bbec62bcdad1ac384f2241010/Framework/Music%20Control%20-%20V1.1.zip",
     "Paks": []
   },
+  "nerrenclassicon": {
+    "DisplayName": "NerreN Class Icon",
+    "Version": "1.0",
+    "DrgVersion": "Update 34 Hotfix 5",
+    "AuthorIds": [
+      849317380977852466
+    ],
+    "Description": "Replaces Gunner's icon with NerreN.\nLink to the preview: https://discord.com/channels/676880716142739467/732650220214681600/870622637246795836",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/270b5a0cd79b98c429dacc228186276c0773bd9a/Visual/Textures%20%26%20Icons/NerreN%20Class%20Icon%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "NerreN Class Icon - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.uasset": "C8-14-E8-3A-F7-56-C8-BC",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.uexp": "60-86-AF-F2-57-27-BA-36",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_Gunner.ubulk": "9E-E0-5F-55-E7-9F-57-72"
+        }
+      }
+    ]
+  },
   "nochokingsoundonlowoxygen": {
     "DisplayName": "No Choking Sound on Low Oxygen",
     "Version": "1.0",
