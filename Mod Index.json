@@ -4516,6 +4516,46 @@
       }
     ]
   },
+  "dysacellcargocratebatteries": {
+    "DisplayName": "Dysacell Cargo Crate Batteries",
+    "Version": "0.1",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      73673072833470464
+    ],
+    "Description": "I guess that explains why we needed to mine all that Dystrum.\n\nReplaces the model of the cargo crate and its batteries. The cargo crate animations have also been modified and are currently a bit buggy. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/871176634672226365)",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/addffe2259bb60a9e8425dee922cf72d7e128e8d/Visual/Misc/Dysacell%20Cargo%20Crate%20Batteries%20-%20V0.1%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Dysacell Cargo Crate Batteries - V0.1",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/Treasure/ANIM_TreasureBox_Activate.uasset": "77-4A-CB-AF-79-38-E7-85",
+          "../../../FSD/Content/GameElements/Treasure/ANIM_TreasureBox_Closed.uasset": "66-B5-12-5B-29-BC-6D-D6",
+          "../../../FSD/Content/GameElements/Treasure/ANIM_TreasureBox_Insert_L.uasset": "B9-4F-78-40-C3-94-A5-48",
+          "../../../FSD/Content/GameElements/Treasure/ANIM_TreasureBox_Insert_R.uasset": "EF-CA-C8-B7-5C-50-A6-EE",
+          "../../../FSD/Content/GameElements/Treasure/ANIM_TreasureBox_Open.uasset": "3E-F0-9C-51-D4-CD-B5-03",
+          "../../../FSD/Content/GameElements/Treasure/dysacellmat.uasset": "8F-92-71-BE-D6-FA-AA-3D",
+          "../../../FSD/Content/GameElements/Treasure/dysacelltex.uasset": "46-AD-23-87-F9-15-9D-18",
+          "../../../FSD/Content/GameElements/Treasure/SK_TreasureBox.uasset": "B9-81-D7-27-1E-B6-25-9B",
+          "../../../FSD/Content/GameElements/Treasure/SK_TreasureBox_PhysicsAsset.uasset": "36-26-2A-3D-A8-37-0E-6F",
+          "../../../FSD/Content/GameElements/Treasure/SK_TreasureBox_Skeleton.uasset": "5A-44-B8-32-47-10-9C-98",
+          "../../../FSD/Content/GameElements/Treasure/SM_TreasureBattery.uasset": "06-3D-AB-B5-0F-D9-5A-BD",
+          "../../../FSD/Content/GameElements/Treasure/ANIM_TreasureBox_Activate.uexp": "77-8A-58-E9-98-33-E2-E0",
+          "../../../FSD/Content/GameElements/Treasure/ANIM_TreasureBox_Closed.uexp": "21-5A-41-84-7E-C8-25-5F",
+          "../../../FSD/Content/GameElements/Treasure/ANIM_TreasureBox_Insert_L.uexp": "59-57-FC-F5-22-7E-F1-7D",
+          "../../../FSD/Content/GameElements/Treasure/ANIM_TreasureBox_Insert_R.uexp": "1F-03-1D-30-91-83-E2-4B",
+          "../../../FSD/Content/GameElements/Treasure/ANIM_TreasureBox_Open.uexp": "71-B5-F2-54-5A-05-1C-94",
+          "../../../FSD/Content/GameElements/Treasure/dysacellmat.uexp": "FF-B2-B6-5D-C6-3F-80-15",
+          "../../../FSD/Content/GameElements/Treasure/dysacelltex.uexp": "02-4D-A3-00-15-16-00-F9",
+          "../../../FSD/Content/GameElements/Treasure/SK_TreasureBox.uexp": "4B-34-24-77-82-E4-8C-F2",
+          "../../../FSD/Content/GameElements/Treasure/SK_TreasureBox_PhysicsAsset.uexp": "F1-8B-84-83-EE-42-B0-46",
+          "../../../FSD/Content/GameElements/Treasure/SK_TreasureBox_Skeleton.uexp": "53-B2-98-1D-AE-F9-51-EF",
+          "../../../FSD/Content/GameElements/Treasure/SM_TreasureBattery.uexp": "8B-07-B9-80-E4-61-34-82"
+        }
+      }
+    ]
+  },
   "dysonatorjr": {
     "DisplayName": "Dysonator Jr",
     "Version": "1.0",

@@ -31,6 +31,15 @@ Your in-game graphics settings for post-processing must be set to high/ultra.
 **Description:**  
 Removes creepy eyes from missions in case you happen to be allergic.
 
+## Dysacell Cargo Crate Batteries - v0.1
+**Authors:** HandDrawnNerd  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/addffe2259bb60a9e8425dee922cf72d7e128e8d/Visual/Misc/Dysacell%20Cargo%20Crate%20Batteries%20-%20V0.1%20_P.pak)  
+
+**Description:**  
+I guess that explains why we needed to mine all that Dystrum.  
+Replaces the model of the cargo crate and its batteries. The cargo crate animations have also been modified and are currently a bit buggy. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/871176634672226365)
+
 ## Explosionless PGL - v1.0
 **Authors:** Shrub  
 **DRG Version:** Update 34, HF 5  
