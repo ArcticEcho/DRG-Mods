@@ -50,6 +50,16 @@ Changes the class icons to their default pictogram. Yellow with a drill, red wit
 **Description:**  
 Changes the class icons to their true meaning in a pictogram. Yellow with a hand truck (the carry), red with an engine (the motor), green with a crosshair (the terminator) and blue with the hermes foot (the flying monkey).
 
+## Drip Control - v1.0
+**Authors:** Zega  
+**DRG Version:** Update 34 Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/277ab89d9827f9c983b96e9ec5e41cbe16ed0118/Visual/Textures%20%26%20Icons/Drip%20Control%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Mission Control has gotten some drip.  
+The texture was edited by my good friend \<@493332926709104640>  
+Link to the preview: https://discord.com/channels/676880716142739467/732650220214681600/871023829542133781
+
 ## Galaxy Skins - v1.1
 **Authors:** SirVerex  
 **DRG Version:** U34  

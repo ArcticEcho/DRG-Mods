@@ -4295,6 +4295,27 @@
     "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/6fd7f6f9a0cf8fbf35d9b5671bfc03f685431e68/CE%20Table/DRG%20Table%20-%20V4.9.0.zip",
     "Paks": []
   },
+  "dripcontrol": {
+    "DisplayName": "Drip Control",
+    "Version": "1.0",
+    "DrgVersion": "Update 34 Hotfix 5",
+    "AuthorIds": [
+      849317380977852466
+    ],
+    "Description": "Mission Control has gotten some drip.\nThe texture was edited by my good friend <@493332926709104640>\nLink to the preview: https://discord.com/channels/676880716142739467/732650220214681600/871023829542133781",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/277ab89d9827f9c983b96e9ec5e41cbe16ed0118/Visual/Textures%20%26%20Icons/Drip%20Control%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Drip Control - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_MissionControl.uasset": "6B-F7-DD-E2-36-B1-73-E2",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_MissionControl.uexp": "59-64-4A-E7-7F-54-44-4A",
+          "../../../FSD/Content/UI/Art/MainOnScreenHUD/ClassIcon/Characters/Icon_Character_MissionControl.ubulk": "76-91-4E-A8-D9-0A-B6-79"
+        }
+      }
+    ]
+  },
   "dripfortressendscreen": {
     "DisplayName": "Drip Fortress End Screen",
     "Version": "1.0",
