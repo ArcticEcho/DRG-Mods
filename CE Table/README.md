@@ -77,10 +77,10 @@ You can also rightclick on a scripts and create a hotkey.
 **Update v1.0 Changelog:**  
 Updated the description.
 
-## DRG Table - v4.9.0
+## DRG Table - v5.0
 **Authors:** Akira Fudo  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/6fd7f6f9a0cf8fbf35d9b5671bfc03f685431e68/CE%20Table/DRG%20Table%20-%20V4.9.0.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/abeff6b5e5afe9e665f464da42e0fa8ef3305bd3/CE%20Table/DRG%20Table%20-%20V5.0.zip)  
 
 **Description:**  
 This tool has hundreds of options so I'm not gonne list 'em here.  
@@ -94,14 +94,19 @@ You can also rightclick on a script and create a hotkey.
 For pointers you'll just doubleclick on the value at the right side and change it to what ever you want instead of checking the box at the left side.  
 Feel free to ping me if you have any questions.
 
-**Update v4.9.0 Changelog:**  
+**Update v5.0 Changelog:**  
 **Added Scripts:**  
-`Perks & Special Abilities` --> `Acivate Dash Perk`  
-`Common Class` --> `XP Boost`  
-`Mining` --> `Instant fill Pockets`  
-`Resource Editing` --> `Get 999000666 Credits`  
+`Scout` --> `GrapplingHookGun` --> `God Grappling Hook`  
+`Gunner` --> `Shield Generator` --> `Long Shield Duration`  
+`Gunner` --> `Shield Generator` --> `Big Shield Size`  
+`Gunner` --> `Shield Generator` --> `God Zipline Gun`  
+`Resource Editing` --> `Set all Crafting Materials, Gold & Perk Points to 999999`  
 **Also addded more pointers to:**  
 `Pointer` --> `[LocalPlayer]`  
-**And added shortcuts for some stuff in:**  
-`Pointer` --> `[LocalPlayer]` --> `Shortcut`  
-Showcase: https://discord.com/channels/676880716142739467/732650220214681600/863246769734156329
+```Diff  
+-Broken Scripts are now "Dark Red"  
+-Deactivated Scripts are Red  
++Activated Scripts are Green  
+```  
+Showcase: https://discord.com/channels/676880716142739467/732650220214681600/871066572352016435  
+https://discord.com/channels/676880716142739467/732650220214681600/871325408690315264
