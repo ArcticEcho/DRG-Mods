@@ -17495,14 +17495,14 @@
   },
   "wtfightmusic": {
     "DisplayName": "WTFightMusic",
-    "Version": "2.2",
+    "Version": "2.3",
     "DrgVersion": "Update 33 Hotfix 9",
     "AuthorIds": [
       298284172579962881
     ],
     "Description": "A music pack to make you stop in your tracks and ask, ‘TF am I listening to?’.  You’re guaranteed to get a good laugh while using this mod.  All in-game music and ambiances have been changed.  Each section will have a playlist you can view on YouTube.\n\nBoss music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchZKWXeXM8awc8klW4CuquU7.  Features the Wallace and Gromit theme.\nDuring any swarm, you’ll have a chance to hear any of the following songs from this playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchYQQaS5NClnkHYOn4Qx5hIr.  Features songs like Super Hey Yeah and Orphan Tears.\nWhile escaping the caves of Hoxxes, you can expect to hear music from this playlist https://www.youtube.com/playlist?list=PLdXm8_JvZchacaBUdl85g9Xyf3ug89KyX.  Features songs like the Giorno’s theme from Jojo and Heavy Pissed-Off Tuba Gunner.\nMission completed music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchY1FhQfMyZBoHxVCHSEWxss.  Features Super Mario 64 Bob-Omb Battlefield OST.\nEvent music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchZra0FZGbuyh9MV6yEBh7me.  Features Dr. Robotnik’s Mean Bean Machine.\nSpace rig music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchappZI89YgRUsbjlEpif68c.  Features chill music from Club Penguin.\nAmbiances bring you the haunted cave experience and are triggered every 3 minutes.  Listen closely.  You’ll have a chance to hear random laughter, people disappearing, an occasional meme, and children’s laughter at its creepiest (0.5x less chance than other ambiances).\nLoading music can be one of the following memes: https://www.youtube.com/playlist?list=PLdXm8_JvZchbX2o7RAFlqAE8O-INJ40Zx.  Features ‘I am the milkman, my milk is delicious’.",
-    "LastUpdateChangelog": "Removed annoying old songs and added fresh new oddities.  Also changed the way songs are randomized and looped.",
-    "DownloadUrl": "https://mega.nz/file/2x0gADTa#nCIFCZLjYj-Jzz_XIjzMRR9igRN4yflqgmMSaQl3MDQ",
+    "LastUpdateChangelog": "Fixed ambience not working when joining games in progress.  Removed credits from Julian Smith songs.  Added Mr. Blue Sky to wave music.",
+    "DownloadUrl": "https://mega.nz/file/u1USyBbI#-wKQ30-je5rqPnRiJXB6iUVVKM5IB3nuFKEcp6nhCgw",
     "Paks": null
   },
   "yeastconeforsale": {

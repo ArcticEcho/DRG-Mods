@@ -227,10 +227,10 @@ Replaces the streamer mode no-copyrighted jukebox songs with the 8 most popular 
 Adds the old machine event music back from Update 26.  
 Link to the original YT video: https://www.youtube.com/watch?v=6CkATd8CzlI
 
-## WTFightMusic - v2.2
+## WTFightMusic - v2.3
 **Authors:** CouchDiabetic  
 **DRG Version:** Update 33 Hotfix 9  
-**Download Link:** [Download](https://mega.nz/file/2x0gADTa#nCIFCZLjYj-Jzz_XIjzMRR9igRN4yflqgmMSaQl3MDQ) (third-party host)  
+**Download Link:** [Download](https://mega.nz/file/u1USyBbI#-wKQ30-je5rqPnRiJXB6iUVVKM5IB3nuFKEcp6nhCgw) (third-party host)  
 
 **Description:**  
 A music pack to make you stop in your tracks and ask, ‘TF am I listening to?’.  You’re guaranteed to get a good laugh while using this mod.  All in-game music and ambiances have been changed.  Each section will have a playlist you can view on YouTube.  
@@ -243,5 +243,5 @@ Space rig music playlist: https://www.youtube.com/playlist?list=PLdXm8_JvZchappZ
 Ambiances bring you the haunted cave experience and are triggered every 3 minutes.  Listen closely.  You’ll have a chance to hear random laughter, people disappearing, an occasional meme, and children’s laughter at its creepiest (0.5x less chance than other ambiances).  
 Loading music can be one of the following memes: https://www.youtube.com/playlist?list=PLdXm8_JvZchbX2o7RAFlqAE8O-INJ40Zx.  Features ‘I am the milkman, my milk is delicious’.
 
-**Update v2.2 Changelog:**  
-Removed annoying old songs and added fresh new oddities.  Also changed the way songs are randomized and looped.
+**Update v2.3 Changelog:**  
+Fixed ambience not working when joining games in progress.  Removed credits from Julian Smith songs.  Added Mr. Blue Sky to wave music.

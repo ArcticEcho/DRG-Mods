@@ -1,6 +1,6 @@
 This file is being hosted by a third-party file sharing platform, as it is too large to store on GitHub.
 The mod authors (CouchDiabetic) are responsible for maintaining its availability. If the link is broken please contact them.
 
-https://mega.nz/file/2x0gADTa#nCIFCZLjYj-Jzz_XIjzMRR9igRN4yflqgmMSaQl3MDQ
+https://mega.nz/file/u1USyBbI#-wKQ30-je5rqPnRiJXB6iUVVKM5IB3nuFKEcp6nhCgw
 
 (Mods that are hosted outside of our repository will miss out on several features provided by Karl Jr/GitHub, such as conflict detection, and version history.)
