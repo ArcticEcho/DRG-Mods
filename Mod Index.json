@@ -3629,6 +3629,26 @@
       }
     ]
   },
+  "ddetonators": {
+    "DisplayName": "ddetonators",
+    "Version": "1.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      297356398558183424
+    ],
+    "Description": "ddoubles ddown on ddetonator stats - mainly carve radius",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ef6f0bfd11ccfa7e7a86e67b445b73bfc360d734/Gameplay/Gamemodes/Handicaps/Ddetonators%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Ddetonators - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank.uasset": "C3-0A-9A-CC-8B-7F-32-1C",
+          "../../../FSD/Content/Enemies/Spider/ExploderTank/ENE_Spider_ExploderTank.uexp": "C2-F1-B1-ED-33-7A-85-AB"
+        }
+      }
+    ]
+  },
   "deeprocktheskatingrink": {
     "DisplayName": "Deep Rock - The Skating Rink",
     "Version": "1.0.0.0.1",

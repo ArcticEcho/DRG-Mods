@@ -58,6 +58,14 @@ Improved cave leech tessellation. Fewer opportunities to see that pesky "ceiling
 **Description:**  
 Molly doesn't want to be left alone. She gets anxious in these caves, y'know?
 
+## ddetonators - v1.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ef6f0bfd11ccfa7e7a86e67b445b73bfc360d734/Gameplay/Gamemodes/Handicaps/Ddetonators%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+ddoubles ddown on ddetonator stats - mainly carve radius
+
 ## Dysonator Jr - v1.0
 **Authors:** The Inevitable Luke  
 **DRG Version:** Update 34, Hotfix 5  
