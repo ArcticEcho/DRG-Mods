@@ -12404,6 +12404,34 @@
       }
     ]
   },
+  "randommissionselection": {
+    "DisplayName": "Random Mission Selection",
+    "Version": "0.0",
+    "DrgVersion": "34.X",
+    "AuthorIds": [
+      550333619940622359
+    ],
+    "Description": "***REQUIRES BPMM***\n\nAdds a simple BPMM GUI with hazard selection and random mission selection start. Only works on space rig, hostside.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/be0540984a0d7a63aaa152771705a75b20ee348a/Quality%20of%20Life/Time%20saving/Random%20Mission%20Selection%20-%20V0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Random Mission Selection - V0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_ModBPs/Mod055.uasset": "40-0D-BF-A1-E4-B0-1A-7B",
+          "../../../FSD/Content/_ModBPs/ModSpawningActor.uasset": "D3-28-EE-C3-51-FF-FB-DE",
+          "../../../FSD/Content/_ModBPs/TrueMod.uasset": "08-3F-39-9C-92-42-84-BF",
+          "../../../FSD/Content/RandomMissionSelection/RMSBPMMGUI.uasset": "02-B6-26-D8-C0-54-92-BA",
+          "../../../FSD/Content/RandomMissionSelection/RMSModActor.uasset": "F2-93-D3-DA-CA-02-5C-EB",
+          "../../../FSD/Content/_ModBPs/Mod055.uexp": "40-40-1A-A1-B3-39-56-E2",
+          "../../../FSD/Content/_ModBPs/ModSpawningActor.uexp": "47-F3-A6-2B-2E-07-9F-80",
+          "../../../FSD/Content/_ModBPs/TrueMod.uexp": "B5-82-B0-7D-9D-4A-85-5B",
+          "../../../FSD/Content/RandomMissionSelection/RMSBPMMGUI.uexp": "5F-F4-DB-4B-0F-56-EE-A0",
+          "../../../FSD/Content/RandomMissionSelection/RMSModActor.uexp": "37-C2-A5-7A-5A-39-F0-73"
+        }
+      }
+    ]
+  },
   "rapiditycontrol": {
     "DisplayName": "Rapidity Control",
     "Version": "0.0",
