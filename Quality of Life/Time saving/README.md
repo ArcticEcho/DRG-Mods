@@ -114,8 +114,8 @@ Made it so this mod no longer requires LOCRES to look fancy
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/be0540984a0d7a63aaa152771705a75b20ee348a/Quality%20of%20Life/Time%20saving/Random%20Mission%20Selection%20-%20V0.0%20_P.pak)  
 
 **Description:**  
-***REQUIRES BPMM***  
-Adds a simple BPMM GUI with hazard selection and random mission selection start. Only works on space rig, hostside.
+***Requires BPMM***  
+Adds a simple BPMM GUI with hazard selection and random mission selection button (on the right from `LESSGOOO!`)
 
 ## SpeedyEscort - v1.04
 **Authors:** BongoSkaggs  
