@@ -62,20 +62,22 @@ All weapons and upgrades are optional so you can revert to vanilla gunner stats 
 **Update v1.1 Changelog:**  
 Removed stock shotgun skin bug from all weapons.
 
-## Dreadnought Buffs - v3.5
+## Dreadnought Buffs - v3.6
 **Authors:** Potatolaser  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/700d913ca98b31e77651be62fdfc5dd0da6114f2/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.5.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/576ef0fa043b5f33cdba7fba7d560b6afcd6f026/Gameplay/Gamemodes/Alternative%20playstyles/Dreadnought%20Buffs%20-%20V3.6.zip)  
 
 **Description:**  
-Buffs the dreadnoughts! There's a lot of general changes like a bit more health, damage, speed, knockback, and they’re slightly harder to freeze; but the Big Ones are:  
-**OG DREAD**- Faster fireballs, larger aoe slam radius, eggshots spawn extra swarmers, zap you, and have a large aoe OR damage upgrade  
-**HIVEGUARD**- Slower sentinel goo, faster turn radius. Two versions with lots of fireball carve and aoe radius OR movespeed and bite damage  
-**TWINS**- Rockwave attack knockback boost, arbalest mines make you really cold really quickly OR they explode really quickly and damage you  
-    If you don’t like those OR statements, there are now EX versions that just do all of those things!
+There are multiple pak files per dreadnought, so you can customize which ones you want buffed and what direction you want to buff them in. There's a lot of general changes like a bit more health, damage, speed, knockback, and they’re slightly harder to freeze; but the Big Ones are:  
+**OG DREAD**- Faster fireballs, larger aoe slam radius, eggshots spawn extra swarmers and zap you. Can make the eggshot have extra aoe or damage.  
+**HIVEGUARD**- Slower, larger sentinel goo. Can choose between extra fireball carve and aoe radius OR Hiveguard movespeed and bite damage.  
+**TWINS**- Mines explode sooner. Can make the Arbalest mines freeze OR make the Lacerator's flames set dwarves on fire for a while.  
+    If you don’t like those OR statements, there are also EX versions that just do all of those things! Full changelist in zip
 
-**Update v3.5 Changelog:**  
-Returned hiveguard turnspeed to vanilla values, as it was sometimes causing issues with projectile hit registration if everyone didn't have the mod
+**Update v3.6 Changelog:**  
+-PrepareForTroubleDMG rework: Now called PrepareForTroubleHEAT. The lacerator's flamethrower does HEAT damage (only affects your temperature). Additionally, your max temperature is increased if you take this one. The arbalest mines still do the same damage as before.  
+-PrepareForTroubleICE update: Being frozen increases your damage taken by about 2.5x if you take this one. Why would only the bugs take extra damage, anyway?  
+-PrepareForTroubleEX update: Makes you extra vulnerable to damage while frozen (3x) *and* increases your maximum temperature. Lacerator flamethrower damage increased to 85 (from 14), in line with HEAT's numbers
 
 ## Health For Shields Compilation - v1.0
 **Authors:** Our Lord And Savior Gabe Newell, NaturalBornCamper  
