@@ -245,3 +245,11 @@ Loading music can be one of the following memes: https://www.youtube.com/playlis
 
 **Update v2.3 Changelog:**  
 Fixed ambience not working when joining games in progress.  Removed credits from Julian Smith songs.  Added Mr. Blue Sky to wave music.
+
+## Yakuza Music Pak - v1.0
+**Authors:** Galactispunk  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/dc084a6655c6d7a03c06dfdcc76eb98f3548a533/Audio/Music/Yakuza%20Music%20Pak%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Replaces all combat music (Wave, end wave, escape, boss and event) with songs from the Yakuza franchise. Some songs were adjusted or extended to better fit, so there may be a few songs with awkward jumps or endings.
