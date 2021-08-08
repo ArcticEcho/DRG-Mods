@@ -65,6 +65,14 @@ Adds a passive effect for Berzerker perk (not reflected in in-game texts!)
 + +50% of power attack charge if a power attack has scored at least one kill of a hostile  
 ```
 
+## Cubic Platforms - v0.0
+**Authors:** Drillboy Jenkins  
+**DRG Version:** U34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/eb01380ae075f8c82dec172c34745e9d22794f33/Gameplay/Balanced/Cubic%20Platforms%20-%20V0.0%20_P.pak)  
+
+**Description:**  
+Yes, they finally made it into live!
+
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  

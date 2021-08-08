@@ -3090,6 +3090,38 @@
     "DownloadUrl": "https://drive.google.com/file/d/1-m761IfBj-SgsZlc7kLL8q6WJbTUhP8p/view?usp=sharing",
     "Paks": null
   },
+  "cubicplatforms": {
+    "DisplayName": "Cubic Platforms",
+    "Version": "0.0",
+    "DrgVersion": "U34",
+    "AuthorIds": [
+      550333619940622359
+    ],
+    "Description": "Yes, they finally made it into live!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/eb01380ae075f8c82dec172c34745e9d22794f33/Gameplay/Balanced/Cubic%20Platforms%20-%20V0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Cubic Platforms - V0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/UPG_PlatformGun_CubicPlats-UAsset.json": "65-9A-1C-6B-3E-EF-C7-10",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/UPG_PlatformGun_CubicPlats.uasset": "54-FB-F8-BA-EC-5C-4D-E4",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/UPG_PlatformGun_CubicPlats.uasset.daum": "54-FB-F8-BA-EC-5C-4D-E4",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/UPG_PlatformGun_CubicPlats.uasset.offset": "54-FB-F8-BA-EC-5C-4D-E4",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/UPG_PlatformGun_CubicPlats.uexp.daum": "F0-6E-5F-AA-4A-9F-2F-51",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun-UAsset.json": "0C-CC-D0-50-37-01-A9-23",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset": "B3-A9-79-DF-87-2F-FF-E5",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset.daum": "B3-A9-79-DF-87-2F-FF-E5",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset.offset": "B3-A9-79-DF-87-2F-FF-E5",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uexp.daum": "A6-78-F5-BC-A2-82-8C-31",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/zzz_CubicPlats.ds": "DD-E7-17-53-CB-C2-BA-FF",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/zzz_WPN.ds": "CE-27-DE-D8-A7-76-23-E3",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/UPG_PlatformGun_CubicPlats.uexp": "F0-6E-5F-AA-4A-9F-2F-51",
+          "../../../FSD/Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uexp": "B8-5C-01-53-65-D0-C8-D8"
+        }
+      }
+    ]
+  },
   "customenemycap": {
     "DisplayName": "Custom Enemy Cap",
     "Version": "2.7",
