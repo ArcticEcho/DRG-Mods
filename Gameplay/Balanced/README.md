@@ -93,15 +93,15 @@ damage 4 > 5.5
 mk2 upgrade damage decreased 5 > 4  
 gemini system ammo increased 100 > 200
 
-## Dreaming Heretic - v8-5-2021
+## Dreaming Heretic - v8-7-2021
 **Authors:** Shattered, BongoSkaggs  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/85896e5dbd13a03a88208913ba7ebe343f7688c4/Gameplay/Balanced/Dreaming%20Heretic%20-%20V8-5-2021%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/1c534336b78e12b3338132625380466364be1182/Gameplay/Balanced/Dreaming%20Heretic%20-%20V8-7-2021%20_P.pak)  
 
 **Description:**  
 A balance mod that changes mostly weapons and perks to create more build variety. Also includes some minor quality of life changes. Credit to BongoSkaggs for making the Subata 120 fully automatic! Change List: https://docs.google.com/document/d/1543gY-XgHrtwWOMpajyBnj1l1ndv2xE3X0biXki5Xkk/edit?usp=sharing
 
-**Update v8-5-2021 Changelog:**  
+**Update v8-7-2021 Changelog:**  
 Balance changes.
 
 ## Excavation Grenade - v2.0
