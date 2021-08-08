@@ -71,7 +71,9 @@ Adds a passive effect for Berzerker perk (not reflected in in-game texts!)
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/eb01380ae075f8c82dec172c34745e9d22794f33/Gameplay/Balanced/Cubic%20Platforms%20-%20V0.0%20_P.pak)  
 
 **Description:**  
-Yes, they finally made it into live!
+***WARNING***  
+This mod is host-side, but requires clients to download it if they want to use the upgrade too. Let's call this RHU - Required at Hostside and for active Users.  
+Yes, they finally made it into live! Adds a new Tier 4 for the platgun so platform shape is a freely togglable option.
 
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
