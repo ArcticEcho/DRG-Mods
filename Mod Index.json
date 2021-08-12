@@ -3997,18 +3997,18 @@
   },
   "dreamingheretic": {
     "DisplayName": "Dreaming Heretic",
-    "Version": "8-10-2021",
+    "Version": "8-12-2021",
     "DrgVersion": "u34",
     "AuthorIds": [
       385384075168448513,
       243195324594782210
     ],
     "Description": "A balance mod that changes mostly weapons and perks to create more build variety. Also includes some minor quality of life changes. Credit to BongoSkaggs for making the Subata 120 fully automatic! Change List: https://docs.google.com/document/d/1543gY-XgHrtwWOMpajyBnj1l1ndv2xE3X0biXki5Xkk/edit?usp=sharing",
-    "LastUpdateChangelog": "Zipline changes (mostly buffs), other minor changes.",
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/b39896953c741b20b49cd983e5a7754bff42041b/Gameplay/Balanced/Dreaming%20Heretic%20-%20V8-10-2021%20_P.pak",
+    "LastUpdateChangelog": "Reverted Elephant Rounds to vanilla.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/457a8227f3f78d81ec2f9e0dfabc2973d29b1031/Gameplay/Balanced/Dreaming%20Heretic%20-%20V8-12-2021%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Dreaming Heretic - V8-10-2021",
+        "PakFileName": "Dreaming Heretic - V8-12-2021",
         "CookedFileHashes": {
           "../../../FSD/Content/Enemies/MuleInfected/ENE_InfectedMule.uasset": "D3-E4-9B-A7-2B-7B-43-59",
           "../../../FSD/Content/Enemies/MuleInfected/Parasite/ENE_Parasite.uasset": "E0-8E-D3-AF-FE-E6-11-AE",
@@ -4148,7 +4148,6 @@
           "../../../FSD/Content/WeaponsNTools/Pistol/WPN_Pistol_A.uasset": "29-76-02-6D-B6-C3-83-CF",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo+10p_Revolver.uasset": "B5-A7-64-7B-F6-B0-C6-64",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Bonus_ChainHitChance.uasset": "19-98-CE-74-31-6C-65-D0",
-          "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Dmage100Percent_Revolver.uasset": "A5-F7-F8-94-52-CB-6C-AA",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Bonus_RoF_5_Revolver.uasset": "26-1C-24-77-7A-7A-80-57",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Damage_50p.uasset": "63-DC-AA-56-E1-D4-B0-48",
           "../../../FSD/Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uasset": "37-7F-29-E2-82-C0-B5-FF",
@@ -4319,7 +4318,6 @@
           "../../../FSD/Content/WeaponsNTools/Pistol/WPN_Pistol_A.uexp": "F8-9C-63-43-72-24-54-47",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Ammo+10p_Revolver.uexp": "33-E0-DF-02-0D-BD-F9-DE",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Bonus_ChainHitChance.uexp": "A6-FF-D7-57-36-04-55-3D",
-          "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Bonus_Dmage100Percent_Revolver.uexp": "0B-CB-F5-75-29-EB-E5-37",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Bonus_RoF_5_Revolver.uexp": "30-63-DF-DA-2C-A7-4B-0E",
           "../../../FSD/Content/WeaponsNTools/Revolver/Overclocks/OC_BonusesAndPenalties/OC_Penalty_Damage_50p.uexp": "35-2B-16-3B-7B-D8-61-F2",
           "../../../FSD/Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uexp": "57-D8-B5-36-95-91-C4-5D",
