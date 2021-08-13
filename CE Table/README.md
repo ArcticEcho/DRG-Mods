@@ -77,10 +77,10 @@ You can also rightclick on a scripts and create a hotkey.
 **Update v1.0 Changelog:**  
 Updated the description.
 
-## DRG Table - v5.0
+## DRG Table - v5.1
 **Authors:** Akira Fudo  
 **DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/abeff6b5e5afe9e665f464da42e0fa8ef3305bd3/CE%20Table/DRG%20Table%20-%20V5.0.zip)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/cc341d8cc2332e4ee561b9c7b03a26da197e668a/CE%20Table/DRG%20Table%20-%20V5.1.zip)  
 
 **Description:**  
 This tool has hundreds of options so I'm not gonne list 'em here.  
@@ -94,19 +94,15 @@ You can also rightclick on a script and create a hotkey.
 For pointers you'll just doubleclick on the value at the right side and change it to what ever you want instead of checking the box at the left side.  
 Feel free to ping me if you have any questions.
 
-**Update v5.0 Changelog:**  
+**Update v5.1 Changelog:**  
 **Added Scripts:**  
-`Scout` --> `GrapplingHookGun` --> `God Grappling Hook`  
-`Gunner` --> `Shield Generator` --> `Long Shield Duration`  
-`Gunner` --> `Shield Generator` --> `Big Shield Size`  
-`Gunner` --> `Shield Generator` --> `God Zipline Gun`  
-`Resource Editing` --> `Set all Crafting Materials, Gold & Perk Points to 999999`  
-**Also addded more pointers to:**  
-`Pointer` --> `[LocalPlayer]`  
+`Table` --> `Deactivate all Scripts`  
+`Gunner` --> `Minigun` --> `God like Gatling Gun`  
+`Perks & Special Abilities` --> `Change Global Gravity Scale`  
+`Common Class` --> `Daylight`  
+`Funny Mods` --> `Dance Pointer`  
 ```Diff  
 -Broken Scripts are now "Dark Red"  
 -Deactivated Scripts are Red  
 +Activated Scripts are Green  
-```  
-Showcase: https://discord.com/channels/676880716142739467/732650220214681600/871066572352016435  
-https://discord.com/channels/676880716142739467/732650220214681600/871325408690315264
+```
