@@ -296,10 +296,10 @@ NOTES:
 **Update v34.4.0 Changelog:**  
 Update for DRG 34.4
 
-## Swarm Size Control (missions and Deep Dives) (1.5x - 2x - 3x - 4x - 5x) - v1.0
+## Swarm Size Control - v1.0
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 34, Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/806afbb87be9ed74ed261c09ed4dd53e9921020c/Gameplay/Gamemodes/Hazard%20Levels/Swarm%20Size%20Control%20%28missions%20And%20Deep%20Dives%29%20%281.5x%20-%202x%20-%203x%20-%204x%20-%205x%29%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4cc98a1dc18db329af37c88d2e65e8bbcc3a39c0/Gameplay/Gamemodes/Hazard%20Levels/Swarm%20Size%20Control%20-%20V1.0%20_P.pak)  
 
 **Description:**  
 **Requires the BP Mod Manager**  

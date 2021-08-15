@@ -16673,8 +16673,8 @@
       }
     ]
   },
-  "swarmsizecontrolmissionsanddeepdives15x2x3x4x5x": {
-    "DisplayName": "Swarm Size Control (missions and Deep Dives) (1.5x - 2x - 3x - 4x - 5x)",
+  "swarmsizecontrol": {
+    "DisplayName": "Swarm Size Control",
     "Version": "1.0",
     "DrgVersion": "Update 34, Hotfix 4",
     "AuthorIds": [
@@ -16682,7 +16682,7 @@
     ],
     "Description": "**Requires the BP Mod Manager**\n**Requires \"Custom Cap\" mod or enemies will de-spawn**\nHigher enemy count for an alternate higher difficulty, spawning more enemies instead of making them spongier/tougher.\nReplaces my old \"Larger enemy spawns\", better version with a slider for a custom spawn multiplier, with increments of 0.25, all the way to 10x (As Hazard 1 - 5x enemies was not much more than regular Hazard 5)\nBetter play with 1.5x or 2x versions for a fun experience as I added 4x and more just for fun (try popping a nexus and see the swarmer fountain haha), but actually fun on regular DD\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n\nNOTES:\n-Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health%\n-You should use the mod to improve Doretta's damage resistance (as you will be busy with enemies)\n-You can use the mod \"Cheaper resupplies\" with 60 nitra if you're having ammo problems\n-No XP boost or any other modification, this is just for fun\n\nKNOWN ISSUES:\n-After changing multiplier in space rig, missions will highlight Hazard 1 by default, no idea why. Problem disappears after disbanding or finishing a mission",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/806afbb87be9ed74ed261c09ed4dd53e9921020c/Gameplay/Gamemodes/Hazard%20Levels/Swarm%20Size%20Control%20%28missions%20And%20Deep%20Dives%29%20%281.5x%20-%202x%20-%203x%20-%204x%20-%205x%29%20-%20V1.0%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4cc98a1dc18db329af37c88d2e65e8bbcc3a39c0/Gameplay/Gamemodes/Hazard%20Levels/Swarm%20Size%20Control%20-%20V1.0%20_P.pak",
     "Paks": [
       {
         "PakFileName": "Swarm Size Control (missions And Deep Dives) (1.5x - 2x - 3x - 4x - 5x) - V1.0",
