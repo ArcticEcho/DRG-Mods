@@ -297,3 +297,25 @@ NOTES:
 
 **Update v34.4.0 Changelog:**  
 Update for DRG 34.4
+
+## Swarm Size Control (missions and Deep Dives) (1.5x - 2x - 3x - 4x - 5x) - v1.0
+**Authors:** NaturalBornCamper  
+**DRG Version:** Update 34, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/806afbb87be9ed74ed261c09ed4dd53e9921020c/Gameplay/Gamemodes/Hazard%20Levels/Swarm%20Size%20Control%20%28missions%20And%20Deep%20Dives%29%20%281.5x%20-%202x%20-%203x%20-%204x%20-%205x%29%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+**Requires the BP Mod Manager**  
+**Requires "Custom Cap" mod or enemies will de-spawn**  
+Higher enemy count for an alternate higher difficulty, spawning more enemies instead of making them spongier/tougher.  
+Replaces my old "Larger enemy spawns", better version with a slider for a custom spawn multiplier, with increments of 0.25, all the way to 10x (As Hazard 1 - 5x enemies was not much more than regular Hazard 5)  
+Better play with 1.5x or 2x versions for a fun experience as I added 4x and more just for fun (try popping a nexus and see the swarmer fountain haha), but actually fun on regular DD  
+Preview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992  
+Preview (Youtube): https://youtu.be/0k3bVdkpSOs  
+Preview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686  
+NOTES:  
+-Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health%  
+-You should use the mod to improve Doretta's damage resistance (as you will be busy with enemies)  
+-You can use the mod "Cheaper resupplies" with 60 nitra if you're having ammo problems  
+-No XP boost or any other modification, this is just for fun  
+KNOWN ISSUES:  
+-After changing multiplier in space rig, missions will highlight Hazard 1 by default, no idea why. Problem disappears after disbanding or finishing a mission
