@@ -212,6 +212,7 @@ The two mod packages are the same except for the language translation
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e6c05c785c08c68cb613324f8b99f3411cbffc49/Gameplay/Gamemodes/Hazard%20Levels/Larger%20Enemy%20Spawns%2C%20For%20Missions%20And%20Deep%20Dives%20%281.5x%2C%202x%2C%203x%2C%C2%A04x%2C%205x%29%20-%20V34.4.0.zip)  
 
 **Description:**  
+!!!!!!!!!!OBSOLETE USE THE MOD "SWARM SIZE CONTROL" INSTEAD!!!!!!!!!!!!  
 This mods simply make the game spawn more enemies without changing anything else. This means swarms will be larger, nests will shoot more swarmers, nexus will pop more swarmers, etc  
 This is as close to vanilla as possible, so you can expect normal game behavior apart from the increased spawn. Also makes normal Deep Dive fun again, less boring 😉  
 Better play with 1.5x or 2x versions for a fun experience as I added 3x, 4x and 5x just for fun (try popping a nexus and see the swarmer fountain haha), but actually fun on regular DD  
@@ -220,9 +221,6 @@ Preview (Youtube): https://youtu.be/0k3bVdkpSOs
 Preview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686  
 \-------------------  
 --Higher enemy count for an alternate higher difficulty, spawning more enemies instead of making them tougher.  
---Variation 2x has 200% enemies (150% enemies single player)  
---Variation 1.5x has 150% enemies (125% enemies single player)  
---Variations 3x, 4x and 5x are not recommended for normal gameplay  
 --No XP boost or any other modification, this is just for fun  
 --Use obviously the multiplier file you choose  
 --Replaces Haz 3, 4, 5 and DD/EDD. Only the host needs the mod  
