@@ -14,7 +14,7 @@ Tweaks to graphics and stuff that can improve performance.
 This mod attempts to stabilise your FPS by dynamically adjusting the game's resolution. Works best with vsync disabled.
 
 ## Quarter Death Duration - v1.4
-**Authors:** Shrub_Daddy  
+**Authors:** Shrub  
 **DRG Version:** U34, HF 1  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a9a5d7746a087b400898a5deb60001869373c0c5/Quality%20of%20Life/Graphics%20%26%20Performance/Quarter%20Death%20Duration%20-%20V1.4%20_P.pak)  
 
@@ -27,3 +27,11 @@ Sets the ragdoll duration for most Glyphids to ≤5 seconds, except for enemies 
 
 **Update v1.4 Changelog:**  
 Updated for U34, HF 1
+
+## Remove Flares - v1.0.0
+**Authors:** Pugglez  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e99a3b3db59dc936b89bf22d118eeb5cc7aef8d8/Quality%20of%20Life/Graphics%20%26%20Performance/Remove%20Flares%20-%20V1.0.0%20_P.pak)  
+
+**Description:**  
+Removes all individual dwarves' flares and Scout's flare gun dart entities from being visible. The light glow still exists, you just don't see the physical flare body itself anymore. Intended to hopefully improve your FPS.

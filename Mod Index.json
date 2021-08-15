@@ -14245,6 +14245,28 @@
       }
     ]
   },
+  "removeflares": {
+    "DisplayName": "Remove Flares",
+    "Version": "1.0.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      209416328057061376
+    ],
+    "Description": "Removes all individual dwarves' flares and Scout's flare gun dart entities from being visible. The light glow still exists, you just don't see the physical flare body itself anymore. Intended to hopefully improve your FPS.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e99a3b3db59dc936b89bf22d118eeb5cc7aef8d8/Quality%20of%20Life/Graphics%20%26%20Performance/Remove%20Flares%20-%20V1.0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Remove Flares - V1.0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Art/Props/SM_Flare.uasset": "71-E5-38-52-16-83-B7-9B",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/SM_FlareGun_Dart.uasset": "5F-F6-61-4F-87-37-6F-81",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/SM_Flaregun_Dart_A.uasset": "84-69-7B-6E-50-F6-22-87",
+          "../../../FSD/Content/WeaponsNTools/FlareGun/SM_Flaregun_Dart_B.uasset": "D4-34-06-A1-BA-55-68-7F"
+        }
+      }
+    ]
+  },
   "reverselow2": {
     "DisplayName": "Reverse Low2",
     "Version": "1.0",
