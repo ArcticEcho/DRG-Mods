@@ -26,3 +26,12 @@ Replaces all Dwarf footstep sounds with the Half Life 1 footsteps.
 
 **Description:**  
 Replaces Heighten Senses sound with Metal Gear Alert Sound
+
+## You are dead plays while downed - v1.0
+**Authors:** Galactispunk  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/695b6f007aa9eedac1a58e2009c30c3668a98783/Audio/Other/You%20Are%20Dead%20Plays%20While%20Downed%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Technically. The song "You are dead" from Total Distortion plays when spectating other players while downed. From what I know this is the closest you can get to having a song play only when downed.  
+Also the song resets whenever you switch player camera.

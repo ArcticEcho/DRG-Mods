@@ -17818,6 +17818,28 @@
       }
     ]
   },
+  "youaredeadplayswhiledowned": {
+    "DisplayName": "You are dead plays while downed",
+    "Version": "1.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      283318602852073473
+    ],
+    "Description": "Technically. The song \"You are dead\" from Total Distortion plays when spectating other players while downed. From what I know this is the closest you can get to having a song play only when downed.\nAlso the song resets whenever you switch player camera.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/695b6f007aa9eedac1a58e2009c30c3668a98783/Audio/Other/You%20Are%20Dead%20Plays%20While%20Downed%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "You Are Dead Plays While Downed - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/UI/DeathCam/DeathCam_RadioNoise.uasset": "C7-41-3E-BE-03-0D-9C-3E",
+          "../../../FSD/Content/ShaderArchive-DRGstuff2-PCD3D_SM5.ushaderbytecode": "20-4D-C7-E0-11-E6-D6-60",
+          "../../../FSD/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode": "22-28-1E-40-A6-79-D3-76",
+          "../../../FSD/Content/Audio/SFX/UI/DeathCam/DeathCam_RadioNoise.uexp": "68-B0-C1-C3-8A-90-A9-55"
+        }
+      }
+    ]
+  },
   "ziplinegunspeedammoandanglebuffed": {
     "DisplayName": "ZiplineGun Speed, Ammo and Angle Buffed",
     "Version": "1.0",
