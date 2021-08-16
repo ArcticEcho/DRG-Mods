@@ -6406,6 +6406,28 @@
       }
     ]
   },
+  "heavyfromteamfortress2announcesyourdeath": {
+    "DisplayName": "Heavy From Team Fortress 2 Announces Your Death",
+    "Version": "1.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      283318602852073473
+    ],
+    "Description": "Makes the Heavy from Team Fortress 2 loudly scream DEAD whenever you die.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/da0058fa899671adad4d68b2e1c871ec4a27a17c/Audio/Other/Heavy%20From%20Team%20Fortress%202%20Announces%20Your%20Death%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Heavy From Team Fortress 2 Announces Your Death - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/SFX/Characters/PlayerDown/PlayerDownA_1.uasset": "CF-C8-E8-9F-A0-0A-8D-B4",
+          "../../../FSD/Content/ShaderArchive-DRGstuff2-PCD3D_SM5.ushaderbytecode": "20-4D-C7-E0-11-E6-D6-60",
+          "../../../FSD/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode": "22-28-1E-40-A6-79-D3-76",
+          "../../../FSD/Content/Audio/SFX/Characters/PlayerDown/PlayerDownA_1.uexp": "AD-F3-82-14-CE-E9-84-2B"
+        }
+      }
+    ]
+  },
   "heavyleadstorm": {
     "DisplayName": "Heavy Lead Storm",
     "Version": "1.1",

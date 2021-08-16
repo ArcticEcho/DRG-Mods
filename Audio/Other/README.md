@@ -3,6 +3,14 @@ Audio changes for misc sounds not related to the other categories.
 
 <!-- mod list -->
 
+## Heavy From Team Fortress 2 Announces Your Death - v1.0
+**Authors:** Galactispunk  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/da0058fa899671adad4d68b2e1c871ec4a27a17c/Audio/Other/Heavy%20From%20Team%20Fortress%202%20Announces%20Your%20Death%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Makes the Heavy from Team Fortress 2 loudly scream DEAD whenever you die.
+
 ## HL1 Footsteps - v1.0
 **Authors:** Zegastion  
 **DRG Version:** Update 33-34  

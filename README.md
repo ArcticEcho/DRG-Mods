@@ -58,6 +58,7 @@ You can easily locate your game installation path using steam:
  - **[Text to Speech Doretta](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/NPC/README.MD#text-to-speech-doretta---v10)** by HandDrawnNerd ([download](https://github.com/ArcticEcho/DRG-Mods/raw/f7466b0d9db0fd1c7e64f594e27501eb1282a56d/Audio/NPC/Text%20To%20Speech%20Doretta%20-%20V1.0%20_P.pak))
 
 ## [Audio/Other](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other)
+ - **[Heavy From Team Fortress 2 Announces Your Death](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other/README.md#heavy-from-team-fortress-2-announces-your-death---v10)** by Galactispunk ([download](https://github.com/ArcticEcho/DRG-Mods/raw/da0058fa899671adad4d68b2e1c871ec4a27a17c/Audio/Other/Heavy%20From%20Team%20Fortress%202%20Announces%20Your%20Death%20-%20V1.0%20_P.pak))
  - **[HL1 Footsteps](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other/README.md#hl1-footsteps---v10)** by Zegastion ([download](https://github.com/ArcticEcho/DRG-Mods/raw/25f135e27b4925f63529aefb89bf99d545e2eb57/Audio/Other/HL1%20Footsteps%20-%20V1.0.zip))
  - **[Metal Gear Alert Heightened Senses](https://github.com/ArcticEcho/DRG-Mods/tree/main/Audio/Other/README.md#metal-gear-alert-heightened-senses---v1)** by Pacagma ([download](https://github.com/ArcticEcho/DRG-Mods/raw/7e2a85f66bef685ebeefda9314fc22724c064028/Audio/Other/Metal%20Gear%20Alert%20Heightened%20Senses%20-%20V1%20_P.pak))
 
