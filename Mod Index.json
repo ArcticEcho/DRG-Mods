@@ -16697,20 +16697,20 @@
   },
   "swarmsizecontrol": {
     "DisplayName": "Swarm Size Control",
-    "Version": "1.0",
-    "DrgVersion": "Update 34, Hotfix 4",
+    "Version": "1.1",
+    "DrgVersion": "Update 34, Hotfix 5",
     "AuthorIds": [
       306800962432008193
     ],
-    "Description": "**Requires the BP Mod Manager**\n**Requires \"Custom Cap\" mod or enemies will de-spawn**\nHigher enemy count for an alternate higher difficulty, spawning more enemies instead of making them spongier/tougher.\nReplaces my old \"Larger enemy spawns\", better version with a slider for a custom spawn multiplier, with increments of 0.25, all the way to 10x (As Hazard 1 - 5x enemies was not much more than regular Hazard 5)\nBetter play with 1.5x or 2x versions for a fun experience as I added 4x and more just for fun (try popping a nexus and see the swarmer fountain haha), but actually fun on regular DD\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n\nNOTES:\n-Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health%\n-You should use the mod to improve Doretta's damage resistance (as you will be busy with enemies)\n-You can use the mod \"Cheaper resupplies\" with 60 nitra if you're having ammo problems\n-No XP boost or any other modification, this is just for fun\n\nKNOWN ISSUES:\n-After changing multiplier in space rig, missions will highlight Hazard 1 by default, no idea why. Problem disappears after disbanding or finishing a mission",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/4cc98a1dc18db329af37c88d2e65e8bbcc3a39c0/Gameplay/Gamemodes/Hazard%20Levels/Swarm%20Size%20Control%20-%20V1.0%20_P.pak",
+    "Description": "**Requires the BP Mod Manager**\n**Requires \"Custom Cap\" mod to boost the max enemies on screen or they will de-spawn**\nHigher enemy count for an alternate higher difficulty, spawning more enemies instead of making them spongier/tougher.\nReplaces my old \"Larger enemy spawns\", better version with a slider for a custom spawn multiplier, with increments of 0.25, all the way to 10x (As Hazard 1 - 5x enemies was not much more than regular Hazard 5)\nBetter play with 1.5x or 2x versions for a fun experience as I added 4x and above just for fun or lower hazards fun (try popping a nexus and see the swarmer fountain haha), but actually fun on regular DD\nPreview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992\nPreview (Youtube): https://youtu.be/0k3bVdkpSOs\nPreview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686\n\nNOTES:\n-Escort mission increased flying rocks can be overwhelming, I recommend the mod to reduce their health%\n-You should use the mod to improve Doretta's damage resistance (as you will be busy with enemies)\n-You can use the mod \"Cheaper resupplies\" with if you're having ammo shortage\n-No XP boost or any other modification, this is just for fun\n\nKNOWN ISSUES:\n-After changing multiplier in space rig, missions will highlight Hazard 1 by default, no idea why. Problem disappears after disbanding or finishing a mission",
+    "LastUpdateChangelog": "Activates multiplier for deep dives that needed a separate operation",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3840b2a9b1eacd2125e491ef66a8db9ce76e57d5/Gameplay/Gamemodes/Hazard%20Levels/Swarm%20Size%20Control%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Swarm Size Control (missions And Deep Dives) (1.5x - 2x - 3x - 4x - 5x) - V1.0",
+        "PakFileName": "Swarm Size Control - V1.1",
         "CookedFileHashes": {
           "../../../FSD/Content/_ModBPs/HelperFunctions.uasset": "71-BE-DF-52-76-2F-6F-30",
-          "../../../FSD/Content/_ModBPs/Mod072.uasset": "DB-00-E3-62-B4-16-EC-78",
+          "../../../FSD/Content/_ModBPs/Mod072.uasset": "1C-54-92-B8-36-D0-56-B1",
           "../../../FSD/Content/_ModBPs/ModBaseV2.uasset": "FC-D2-69-62-5A-AA-C1-2B",
           "../../../FSD/Content/_ModBPs/SavedEnemyMultiplier.uasset": "25-D1-01-D0-98-0D-31-8A",
           "../../../FSD/Content/_ModBPs/Widgets/BPMMGUI.uasset": "FA-B4-3A-85-4B-4C-71-99",
@@ -16718,7 +16718,7 @@
           "../../../FSD/Content/ShaderArchive-FSD-PCD3D_SM5.ushaderbytecode": "D0-C7-64-D7-64-28-92-6D",
           "../../../FSD/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode": "22-28-1E-40-A6-79-D3-76",
           "../../../FSD/Content/_ModBPs/HelperFunctions.uexp": "86-1B-2F-EC-E8-DD-66-35",
-          "../../../FSD/Content/_ModBPs/Mod072.uexp": "BD-4A-E9-75-92-0E-68-08",
+          "../../../FSD/Content/_ModBPs/Mod072.uexp": "1A-B0-A9-41-06-71-1A-9F",
           "../../../FSD/Content/_ModBPs/ModBaseV2.uexp": "78-A1-D6-7E-09-43-1A-2F",
           "../../../FSD/Content/_ModBPs/SavedEnemyMultiplier.uexp": "37-A7-91-36-5E-CA-5F-E5",
           "../../../FSD/Content/_ModBPs/Widgets/BPMMGUI.uexp": "BF-83-73-1F-80-E4-BA-EC",

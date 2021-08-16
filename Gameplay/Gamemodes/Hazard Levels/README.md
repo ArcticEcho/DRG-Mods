@@ -296,24 +296,27 @@ NOTES:
 **Update v34.4.0 Changelog:**  
 Update for DRG 34.4
 
-## Swarm Size Control - v1.0
+## Swarm Size Control - v1.1
 **Authors:** NaturalBornCamper  
-**DRG Version:** Update 34, Hotfix 4  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/4cc98a1dc18db329af37c88d2e65e8bbcc3a39c0/Gameplay/Gamemodes/Hazard%20Levels/Swarm%20Size%20Control%20-%20V1.0%20_P.pak)  
+**DRG Version:** Update 34, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3840b2a9b1eacd2125e491ef66a8db9ce76e57d5/Gameplay/Gamemodes/Hazard%20Levels/Swarm%20Size%20Control%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 **Requires the BP Mod Manager**  
-**Requires "Custom Cap" mod or enemies will de-spawn**  
+**Requires "Custom Cap" mod to boost the max enemies on screen or they will de-spawn**  
 Higher enemy count for an alternate higher difficulty, spawning more enemies instead of making them spongier/tougher.  
 Replaces my old "Larger enemy spawns", better version with a slider for a custom spawn multiplier, with increments of 0.25, all the way to 10x (As Hazard 1 - 5x enemies was not much more than regular Hazard 5)  
-Better play with 1.5x or 2x versions for a fun experience as I added 4x and more just for fun (try popping a nexus and see the swarmer fountain haha), but actually fun on regular DD  
+Better play with 1.5x or 2x versions for a fun experience as I added 4x and above just for fun or lower hazards fun (try popping a nexus and see the swarmer fountain haha), but actually fun on regular DD  
 Preview (Screenshot): https://discord.com/channels/676880716142739467/732650220214681600/781192442509524992  
 Preview (Youtube): https://youtu.be/0k3bVdkpSOs  
 Preview (Discord video): https://discordapp.com/channels/676880716142739467/732650220214681600/787008345721798686  
 NOTES:  
--Escort mission double flying rocks can be overwhelming, I recommend the mod to reduce their health%  
+-Escort mission increased flying rocks can be overwhelming, I recommend the mod to reduce their health%  
 -You should use the mod to improve Doretta's damage resistance (as you will be busy with enemies)  
--You can use the mod "Cheaper resupplies" with 60 nitra if you're having ammo problems  
+-You can use the mod "Cheaper resupplies" with if you're having ammo shortage  
 -No XP boost or any other modification, this is just for fun  
 KNOWN ISSUES:  
 -After changing multiplier in space rig, missions will highlight Hazard 1 by default, no idea why. Problem disappears after disbanding or finishing a mission
+
+**Update v1.1 Changelog:**  
+Activates multiplier for deep dives that needed a separate operation
