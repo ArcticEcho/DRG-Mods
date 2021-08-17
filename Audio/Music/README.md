@@ -4,14 +4,6 @@ Audio changes for the soundtrack or jukebox tracks
 
 <!-- mod list -->
 
-## BET-C Voiced - v1
-**Authors:** Siirvend  
-**DRG Version:** Update 34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/cbb26300337dec38581e64e8aa8c5b1746e8caa7/Audio/Music/BET-C%20Voiced%20-%20V1%20_P.pak)  
-
-**Description:**  
-This mod adds a voice to a few of BET-C's major audio cues! She speaks when she wakes up, goes down the first time, is repaired and when she makes her distress calls. It was made to not be too intrusive so don't worry, it wont be spammy or obnoxious. Say hi to BET-C!
-
 ## CSS Games Jukebox Music Pak - v1.0.0
 **Authors:** Buckminsterfullerene  
 **DRG Version:** U34H5  

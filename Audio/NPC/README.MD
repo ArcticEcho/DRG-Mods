@@ -39,6 +39,14 @@ Replaces Doretta's normal sounds with totally not unpleasant Anime sound effects
 **Description:**  
 Replaces cave angel's idle sounds with verbalase's beatboxing
 
+## BET-C Voiced - v1
+**Authors:** Siirvend  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/75deb6e3006851a61ed1d7b8f992fd0335ab7620/Audio/NPC/BET-C%20Voiced%20-%20V1%20_P.pak)  
+
+**Description:**  
+This mod adds a voice to a few of BET-C's major audio cues! She speaks when she wakes up, goes down the first time, is repaired and when she makes her distress calls. It was made to not be too intrusive so don't worry, it wont be spammy or obnoxious. Say hi to BET-C!
+
 ## Gonk Molly - v1.0
 **Authors:** Zega  
 **DRG Version:** Update 34 Hotfix 5  
