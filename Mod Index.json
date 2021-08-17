@@ -14267,6 +14267,59 @@
       }
     ]
   },
+  "removedecals": {
+    "DisplayName": "Remove Decals",
+    "Version": "1.0.0",
+    "DrgVersion": "U34 H5",
+    "AuthorIds": [
+      209416328057061376
+    ],
+    "Description": "Removes the following decals: blood splat when killing things, dwarf footsteps, and bullet impact on terrain. Intended to hopefully improve your FPS. \n\nIf you're seeing white textures in the Space Rig and in the End Game Screen, unfortunately there's not much I can do to fix that without breaking the rest of the mod.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f6d990846239a84ceb982a97f96eb0d94092f62d/Quality%20of%20Life/Graphics%20%26%20Performance/Remove%20Decals%20-%20V1.0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Remove Decals - V1.0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Ash_Left.uasset": "87-F8-99-2D-87-AD-1B-7E",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Ash_Right.uasset": "41-31-FA-73-08-27-7A-27",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Azure_Left.uasset": "7D-0C-13-EA-E7-89-96-90",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Azure_Right.uasset": "09-F7-8C-D2-66-1D-65-F0",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Mud_Left.uasset": "0C-0C-97-28-F1-6F-20-7E",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Mud_Right.uasset": "23-C9-9E-5F-BA-AC-07-57",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Rocks_Left.uasset": "F9-9D-DB-46-F8-54-76-70",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Rocks_Right.uasset": "59-88-37-69-12-0F-20-0C",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Salt_Left.uasset": "01-FA-84-0E-28-3F-FD-78",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Salt_Right.uasset": "7E-16-2C-3A-02-FA-4F-F6",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Sand_Left.uasset": "43-C7-F6-60-67-5C-01-7B",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Sand_Right.uasset": "4C-3C-26-41-6A-43-E1-70",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Snow_Left.uasset": "F4-0B-9A-AE-57-65-CD-21",
+          "../../../FSD/Content/Art/Decals/Footprints/M_Decal_Footprint_Dwarf_Snow_Right.uasset": "9A-4B-53-04-7A-E0-7D-EA",
+          "../../../FSD/Content/Art/Decals/M_Decal_BulletImpact01.uasset": "F7-79-BB-F0-F6-19-46-9B",
+          "../../../FSD/Content/Art/Decals/M_Decal_Burnt.uasset": "F1-38-08-6A-63-19-CE-62",
+          "../../../FSD/Content/Art/Decals/M_Decal_Confetti.uasset": "65-6D-50-99-6F-07-DD-63",
+          "../../../FSD/Content/Art/Decals/M_Decal_Fire.uasset": "2F-76-0D-8E-79-07-6F-D7",
+          "../../../FSD/Content/Art/Decals/M_Decal_Liquid_Morkite.uasset": "BF-2E-DF-AE-D2-9E-49-07",
+          "../../../FSD/Content/Art/Decals/M_Decal_Lootbug_Splat_LightBlue.uasset": "3A-91-93-10-41-7E-CA-07",
+          "../../../FSD/Content/Art/Decals/M_Decal_Puddle.uasset": "C8-ED-E7-52-53-9D-74-1E",
+          "../../../FSD/Content/Art/Decals/M_Decal_Splat_Black.uasset": "2B-06-AB-C2-A8-6D-D8-10",
+          "../../../FSD/Content/Art/Decals/M_Decal_Splat_Blue.uasset": "75-A6-3C-3B-16-4F-2A-9B",
+          "../../../FSD/Content/Art/Decals/M_Decal_Splat_Green.uasset": "2F-02-C0-C5-5D-45-F4-76",
+          "../../../FSD/Content/Art/Decals/M_Decal_Splat_Green2.uasset": "AE-6E-5D-39-40-79-9A-3F",
+          "../../../FSD/Content/Art/Decals/M_Decal_Splat_LightBlue.uasset": "0B-E7-1D-87-D0-1F-8A-8C",
+          "../../../FSD/Content/Art/Decals/M_Decal_Splat_Pink.uasset": "87-DE-C3-7D-F4-0A-00-F6",
+          "../../../FSD/Content/Art/Decals/M_Decal_Splat_Red.uasset": "58-F7-A6-A3-E1-83-8D-16",
+          "../../../FSD/Content/Art/Decals/M_Decal_Splat_Turquiose.uasset": "71-B7-D2-75-85-79-EB-D9",
+          "../../../FSD/Content/Art/Decals/M_Decal_Splat_Yellow.uasset": "89-C1-5D-3D-34-87-E0-E5",
+          "../../../FSD/Content/Art/Decals/M_Decal_X.uasset": "19-42-8C-C7-05-62-02-B8",
+          "../../../FSD/Content/Art/Decals/T_BulletImpact02_DIS.uasset": "76-FD-E2-A3-99-21-B7-20",
+          "../../../FSD/Content/Art/Decals/T_BulletImpact02_NMP.uasset": "A7-D2-25-65-B3-A3-69-C2",
+          "../../../FSD/Content/Art/Decals/T_Decal_Splat01.uasset": "28-81-E4-1A-DF-5C-E8-F8",
+          "../../../FSD/Content/Art/Decals/T_Decal_Splat01_NMP.uasset": "77-18-3E-8E-F9-3F-8C-56"
+        }
+      }
+    ]
+  },
   "removeflares": {
     "DisplayName": "Remove Flares",
     "Version": "1.0.0",

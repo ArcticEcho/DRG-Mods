@@ -28,6 +28,15 @@ Sets the ragdoll duration for most Glyphids to ≤5 seconds, except for enemies 
 **Update v1.4 Changelog:**  
 Updated for U34, HF 1
 
+## Remove Decals - v1.0.0
+**Authors:** Pugglez  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f6d990846239a84ceb982a97f96eb0d94092f62d/Quality%20of%20Life/Graphics%20%26%20Performance/Remove%20Decals%20-%20V1.0.0%20_P.pak)  
+
+**Description:**  
+Removes the following decals: blood splat when killing things, dwarf footsteps, and bullet impact on terrain. Intended to hopefully improve your FPS.   
+If you're seeing white textures in the Space Rig and in the End Game Screen, unfortunately there's not much I can do to fix that without breaking the rest of the mod.
+
 ## Remove Flares - v1.0.0
 **Authors:** Pugglez  
 **DRG Version:** U34 H5  
