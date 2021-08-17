@@ -118,6 +118,14 @@ Preview -> https://discord.com/channels/676880716142739467/732650220214681600/80
 Replaces Lloyd's vocalizations with Lloyd the Bartender from The Shining run through a robot vocal changer.  
 Preview -> https://discord.com/channels/676880716142739467/732650220214681600/806979173154947082
 
+## Siirvend Mission Control - v1.0
+**Authors:** Siirvend  
+**DRG Version:** Update 34  
+**Download Link:** [Download](https://mega.nz/file/Zz5gHKiS#a755hy2Y5vWDMoAYqEYQxxdz__yBOS-S7c0fl95H_rQ) (third-party host)  
+
+**Description:**  
+I replaced every Mission Control Line in the game with my voice. Every last one of them. Also replaces the Mission Control picture. I recommend turning your Mission Control volume to 120 or so if you want to hear it better.
+
 ## Sneezy Exploders - v1.0
 **Authors:** HandDrawnNerd  
 **DRG Version:** U34H5  
