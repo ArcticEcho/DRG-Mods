@@ -103,16 +103,16 @@ damage 4 > 5.5
 mk2 upgrade damage decreased 5 > 4  
 gemini system ammo increased 100 > 200
 
-## Dreaming Heretic - v8-18-2021
+## Dreaming Heretic - v8-20-2021
 **Authors:** Shattered  
 **DRG Version:** U34  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3e892ca1d2b1fc1e6486dbe3c2ae77139b83eaea/Gameplay/Balanced/Dreaming%20Heretic%20-%20V8-18-2021%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/284c940ccba171d992b08fb2375173b609991b24/Gameplay/Balanced/Dreaming%20Heretic%20-%20V8-20-2021%20_P.pak)  
 
 **Description:**  
 A balance mod that changes weapons, equipment, and perks. Credits are included in the Change List: https://docs.google.com/document/d/1543gY-XgHrtwWOMpajyBnj1l1ndv2xE3X0biXki5Xkk/edit?usp=sharing
 
-**Update v8-18-2021 Changelog:**  
-It's even more balanced than before.
+**Update v8-20-2021 Changelog:**  
+Revolver buff (with a nerf to the Volatile Bullets overclock). Small changes to a lot of weapons. The Stubby may finally be balanced.
 
 ## Excavation Grenade - v2.0
 **Authors:** Ike  
