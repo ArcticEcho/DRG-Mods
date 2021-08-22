@@ -78,6 +78,26 @@
       }
     ]
   },
+  "166xpiperepairbuildradius": {
+    "DisplayName": "1.66x Pipe Repair/Build Radius",
+    "Version": "34.5.0",
+    "DrgVersion": "Update 35, Hotfix 4",
+    "AuthorIds": [
+      306800962432008193
+    ],
+    "Description": "Increases the range where you can build and repair pipes.\nThat's just a quick mod with a half-assed descriptions since mod support is dropping soon. Got launched too many times by a friggin' pipeline sending me grinding away when I wanted to repair it in a hurry while a million enemies are waiting to munch on my butt and every millisecond counts.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/900abee80e12910f4b71601f834ec809744ae409/Quality%20of%20Life/Improved%20mechanics/1.66x%20Pipe%20Repair%20Build%20Radius%20-%20V34.5.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "1.66x Pipe Repair Build Radius - V34.5.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/LevelElements/Refinery/Pipeline/BP_Pipeline_Segment.uasset": "E5-43-B4-3D-5E-4B-30-E5",
+          "../../../FSD/Content/LevelElements/Refinery/Pipeline/BP_Pipeline_Segment.uexp": "94-5A-68-1F-BF-02-D1-6F"
+        }
+      }
+    ]
+  },
   "2005battledroidbosco": {
     "DisplayName": "2005 Battle Droid Bosco",
     "Version": "1.0",

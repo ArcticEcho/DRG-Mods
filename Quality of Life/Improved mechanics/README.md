@@ -4,6 +4,15 @@ Changes to stuff that might be underwhelming or annoying in the base game.
 
 <!-- mod list -->
 
+## 1.66x Pipe Repair/Build Radius - v34.5.0
+**Authors:** NaturalBornCamper  
+**DRG Version:** Update 35, Hotfix 4  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/900abee80e12910f4b71601f834ec809744ae409/Quality%20of%20Life/Improved%20mechanics/1.66x%20Pipe%20Repair%20Build%20Radius%20-%20V34.5.0%20_P.pak)  
+
+**Description:**  
+Increases the range where you can build and repair pipes.  
+That's just a quick mod with a half-assed descriptions since mod support is dropping soon. Got launched too many times by a friggin' pipeline sending me grinding away when I wanted to repair it in a hurry while a million enemies are waiting to munch on my butt and every millisecond counts.
+
 ## 10 Waypoints - v1.0
 **Authors:** Our Lord And Savior Gabe Newell  
 **DRG Version:** Update 33, Hotfix 2  
