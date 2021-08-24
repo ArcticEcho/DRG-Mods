@@ -2508,28 +2508,26 @@
   },
   "booloblastrevivejuicebox": {
     "DisplayName": "Boolo Blast Revive Juicebox",
-    "Version": "1.0",
+    "Version": "1.1",
     "DrgVersion": "U34H5",
     "AuthorIds": [
       73673072833470464
     ],
     "Description": "Mining on Hoxxes getting you down? Get your pick-me-up with Boolo Blast!\n\nI used [this Hi-C juicebox model by TrentPierce on SketchFab](https://sketchfab.com/3d-models/juice-box-b8ac289fd0ef4818be26c3731a58444f) and created my own texture based on his.\n\nReplaces the revive canteen (used when picking up downed teammates) with a DRG themed juicebox of Boolo Blast. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/863847750772981800)",
-    "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f3e8dd4240648ec254278e01f1c4bfc93d177ee6/Visual/3D%20Model%20Replacement/Weapons%26Tools/Boolo%20Blast%20Revive%20Juicebox%20-%20V1.0%20_P.pak",
+    "LastUpdateChangelog": "Slight changes to the juicebox texture \n - changed the logo to say Dr. G and made the G a bit more rounded. Made the straw material two-sided to fix a weird graphical issue.",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/a324e1a200df4bd42b14c0a85acefc56e0c6fe6c/Visual/3D%20Model%20Replacement/Weapons%26Tools/Boolo%20Blast%20Revive%20Juicebox%20-%20V1.1%20_P.pak",
     "Paks": [
       {
-        "PakFileName": "Boolo Blast Revive Juicebox - V1.0",
+        "PakFileName": "Boolo Blast Revive Juicebox - V1.1",
         "CookedFileHashes": {
-          "../../../FSD/Content/CharacterStructure/Canteen/juicebox.uasset": "1F-54-FE-84-6F-45-AF-45",
-          "../../../FSD/Content/CharacterStructure/Canteen/juicelabel.uasset": "27-27-2F-CD-A5-9C-3A-96",
-          "../../../FSD/Content/CharacterStructure/Canteen/SK_Canteen.uasset": "8A-7F-06-8D-22-16-EB-DF",
-          "../../../FSD/Content/CharacterStructure/Canteen/SM_Canteen.uasset": "F5-A3-D4-B3-5E-93-4B-EB",
-          "../../../FSD/Content/CharacterStructure/Canteen/straw.uasset": "7E-63-A5-05-75-0A-49-02",
-          "../../../FSD/Content/CharacterStructure/Canteen/juicebox.uexp": "F4-A9-4E-D4-E1-B0-FF-2D",
-          "../../../FSD/Content/CharacterStructure/Canteen/juicelabel.uexp": "E7-40-A2-E5-A8-CF-78-7A",
-          "../../../FSD/Content/CharacterStructure/Canteen/SK_Canteen.uexp": "D1-4A-CC-CD-BD-D5-BE-5D",
-          "../../../FSD/Content/CharacterStructure/Canteen/SM_Canteen.uexp": "AC-E5-BA-30-B4-11-94-D8",
-          "../../../FSD/Content/CharacterStructure/Canteen/straw.uexp": "EE-DD-57-32-A4-A4-6D-52"
+          "../../../FSD/Content/CharacterStructure/Canteen/M_BooloBlast.uasset": "67-DB-51-51-D1-4A-14-17",
+          "../../../FSD/Content/CharacterStructure/Canteen/M_Straw.uasset": "A8-AA-82-DD-CE-6E-80-D2",
+          "../../../FSD/Content/CharacterStructure/Canteen/SM_Canteen.uasset": "DD-4A-67-39-49-21-F1-2C",
+          "../../../FSD/Content/CharacterStructure/Canteen/T_booloblast.uasset": "BC-99-BC-2B-06-9C-43-FD",
+          "../../../FSD/Content/CharacterStructure/Canteen/M_BooloBlast.uexp": "14-22-D4-88-93-D2-E1-C5",
+          "../../../FSD/Content/CharacterStructure/Canteen/M_Straw.uexp": "B0-DC-89-B5-5E-B5-0F-FC",
+          "../../../FSD/Content/CharacterStructure/Canteen/SM_Canteen.uexp": "BA-66-8C-52-7F-38-7A-5B",
+          "../../../FSD/Content/CharacterStructure/Canteen/T_booloblast.uexp": "6A-23-99-B2-88-CC-49-19"
         }
       }
     ]

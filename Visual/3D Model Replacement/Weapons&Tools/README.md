@@ -12,15 +12,19 @@ Weapons&Tools model replacements.
 **Description:**  
 Turn your cluster grenades into combustible fruit! No bananas were harmed in the making, bugs may be.
 
-## Boolo Blast Revive Juicebox - v1.0
+## Boolo Blast Revive Juicebox - v1.1
 **Authors:** HandDrawnNerd  
 **DRG Version:** U34H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f3e8dd4240648ec254278e01f1c4bfc93d177ee6/Visual/3D%20Model%20Replacement/Weapons%26Tools/Boolo%20Blast%20Revive%20Juicebox%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/a324e1a200df4bd42b14c0a85acefc56e0c6fe6c/Visual/3D%20Model%20Replacement/Weapons%26Tools/Boolo%20Blast%20Revive%20Juicebox%20-%20V1.1%20_P.pak)  
 
 **Description:**  
 Mining on Hoxxes getting you down? Get your pick-me-up with Boolo Blast!  
 I used [this Hi-C juicebox model by TrentPierce on SketchFab](https://sketchfab.com/3d-models/juice-box-b8ac289fd0ef4818be26c3731a58444f) and created my own texture based on his.  
 Replaces the revive canteen (used when picking up downed teammates) with a DRG themed juicebox of Boolo Blast. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/863847750772981800)
+
+**Update v1.1 Changelog:**  
+Slight changes to the juicebox texture   
+ - changed the logo to say Dr. G and made the G a bit more rounded. Made the straw material two-sided to fix a weird graphical issue.
 
 ## Diamond Pickaxe - v1.0
 **Authors:** SirVerex  
