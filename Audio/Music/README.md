@@ -180,6 +180,15 @@ Added a new looping track, replaced a few of the songs for wave music and escape
 **Description:**  
 Replaces the Ambient Song in the Space Rig with Space Noise and Star Trek sounds to make it quieter.
 
+## Ram Ranch Really Rocks - v1.0
+**Authors:** Galactispunk  
+**DRG Version:** U34 H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/7c20a565d7123df61ff3f38a8427abe5f4a11ec4/Audio/Music/Ram%20Ranch%20Really%20Rocks%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+**[WARNING: HIGHLY NSFW] IF YOU DISLIKE STOCK MUSIC WITH ADDED VOCALS DESCRIBING INTENSE INTERCOURSE, OFTEN TIMES HOMOSEXUAL, IN AGONISING DETAIL WITH CONSTANT SOUNDS OF MOANING MEN. DO NOT DOWNLOAD THIS MOD. DO NOT EVEN DOWNLOAD THIS MOD AS A JOKE. BECAUSE IT'S EXISTENCE IS ONE.**  
+Replace all jukebox songs with music by Grant Macdonald (aka, the guy who made Ram Ranch). This mod was mostly made as a bad joke for me and my friends. Don't expect anything of quality, the bar is already below that.
+
 ## Starship Troopers OST Music Replacement - v0.9
 **Authors:** Kraeus  
 **DRG Version:** Update 34 Hotfix 2  
