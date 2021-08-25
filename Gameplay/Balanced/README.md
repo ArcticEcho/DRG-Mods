@@ -62,6 +62,18 @@ Adds a passive effect for Berzerker perk (not reflected in in-game texts!)
 This mod is host-side, but requires clients to download it if they want to use the upgrade too. Let's call this RHU - Required at Hostside and for active Users.  
 Yes, they finally made it into live! Adds a new Tier 4 for the platgun so platform shape is a freely togglable option.
 
+## CVO - v2
+**Authors:** GreyHound  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ae6eb72feb44d53b45a81ffede9a17a32fbb53fc/Gameplay/Balanced/CVO%20-%20V2.zip)  
+
+**Description:**  
+A massive BBP update and rebranding? You say! The mod is now named Comprehensive Vanilla Overhaul (CVO for short) due to the amount of structural changes made to weapons/mods/OCs.  
+This update includes dozens of adjustments to underperforming mods/OCs, with some OCs being replaced outright to improve weapon building and open up design space. You can see all the changes in the Raw Changelog and read the justification for most of them in Behind the Scenes doc.  
+1. I'm not responsible for any issues you might encounter if you run this with the Dreaming Heretic mod or literally any other mod that changes weapons/mods/OCs/perks/grenades and secondary equipment. That said, since this is an overhaul of vanilla weapons, it might be too hardcore for certain players. If overhauls don't suit you, check out Dreaming Heretic ;)  
+2. This doesn't interfere with progression in any way: if you get any OC while playing with the mod and then switch back to vanilla, you'll keep the vanilla version of it. I replace OCs, not delete them.  
+3. Valid until this is uploaded to Mod.io: I recommend hosting your games with CVO to avoid issues with vanilla gameplay and not joining other players unless they have CVO as well to make sure all changes are active.
+
 ## Disposable Sentry - v1.2
 **Authors:** TommyGun  
 **DRG Version:** Update 33, Hotfix 10  
