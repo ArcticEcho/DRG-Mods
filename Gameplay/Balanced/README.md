@@ -104,11 +104,11 @@ gemini system ammo increased 100 > 200
 
 ## Dreaming Heretic - v8-27-2021
 **Authors:** Shattered  
-**DRG Version:** U34  
+**DRG Version:** U34 H5  
 **Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/9abff2d5a649a9cd595afb3143d3423c4d385476/Gameplay/Balanced/Dreaming%20Heretic%20-%20V8-27-2021%20_P.pak)  
 
 **Description:**  
-A balance mod that changes way too many things to list here. Credits are included in the Change List: https://docs.google.com/document/d/1543gY-XgHrtwWOMpajyBnj1l1ndv2xE3X0biXki5Xkk/edit?usp=sharing You can also check out the "CVO" mod if you want to try a different balance mod. It's the comprehensive vanilla overhaul DRG deserves, and the one it needs right now.
+A balance mod that changes way too many things to list here. Credits are included in the change list: https://docs.google.com/document/d/e/2PACX-1vTt3997I2wVFyrPsGpEsoatZqT8GHUsNaSojIyz4QdL16bPRW174Nwmd1zXkLrXM0nnZU9nGf5V8y_j/pub You can also check out the "CVO" mod if you want to try a different balance mod. It's the comprehensive vanilla overhaul DRG deserves, and the one it needs right now.
 
 **Update v8-27-2021 Changelog:**  
 Removed all creature changes for now (except Steve still doesn't take any friendly fire damage). More weapon changes.
