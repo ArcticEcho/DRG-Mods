@@ -4,13 +4,16 @@ Mods attempting to balance stuff that performs worse than normal.
 
 <!-- mod list -->
 
-## ...And Traversal For All - v1.0
+## ...And Traversal For All - v1.1
 **Authors:** S R  
 **DRG Version:** U34+  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3756ae8855f7e46f6155fae0b5b9eb530cf7d927/Gameplay/Balanced/...And%20Traversal%20For%20All%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/accd8658b38bb8813f04aaca467489919d528222/Gameplay/Balanced/...And%20Traversal%20For%20All%20-%20V1.1%20_P.pak)  
 
 **Description:**  
-Enables choosing any Traversal Tool out of all four tools in the game for any class, such as Drills for Gunner or Engineer, Platform Gun for Scout, etc.
+Enables choosing any Traversal Tool in the Equipment Terminal out of all four Tools available in the game for any Class, such as Drills for Gunner or Engineer, Platform Gun or Zipline Launcher for Scout, etc.
+
+**Update v1.1 Changelog:**  
+1.1: Minor QoL: Updated the order of Traversal Tools in the Equipment Terminal to always be consistent across all classes.
 
 ## Airburst Grenade - v2.0
 **Authors:** Ike  
