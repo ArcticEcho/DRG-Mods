@@ -164,6 +164,14 @@ Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Ga
 **Update v1.2 Changelog:**  
 Updated for Update 34.
 
+## Pingy M1000 - Ping Only - v1.0
+**Authors:** Lithobraker  
+**DRG Version:** Update 34, Hotfix 5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/8e29700b53d6ba2a905cbc9e72c34173953db284/Audio/Weapons/Pingy%20M1000%20-%20Ping%20Only%20-%20V1.0.zip)  
+
+**Description:**  
+Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Garand ping. This version contains only the ping.
+
 ## Shrek LURE - v1.1
 **Authors:** Lithobraker  
 **DRG Version:** Update 34  

@@ -12567,6 +12567,32 @@
       }
     ]
   },
+  "pingym1000pingonly": {
+    "DisplayName": "Pingy M1000 - Ping Only",
+    "Version": "1.0",
+    "DrgVersion": "Update 34, Hotfix 5",
+    "AuthorIds": [
+      123942120330362882
+    ],
+    "Description": "Replaces the M1000's ping with a satisfying, and somewhat more noticeable, M1 Garand ping. This version contains only the ping.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/8e29700b53d6ba2a905cbc9e72c34173953db284/Audio/Weapons/Pingy%20M1000%20-%20Ping%20Only%20-%20V1.0.zip",
+    "Paks": [
+      {
+        "PakFileName": "Pingy M1000PingOnly",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_CustomSounds/Boltaction_Ping.uasset": "2B-30-0E-36-6E-52-2E-CD",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stAnd3rdSharedWeapons.uasset": "C3-FA-57-82-36-68-D3-BD",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsSingle.uasset": "E2-C6-1D-F2-51-16-38-AB",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/M1000Reload/M1000ReloadB_1_Cue.uasset": "35-FF-AF-C7-57-55-01-9A",
+          "../../../FSD/Content/_CustomSounds/Boltaction_Ping.uexp": "4F-9E-59-01-A0-F8-4B-8B",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stAnd3rdSharedWeapons.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/SoundControl/SoundClasses/1stPersonFire1stWeaponsSingle.uexp": "54-CE-0D-85-89-9B-92-AC",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_BoltActionRifle/M1000Reload/M1000ReloadB_1_Cue.uexp": "DA-1C-A6-07-DE-E3-A7-28"
+        }
+      }
+    ]
+  },
   "pogsogoldkomodohype": {
     "DisplayName": "Pogs O'Gold (KomodoHype)",
     "Version": "1.0",
