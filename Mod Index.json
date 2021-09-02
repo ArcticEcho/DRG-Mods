@@ -3876,6 +3876,30 @@
       }
     ]
   },
+  "doometernalsminigunsoundforleadstorm": {
+    "DisplayName": "Doom Eternal's Minigun Sound for Leadstorm",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      372641106187255818
+    ],
+    "Description": "Changes the Lead Storm's firing sound into Doom Eternal's minigun firing sound",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/19624b9cc52411a3277537d64c403dae85e1bc5d/Audio/Weapons/Doom%20Eternal%27s%20Minigun%20Sound%20For%20Leadstorm%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Doom Eternal's Minigun Sound For Leadstorm - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MinigunFireCombined/MiniGunFirePartialCombinedA_1.uasset": "3C-9D-8C-B5-6B-73-16-34",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MinigunFireCombined/MiniGunFirePartialCombinedA_2.uasset": "4F-41-45-0F-9C-7E-26-7A",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MinigunFireCombined/MiniGunFirePartialCombinedA_3.uasset": "92-7B-EF-4E-0E-1D-90-54",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MinigunFireCombined/MiniGunFirePartialCombinedA_1.uexp": "6D-D5-62-E9-57-B1-1D-7F",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MinigunFireCombined/MiniGunFirePartialCombinedA_2.uexp": "6D-D5-62-E9-57-B1-1D-7F",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Minigun/MinigunFireCombined/MiniGunFirePartialCombinedA_3.uexp": "6D-D5-62-E9-57-B1-1D-7F"
+        }
+      }
+    ]
+  },
   "doomgunner": {
     "DisplayName": "Doom Gunner",
     "Version": "1.1",
