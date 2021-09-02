@@ -3876,6 +3876,46 @@
       }
     ]
   },
+  "doometernalrocketlaunchersoundfordeepcorepgl": {
+    "DisplayName": "Doom Eternal Rocket Launcher sound for Deepcore PGL",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      372641106187255818
+    ],
+    "Description": "Changes the Deepcore PGL's firing sound to Doom Eternal's Rocket Launcher firing sound",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/e90e75f269e5011c1104178a3205092c71e4563a/Audio/Weapons/Doom%20Eternal%20Rocket%20Launcher%20Sound%20For%20Deepcore%20PGL%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Doom Eternal Rocket Launcher Sound For Deepcore PGL - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_1.uasset": "B7-35-9E-A7-71-BA-31-3A",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_2.uasset": "BB-8E-29-3A-81-91-06-AF",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_3.uasset": "2A-D5-16-D7-DD-F6-EC-4A",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_4.uasset": "32-7F-0E-C5-E0-33-FA-9F",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_5.uasset": "CF-6C-17-F2-29-DD-9F-75",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_6.uasset": "0A-24-40-9D-68-99-25-06",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_7.uasset": "41-C0-9D-BC-E7-09-F7-E1",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_8.uasset": "87-DC-42-0C-C0-69-6B-6D",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_1.uasset": "61-46-C6-26-CE-BD-AB-5E",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_2.uasset": "5E-DD-35-88-17-41-E4-DD",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_3.uasset": "B9-11-A9-F7-69-BD-D2-DA",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_1.uexp": "55-37-8F-4E-7C-73-F7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_2.uexp": "55-37-8F-4E-7C-73-F7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_3.uexp": "55-37-8F-4E-7C-73-F7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_4.uexp": "55-37-8F-4E-7C-73-F7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_5.uexp": "55-37-8F-4E-7C-73-F7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_6.uexp": "55-37-8F-4E-7C-73-F7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_7.uexp": "55-37-8F-4E-7C-73-F7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedA_8.uexp": "55-37-8F-4E-7C-73-F7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_1.uexp": "55-37-8F-4E-7C-73-F7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_2.uexp": "55-37-8F-4E-7C-73-F7-97",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_GrenadeLauncher/GrenadeLauncherCombined/GrenadeLauncherCombinedB_3.uexp": "55-37-8F-4E-7C-73-F7-97"
+        }
+      }
+    ]
+  },
   "doometernalsminigunsoundforleadstorm": {
     "DisplayName": "Doom Eternal's Minigun Sound for Lead Storm",
     "Version": "1.0",

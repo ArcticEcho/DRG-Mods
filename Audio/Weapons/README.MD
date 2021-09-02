@@ -56,6 +56,14 @@ Changes the engineers shotgun shooting and reloading sound to the Jackhammer sou
 Replaces BRT7 sounds with Glock 18c sounds  
 Download Link None
 
+## Doom Eternal Rocket Launcher sound for Deepcore PGL - v1.0
+**Authors:** WeeBrains  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/e90e75f269e5011c1104178a3205092c71e4563a/Audio/Weapons/Doom%20Eternal%20Rocket%20Launcher%20Sound%20For%20Deepcore%20PGL%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Changes the Deepcore PGL's firing sound to Doom Eternal's Rocket Launcher firing sound
+
 ## Doom Eternal's Minigun Sound for Lead Storm - v1.0
 **Authors:** WeeBrains  
 **DRG Version:** U34H5  
