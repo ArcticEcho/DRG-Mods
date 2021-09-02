@@ -56,10 +56,10 @@ Changes the engineers shotgun shooting and reloading sound to the Jackhammer sou
 Replaces BRT7 sounds with Glock 18c sounds  
 Download Link None
 
-## Doom Eternal's Minigun Sound for Leadstorm - v1.0
+## Doom Eternal's Minigun Sound for Lead Storm - v1.0
 **Authors:** WeeBrains  
 **DRG Version:** U34H5  
-**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/19624b9cc52411a3277537d64c403dae85e1bc5d/Audio/Weapons/Doom%20Eternal%27s%20Minigun%20Sound%20For%20Leadstorm%20-%20V1.0%20_P.pak)  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/ca0fe35ee5f7544714a3a0890e7db600e8d07e79/Audio/Weapons/Doom%20Eternal%27s%20Minigun%20Sound%20For%20Lead%20Storm%20-%20V1.0%20_P.pak)  
 
 **Description:**  
 Changes the Lead Storm's firing sound into Doom Eternal's minigun firing sound

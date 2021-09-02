@@ -3877,7 +3877,7 @@
     ]
   },
   "doometernalsminigunsoundforleadstorm": {
-    "DisplayName": "Doom Eternal's Minigun Sound for Leadstorm",
+    "DisplayName": "Doom Eternal's Minigun Sound for Lead Storm",
     "Version": "1.0",
     "DrgVersion": "U34H5",
     "AuthorIds": [
@@ -3885,7 +3885,7 @@
     ],
     "Description": "Changes the Lead Storm's firing sound into Doom Eternal's minigun firing sound",
     "LastUpdateChangelog": null,
-    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/19624b9cc52411a3277537d64c403dae85e1bc5d/Audio/Weapons/Doom%20Eternal%27s%20Minigun%20Sound%20For%20Leadstorm%20-%20V1.0%20_P.pak",
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/ca0fe35ee5f7544714a3a0890e7db600e8d07e79/Audio/Weapons/Doom%20Eternal%27s%20Minigun%20Sound%20For%20Lead%20Storm%20-%20V1.0%20_P.pak",
     "Paks": [
       {
         "PakFileName": "Doom Eternal's Minigun Sound For Leadstorm - V1.0",
