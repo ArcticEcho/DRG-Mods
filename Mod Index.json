@@ -11928,6 +11928,26 @@
       }
     ]
   },
+  "onlyelitedeepdives": {
+    "DisplayName": "Only Elite Deep Dives",
+    "Version": "1.0.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      297356398558183424
+    ],
+    "Description": "Well we've had one EDD yes, but what about *second* EDD?\nThe DD is replaced with another EDD. The missions appear to generate differently, but consistently ...and clients may also want to be running it, as otherwise it wants to grant negative XP.",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/f53926053d8f995fd35c8f629c5fdb4da0bffe58/Gameplay/Gamemodes/Hazard%20Levels/Only%20Elite%20Deep%20Dives%20-%20V1.0.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "Only Elite Deep Dives - V1.0.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/GameElements/DeepDives/Templates/DD_Normal.uasset": "DD-C0-92-E7-03-78-24-88",
+          "../../../FSD/Content/GameElements/DeepDives/Templates/DD_Normal.uexp": "1E-A8-24-AA-97-5D-1F-06"
+        }
+      }
+    ]
+  },
   "paninifov": {
     "DisplayName": "Panini FOV",
     "Version": "1.0",

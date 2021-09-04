@@ -234,6 +234,15 @@ NOTES:
 **Update v34.4.0 Changelog:**  
 Update for DRG 34.4
 
+## Only Elite Deep Dives - v1.0.0
+**Authors:** The Inevitable Luke  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/f53926053d8f995fd35c8f629c5fdb4da0bffe58/Gameplay/Gamemodes/Hazard%20Levels/Only%20Elite%20Deep%20Dives%20-%20V1.0.0%20_P.pak)  
+
+**Description:**  
+Well we've had one EDD yes, but what about *second* EDD?  
+The DD is replaced with another EDD. The missions appear to generate differently, but consistently ...and clients may also want to be running it, as otherwise it wants to grant negative XP.
+
 ## Starship Troopers - v34.4.0
 **Authors:** NaturalBornCamper  
 **DRG Version:** Update 34, Hotfix 4  
