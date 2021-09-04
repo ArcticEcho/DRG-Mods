@@ -64,6 +64,14 @@ Download Link None
 **Description:**  
 Changes the Deepcore PGL's firing sound to Doom Eternal's Rocket Launcher firing sound
 
+## Doom Eternal Shield Sound for Shield Regenerator - v1.0
+**Authors:** WeeBrains  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/b8d702c76e212a7a0b3afd91cf1d8b61ca5661bf/Audio/Weapons/Doom%20Eternal%20Shield%20Sound%20For%20Shield%20Regenerator%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Changes the Shield Regenerator's sounds to the Doom Eternal's minigun shield attachment sounds.
+
 ## Doom Eternal's Minigun Sound for Lead Storm - v1.0
 **Authors:** WeeBrains  
 **DRG Version:** U34H5  
