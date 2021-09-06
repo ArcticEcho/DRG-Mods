@@ -108,3 +108,6 @@ Inspired by an older mod, this replaces the model and the impact sound of the ma
 
 **Description:**  
 Changes the Company Standard skin to TF2 pan. Also, changes the sound of pickaxe charge hit to TF2 pan noises. Use the "Company Standard" pickaxe parts + any paint jobs!
+
+**Update v1.0 Changelog:**  
+Adjusted audio settings
