@@ -100,3 +100,11 @@ Part of the combustible fruit arsenal, this replaces the Sticky Grenade with hig
 Management mixed up the our tools with Scout's squeaky toys ... this is definitely gonna make setting up stuff up more annoying.  
 I used and modified [this model by Pedro Perim on SketchFab](https://sketchfab.com/3d-models/toy-hammer-a190e92f53814532bf2ef03ec56bd16a).  
 Inspired by an older mod, this replaces the model and the impact sound of the mallet used for building sentries, mules, black boxes, etc (not pipes or Doretta) with a squeaky toy hammer. [Preview](https://discord.com/channels/676880716142739467/732650220214681600/858484756740177960)
+
+## TF2 Pan - v1.0
+**Authors:** WeeBrains  
+**DRG Version:** U34H5  
+**Download Link:** [Download](https://github.com/ArcticEcho/DRG-Mods/raw/3b975f12f4acd97c736ad43e5eaad96df313bb65/Visual/3D%20Model%20Replacement/Weapons%26Tools/TF2%20Pan%20-%20V1.0%20_P.pak)  
+
+**Description:**  
+Changes the Company Standard skin to TF2 pan. Also, changes the sound of pickaxe charge hit to TF2 pan noises. Use the "Company Standard" pickaxe parts + any paint jobs!

@@ -17247,6 +17247,56 @@
       }
     ]
   },
+  "tf2pan": {
+    "DisplayName": "TF2 Pan",
+    "Version": "1.0",
+    "DrgVersion": "U34H5",
+    "AuthorIds": [
+      372641106187255818
+    ],
+    "Description": "Changes the Company Standard skin to TF2 pan. Also, changes the sound of pickaxe charge hit to TF2 pan noises. Use the \"Company Standard\" pickaxe parts + any paint jobs!",
+    "LastUpdateChangelog": null,
+    "DownloadUrl": "https://github.com/ArcticEcho/DRG-Mods/raw/3b975f12f4acd97c736ad43e5eaad96df313bb65/Visual/3D%20Model%20Replacement/Weapons%26Tools/TF2%20Pan%20-%20V1.0%20_P.pak",
+    "Paks": [
+      {
+        "PakFileName": "TF2 Pan - V1.0",
+        "CookedFileHashes": {
+          "../../../FSD/Content/_CustomSounds/crit_hit.uasset": "F2-47-68-F3-54-1F-EB-F8",
+          "../../../FSD/Content/_CustomSounds/crit_hit2.uasset": "DB-EF-60-FD-37-C2-7F-85",
+          "../../../FSD/Content/_CustomSounds/crit_hit3.uasset": "1C-70-4B-13-36-62-45-8E",
+          "../../../FSD/Content/_CustomSounds/crit_hit4.uasset": "4B-77-2E-A8-5B-C9-C2-E0",
+          "../../../FSD/Content/_CustomSounds/crit_hit5.uasset": "EF-1F-1B-92-7A-53-22-46",
+          "../../../FSD/Content/_CustomSounds/machete_swing_crit.uasset": "2E-99-73-27-14-BF-E3-D4",
+          "../../../FSD/Content/_CustomSounds/melee_frying_pan_01.uasset": "57-28-06-E3-12-42-A8-31",
+          "../../../FSD/Content/_CustomSounds/melee_frying_pan_02.uasset": "D6-A6-69-DB-77-C7-BF-82",
+          "../../../FSD/Content/_CustomSounds/melee_frying_pan_03.uasset": "3A-01-46-37-7B-7A-C6-92",
+          "../../../FSD/Content/_CustomSounds/melee_frying_pan_04.uasset": "B2-B5-1B-84-9A-97-DC-57",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Pickaxe/Pickaxe_Impact_Special_Cue.uasset": "9B-FF-15-98-11-B4-F4-F2",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Pickaxe_Parts/SM_PickAxe_BladeFront_001.uasset": "70-03-97-C4-BC-A5-4F-D6",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Pickaxe_Parts/SM_Pickaxe_Handle_001.uasset": "51-5F-8C-83-37-80-ED-BA",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Pickaxe_Parts/SM_PickAxe_Head_001.uasset": "26-74-0F-A6-4A-E1-50-BA",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Pickaxe_Parts/SM_PickAxe_Pommel_001.uasset": "45-9C-A6-7C-91-7C-46-E6",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Pickaxe_Parts/SM_PickAxe_Shaft_001.uasset": "E7-F3-2B-CE-91-F3-E0-E8",
+          "../../../FSD/Content/_CustomSounds/crit_hit.uexp": "04-1B-8E-DC-FE-CD-CA-93",
+          "../../../FSD/Content/_CustomSounds/crit_hit2.uexp": "FA-C2-19-40-A8-35-15-FA",
+          "../../../FSD/Content/_CustomSounds/crit_hit3.uexp": "F4-7B-BC-70-05-5B-81-D0",
+          "../../../FSD/Content/_CustomSounds/crit_hit4.uexp": "79-4B-E4-C4-87-C2-DE-DE",
+          "../../../FSD/Content/_CustomSounds/crit_hit5.uexp": "69-4E-FF-51-23-22-00-E0",
+          "../../../FSD/Content/_CustomSounds/machete_swing_crit.uexp": "25-F1-8D-1E-97-49-08-66",
+          "../../../FSD/Content/_CustomSounds/melee_frying_pan_01.uexp": "6C-4E-F1-B8-00-21-B4-47",
+          "../../../FSD/Content/_CustomSounds/melee_frying_pan_02.uexp": "8E-EE-43-3D-C2-BE-22-08",
+          "../../../FSD/Content/_CustomSounds/melee_frying_pan_03.uexp": "B2-96-C4-5E-4E-41-4E-16",
+          "../../../FSD/Content/_CustomSounds/melee_frying_pan_04.uexp": "34-47-E0-D3-FD-59-2A-01",
+          "../../../FSD/Content/Audio/WeaponsNTools/WPN_Pickaxe/Pickaxe_Impact_Special_Cue.uexp": "B8-CE-71-20-CB-69-24-28",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Pickaxe_Parts/SM_PickAxe_BladeFront_001.uexp": "A7-1D-5D-4C-AE-3A-F1-49",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Pickaxe_Parts/SM_Pickaxe_Handle_001.uexp": "59-C6-1A-83-DF-BF-9C-EE",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Pickaxe_Parts/SM_PickAxe_Head_001.uexp": "BF-EE-E2-F8-95-D7-27-85",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Pickaxe_Parts/SM_PickAxe_Pommel_001.uexp": "82-D9-E0-7D-BD-56-89-22",
+          "../../../FSD/Content/WeaponsNTools/Pickaxe/Pickaxe_Parts/SM_PickAxe_Shaft_001.uexp": "CB-7C-C0-9F-0A-D8-2D-3D"
+        }
+      }
+    ]
+  },
   "thefatratnocopyrightjukeboxmusicpak": {
     "DisplayName": "TheFatRat No-Copyright Jukebox Music Pak",
     "Version": "1.0",
