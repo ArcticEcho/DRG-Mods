@@ -1,5 +1,7 @@
 # Deep Rock Galactic Mods
 
+_In light of the mod support update, we'll be moving to [mod.io](https://drg.mod.io/). This repository will be archived soon after the update goes live._
+
 The complete mod repository for the DRG Modding discord server.
 
 Managed by our bot, Karl Jr.
