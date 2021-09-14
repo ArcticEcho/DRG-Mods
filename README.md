@@ -1,6 +1,8 @@
-# Deep Rock Galactic Mods
+# We've moved to [mod.io](https://drg.mod.io/)
 
-_In light of the mod support update, we'll be moving to [mod.io](https://drg.mod.io/). This repository will be archived soon after the update goes live._
+Thanks to everyone for contributing to this repository! Since mod support has finally landed, we're going to be using [mod.io](https://drg.mod.io/) instead. This repo will be kept archived; old mods can still be downloaded if necessary.
+
+# Deep Rock Galactic Mods
 
 The complete mod repository for the DRG Modding discord server.
 
